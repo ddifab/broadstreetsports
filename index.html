@@ -1,0 +1,3012 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Broad Street Sports – Philadelphia's Home for Scores & News</title>
+<meta name="description" content="Broad Street Sports — Philadelphia Eagles, Phillies, Sixers, and Flyers scores, news, and coverage. Built for Philly fans, by Philly fans.">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700;800;900&display=swap');
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+:root{
+  --bg:#060606;--surface:#0f0f0f;--surface2:#161616;--surface3:#1e1e1e;
+  --border:#1f1f1f;--border2:#2a2a2a;--border3:#383838;
+  --text:#f2f2f2;--muted:#5a5a5a;--muted2:#888;--dim:#2a2a2a;
+  --green:#3dba5e;--green-dim:#0a1f12;--red:#e04444;
+  --gold:#c8a84b;--gold-bright:#e8c46a;--gold-dim:#1a1508;--gold-glow:#e8c46a44;
+  --phillies:#cc2222;--phillies-light:#e05555;
+  --eagles:#004C54;--eagles-light:#3dba5e;
+  --sixers:#003DB5;--sixers-light:#6699e0;
+  --flyers:#cf6a00;--flyers-light:#e09040;
+}
+body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;overflow-x:hidden;}
+
+/* ── TICKER ── */
+.ticker-wrap{background:#000;border-bottom:1px solid var(--border);height:32px;overflow:hidden;display:flex;align-items:center;}
+.ticker-label{background:var(--gold);color:#000;font-size:9px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;padding:0 12px;height:100%;display:flex;align-items:center;white-space:nowrap;flex-shrink:0;font-family:'Bebas Neue','Inter',sans-serif;font-size:11px;}
+.ticker-track{display:flex;animation:ticker 40s linear infinite;white-space:nowrap;}
+.ticker-track:hover{animation-play-state:paused;}
+.ticker-item{display:inline-flex;align-items:center;gap:8px;padding:0 28px;font-size:11px;font-weight:600;color:var(--muted2);border-right:1px solid var(--border);}
+.ticker-item .t-team{color:var(--gold-bright);font-weight:800;}
+.ticker-item .t-score{color:var(--text);font-weight:700;}
+.ticker-item .t-status{color:var(--muted);font-size:10px;}
+@keyframes ticker{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
+
+/* ── HEADER ── */
+header{background:var(--surface);border-bottom:1px solid var(--border);position:sticky;top:0;z-index:20;}
+.header-main{padding:0 24px;height:58px;display:flex;align-items:center;justify-content:space-between;}
+.logo-wrap{display:flex;align-items:center;gap:10px;}
+.logo-emblem{flex-shrink:0;}
+.logo-main{font-family:'Bebas Neue','Impact',sans-serif;font-size:32px;letter-spacing:2px;background:linear-gradient(135deg,#e8c46a 0%,#c8a84b 50%,#f0d070 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;line-height:1;}
+.logo-divider{width:1px;height:20px;background:var(--border2);}
+.logo-sub{font-size:10px;font-weight:700;color:var(--muted);letter-spacing:.18em;text-transform:uppercase;}
+.header-right{display:flex;align-items:center;gap:16px;}
+.live-badge{display:flex;align-items:center;gap:6px;font-size:10px;font-weight:700;color:var(--muted2);letter-spacing:.1em;text-transform:uppercase;border:1px solid var(--border2);padding:4px 10px;border-radius:4px;}
+.live-dot{width:6px;height:6px;border-radius:50%;background:var(--green);box-shadow:0 0 8px var(--green);animation:glow 2s infinite;}
+@keyframes glow{0%,100%{box-shadow:0 0 8px var(--green)}50%{box-shadow:0 0 2px var(--green)}}
+.header-tagline{font-size:10px;color:var(--muted);letter-spacing:.06em;font-style:italic;display:none;}
+@media(min-width:900px){.header-tagline{display:block;}}
+
+/* ── HERO BANNER ── */
+.hero-banner{background:var(--surface);border-bottom:1px solid var(--border);padding:32px 24px 0;position:relative;overflow:hidden;}
+.hero-banner::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,var(--phillies) 0%,var(--sixers) 25%,var(--eagles) 50%,var(--flyers) 75%,var(--phillies) 100%);}
+.hero-banner-inner{max-width:1100px;margin:0 auto;display:flex;align-items:flex-end;justify-content:space-between;gap:0;position:relative;z-index:1;}
+.hero-left{padding-bottom:28px;flex-shrink:0;max-width:420px;}
+.hero-left h1{font-family:'Bebas Neue','Impact',sans-serif;font-size:52px;letter-spacing:3px;line-height:.95;color:var(--text);margin-bottom:10px;text-shadow:0 2px 20px rgba(0,0,0,.8);}
+.hero-left h1 span{background:linear-gradient(135deg,#e8c46a,#c8a84b);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;}
+.hero-tagline{font-size:11px;font-weight:600;color:var(--muted2);letter-spacing:.1em;text-transform:uppercase;margin-bottom:16px;}
+.hero-tagline strong{color:var(--gold-bright);font-weight:700;}
+.hero-stats-row{display:flex;gap:12px;}
+.hero-stat{text-align:center;background:rgba(0,0,0,.5);padding:9px 18px;border-radius:6px;border:1px solid var(--border2);backdrop-filter:blur(4px);}
+.hero-stat-num{font-family:'Bebas Neue',sans-serif;font-size:28px;color:var(--gold-bright);letter-spacing:1px;line-height:1;}
+.hero-stat-label{font-size:9px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.1em;margin-top:2px;}
+
+/* Skyline image */
+.hero-skyline-wrap{flex:1;display:flex;align-items:flex-end;justify-content:flex-end;position:relative;min-height:200px;margin-left:20px;}
+.hero-skyline-wrap::before{content:'';position:absolute;left:0;top:0;bottom:0;width:180px;background:linear-gradient(90deg,var(--surface),transparent);z-index:1;pointer-events:none;}
+.hero-skyline-wrap::after{content:'';position:absolute;top:0;left:0;right:0;height:60px;background:linear-gradient(180deg,var(--surface),transparent);z-index:1;pointer-events:none;}
+.hero-skyline-img{width:100%;max-width:700px;height:220px;object-fit:cover;object-position:center top;display:block;opacity:.55;mask-image:linear-gradient(90deg,transparent 0%,black 15%,black 100%);-webkit-mask-image:linear-gradient(90deg,transparent 0%,black 15%,black 100%);}
+
+/* ── NAV ── */
+.nav-wrap{background:var(--surface);border-bottom:1px solid var(--border);position:sticky;top:58px;z-index:19;}
+.tab-row{display:flex;align-items:center;padding:0 16px;overflow-x:auto;scrollbar-width:none;}
+.tab-row::-webkit-scrollbar{display:none;}
+.row-label{font-size:9px;font-weight:800;color:var(--dim);letter-spacing:.14em;text-transform:uppercase;padding:0 12px 0 4px;white-space:nowrap;border-right:1px solid var(--border);margin-right:4px;height:40px;display:flex;align-items:center;}
+.nav-tab{padding:10px 16px;font-size:10px;font-weight:800;color:var(--muted);background:none;border:none;border-bottom:2px solid transparent;cursor:pointer;white-space:nowrap;transition:all .15s;letter-spacing:.1em;text-transform:uppercase;display:flex;align-items:center;gap:7px;}
+.nav-tab:hover{color:var(--text);}
+.nav-tab.active{color:var(--gold-bright);border-bottom-color:var(--gold);}
+
+/* ── TEAM BUTTONS ── */
+.team-btn-row{display:flex;align-items:center;gap:8px;padding:10px 16px;border-top:1px solid var(--border);overflow-x:auto;scrollbar-width:none;background:var(--surface);}
+.team-btn-row::-webkit-scrollbar{display:none;}
+.team-btn{display:flex;align-items:center;gap:7px;padding:7px 14px;border-radius:6px;border:1px solid var(--border2);background:var(--surface2);color:var(--muted);font-size:11px;font-weight:700;cursor:pointer;white-space:nowrap;transition:all .18s;letter-spacing:.04em;text-transform:uppercase;}
+.team-btn:hover{border-color:var(--border3);color:var(--text);background:var(--surface3);}
+.team-btn img{width:22px;height:22px;object-fit:contain;}
+.team-btn-label{font-size:11px;font-weight:700;}
+
+/* Active states with team colors */
+.team-btn.active{color:var(--text);border-color:var(--gold);background:var(--gold-dim);}
+.team-btn.phillies-btn.active{border-color:var(--phillies);background:#1c0606;color:#e05555;}
+.team-btn.phillies-btn:hover{border-color:var(--phillies);color:#e05555;}
+.team-btn.eagles-btn.active{border-color:var(--eagles);background:#021215;color:var(--eagles-light);}
+.team-btn.eagles-btn:hover{border-color:var(--eagles);color:var(--eagles-light);}
+.team-btn.sixers-btn.active{border-color:var(--sixers);background:#010820;color:var(--sixers-light);}
+.team-btn.sixers-btn:hover{border-color:var(--sixers);color:var(--sixers-light);}
+.team-btn.flyers-btn.active{border-color:var(--flyers);background:#160900;color:var(--flyers-light);}
+.team-btn.flyers-btn:hover{border-color:var(--flyers);color:var(--flyers-light);}
+
+/* ── PAGE ── */
+.page{max-width:1100px;margin:0 auto;padding:24px 16px;display:grid;grid-template-columns:320px 1fr;gap:24px;}
+@media(max-width:780px){.page{grid-template-columns:1fr;}.scores-col{display:none!important;}}
+
+/* ── SECTION LABELS ── */
+.sec-label{font-size:9px;font-weight:800;color:var(--muted);text-transform:uppercase;letter-spacing:.16em;margin:0 0 12px;display:flex;align-items:center;gap:10px;}
+.sec-label::after{content:'';flex:1;height:1px;background:var(--border);}
+.sec-label.gold{color:var(--gold);}
+.sec-label.gold::after{background:var(--gold-dim);}
+
+/* ── HERO SCORE CARD ── */
+.hero-card{border-radius:12px;padding:18px 18px 14px;margin-bottom:10px;position:relative;overflow:hidden;border:1px solid transparent;}
+.hero-card.phillies-hero{background:linear-gradient(160deg,#1c0808 0%,#120404 100%);border-color:#3a1010;}
+.hero-card.eagles-hero{background:linear-gradient(160deg,#021518 0%,#010e10 100%);border-color:#0a2d32;}
+.hero-card.sixers-hero{background:linear-gradient(160deg,#010a28 0%,#010620 100%);border-color:#0a1a4a;}
+.hero-card.flyers-hero{background:linear-gradient(160deg,#180b00 0%,#100700 100%);border-color:#3d2000;}
+.hero-card::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;}
+.hero-card.phillies-hero::before{background:linear-gradient(90deg,var(--phillies),transparent);}
+.hero-card.eagles-hero::before{background:linear-gradient(90deg,var(--eagles),transparent);}
+.hero-card.sixers-hero::before{background:linear-gradient(90deg,var(--sixers),transparent);}
+.hero-card.flyers-hero::before{background:linear-gradient(90deg,var(--flyers),transparent);}
+.hero-watermark{position:absolute;right:-8px;top:50%;transform:translateY(-50%);width:110px;height:110px;object-fit:contain;opacity:.08;pointer-events:none;}
+.hero-badge{display:inline-flex;align-items:center;gap:5px;font-size:9px;font-weight:800;text-transform:uppercase;letter-spacing:.12em;margin-bottom:14px;}
+.hero-badge.phillies{color:var(--phillies-light);}
+.hero-badge.eagles{color:var(--eagles-light);}
+.hero-badge.sixers{color:var(--sixers-light);}
+.hero-badge.flyers{color:var(--flyers-light);}
+.hero-badge::before{content:'▶';font-size:6px;}
+.hero-matchup{display:grid;grid-template-columns:1fr 80px 1fr;align-items:center;gap:8px;position:relative;z-index:1;}
+.hero-team{display:flex;flex-direction:column;align-items:center;gap:7px;}
+.hero-logo{width:50px;height:50px;object-fit:contain;filter:drop-shadow(0 2px 10px rgba(0,0,0,.7));}
+.hero-abbr{font-size:15px;font-weight:800;color:var(--text);letter-spacing:.04em;}
+.hero-abbr.philly{color:var(--green);}
+.hero-center{display:flex;flex-direction:column;align-items:center;gap:4px;}
+.hero-vs{font-size:9px;font-weight:800;color:var(--muted);letter-spacing:.1em;}
+.hero-time{font-size:14px;font-weight:800;color:var(--gold-bright);font-family:'Bebas Neue',sans-serif;letter-spacing:1px;}
+.hero-date{font-size:9px;color:var(--muted);letter-spacing:.06em;}
+
+/* ── SCORE CARDS ── */
+.score-card{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:12px 15px 12px 19px;margin-bottom:7px;cursor:pointer;transition:all .15s;position:relative;overflow:hidden;}
+.score-card:hover{border-color:var(--border2);background:var(--surface2);}
+.score-card.selected{border-color:var(--gold);background:var(--gold-dim);}
+.side-bar{position:absolute;left:0;top:0;bottom:0;width:3px;border-radius:10px 0 0 10px;}
+.side-bar.win{background:var(--green);}
+.side-bar.loss{background:var(--red);}
+.side-bar.neutral{background:var(--border2);}
+.card-meta{display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;}
+.league-tag{font-size:9px;font-weight:800;color:var(--muted);text-transform:uppercase;letter-spacing:.1em;}
+.status-pill{font-size:9px;font-weight:800;padding:2px 8px;border-radius:3px;letter-spacing:.04em;}
+.pill-final{background:var(--surface3);color:var(--muted);}
+.pill-upcoming{background:var(--green-dim);color:var(--green);}
+.matchup{display:grid;grid-template-columns:1fr 90px 1fr;align-items:center;gap:8px;}
+.team-side{display:flex;align-items:center;gap:9px;}
+.team-side.away{flex-direction:row-reverse;}
+.team-logo{width:32px;height:32px;object-fit:contain;}
+.team-abbr{font-size:13px;font-weight:800;color:var(--text);letter-spacing:.02em;}
+.team-abbr.philly{color:var(--green);}
+.team-side.away .team-info{align-items:flex-end;}
+.team-info{display:flex;flex-direction:column;}
+.score-center{display:flex;flex-direction:column;align-items:center;}
+.scores{display:flex;align-items:center;gap:8px;}
+.score-num{font-size:24px;font-weight:900;color:var(--text);min-width:26px;text-align:center;line-height:1;font-family:'Bebas Neue',sans-serif;letter-spacing:1px;}
+.score-num.dim{color:var(--dim);}
+.score-sep{font-size:12px;color:var(--border3);}
+.expand-panel{border-top:1px solid var(--border);margin-top:10px;padding-top:9px;}
+.expand-row{display:flex;justify-content:space-between;font-size:11px;padding:2px 0;}
+.expand-row .lbl{color:var(--muted);}
+.expand-row .val{color:var(--text);font-weight:600;}
+.win-val{color:var(--green);}.loss-val{color:var(--red);}
+
+/* ── OFF-SEASON ── */
+.off-card{background:var(--surface);border:1px solid var(--border);border-radius:9px;padding:11px 13px;margin-bottom:6px;display:flex;align-items:center;justify-content:space-between;opacity:.6;}
+.off-left{display:flex;align-items:center;gap:9px;}
+.off-logo{width:26px;height:26px;object-fit:contain;}
+.off-name{font-size:12px;font-weight:800;color:var(--text);letter-spacing:.02em;}
+.off-note{font-size:10px;color:var(--muted);margin-top:1px;}
+.off-next{font-size:10px;color:var(--muted);text-align:right;line-height:1.6;}
+
+/* ── SCORES SIDEBAR HEADER ── */
+.scores-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px;}
+.scores-header-label{font-family:'Bebas Neue',sans-serif;font-size:18px;letter-spacing:2px;color:var(--text);}
+.scores-header-date{font-size:9px;color:var(--muted);letter-spacing:.08em;text-transform:uppercase;}
+
+/* ── NEWS ── */
+.news-col{min-width:0;}
+.news-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:16px;}
+.news-header-label{font-family:'Bebas Neue',sans-serif;font-size:22px;letter-spacing:3px;color:var(--text);}
+.news-header-sub{font-size:10px;color:var(--muted);letter-spacing:.08em;text-transform:uppercase;}
+
+/* ── SOURCE BAR ── */
+.source-bar{display:flex;gap:6px;margin-bottom:14px;flex-wrap:wrap;}
+.source-pill{font-size:9px;font-weight:800;padding:3px 10px;border-radius:3px;border:1px solid var(--border2);color:var(--muted);cursor:pointer;transition:all .15s;background:transparent;letter-spacing:.06em;text-transform:uppercase;}
+.source-pill:hover{border-color:var(--gold);color:var(--gold);}
+.source-pill.active{background:var(--gold);color:#000;border-color:var(--gold);}
+
+/* ── STATS BAR ── */
+.stats-bar{display:flex;gap:8px;margin-bottom:14px;flex-wrap:wrap;}
+.stat-pill{background:var(--surface);border:1px solid var(--border);border-radius:5px;padding:6px 11px;font-size:11px;color:var(--muted2);}
+.stat-pill strong{color:var(--text);font-weight:800;}
+
+/* ── TRENDING CARD ── */
+.trending-card{border-radius:12px;overflow:hidden;margin-bottom:14px;border:1px solid var(--border2);cursor:pointer;transition:border-color .15s;text-decoration:none;display:block;}
+.trending-card:hover{border-color:var(--gold);}
+.trending-img{width:100%;height:195px;object-fit:cover;display:block;background:var(--surface2);}
+.trending-img-ph{width:100%;height:195px;display:flex;align-items:center;justify-content:center;font-size:60px;background:var(--surface2);}
+.trending-overlay{padding:13px 15px 15px;background:var(--surface);}
+.trending-kicker{display:flex;align-items:center;gap:8px;margin-bottom:7px;}
+.trending-source{font-size:9px;font-weight:800;text-transform:uppercase;letter-spacing:.1em;}
+.trending-dot{width:3px;height:3px;border-radius:50%;background:var(--border3);}
+.trending-time{font-size:9px;color:var(--muted);letter-spacing:.04em;}
+.trending-headline{font-size:15px;font-weight:800;color:var(--text);line-height:1.3;margin-bottom:7px;letter-spacing:-.1px;}
+.trending-blurb{font-size:12px;color:var(--muted2);line-height:1.55;margin-bottom:10px;}
+.trending-footer{display:flex;align-items:center;justify-content:space-between;}
+.read-more{font-size:10px;font-weight:700;color:var(--gold-bright);text-transform:uppercase;letter-spacing:.08em;}
+.fb-btn{display:inline-flex;align-items:center;gap:5px;padding:5px 11px;background:#1877f2;color:#fff;border:none;border-radius:4px;font-size:10px;font-weight:700;cursor:pointer;letter-spacing:.04em;}
+.fb-btn:hover{background:#1560c9;}
+
+/* ── NEWS GRID ── */
+.news-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:14px;}
+@media(max-width:500px){.news-grid{grid-template-columns:1fr;}}
+.news-card{background:var(--surface);border:1px solid var(--border);border-radius:10px;overflow:hidden;cursor:pointer;transition:border-color .15s;text-decoration:none;display:block;}
+.news-card:hover{border-color:var(--border2);}
+.nc-img{width:100%;height:95px;object-fit:cover;display:block;background:var(--surface2);}
+.nc-img-ph{width:100%;height:95px;display:flex;align-items:center;justify-content:center;font-size:28px;background:var(--surface2);}
+.nc-body{padding:9px 11px 10px;}
+.nc-kicker{display:flex;align-items:center;gap:6px;margin-bottom:4px;}
+.nc-source{font-size:9px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;}
+.nc-time{font-size:9px;color:var(--muted);}
+.nc-headline{font-size:12px;font-weight:700;color:var(--text);line-height:1.35;}
+
+/* ── NEWS LIST ── */
+.news-list{display:flex;flex-direction:column;}
+.nl-item{display:flex;gap:11px;align-items:flex-start;padding:10px 0;border-bottom:1px solid var(--border);text-decoration:none;cursor:pointer;transition:opacity .15s;}
+.nl-item:hover{opacity:.8;}
+.nl-item:last-child{border-bottom:none;}
+.nl-thumb{width:66px;height:50px;border-radius:6px;object-fit:cover;flex-shrink:0;background:var(--surface2);display:flex;align-items:center;justify-content:center;font-size:18px;overflow:hidden;}
+.nl-thumb img{width:66px;height:50px;border-radius:6px;object-fit:cover;}
+.nl-kicker{display:flex;align-items:center;gap:6px;margin-bottom:3px;}
+.nl-source{font-size:9px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;}
+.nl-time{font-size:9px;color:var(--muted);}
+.nl-headline{font-size:12px;font-weight:600;color:var(--text);line-height:1.35;}
+
+/* ── LOAD MORE ── */
+.load-more-btn{width:100%;padding:11px;background:transparent;border:1px solid var(--border2);border-radius:6px;color:var(--muted2);font-size:10px;font-weight:800;cursor:pointer;margin-top:10px;letter-spacing:.1em;text-transform:uppercase;transition:all .15s;}
+.load-more-btn:hover{border-color:var(--gold);color:var(--gold);}
+
+/* ── FOOTER ── */
+footer{background:var(--surface);border-top:1px solid var(--border);padding:28px 24px;margin-top:48px;}
+.footer-inner{max-width:1100px;margin:0 auto;display:flex;align-items:flex-start;justify-content:space-between;gap:24px;flex-wrap:wrap;}
+.footer-brand .f-logo{font-family:'Bebas Neue',sans-serif;font-size:26px;letter-spacing:2px;background:linear-gradient(135deg,#e8c46a,#c8a84b);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;margin-bottom:4px;}
+.footer-brand p{font-size:11px;color:var(--muted);line-height:1.6;max-width:260px;}
+.footer-links{display:flex;flex-direction:column;gap:6px;}
+.footer-links a{font-size:11px;color:var(--muted);text-decoration:none;font-weight:500;transition:color .15s;}
+.footer-links a:hover{color:var(--gold-bright);}
+.footer-bottom{max-width:1100px;margin:20px auto 0;padding-top:16px;border-top:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;}
+.footer-bottom p{font-size:10px;color:var(--muted);letter-spacing:.04em;}
+.footer-teams{display:flex;gap:10px;}
+.footer-teams img{width:20px;height:20px;object-fit:contain;opacity:.4;transition:opacity .15s;}
+.footer-teams img:hover{opacity:1;}
+
+/* ── TAG COLORS ── */
+.tag-phillies{color:var(--phillies-light);}
+.tag-eagles{color:var(--eagles-light);}
+.tag-sixers{color:var(--sixers-light);}
+.tag-flyers{color:var(--flyers-light);}
+.tag-general{color:var(--gold);}
+
+/* ── SKELETON ── */
+.skel{background:var(--surface2);border-radius:8px;animation:shimmer 1.5s infinite;}
+@keyframes shimmer{0%,100%{opacity:.4}50%{opacity:.8}}
+</style>
+</head>
+<body>
+
+<!-- SCORE TICKER -->
+<div class="ticker-wrap">
+  <div class="ticker-label">Broad St</div>
+  <div style="overflow:hidden;flex:1;">
+    <div class="ticker-track" id="ticker">
+      <span class="ticker-item"><span class="t-team">PHI</span><span class="t-score">8 – 6</span><span>CWS</span><span class="t-status">Final · Jun 5</span></span>
+      <span class="ticker-item"><span class="t-team">PHI</span><span class="t-score">3 – 6</span><span>CWS</span><span class="t-status">Final · Jun 6</span></span>
+      <span class="ticker-item"><span class="t-team">PHI</span><span class="t-score">6 – 4</span><span>SD</span><span class="t-status">Final · Jun 4</span></span>
+      <span class="ticker-item"><span class="t-team">PHI</span>vs<span>CWS</span><span class="t-status">Today · 1:35 PM</span></span>
+      <span class="ticker-item"><span class="t-team">PHI</span>vs<span>TOR</span><span class="t-status">Mon · 7:07 PM</span></span>
+      <span class="ticker-item">🦅 <span class="t-team">Eagles</span> Minicamp · Jun 9–10</span>
+      <span class="ticker-item">🏀 <span class="t-team">Sixers</span> Front Office Search · 2 Finalists</span>
+      <span class="ticker-item">🏒 <span class="t-team">Flyers</span> NHL Draft · Pick No. 21</span>
+      <span class="ticker-item">⭐ <span class="t-team">MLB All-Star</span> at Citizens Bank Park · July</span>
+      <span class="ticker-item">🌍 <span class="t-team">World Cup</span> at Lincoln Financial · June 14</span>
+      <!-- duplicate for seamless loop -->
+      <span class="ticker-item"><span class="t-team">PHI</span><span class="t-score">8 – 6</span><span>CWS</span><span class="t-status">Final · Jun 5</span></span>
+      <span class="ticker-item"><span class="t-team">PHI</span><span class="t-score">3 – 6</span><span>CWS</span><span class="t-status">Final · Jun 6</span></span>
+      <span class="ticker-item"><span class="t-team">PHI</span><span class="t-score">6 – 4</span><span>SD</span><span class="t-status">Final · Jun 4</span></span>
+      <span class="ticker-item"><span class="t-team">PHI</span>vs<span>CWS</span><span class="t-status">Today · 1:35 PM</span></span>
+      <span class="ticker-item"><span class="t-team">PHI</span>vs<span>TOR</span><span class="t-status">Mon · 7:07 PM</span></span>
+      <span class="ticker-item">🦅 <span class="t-team">Eagles</span> Minicamp · Jun 9–10</span>
+      <span class="ticker-item">🏀 <span class="t-team">Sixers</span> Front Office Search · 2 Finalists</span>
+      <span class="ticker-item">🏒 <span class="t-team">Flyers</span> NHL Draft · Pick No. 21</span>
+      <span class="ticker-item">⭐ <span class="t-team">MLB All-Star</span> at Citizens Bank Park · July</span>
+      <span class="ticker-item">🌍 <span class="t-team">World Cup</span> at Lincoln Financial · June 14</span>
+    </div>
+  </div>
+</div>
+
+<header>
+  <div class="header-main">
+    <div class="logo-wrap">
+      <div>
+        <div class="logo-main">Broad St</div>
+        <div class="logo-sub">Philadelphia Sports</div>
+      </div>
+    </div>
+    <div class="header-right">
+      <span class="header-tagline">The home of <strong style="color:var(--gold-bright)">Philly sports</strong></span>
+      <div class="live-badge"><div class="live-dot"></div>Live</div>
+    </div>
+  </div>
+</header>
+
+<!-- HERO BANNER -->
+<div class="hero-banner">
+  <div class="hero-banner-inner">
+    <div class="hero-left">
+      <h1>Every Game.<br><span>Every Story.</span><br>One City.</h1>
+      <div class="hero-tagline">Philadelphia Eagles · Phillies · <strong>76ers</strong> · Flyers</div>
+    </div>
+    <div class="hero-right">
+      <div class="hero-stat">
+        <div class="hero-stat-num">4</div>
+        <div class="hero-stat-label">Teams</div>
+      </div>
+
+      <div class="hero-stat">
+        <div class="hero-stat-num">215</div>
+        <div class="hero-stat-label">Forever</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="nav-wrap">
+  <div class="tab-row views">
+    <span class="row-label">View</span>
+    <button class="nav-tab active" onclick="setView('all',this)">All</button>
+    <button class="nav-tab" onclick="setView('scores',this)">Scores</button>
+    <button class="nav-tab" onclick="setView('news',this)">News</button>
+  </div>
+  <div class="team-btn-row">
+    <button class="team-btn active" onclick="setTeam('all',this)">
+      <span class="team-btn-label">All Teams</span>
+    </button>
+    <button class="team-btn phillies-btn" onclick="setTeam('phillies',this)">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/phi.png&h=40&w=40" alt="Phillies">
+      <span class="team-btn-label">Phillies</span>
+    </button>
+    <button class="team-btn eagles-btn" onclick="setTeam('eagles',this)">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/phi.png&h=40&w=40" alt="Eagles">
+      <span class="team-btn-label">Eagles</span>
+    </button>
+    <button class="team-btn sixers-btn" onclick="setTeam('sixers',this)">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phi.png&h=40&w=40" alt="Sixers">
+      <span class="team-btn-label">Sixers</span>
+    </button>
+    <button class="team-btn flyers-btn" onclick="setTeam('flyers',this)">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/phi.png&h=40&w=40" alt="Flyers">
+      <span class="team-btn-label">Flyers</span>
+    </button>
+  </div>
+</div>
+
+<div class="page">
+  <div class="scores-col" id="scores-col"></div>
+  <div class="news-col" id="news-col">
+    <div style="display:flex;flex-direction:column;gap:12px;padding-top:4px;">
+      <div class="skel" style="height:200px;border-radius:16px;"></div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;">
+        <div class="skel" style="height:160px;"></div>
+        <div class="skel" style="height:160px;"></div>
+        <div class="skel" style="height:160px;"></div>
+        <div class="skel" style="height:160px;"></div>
+      </div>
+      <div class="skel" style="height:60px;"></div>
+      <div class="skel" style="height:60px;"></div>
+      <div class="skel" style="height:60px;"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+const L={
+  PHI_phillies:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/phi.png&h=80&w=80',
+  PHI_eagles:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/phi.png&h=80&w=80',
+  PHI_sixers:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phi.png&h=80&w=80',
+  PHI_flyers:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/phi.png&h=80&w=80',
+  BAL:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/bal.png&h=80&w=80',
+  NE:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ne.png&h=80&w=80',
+  WAS:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/wsh.png&h=80&w=80',
+  SF:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/sf.png&h=80&w=80',
+  BUF:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/buf.png&h=80&w=80',
+  NYK:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ny.png&h=80&w=80',
+  BOS:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/bos.png&h=80&w=80',
+  CWS:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/cws.png&h=80&w=80',
+  SD:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sd.png&h=80&w=80',
+  TOR:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tor.png&h=80&w=80',
+  MIL:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/mil.png&h=80&w=80',
+  CAR:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/car.png&h=80&w=80',
+  PIT:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/pit.png&h=80&w=80',
+};
+
+const TEAMS={
+  phillies:{league:'MLB',active:true,phillyLogo:L.PHI_phillies,
+    recent:[
+      {date:'Jun 6',home:'PHI',away:'CWS',scores:{PHI:3,CWS:6}},
+      {date:'Jun 5',home:'PHI',away:'CWS',scores:{PHI:8,CWS:6}},
+      {date:'Jun 4',home:'PHI',away:'SD',scores:{PHI:6,SD:4}},
+    ],
+    upcoming:[
+      {date:'Jun 7',time:'1:35 PM',home:'PHI',away:'CWS'},
+      {date:'Jun 8',time:'7:07 PM',home:'TOR',away:'PHI'},
+      {date:'Jun 9',time:'7:07 PM',home:'TOR',away:'PHI'},
+      {date:'Jun 10',time:'7:07 PM',home:'TOR',away:'PHI'},
+      {date:'Jun 12',time:'7:40 PM',home:'MIL',away:'PHI'},
+    ]},
+  sixers:{league:'NBA',active:false,note:'Off-season · Eliminated R2 by NYK (0–4)',phillyLogo:L.PHI_sixers,
+    recent:[
+      {date:'May 10',label:'R2 G4',home:'PHI',away:'NYK',scores:{PHI:114,NYK:144}},
+      {date:'May 2',label:'R1 G7',home:'BOS',away:'PHI',scores:{PHI:109,BOS:100}},
+    ],upcoming:[]},
+  flyers:{league:'NHL',active:false,note:'Off-season · Eliminated R2 by CAR (0–4)',phillyLogo:L.PHI_flyers,
+    recent:[
+      {date:'May 9',label:'R2 G4',home:'PHI',away:'CAR',scores:{PHI:2,CAR:3}},
+      {date:'Apr 29',label:'R1 G6',home:'PHI',away:'PIT',scores:{PHI:1,PIT:0}},
+    ],upcoming:[]},
+  eagles:{league:'NFL',active:false,note:'Off-season · Preseason starts Aug 15',phillyLogo:L.PHI_eagles,
+    recent:[
+      {date:'Jan 11',label:'Wild Card',home:'PHI',away:'SF',scores:{PHI:19,SF:23}},
+      {date:'Dec 28',home:'BUF',away:'PHI',scores:{PHI:13,BUF:12}},
+    ],
+    upcoming:[
+      {date:'Aug 15',time:'7:00 PM',home:'BAL',away:'PHI'},
+      {date:'Sep 13',time:'4:25 PM',home:'PHI',away:'WAS'},
+    ]},
+};
+
+// ── BAKED-IN NEWS — always loads instantly, sourced from real current Philly sports stories ──
+const BAKED_NEWS = [
+  // PHILLIES
+  {team:'phillies',source:'Philadelphia Inquirer',pubDate:'2026-06-04T20:00:00Z',
+   title:"Sánchez's historic 50⅔-inning scoreless streak ends — Philly gives him a standing ovation",
+   description:"Cristopher Sánchez finally surrendered a run against the Padres, snapping the longest scoreless streak in Phillies history. The 5th-longest in MLB history since 1893. Fans gave him a standing ovation for giving up a run. Only in Philly.",
+   link:'https://www.inquirer.com/phillies/cristopher-sanchez-mlb-record-scoreless-innings-lefty-pitcher-carl-hubbell-20260603.html',
+   thumbnail:null},
+  {team:'phillies',source:'MLB.com',pubDate:'2026-06-03T18:00:00Z',
+   title:'All-Star Game voting opens — which Phillies deserve a trip to Citizens Bank Park?',
+   description:"The 2026 MLB All-Star Game comes to Citizens Bank Park this July. Voting is open now. Sánchez, Harper, and Schwarber are the frontrunners. Philly fans need to show up for the ballot.",
+   link:'https://www.mlb.com/phillies',thumbnail:null},
+  {team:'phillies',source:'Phillies Nation',pubDate:'2026-06-05T14:00:00Z',
+   title:"Phillies rally past White Sox for 4th straight win — bats are waking up",
+   description:"Philadelphia is on a roll. Four straight wins heading into a Toronto road trip. The offense is finally clicking alongside the pitching staff. Red October vibes are building early.",
+   link:'https://philliesnation.com',thumbnail:null},
+  {team:'phillies',source:'NBC Sports Philadelphia',pubDate:'2026-06-04T16:00:00Z',
+   title:"Cristopher Sánchez signs 6-year $107M extension — Phillies lock up their ace",
+   description:"After proving he was severely underpaid on his previous deal, the Phillies rewarded Sánchez with a massive extension through 2032. The best pitcher in Phillies history just got paid like it.",
+   link:'https://www.nbcsportsphiladelphia.com',thumbnail:null},
+  {team:'phillies',source:'Phillies Nation',pubDate:'2026-06-02T12:00:00Z',
+   title:"Bryce Harper heating up — carrying the offense into June",
+   description:"Harper has been the engine of this Phillies lineup all season. With the All-Star Game coming to Citizens Bank Park, he's putting on a show for the home crowd.",
+   link:'https://philliesnation.com',thumbnail:null},
+  {team:'phillies',source:'PhillyVoice',pubDate:'2026-06-01T10:00:00Z',
+   title:"Phillies rotation depth is the best in the NL East — here's why",
+   description:"Sánchez, Wheeler, Nola, Luzardo. The Phillies have four legitimate aces. No other rotation in the division comes close. This team is built to make a deep October run.",
+   link:'https://phillyvoice.com/sports',thumbnail:null},
+
+  // EAGLES
+  {team:'eagles',source:'NBC Sports Philadelphia',pubDate:'2026-06-02T18:00:00Z',
+   title:"Eagles trade A.J. Brown to Patriots — DeVonta Smith steps up as WR1",
+   description:"After months of speculation the Eagles shipped A.J. Brown to New England. DeVonta Smith is the new number one receiver. Jordan Mailata sent a bold message about what Smith will accomplish.",
+   link:'https://www.nbcsportsphiladelphia.com',thumbnail:null},
+  {team:'eagles',source:'Bleeding Green Nation',pubDate:'2026-06-03T14:00:00Z',
+   title:"Eagles OTAs: First look at the new-look offense under coordinator Sean Mannion",
+   description:"A brand new offensive system is being installed at the NovaCare Complex. The early returns from OTAs are promising. Jalen Hurts looks comfortable in the new scheme.",
+   link:'https://www.bleedinggreennation.com',thumbnail:null},
+  {team:'eagles',source:'Eagles Wire',pubDate:'2026-06-01T16:00:00Z',
+   title:"Jordan Mailata sends Jalen Hurts warning to the rest of the NFL",
+   description:"The Eagles left tackle is fired up heading into 2026. Mailata publicly backed Hurts and sent a message to anyone doubting the Birds after the AJ Brown trade.",
+   link:'https://theeagleswire.usatoday.com',thumbnail:null},
+  {team:'eagles',source:'PhillyVoice',pubDate:'2026-05-30T10:00:00Z',
+   title:"Eagles mandatory minicamp June 9-10 — who are the key storylines to watch?",
+   description:"Mandatory minicamp is the last chance to see the Eagles before training camp in late July. The biggest questions: new WR1 role, new offensive system, and how the defense looks.",
+   link:'https://phillyvoice.com/sports',thumbnail:null},
+  {team:'eagles',source:'Bleeding Green Nation',pubDate:'2026-05-28T12:00:00Z',
+   title:"Howie Roseman defends AJ Brown trade — 'We got significant value back'",
+   description:"The Eagles GM went on record defending the blockbuster deal. Philadelphia received a first-round pick in return. Roseman says the future of the roster is brighter because of it.",
+   link:'https://www.bleedinggreennation.com',thumbnail:null},
+  {team:'eagles',source:'SportsTalk Philly',pubDate:'2026-05-25T14:00:00Z',
+   title:"Eagles 2026 schedule released — toughest stretch and key games to circle",
+   description:"The full schedule is out. Monday Night Football vs Chicago, Thanksgiving at Dallas, and a brutal four-game stretch in November. Here's what the Eagles are facing.",
+   link:'https://sportstalkphilly.com',thumbnail:null},
+
+  // SIXERS
+  {team:'sixers',source:'The Sporting News',pubDate:'2026-05-29T20:00:00Z',
+   title:"Sixers front office search narrows to two candidates after Morey firing",
+   description:"The search for a new President of Basketball Operations is heating up. Led by Bob Myers, the Sixers have identified their finalists. A decision could come any day now.",
+   link:'https://www.yardbarker.com/nba/teams/philadelphia_76ers',thumbnail:null},
+  {team:'sixers',source:'Liberty Ballers',pubDate:'2026-06-03T16:00:00Z',
+   title:"NBA Draft month is here — Sixers mock draft roundup and best available targets",
+   description:"The draft is coming and the Sixers have picks to work with. Liberty Ballers breaks down every realistic target and what Philadelphia needs most to build around Embiid and Maxey.",
+   link:'https://www.libertyballers.com',thumbnail:null},
+  {team:'sixers',source:'NBC Sports Philadelphia',pubDate:'2026-05-28T14:00:00Z',
+   title:"Bob Myers and Josh Harris hold press conference — what we learned about the Sixers' direction",
+   description:"The press conference raised more questions than it answered. Embiid at $58M, George at $54M, Maxey at $41M. The margin for error this offseason is razor thin.",
+   link:'https://www.nbcsportsphiladelphia.com',thumbnail:null},
+  {team:'sixers',source:'Yardbarker',pubDate:'2026-05-27T10:00:00Z',
+   title:"Opinion: Philly fans are losing faith in Sixers ownership — and rightfully so",
+   description:"The Morey firing isn't the whole story. A growing number of fans believe ownership doesn't have a real plan. With three massive contracts locked in, the rebuild window is tiny.",
+   link:'https://www.yardbarker.com/nba/teams/philadelphia_76ers',thumbnail:null},
+  {team:'sixers',source:'Liberty Ballers',pubDate:'2026-05-25T12:00:00Z',
+   title:"Sixers draft profile: Christian Anderson has big-time offensive talent",
+   description:"If the Sixers want to add a scoring punch off the bench this is their guy. Anderson has the tools to be an impact player from day one at the next level.",
+   link:'https://www.libertyballers.com',thumbnail:null},
+  {team:'sixers',source:'PhillyVoice',pubDate:'2026-05-22T14:00:00Z',
+   title:"VJ Edgecombe's rookie season was a bright spot in a brutal Sixers year",
+   description:"While the team struggled and the front office imploded, Edgecombe quietly had one of the best rookie seasons in recent Sixers history. The future has at least one bright light.",
+   link:'https://phillyvoice.com/sports',thumbnail:null},
+
+  // FLYERS
+  {team:'flyers',source:'Broad Street Hockey',pubDate:'2026-06-04T18:00:00Z',
+   title:"Flyers eyeing 6-foot-4 forward with 'goal-scoring hands' at No. 21 in the draft",
+   description:"The Flyers front office has zeroed in on a big skilled forward with the draft pick. Philadelphia needs size and scoring up front — this prospect checks both boxes.",
+   link:'https://www.broadstreethockey.com',thumbnail:null},
+  {team:'flyers',source:'Philly Sports Network',pubDate:'2026-06-05T10:00:00Z',
+   title:"Watching Carolina in the Cup Final stings — but the Flyers future is bright",
+   description:"The Hurricanes swept the Flyers in Round 2 and now they're playing for the Cup. It hurts. But Philadelphia pushed Pittsburgh to 6 games and showed real playoff character.",
+   link:'https://phillysportsnetwork.com',thumbnail:null},
+  {team:'flyers',source:'Broad Street Hockey',pubDate:'2026-05-20T14:00:00Z',
+   title:"Flyers 2026 draft strategy — building the forward corps of the future",
+   description:"With multiple picks and cap space coming, this is one of the most important drafts in recent Flyers history. Here's the full breakdown of Philadelphia's draft board.",
+   link:'https://www.broadstreethockey.com',thumbnail:null},
+  {team:'flyers',source:'NBC Sports Philadelphia',pubDate:'2026-05-15T12:00:00Z',
+   title:"Flyers announce passing of Forbes Kennedy — a piece of Broad Street history is gone",
+   description:"The Philadelphia Flyers organization mourned the loss of Forbes Kennedy, a forward from the team's early years. The Flyers family honors his legacy.",
+   link:'https://www.nbcsportsphiladelphia.com',thumbnail:null},
+
+  // GENERAL
+  {team:'general',source:'Metro Philadelphia',pubDate:'2026-06-01T10:00:00Z',
+   title:"Philadelphia is the center of the sports universe in 2026 — World Cup, MLB All-Star, and more",
+   description:"Lincoln Financial Field hosts World Cup matches in June and July. Citizens Bank Park gets the All-Star Game. It's the biggest sports summer in Philadelphia history.",
+   link:'https://www.metrophiladelphia.com',thumbnail:null},
+  {team:'general',source:'PhillyVoice',pubDate:'2026-05-18T14:00:00Z',
+   title:"Jimmy Rollins named manager for 2026 HBCU Swingman Classic — a Philly legend gives back",
+   description:"The Phillies Hall of Famer is headlining the classic as manager. Rollins has always been connected to the community and this is another example of his commitment to Philadelphia.",
+   link:'https://phillyvoice.com/sports',thumbnail:null},
+];
+
+// ── LIVE NEWS from news.json (updated every 6 hours by GitHub Actions) ──
+const EMOJI={phillies:'⚾',eagles:'🦅',sixers:'🏀',flyers:'🏒',general:'🏟'};
+
+let allArticles=[], displayedCount=0, activeSource='all';
+let view='all', team='all', sel=null;
+const BATCH=30;
+
+function detectTeam(title,desc){
+  const t=(title+' '+desc).toLowerCase();
+  if(/phillies|harper|nola|wheeler|sanchez|sánchez|rhys|realmuto|citizen.s bank|bryce|schwarber|stott/.test(t)) return 'phillies';
+  if(/eagles|hurts|sirianni|roseman|devonta|jalen|lincoln financial|nfc east|aj brown|a\.j\. brown|mailata/.test(t)) return 'eagles';
+  if(/sixers|76ers|embiid|maxey|george|morey|wells fargo|nba draft|paul george/.test(t)) return 'sixers';
+  if(/flyers|tortorella|nhl|stanley cup/.test(t)) return 'flyers';
+  return 'general';
+}
+
+function timeSince(d){
+  const date=new Date(d);
+  if(isNaN(date)) return '';
+  const m=Math.floor((Date.now()-date)/60000);
+  if(m<60) return m+'m ago';
+  if(m<1440) return Math.floor(m/60)+'h ago';
+  return Math.floor(m/1440)+'d ago';
+}
+
+function extractImg(item){
+  if(item.thumbnail&&item.thumbnail!=='self'&&item.thumbnail.startsWith('http')) return item.thumbnail;
+  if(item.enclosure&&item.enclosure.link&&item.enclosure.link.startsWith('http')) return item.enclosure.link;
+  return null;
+}
+
+function stripHtml(s){ return (s||'').replace(/<[^>]+>/g,'').replace(/&amp;/g,'&').replace(/&nbsp;/g,' ').trim(); }
+
+function mergeAndSort(existing, fresh){
+  const seen=new Set(existing.map(a=>a.title.slice(0,60).toLowerCase()));
+  const combined=[...existing];
+  fresh.forEach(a=>{
+    if(!a.title) return;
+    const key=a.title.slice(0,60).toLowerCase();
+    if(!seen.has(key)){ seen.add(key); combined.push(a); }
+  });
+  combined.sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate));
+  return combined;
+}
+
+async function loadAllFeeds(){
+  const nc=document.getElementById('news-col');
+
+  // Show baked news immediately
+  allArticles=[...BAKED_NEWS];
+  displayedCount=0;
+  renderNews();
+
+  // Fetch live news.json (compiled by GitHub Actions)
+  try{
+    const r=await fetch('./news.json?t='+Date.now());
+    const data=await r.json();
+    if(data.articles&&data.articles.length){
+      // Map team detection for general articles
+      const mapped=data.articles.map(a=>({
+        ...a,
+        team: a.team==='general' ? detectTeam(a.title,a.description||'') : a.team,
+      }));
+      allArticles=mergeAndSort(BAKED_NEWS, mapped);
+      displayedCount=0;
+      renderNews();
+      console.log(`Loaded ${data.articles.length} live articles. Updated: ${data.updated}`);
+    }
+  }catch(e){
+    console.log('news.json not available yet — showing baked news');
+  }
+
+  // Also try a couple live RSS feeds as bonus
+  const quickFeeds=[
+    {url:'https://sportstalkphilly.com/feed',label:'SportsTalk Philly',team:'general'},
+    {url:'https://philliesnation.com/feed',label:'Phillies Nation',team:'phillies'},
+    {url:'https://bleedinggreennation.com/rss/index.xml',label:'Bleeding Green Nation',team:'eagles'},
+    {url:'https://libertyballers.com/rss/index.xml',label:'Liberty Ballers',team:'sixers'},
+    {url:'https://broadstreethockey.com/rss/index.xml',label:'Broad Street Hockey',team:'flyers'},
+  ];
+  const PROXY='https://api.rss2json.com/v1/api.json?rss_url=';
+  for(const f of quickFeeds){
+    try{
+      const r=await fetch(PROXY+encodeURIComponent(f.url)+'&count=15',{signal:AbortSignal.timeout(5000)});
+      const d=await r.json();
+      if(d.status==='ok'&&d.items){
+        const fresh=d.items.map(item=>({
+          title:stripHtml(item.title||''),
+          description:stripHtml(item.description||'').slice(0,220),
+          link:item.link||'',pubDate:item.pubDate||'',
+          thumbnail:item.thumbnail||null,enclosure:item.enclosure||null,
+          team:f.team==='general'?detectTeam(item.title,item.description||''):f.team,
+          source:f.label,
+        }));
+        if(fresh.length){
+          allArticles=mergeAndSort(allArticles,fresh);
+          displayedCount=0;
+          renderNews();
+        }
+      }
+    }catch(e){}
+  }
+}
+
+function getFiltered(){
+  let arts=allArticles;
+  if(team!=='all') arts=arts.filter(a=>a.team===team||a.team==='general');
+  if(activeSource!=='all') arts=arts.filter(a=>a.source===activeSource);
+  return arts;
+}
+
+function fbUrl(title,link){
+  const site='https://ddifab.github.io/broadstreetsports';
+  const caption=`${title} — Full coverage at Broad Street Sports 👇 ${site}`;
+  return `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(link||site)}&quote=${encodeURIComponent(caption)}`;
+}
+
+function teamPlaceholder(team, type='trending'){
+  const colors={
+    phillies:{bg:'#1c0606',accent:'#cc2222',logo:L.PHI_phillies},
+    eagles:  {bg:'#021215',accent:'#004C54',logo:L.PHI_eagles},
+    sixers:  {bg:'#010820',accent:'#003DB5',logo:L.PHI_sixers},
+    flyers:  {bg:'#160900',accent:'#cf6a00',logo:L.PHI_flyers},
+    general: {bg:'#0f0f0f',accent:'#c8a84b',logo:null},
+  };
+  const c=colors[team]||colors.general;
+  const sizes={trending:'height:195px',grid:'height:95px',list:'width:66px;height:50px;border-radius:6px'};
+  const sz=sizes[type]||sizes.trending;
+  const logoSize=type==='trending'?52:type==='grid'?32:24;
+  const logoHtml=c.logo?`<img src="${c.logo}" style="width:${logoSize}px;height:${logoSize}px;object-fit:contain;opacity:.6" alt="">`:'';
+  return `<div style="width:100%;${sz};background:${c.bg};border-bottom:2px solid ${c.accent};display:flex;align-items:center;justify-content:center;flex-direction:column;gap:8px;flex-shrink:0;">
+    ${logoHtml}
+    <div style="font-size:9px;font-weight:800;color:${c.accent};text-transform:uppercase;letter-spacing:.12em;opacity:.7">${team==='general'?'Broad St':team}</div>
+  </div>`;
+}
+
+function renderNewsCol(){
+  if(view==='scores') return;
+  const filtered=getFiltered();
+  const nc=document.getElementById('news-col');
+  if(!filtered.length){
+    nc.innerHTML=`<div style="color:var(--muted);font-size:14px;padding:2rem 0;text-align:center">No stories found.</div>`;
+    return;
+  }
+  const toShow=filtered.slice(0,Math.max(displayedCount||BATCH,BATCH));
+  displayedCount=toShow.length;
+
+
+  const[top,...rest]=toShow;
+  const grid=rest.slice(0,4);
+  const list=rest.slice(4);
+  const topImg=extractImg(top);
+  const topTeam=top.team||'general';
+
+  const sources=['all',...new Set(filtered.map(a=>a.source).filter(Boolean))];
+  const sourcesHtml = view==='news' ? `<div class="source-bar">${sources.map(s=>`<button class="source-pill${activeSource===s?' active':''}" onclick="setSource('${s}')">${s==='all'?'All sources':s}</button>`).join('')}</div>` : '';
+
+  const counts={phillies:0,eagles:0,sixers:0,flyers:0};
+  filtered.forEach(a=>{if(counts[a.team]!==undefined) counts[a.team]++;});
+  const statsHtml=`<div class="stats-bar">
+    <div class="stat-pill"><strong>${filtered.length}</strong> stories</div>
+    <div class="stat-pill">⚾ <strong>${counts.phillies}</strong></div>
+    <div class="stat-pill">🦅 <strong>${counts.eagles}</strong></div>
+    <div class="stat-pill">🏀 <strong>${counts.sixers}</strong></div>
+    <div class="stat-pill">🏒 <strong>${counts.flyers}</strong></div>
+  </div>`;
+
+  let html=statsHtml+sourcesHtml;
+  html+=`<div class="sec-label gold">Trending now</div>`;
+  html+=`<a class="trending-card" href="${top.link||'#'}" target="_blank" rel="noopener">
+    ${topImg?`<img class="trending-img" src="${topImg}" alt="" onerror="this.outerHTML=teamPlaceholder('${topTeam}','trending')">`:`${teamPlaceholder(topTeam,'trending')}`}
+    <div class="trending-overlay">
+      <div class="trending-kicker">
+        <span class="trending-source tag-${topTeam}">${top.source}</span>
+        <span class="trending-dot"></span>
+        <span class="trending-time">${timeSince(top.pubDate)}</span>
+      </div>
+      <div class="trending-headline">${top.title}</div>
+      ${top.description?`<div class="trending-blurb">${top.description.slice(0,160)}...</div>`:''}
+      <div class="trending-footer">
+        <span class="read-more">Read story →</span>
+        <button class="fb-btn" onclick="event.preventDefault();window.open('${fbUrl(top.title,top.link)}','_blank')">
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="white"><path d="M24 12.07C24 5.41 18.63 0 12 0S0 5.41 0 12.07C0 18.1 4.39 23.1 10.13 24v-8.44H7.08v-3.49h3.04V9.41c0-3.02 1.8-4.7 4.54-4.7 1.31 0 2.68.24 2.68.24v2.97h-1.51c-1.49 0-1.95.93-1.95 1.88v2.27h3.32l-.53 3.49h-2.79V24C19.61 23.1 24 18.1 24 12.07z"/></svg>
+          Share
+        </button>
+      </div>
+    </div>
+  </a>`;
+
+  if(grid.length){
+    html+=`<div class="sec-label">Latest stories</div><div class="news-grid">`;
+    grid.forEach(a=>{
+      const img=extractImg(a),t=a.team||'general';
+      html+=`<a class="news-card" href="${a.link||'#'}" target="_blank" rel="noopener">
+        ${img?`<img class="nc-img" src="${img}" alt="" onerror="this.outerHTML=teamPlaceholder('${t}','grid')">`:`${teamPlaceholder(t,'grid')}`}
+        <div class="nc-body">
+          <div class="nc-kicker"><span class="nc-source tag-${t}">${a.source}</span><span class="nc-time">${timeSince(a.pubDate)}</span></div>
+          <div class="nc-headline">${a.title}</div>
+        </div>
+      </a>`;
+    });
+    html+=`</div>`;
+  }
+
+  if(list.length){
+    html+=`<div class="sec-label">More stories</div><div class="news-list">`;
+    list.forEach(a=>{
+      const img=extractImg(a),t=a.team||'general';
+      html+=`<a class="nl-item" href="${a.link||'#'}" target="_blank" rel="noopener">
+        <div class="nl-thumb" style="${img?'':'padding:0;overflow:hidden'}">${img?`<img src="${img}" style="width:66px;height:50px;object-fit:cover;border-radius:6px" alt="" onerror="this.outerHTML=teamPlaceholder('${t}','list')">`:`${teamPlaceholder(t,'list')}`}</div>
+        <div>
+          <div class="nl-kicker"><span class="nl-source tag-${t}">${a.source}</span><span class="nl-time">${timeSince(a.pubDate)}</span></div>
+          <div class="nl-headline">${a.title}</div>
+        </div>
+      </a>`;
+    });
+    html+=`</div>`;
+  }
+
+  if(displayedCount<filtered.length){
+    html+=`<button class="load-more-btn" onclick="loadMore()">Load more — ${filtered.length-displayedCount} more stories</button>`;
+  }
+  nc.innerHTML=html;
+}
+
+function loadMore(){displayedCount=Math.min(displayedCount+BATCH,getFiltered().length);renderNews();}
+function setSource(s){activeSource=s;displayedCount=0;renderNews();}
+function setView(v,el){
+  view=v;sel=null;
+  document.querySelectorAll('.tab-row.views .nav-tab').forEach(e=>e.classList.remove('active'));
+  el.classList.add('active');render();
+}
+function setTeam(t,el){
+  team=t;sel=null;displayedCount=0;activeSource='all';
+  document.querySelectorAll('.team-btn').forEach(e=>e.classList.remove('active'));
+  el.classList.add('active');render();
+}
+function toggle(k){sel=sel===k?null:k;renderScores();}
+
+function iTag(abbr,teamKey,size=32){
+  const src=abbr==='PHI'?TEAMS[teamKey].phillyLogo:L[abbr];
+  if(!src) return `<div style="width:${size}px;height:${size}px;border-radius:50%;background:#1e1e1e;display:flex;align-items:center;justify-content:center;font-size:9px;color:#444;font-weight:700">${abbr}</div>`;
+  return `<img style="width:${size}px;height:${size}px;object-fit:contain" src="${src}" alt="${abbr}" onerror="this.style.opacity='.1'">`;
+}
+function winnerOf(s){const[a,b]=Object.keys(s);return s[a]===s[b]?null:s[a]>s[b]?a:b;}
+
+function heroCard(g,teamKey){
+  const t=TEAMS[teamKey];
+  const hSrc=g.home==='PHI'?t.phillyLogo:(L[g.home]||'');
+  const aSrc=g.away==='PHI'?t.phillyLogo:(L[g.away]||'');
+  return `<div class="hero-card ${teamKey}-hero">
+    <img class="hero-watermark" src="${t.phillyLogo}" alt="">
+    <div class="hero-badge ${teamKey}">⚡ Next game · ${t.league}</div>
+    <div class="hero-matchup">
+      <div class="hero-team"><img class="hero-logo" src="${hSrc}" alt="${g.home}" onerror="this.style.opacity='.1'"><span class="hero-abbr${g.home==='PHI'?' philly':''}">${g.home}</span></div>
+      <div class="hero-center"><span class="hero-vs">VS</span><span class="hero-time">${g.time}</span><span class="hero-date">${g.date}</span></div>
+      <div class="hero-team"><img class="hero-logo" src="${aSrc}" alt="${g.away}" onerror="this.style.opacity='.1'"><span class="hero-abbr${g.away==='PHI'?' philly':''}">${g.away}</span></div>
+    </div>
+  </div>`;
+}
+
+function scoreCard(g,teamKey,key){
+  const t=TEAMS[teamKey],isSel=sel===key,hasScore=!!g.scores;
+  const w=hasScore?winnerOf(g.scores):null,homeWon=w===g.home,phillyWon=w==='PHI';
+  const hs=hasScore?g.scores[g.home]:null,as_=hasScore?g.scores[g.away]:null;
+  const meta=g.label||'',barClass=hasScore?(phillyWon?'win':'loss'):'neutral';
+  const exp=isSel&&hasScore?`<div class="expand-panel">
+    <div class="expand-row"><span class="lbl">Date</span><span class="val">${g.date}${meta?' · '+meta:''}</span></div>
+    <div class="expand-row"><span class="lbl">Final</span><span class="val">${g.home} ${hs} – ${as_} ${g.away}</span></div>
+    <div class="expand-row"><span class="lbl">Result</span><span class="val ${phillyWon?'win-val':'loss-val'}">${phillyWon?'✓ Win':'✗ Loss'}</span></div>
+  </div>`:'';
+  return `<div class="score-card${isSel?' selected':''}" onclick="toggle('${key}')">
+    <div class="side-bar ${barClass}"></div>
+    <div class="card-meta"><span class="league-tag">${t.league}${meta?' · '+meta:''} · ${g.date}</span>${hasScore?`<span class="status-pill pill-final">Final</span>`:`<span class="status-pill pill-upcoming">${g.time||'Upcoming'}</span>`}</div>
+    <div class="matchup">
+      <div class="team-side">${iTag(g.home,teamKey)}<div class="team-info"><span class="team-abbr${g.home==='PHI'?' philly':''}">${g.home}</span></div></div>
+      <div class="score-center">${hasScore?`<div class="scores"><span class="score-num${!homeWon?' dim':''}">${hs}</span><span class="score-sep">–</span><span class="score-num${homeWon?' dim':''}">${as_}</span></div>`:`<span style="font-size:11px;color:var(--muted);font-weight:700">VS</span>`}</div>
+      <div class="team-side away">${iTag(g.away,teamKey)}<div class="team-info"><span class="team-abbr${g.away==='PHI'?' philly':''}">${g.away}</span></div></div>
+    </div>${exp}
+  </div>`;
+}
+
+function offCard(teamKey){
+  const t=TEAMS[teamKey],emoji=EMOJI[teamKey],name=teamKey[0].toUpperCase()+teamKey.slice(1),next=t.upcoming[0];
+  return `<div class="off-card"><div class="off-left"><img class="off-logo" src="${t.phillyLogo}" alt="${name}" onerror="this.style.opacity='.1'"><div><div class="off-name">${emoji} ${name}</div><div class="off-note">${t.note}</div></div></div>${next?`<div class="off-next">Next: ${next.home} vs ${next.away}<br>${next.date} · ${next.time}</div>`:''}</div>`;
+}
+
+function renderScores(){
+  const sc=document.getElementById('scores-col');
+  if(view==='news'){sc.style.display='none';return;}
+  sc.style.display='block';
+  const today=new Date().toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'});
+  let h=`<div class="scores-header"><span class="scores-header-label">Scores</span><span class="scores-header-date">${today}</span></div>`;
+  if(team==='all'){
+    const next=TEAMS.phillies.upcoming[0];
+    if(next) h+=heroCard(next,'phillies');
+    h+=`<div class="sec-label">Recent results</div>`;
+    TEAMS.phillies.recent.slice(0,3).forEach((g,i)=>h+=scoreCard(g,'phillies',`phillies_re_${i}`));
+    h+=`<div class="sec-label" style="margin-top:20px">Off-season</div>`;
+    ['eagles','sixers','flyers'].forEach(t=>h+=offCard(t));
+  }else{
+    const t=TEAMS[team];
+    if(!t.active&&t.note) h+=`<div style="font-size:12px;color:var(--muted);padding:9px 13px;background:var(--surface);border:1px solid var(--border);border-radius:9px;margin-bottom:12px;">${t.note}</div>`;
+    if(t.upcoming.length){
+      h+=`<div class="sec-label">Upcoming</div>`;
+      if(t.active) h+=heroCard(t.upcoming[0],team);
+      t.upcoming.slice(t.active?1:0).forEach((g,i)=>h+=scoreCard(g,team,`${team}_up_${i}`));
+    }
+    if(t.recent.length){
+      h+=`<div class="sec-label" style="margin-top:${t.upcoming.length?'20px':'0'}">Recent results</div>`;
+      t.recent.forEach((g,i)=>h+=scoreCard(g,team,`${team}_re_${i}`));
+    }
+  }
+  sc.innerHTML=h;
+}
+
+function renderNews(){
+  const nc=document.getElementById('news-col');
+  if(view==='scores'){nc.style.display='none';return;}
+  nc.style.display='block';
+  if(view==='news'){
+    nc.style.gridColumn='1 / -1';
+    document.getElementById('scores-col').style.display='none';
+  }else{
+    nc.style.gridColumn='2';
+  }
+  renderNewsCol();
+}
+
+function render(){renderScores();renderNews();}
+
+render();
+loadAllFeeds();
+</script>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="f-logo">Broad St</div>
+      <p>Philadelphia's home for Eagles, Phillies, Sixers, and Flyers coverage. Built for Philly fans, by Philly fans. Every game. Every story. One city.</p>
+    </div>
+    <div class="footer-links">
+      <a href="#">All Teams</a>
+      <a href="#">Phillies</a>
+      <a href="#">Eagles</a>
+      <a href="#">Sixers</a>
+      <a href="#">Flyers</a>
+    </div>
+    <div class="footer-links">
+      <a href="#">Scores</a>
+      <a href="#">News</a>
+      <a href="#">About</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>© 2026 Broad Street Sports · Philadelphia, PA · 215 Forever</p>
+    <div class="footer-teams">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/phi.png&h=40&w=40" alt="Phillies">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/phi.png&h=40&w=40" alt="Eagles">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phi.png&h=40&w=40" alt="Sixers">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/phi.png&h=40&w=40" alt="Flyers">
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
+
+  <div class="hero-banner-inner">
+    <div class="hero-left">
+      <h1>Every Game.<br><span>Every Story.</span><br>One City.</h1>
+      <div class="hero-tagline">Philadelphia Eagles · Phillies · <strong>76ers</strong> · Flyers</div>
+    </div>
+    <div class="hero-right">
+      <div class="hero-stat">
+        <div class="hero-stat-num">4</div>
+        <div class="hero-stat-label">Teams</div>
+      </div>
+
+      <div class="hero-stat">
+        <div class="hero-stat-num">215</div>
+        <div class="hero-stat-label">Forever</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="nav-wrap">
+  <div class="tab-row views">
+    <span class="row-label">View</span>
+    <button class="nav-tab active" onclick="setView('all',this)">All</button>
+    <button class="nav-tab" onclick="setView('scores',this)">Scores</button>
+    <button class="nav-tab" onclick="setView('news',this)">News</button>
+  </div>
+  <div class="team-btn-row">
+    <button class="team-btn active" onclick="setTeam('all',this)">
+      <span class="team-btn-label">All Teams</span>
+    </button>
+    <button class="team-btn phillies-btn" onclick="setTeam('phillies',this)">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/phi.png&h=40&w=40" alt="Phillies">
+      <span class="team-btn-label">Phillies</span>
+    </button>
+    <button class="team-btn eagles-btn" onclick="setTeam('eagles',this)">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/phi.png&h=40&w=40" alt="Eagles">
+      <span class="team-btn-label">Eagles</span>
+    </button>
+    <button class="team-btn sixers-btn" onclick="setTeam('sixers',this)">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phi.png&h=40&w=40" alt="Sixers">
+      <span class="team-btn-label">Sixers</span>
+    </button>
+    <button class="team-btn flyers-btn" onclick="setTeam('flyers',this)">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/phi.png&h=40&w=40" alt="Flyers">
+      <span class="team-btn-label">Flyers</span>
+    </button>
+  </div>
+</div>
+
+<div class="page">
+  <div class="scores-col" id="scores-col"></div>
+  <div class="news-col" id="news-col">
+    <div style="display:flex;flex-direction:column;gap:12px;padding-top:4px;">
+      <div class="skel" style="height:200px;border-radius:16px;"></div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;">
+        <div class="skel" style="height:160px;"></div>
+        <div class="skel" style="height:160px;"></div>
+        <div class="skel" style="height:160px;"></div>
+        <div class="skel" style="height:160px;"></div>
+      </div>
+      <div class="skel" style="height:60px;"></div>
+      <div class="skel" style="height:60px;"></div>
+      <div class="skel" style="height:60px;"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+const L={
+  PHI_phillies:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/phi.png&h=80&w=80',
+  PHI_eagles:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/phi.png&h=80&w=80',
+  PHI_sixers:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phi.png&h=80&w=80',
+  PHI_flyers:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/phi.png&h=80&w=80',
+  BAL:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/bal.png&h=80&w=80',
+  NE:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ne.png&h=80&w=80',
+  WAS:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/wsh.png&h=80&w=80',
+  SF:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/sf.png&h=80&w=80',
+  BUF:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/buf.png&h=80&w=80',
+  NYK:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ny.png&h=80&w=80',
+  BOS:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/bos.png&h=80&w=80',
+  CWS:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/cws.png&h=80&w=80',
+  SD:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sd.png&h=80&w=80',
+  TOR:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tor.png&h=80&w=80',
+  MIL:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/mil.png&h=80&w=80',
+  CAR:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/car.png&h=80&w=80',
+  PIT:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/pit.png&h=80&w=80',
+};
+
+const TEAMS={
+  phillies:{league:'MLB',active:true,phillyLogo:L.PHI_phillies,
+    recent:[
+      {date:'Jun 6',home:'PHI',away:'CWS',scores:{PHI:3,CWS:6}},
+      {date:'Jun 5',home:'PHI',away:'CWS',scores:{PHI:8,CWS:6}},
+      {date:'Jun 4',home:'PHI',away:'SD',scores:{PHI:6,SD:4}},
+    ],
+    upcoming:[
+      {date:'Jun 7',time:'1:35 PM',home:'PHI',away:'CWS'},
+      {date:'Jun 8',time:'7:07 PM',home:'TOR',away:'PHI'},
+      {date:'Jun 9',time:'7:07 PM',home:'TOR',away:'PHI'},
+      {date:'Jun 10',time:'7:07 PM',home:'TOR',away:'PHI'},
+      {date:'Jun 12',time:'7:40 PM',home:'MIL',away:'PHI'},
+    ]},
+  sixers:{league:'NBA',active:false,note:'Off-season · Eliminated R2 by NYK (0–4)',phillyLogo:L.PHI_sixers,
+    recent:[
+      {date:'May 10',label:'R2 G4',home:'PHI',away:'NYK',scores:{PHI:114,NYK:144}},
+      {date:'May 2',label:'R1 G7',home:'BOS',away:'PHI',scores:{PHI:109,BOS:100}},
+    ],upcoming:[]},
+  flyers:{league:'NHL',active:false,note:'Off-season · Eliminated R2 by CAR (0–4)',phillyLogo:L.PHI_flyers,
+    recent:[
+      {date:'May 9',label:'R2 G4',home:'PHI',away:'CAR',scores:{PHI:2,CAR:3}},
+      {date:'Apr 29',label:'R1 G6',home:'PHI',away:'PIT',scores:{PHI:1,PIT:0}},
+    ],upcoming:[]},
+  eagles:{league:'NFL',active:false,note:'Off-season · Preseason starts Aug 15',phillyLogo:L.PHI_eagles,
+    recent:[
+      {date:'Jan 11',label:'Wild Card',home:'PHI',away:'SF',scores:{PHI:19,SF:23}},
+      {date:'Dec 28',home:'BUF',away:'PHI',scores:{PHI:13,BUF:12}},
+    ],
+    upcoming:[
+      {date:'Aug 15',time:'7:00 PM',home:'BAL',away:'PHI'},
+      {date:'Sep 13',time:'4:25 PM',home:'PHI',away:'WAS'},
+    ]},
+};
+
+// ── BAKED-IN NEWS — always loads instantly, sourced from real current Philly sports stories ──
+const BAKED_NEWS = [
+  // PHILLIES
+  {team:'phillies',source:'Philadelphia Inquirer',pubDate:'2026-06-04T20:00:00Z',
+   title:"Sánchez's historic 50⅔-inning scoreless streak ends — Philly gives him a standing ovation",
+   description:"Cristopher Sánchez finally surrendered a run against the Padres, snapping the longest scoreless streak in Phillies history. The 5th-longest in MLB history since 1893. Fans gave him a standing ovation for giving up a run. Only in Philly.",
+   link:'https://www.inquirer.com/phillies/cristopher-sanchez-mlb-record-scoreless-innings-lefty-pitcher-carl-hubbell-20260603.html',
+   thumbnail:null},
+  {team:'phillies',source:'MLB.com',pubDate:'2026-06-03T18:00:00Z',
+   title:'All-Star Game voting opens — which Phillies deserve a trip to Citizens Bank Park?',
+   description:"The 2026 MLB All-Star Game comes to Citizens Bank Park this July. Voting is open now. Sánchez, Harper, and Schwarber are the frontrunners. Philly fans need to show up for the ballot.",
+   link:'https://www.mlb.com/phillies',thumbnail:null},
+  {team:'phillies',source:'Phillies Nation',pubDate:'2026-06-05T14:00:00Z',
+   title:"Phillies rally past White Sox for 4th straight win — bats are waking up",
+   description:"Philadelphia is on a roll. Four straight wins heading into a Toronto road trip. The offense is finally clicking alongside the pitching staff. Red October vibes are building early.",
+   link:'https://philliesnation.com',thumbnail:null},
+  {team:'phillies',source:'NBC Sports Philadelphia',pubDate:'2026-06-04T16:00:00Z',
+   title:"Cristopher Sánchez signs 6-year $107M extension — Phillies lock up their ace",
+   description:"After proving he was severely underpaid on his previous deal, the Phillies rewarded Sánchez with a massive extension through 2032. The best pitcher in Phillies history just got paid like it.",
+   link:'https://www.nbcsportsphiladelphia.com',thumbnail:null},
+  {team:'phillies',source:'Phillies Nation',pubDate:'2026-06-02T12:00:00Z',
+   title:"Bryce Harper heating up — carrying the offense into June",
+   description:"Harper has been the engine of this Phillies lineup all season. With the All-Star Game coming to Citizens Bank Park, he's putting on a show for the home crowd.",
+   link:'https://philliesnation.com',thumbnail:null},
+  {team:'phillies',source:'PhillyVoice',pubDate:'2026-06-01T10:00:00Z',
+   title:"Phillies rotation depth is the best in the NL East — here's why",
+   description:"Sánchez, Wheeler, Nola, Luzardo. The Phillies have four legitimate aces. No other rotation in the division comes close. This team is built to make a deep October run.",
+   link:'https://phillyvoice.com/sports',thumbnail:null},
+
+  // EAGLES
+  {team:'eagles',source:'NBC Sports Philadelphia',pubDate:'2026-06-02T18:00:00Z',
+   title:"Eagles trade A.J. Brown to Patriots — DeVonta Smith steps up as WR1",
+   description:"After months of speculation the Eagles shipped A.J. Brown to New England. DeVonta Smith is the new number one receiver. Jordan Mailata sent a bold message about what Smith will accomplish.",
+   link:'https://www.nbcsportsphiladelphia.com',thumbnail:null},
+  {team:'eagles',source:'Bleeding Green Nation',pubDate:'2026-06-03T14:00:00Z',
+   title:"Eagles OTAs: First look at the new-look offense under coordinator Sean Mannion",
+   description:"A brand new offensive system is being installed at the NovaCare Complex. The early returns from OTAs are promising. Jalen Hurts looks comfortable in the new scheme.",
+   link:'https://www.bleedinggreennation.com',thumbnail:null},
+  {team:'eagles',source:'Eagles Wire',pubDate:'2026-06-01T16:00:00Z',
+   title:"Jordan Mailata sends Jalen Hurts warning to the rest of the NFL",
+   description:"The Eagles left tackle is fired up heading into 2026. Mailata publicly backed Hurts and sent a message to anyone doubting the Birds after the AJ Brown trade.",
+   link:'https://theeagleswire.usatoday.com',thumbnail:null},
+  {team:'eagles',source:'PhillyVoice',pubDate:'2026-05-30T10:00:00Z',
+   title:"Eagles mandatory minicamp June 9-10 — who are the key storylines to watch?",
+   description:"Mandatory minicamp is the last chance to see the Eagles before training camp in late July. The biggest questions: new WR1 role, new offensive system, and how the defense looks.",
+   link:'https://phillyvoice.com/sports',thumbnail:null},
+  {team:'eagles',source:'Bleeding Green Nation',pubDate:'2026-05-28T12:00:00Z',
+   title:"Howie Roseman defends AJ Brown trade — 'We got significant value back'",
+   description:"The Eagles GM went on record defending the blockbuster deal. Philadelphia received a first-round pick in return. Roseman says the future of the roster is brighter because of it.",
+   link:'https://www.bleedinggreennation.com',thumbnail:null},
+  {team:'eagles',source:'SportsTalk Philly',pubDate:'2026-05-25T14:00:00Z',
+   title:"Eagles 2026 schedule released — toughest stretch and key games to circle",
+   description:"The full schedule is out. Monday Night Football vs Chicago, Thanksgiving at Dallas, and a brutal four-game stretch in November. Here's what the Eagles are facing.",
+   link:'https://sportstalkphilly.com',thumbnail:null},
+
+  // SIXERS
+  {team:'sixers',source:'The Sporting News',pubDate:'2026-05-29T20:00:00Z',
+   title:"Sixers front office search narrows to two candidates after Morey firing",
+   description:"The search for a new President of Basketball Operations is heating up. Led by Bob Myers, the Sixers have identified their finalists. A decision could come any day now.",
+   link:'https://www.yardbarker.com/nba/teams/philadelphia_76ers',thumbnail:null},
+  {team:'sixers',source:'Liberty Ballers',pubDate:'2026-06-03T16:00:00Z',
+   title:"NBA Draft month is here — Sixers mock draft roundup and best available targets",
+   description:"The draft is coming and the Sixers have picks to work with. Liberty Ballers breaks down every realistic target and what Philadelphia needs most to build around Embiid and Maxey.",
+   link:'https://www.libertyballers.com',thumbnail:null},
+  {team:'sixers',source:'NBC Sports Philadelphia',pubDate:'2026-05-28T14:00:00Z',
+   title:"Bob Myers and Josh Harris hold press conference — what we learned about the Sixers' direction",
+   description:"The press conference raised more questions than it answered. Embiid at $58M, George at $54M, Maxey at $41M. The margin for error this offseason is razor thin.",
+   link:'https://www.nbcsportsphiladelphia.com',thumbnail:null},
+  {team:'sixers',source:'Yardbarker',pubDate:'2026-05-27T10:00:00Z',
+   title:"Opinion: Philly fans are losing faith in Sixers ownership — and rightfully so",
+   description:"The Morey firing isn't the whole story. A growing number of fans believe ownership doesn't have a real plan. With three massive contracts locked in, the rebuild window is tiny.",
+   link:'https://www.yardbarker.com/nba/teams/philadelphia_76ers',thumbnail:null},
+  {team:'sixers',source:'Liberty Ballers',pubDate:'2026-05-25T12:00:00Z',
+   title:"Sixers draft profile: Christian Anderson has big-time offensive talent",
+   description:"If the Sixers want to add a scoring punch off the bench this is their guy. Anderson has the tools to be an impact player from day one at the next level.",
+   link:'https://www.libertyballers.com',thumbnail:null},
+  {team:'sixers',source:'PhillyVoice',pubDate:'2026-05-22T14:00:00Z',
+   title:"VJ Edgecombe's rookie season was a bright spot in a brutal Sixers year",
+   description:"While the team struggled and the front office imploded, Edgecombe quietly had one of the best rookie seasons in recent Sixers history. The future has at least one bright light.",
+   link:'https://phillyvoice.com/sports',thumbnail:null},
+
+  // FLYERS
+  {team:'flyers',source:'Broad Street Hockey',pubDate:'2026-06-04T18:00:00Z',
+   title:"Flyers eyeing 6-foot-4 forward with 'goal-scoring hands' at No. 21 in the draft",
+   description:"The Flyers front office has zeroed in on a big skilled forward with the draft pick. Philadelphia needs size and scoring up front — this prospect checks both boxes.",
+   link:'https://www.broadstreethockey.com',thumbnail:null},
+  {team:'flyers',source:'Philly Sports Network',pubDate:'2026-06-05T10:00:00Z',
+   title:"Watching Carolina in the Cup Final stings — but the Flyers future is bright",
+   description:"The Hurricanes swept the Flyers in Round 2 and now they're playing for the Cup. It hurts. But Philadelphia pushed Pittsburgh to 6 games and showed real playoff character.",
+   link:'https://phillysportsnetwork.com',thumbnail:null},
+  {team:'flyers',source:'Broad Street Hockey',pubDate:'2026-05-20T14:00:00Z',
+   title:"Flyers 2026 draft strategy — building the forward corps of the future",
+   description:"With multiple picks and cap space coming, this is one of the most important drafts in recent Flyers history. Here's the full breakdown of Philadelphia's draft board.",
+   link:'https://www.broadstreethockey.com',thumbnail:null},
+  {team:'flyers',source:'NBC Sports Philadelphia',pubDate:'2026-05-15T12:00:00Z',
+   title:"Flyers announce passing of Forbes Kennedy — a piece of Broad Street history is gone",
+   description:"The Philadelphia Flyers organization mourned the loss of Forbes Kennedy, a forward from the team's early years. The Flyers family honors his legacy.",
+   link:'https://www.nbcsportsphiladelphia.com',thumbnail:null},
+
+  // GENERAL
+  {team:'general',source:'Metro Philadelphia',pubDate:'2026-06-01T10:00:00Z',
+   title:"Philadelphia is the center of the sports universe in 2026 — World Cup, MLB All-Star, and more",
+   description:"Lincoln Financial Field hosts World Cup matches in June and July. Citizens Bank Park gets the All-Star Game. It's the biggest sports summer in Philadelphia history.",
+   link:'https://www.metrophiladelphia.com',thumbnail:null},
+  {team:'general',source:'PhillyVoice',pubDate:'2026-05-18T14:00:00Z',
+   title:"Jimmy Rollins named manager for 2026 HBCU Swingman Classic — a Philly legend gives back",
+   description:"The Phillies Hall of Famer is headlining the classic as manager. Rollins has always been connected to the community and this is another example of his commitment to Philadelphia.",
+   link:'https://phillyvoice.com/sports',thumbnail:null},
+];
+
+// ── LIVE NEWS from news.json (updated every 6 hours by GitHub Actions) ──
+const EMOJI={phillies:'⚾',eagles:'🦅',sixers:'🏀',flyers:'🏒',general:'🏟'};
+
+let allArticles=[], displayedCount=0, activeSource='all';
+let view='all', team='all', sel=null;
+const BATCH=30;
+
+function detectTeam(title,desc){
+  const t=(title+' '+desc).toLowerCase();
+  if(/phillies|harper|nola|wheeler|sanchez|sánchez|rhys|realmuto|citizen.s bank|bryce|schwarber|stott/.test(t)) return 'phillies';
+  if(/eagles|hurts|sirianni|roseman|devonta|jalen|lincoln financial|nfc east|aj brown|a\.j\. brown|mailata/.test(t)) return 'eagles';
+  if(/sixers|76ers|embiid|maxey|george|morey|wells fargo|nba draft|paul george/.test(t)) return 'sixers';
+  if(/flyers|tortorella|nhl|stanley cup/.test(t)) return 'flyers';
+  return 'general';
+}
+
+function timeSince(d){
+  const date=new Date(d);
+  if(isNaN(date)) return '';
+  const m=Math.floor((Date.now()-date)/60000);
+  if(m<60) return m+'m ago';
+  if(m<1440) return Math.floor(m/60)+'h ago';
+  return Math.floor(m/1440)+'d ago';
+}
+
+function extractImg(item){
+  if(item.thumbnail&&item.thumbnail!=='self'&&item.thumbnail.startsWith('http')) return item.thumbnail;
+  if(item.enclosure&&item.enclosure.link&&item.enclosure.link.startsWith('http')) return item.enclosure.link;
+  return null;
+}
+
+function stripHtml(s){ return (s||'').replace(/<[^>]+>/g,'').replace(/&amp;/g,'&').replace(/&nbsp;/g,' ').trim(); }
+
+function mergeAndSort(existing, fresh){
+  const seen=new Set(existing.map(a=>a.title.slice(0,60).toLowerCase()));
+  const combined=[...existing];
+  fresh.forEach(a=>{
+    if(!a.title) return;
+    const key=a.title.slice(0,60).toLowerCase();
+    if(!seen.has(key)){ seen.add(key); combined.push(a); }
+  });
+  combined.sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate));
+  return combined;
+}
+
+async function loadAllFeeds(){
+  const nc=document.getElementById('news-col');
+
+  // Show baked news immediately
+  allArticles=[...BAKED_NEWS];
+  displayedCount=0;
+  renderNews();
+
+  // Fetch live news.json (compiled by GitHub Actions)
+  try{
+    const r=await fetch('./news.json?t='+Date.now());
+    const data=await r.json();
+    if(data.articles&&data.articles.length){
+      // Map team detection for general articles
+      const mapped=data.articles.map(a=>({
+        ...a,
+        team: a.team==='general' ? detectTeam(a.title,a.description||'') : a.team,
+      }));
+      allArticles=mergeAndSort(BAKED_NEWS, mapped);
+      displayedCount=0;
+      renderNews();
+      console.log(`Loaded ${data.articles.length} live articles. Updated: ${data.updated}`);
+    }
+  }catch(e){
+    console.log('news.json not available yet — showing baked news');
+  }
+
+  // Also try a couple live RSS feeds as bonus
+  const quickFeeds=[
+    {url:'https://sportstalkphilly.com/feed',label:'SportsTalk Philly',team:'general'},
+    {url:'https://philliesnation.com/feed',label:'Phillies Nation',team:'phillies'},
+    {url:'https://bleedinggreennation.com/rss/index.xml',label:'Bleeding Green Nation',team:'eagles'},
+    {url:'https://libertyballers.com/rss/index.xml',label:'Liberty Ballers',team:'sixers'},
+    {url:'https://broadstreethockey.com/rss/index.xml',label:'Broad Street Hockey',team:'flyers'},
+  ];
+  const PROXY='https://api.rss2json.com/v1/api.json?rss_url=';
+  for(const f of quickFeeds){
+    try{
+      const r=await fetch(PROXY+encodeURIComponent(f.url)+'&count=15',{signal:AbortSignal.timeout(5000)});
+      const d=await r.json();
+      if(d.status==='ok'&&d.items){
+        const fresh=d.items.map(item=>({
+          title:stripHtml(item.title||''),
+          description:stripHtml(item.description||'').slice(0,220),
+          link:item.link||'',pubDate:item.pubDate||'',
+          thumbnail:item.thumbnail||null,enclosure:item.enclosure||null,
+          team:f.team==='general'?detectTeam(item.title,item.description||''):f.team,
+          source:f.label,
+        }));
+        if(fresh.length){
+          allArticles=mergeAndSort(allArticles,fresh);
+          displayedCount=0;
+          renderNews();
+        }
+      }
+    }catch(e){}
+  }
+}
+
+function getFiltered(){
+  let arts=allArticles;
+  if(team!=='all') arts=arts.filter(a=>a.team===team||a.team==='general');
+  if(activeSource!=='all') arts=arts.filter(a=>a.source===activeSource);
+  return arts;
+}
+
+function fbUrl(title,link){
+  const site='https://ddifab.github.io/broadstreetsports';
+  const caption=`${title} — Full coverage at Broad Street Sports 👇 ${site}`;
+  return `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(link||site)}&quote=${encodeURIComponent(caption)}`;
+}
+
+function teamPlaceholder(team, type='trending'){
+  const colors={
+    phillies:{bg:'#1c0606',accent:'#cc2222',logo:L.PHI_phillies},
+    eagles:  {bg:'#021215',accent:'#004C54',logo:L.PHI_eagles},
+    sixers:  {bg:'#010820',accent:'#003DB5',logo:L.PHI_sixers},
+    flyers:  {bg:'#160900',accent:'#cf6a00',logo:L.PHI_flyers},
+    general: {bg:'#0f0f0f',accent:'#c8a84b',logo:null},
+  };
+  const c=colors[team]||colors.general;
+  const sizes={trending:'height:195px',grid:'height:95px',list:'width:66px;height:50px;border-radius:6px'};
+  const sz=sizes[type]||sizes.trending;
+  const logoSize=type==='trending'?52:type==='grid'?32:24;
+  const logoHtml=c.logo?`<img src="${c.logo}" style="width:${logoSize}px;height:${logoSize}px;object-fit:contain;opacity:.6" alt="">`:'';
+  return `<div style="width:100%;${sz};background:${c.bg};border-bottom:2px solid ${c.accent};display:flex;align-items:center;justify-content:center;flex-direction:column;gap:8px;flex-shrink:0;">
+    ${logoHtml}
+    <div style="font-size:9px;font-weight:800;color:${c.accent};text-transform:uppercase;letter-spacing:.12em;opacity:.7">${team==='general'?'Broad St':team}</div>
+  </div>`;
+}
+
+function renderNewsCol(){
+  if(view==='scores') return;
+  const filtered=getFiltered();
+  const nc=document.getElementById('news-col');
+  if(!filtered.length){
+    nc.innerHTML=`<div style="color:var(--muted);font-size:14px;padding:2rem 0;text-align:center">No stories found.</div>`;
+    return;
+  }
+  const toShow=filtered.slice(0,Math.max(displayedCount||BATCH,BATCH));
+  displayedCount=toShow.length;
+
+
+  const[top,...rest]=toShow;
+  const grid=rest.slice(0,4);
+  const list=rest.slice(4);
+  const topImg=extractImg(top);
+  const topTeam=top.team||'general';
+
+  const sources=['all',...new Set(filtered.map(a=>a.source).filter(Boolean))];
+  let sourcesHtml='';
+  if(view==='news'){
+    sourcesHtml=`<div class="source-bar">`;
+    sources.forEach(s=>{sourcesHtml+=`<button class="source-pill${activeSource===s?' active':''}" onclick="setSource('${s}')">${s==='all'?'All sources':s}</button>`;});
+    sourcesHtml+=`</div>`;
+  }
+
+  const counts={phillies:0,eagles:0,sixers:0,flyers:0};
+  filtered.forEach(a=>{if(counts[a.team]!==undefined) counts[a.team]++;});
+  const statsHtml=`<div class="stats-bar">
+    <div class="stat-pill"><strong>${filtered.length}</strong> stories</div>
+    <div class="stat-pill">⚾ <strong>${counts.phillies}</strong></div>
+    <div class="stat-pill">🦅 <strong>${counts.eagles}</strong></div>
+    <div class="stat-pill">🏀 <strong>${counts.sixers}</strong></div>
+    <div class="stat-pill">🏒 <strong>${counts.flyers}</strong></div>
+  </div>`;
+
+  let html=statsHtml+sourcesHtml;
+  html+=`<div class="sec-label gold">Trending now</div>`;
+  html+=`<a class="trending-card" href="${top.link||'#'}" target="_blank" rel="noopener">
+    ${topImg?`<img class="trending-img" src="${topImg}" alt="" onerror="this.outerHTML=teamPlaceholder('${topTeam}','trending')">`:`${teamPlaceholder(topTeam,'trending')}`}
+    <div class="trending-overlay">
+      <div class="trending-kicker">
+        <span class="trending-source tag-${topTeam}">${top.source}</span>
+        <span class="trending-dot"></span>
+        <span class="trending-time">${timeSince(top.pubDate)}</span>
+      </div>
+      <div class="trending-headline">${top.title}</div>
+      ${top.description?`<div class="trending-blurb">${top.description.slice(0,160)}...</div>`:''}
+      <div class="trending-footer">
+        <span class="read-more">Read story →</span>
+        <button class="fb-btn" onclick="event.preventDefault();window.open('${fbUrl(top.title,top.link)}','_blank')">
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="white"><path d="M24 12.07C24 5.41 18.63 0 12 0S0 5.41 0 12.07C0 18.1 4.39 23.1 10.13 24v-8.44H7.08v-3.49h3.04V9.41c0-3.02 1.8-4.7 4.54-4.7 1.31 0 2.68.24 2.68.24v2.97h-1.51c-1.49 0-1.95.93-1.95 1.88v2.27h3.32l-.53 3.49h-2.79V24C19.61 23.1 24 18.1 24 12.07z"/></svg>
+          Share
+        </button>
+      </div>
+    </div>
+  </a>`;
+
+  if(grid.length){
+    html+=`<div class="sec-label">Latest stories</div><div class="news-grid">`;
+    grid.forEach(a=>{
+      const img=extractImg(a),t=a.team||'general';
+      html+=`<a class="news-card" href="${a.link||'#'}" target="_blank" rel="noopener">
+        ${img?`<img class="nc-img" src="${img}" alt="" onerror="this.outerHTML=teamPlaceholder('${t}','grid')">`:`${teamPlaceholder(t,'grid')}`}
+        <div class="nc-body">
+          <div class="nc-kicker"><span class="nc-source tag-${t}">${a.source}</span><span class="nc-time">${timeSince(a.pubDate)}</span></div>
+          <div class="nc-headline">${a.title}</div>
+        </div>
+      </a>`;
+    });
+    html+=`</div>`;
+  }
+
+  if(list.length){
+    html+=`<div class="sec-label">More stories</div><div class="news-list">`;
+    list.forEach(a=>{
+      const img=extractImg(a),t=a.team||'general';
+      html+=`<a class="nl-item" href="${a.link||'#'}" target="_blank" rel="noopener">
+        <div class="nl-thumb" style="${img?'':'padding:0;overflow:hidden'}">${img?`<img src="${img}" style="width:66px;height:50px;object-fit:cover;border-radius:6px" alt="" onerror="this.outerHTML=teamPlaceholder('${t}','list')">`:`${teamPlaceholder(t,'list')}`}</div>
+        <div>
+          <div class="nl-kicker"><span class="nl-source tag-${t}">${a.source}</span><span class="nl-time">${timeSince(a.pubDate)}</span></div>
+          <div class="nl-headline">${a.title}</div>
+        </div>
+      </a>`;
+    });
+    html+=`</div>`;
+  }
+
+  if(displayedCount<filtered.length){
+    html+=`<button class="load-more-btn" onclick="loadMore()">Load more — ${filtered.length-displayedCount} more stories</button>`;
+  }
+  nc.innerHTML=html;
+}
+
+function loadMore(){displayedCount=Math.min(displayedCount+BATCH,getFiltered().length);renderNews();}
+function setSource(s){activeSource=s;displayedCount=0;renderNews();}
+function setView(v,el){
+  view=v;sel=null;
+  document.querySelectorAll('.tab-row.views .nav-tab').forEach(e=>e.classList.remove('active'));
+  el.classList.add('active');render();
+}
+function setTeam(t,el){
+  team=t;sel=null;displayedCount=0;activeSource='all';
+  document.querySelectorAll('.team-btn').forEach(e=>e.classList.remove('active'));
+  el.classList.add('active');render();
+}
+function toggle(k){sel=sel===k?null:k;renderScores();}
+
+function iTag(abbr,teamKey,size=32){
+  const src=abbr==='PHI'?TEAMS[teamKey].phillyLogo:L[abbr];
+  if(!src) return `<div style="width:${size}px;height:${size}px;border-radius:50%;background:#1e1e1e;display:flex;align-items:center;justify-content:center;font-size:9px;color:#444;font-weight:700">${abbr}</div>`;
+  return `<img style="width:${size}px;height:${size}px;object-fit:contain" src="${src}" alt="${abbr}" onerror="this.style.opacity='.1'">`;
+}
+function winnerOf(s){const[a,b]=Object.keys(s);return s[a]===s[b]?null:s[a]>s[b]?a:b;}
+
+function heroCard(g,teamKey){
+  const t=TEAMS[teamKey];
+  const hSrc=g.home==='PHI'?t.phillyLogo:(L[g.home]||'');
+  const aSrc=g.away==='PHI'?t.phillyLogo:(L[g.away]||'');
+  return `<div class="hero-card ${teamKey}-hero">
+    <img class="hero-watermark" src="${t.phillyLogo}" alt="">
+    <div class="hero-badge ${teamKey}">⚡ Next game · ${t.league}</div>
+    <div class="hero-matchup">
+      <div class="hero-team"><img class="hero-logo" src="${hSrc}" alt="${g.home}" onerror="this.style.opacity='.1'"><span class="hero-abbr${g.home==='PHI'?' philly':''}">${g.home}</span></div>
+      <div class="hero-center"><span class="hero-vs">VS</span><span class="hero-time">${g.time}</span><span class="hero-date">${g.date}</span></div>
+      <div class="hero-team"><img class="hero-logo" src="${aSrc}" alt="${g.away}" onerror="this.style.opacity='.1'"><span class="hero-abbr${g.away==='PHI'?' philly':''}">${g.away}</span></div>
+    </div>
+  </div>`;
+}
+
+function scoreCard(g,teamKey,key){
+  const t=TEAMS[teamKey],isSel=sel===key,hasScore=!!g.scores;
+  const w=hasScore?winnerOf(g.scores):null,homeWon=w===g.home,phillyWon=w==='PHI';
+  const hs=hasScore?g.scores[g.home]:null,as_=hasScore?g.scores[g.away]:null;
+  const meta=g.label||'',barClass=hasScore?(phillyWon?'win':'loss'):'neutral';
+  const exp=isSel&&hasScore?`<div class="expand-panel">
+    <div class="expand-row"><span class="lbl">Date</span><span class="val">${g.date}${meta?' · '+meta:''}</span></div>
+    <div class="expand-row"><span class="lbl">Final</span><span class="val">${g.home} ${hs} – ${as_} ${g.away}</span></div>
+    <div class="expand-row"><span class="lbl">Result</span><span class="val ${phillyWon?'win-val':'loss-val'}">${phillyWon?'✓ Win':'✗ Loss'}</span></div>
+  </div>`:'';
+  return `<div class="score-card${isSel?' selected':''}" onclick="toggle('${key}')">
+    <div class="side-bar ${barClass}"></div>
+    <div class="card-meta"><span class="league-tag">${t.league}${meta?' · '+meta:''} · ${g.date}</span>${hasScore?`<span class="status-pill pill-final">Final</span>`:`<span class="status-pill pill-upcoming">${g.time||'Upcoming'}</span>`}</div>
+    <div class="matchup">
+      <div class="team-side">${iTag(g.home,teamKey)}<div class="team-info"><span class="team-abbr${g.home==='PHI'?' philly':''}">${g.home}</span></div></div>
+      <div class="score-center">${hasScore?`<div class="scores"><span class="score-num${!homeWon?' dim':''}">${hs}</span><span class="score-sep">–</span><span class="score-num${homeWon?' dim':''}">${as_}</span></div>`:`<span style="font-size:11px;color:var(--muted);font-weight:700">VS</span>`}</div>
+      <div class="team-side away">${iTag(g.away,teamKey)}<div class="team-info"><span class="team-abbr${g.away==='PHI'?' philly':''}">${g.away}</span></div></div>
+    </div>${exp}
+  </div>`;
+}
+
+function offCard(teamKey){
+  const t=TEAMS[teamKey],emoji=EMOJI[teamKey],name=teamKey[0].toUpperCase()+teamKey.slice(1),next=t.upcoming[0];
+  return `<div class="off-card"><div class="off-left"><img class="off-logo" src="${t.phillyLogo}" alt="${name}" onerror="this.style.opacity='.1'"><div><div class="off-name">${emoji} ${name}</div><div class="off-note">${t.note}</div></div></div>${next?`<div class="off-next">Next: ${next.home} vs ${next.away}<br>${next.date} · ${next.time}</div>`:''}</div>`;
+}
+
+function renderScores(){
+  const sc=document.getElementById('scores-col');
+  if(view==='news'){sc.style.display='none';return;}
+  sc.style.display='block';
+  const today=new Date().toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'});
+  let h=`<div class="scores-header"><span class="scores-header-label">Scores</span><span class="scores-header-date">${today}</span></div>`;
+  if(team==='all'){
+    const next=TEAMS.phillies.upcoming[0];
+    if(next) h+=heroCard(next,'phillies');
+    h+=`<div class="sec-label">Recent results</div>`;
+    TEAMS.phillies.recent.slice(0,3).forEach((g,i)=>h+=scoreCard(g,'phillies',`phillies_re_${i}`));
+    h+=`<div class="sec-label" style="margin-top:20px">Off-season</div>`;
+    ['eagles','sixers','flyers'].forEach(t=>h+=offCard(t));
+  }else{
+    const t=TEAMS[team];
+    if(!t.active&&t.note) h+=`<div style="font-size:12px;color:var(--muted);padding:9px 13px;background:var(--surface);border:1px solid var(--border);border-radius:9px;margin-bottom:12px;">${t.note}</div>`;
+    if(t.upcoming.length){
+      h+=`<div class="sec-label">Upcoming</div>`;
+      if(t.active) h+=heroCard(t.upcoming[0],team);
+      t.upcoming.slice(t.active?1:0).forEach((g,i)=>h+=scoreCard(g,team,`${team}_up_${i}`));
+    }
+    if(t.recent.length){
+      h+=`<div class="sec-label" style="margin-top:${t.upcoming.length?'20px':'0'}">Recent results</div>`;
+      t.recent.forEach((g,i)=>h+=scoreCard(g,team,`${team}_re_${i}`));
+    }
+  }
+  sc.innerHTML=h;
+}
+
+function renderNews(){
+  const nc=document.getElementById('news-col');
+  if(view==='scores'){nc.style.display='none';return;}
+  nc.style.display='block';
+  if(view==='news'){
+    nc.style.gridColumn='1 / -1';
+    document.getElementById('scores-col').style.display='none';
+  }else{
+    nc.style.gridColumn='2';
+  }
+  renderNewsCol();
+}
+
+function render(){renderScores();renderNews();}
+
+render();
+loadAllFeeds();
+</script>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="f-logo">Broad St</div>
+      <p>Philadelphia's home for Eagles, Phillies, Sixers, and Flyers coverage. Built for Philly fans, by Philly fans. Every game. Every story. One city.</p>
+    </div>
+    <div class="footer-links">
+      <a href="#">All Teams</a>
+      <a href="#">Phillies</a>
+      <a href="#">Eagles</a>
+      <a href="#">Sixers</a>
+      <a href="#">Flyers</a>
+    </div>
+    <div class="footer-links">
+      <a href="#">Scores</a>
+      <a href="#">News</a>
+      <a href="#">About</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>© 2026 Broad Street Sports · Philadelphia, PA · 215 Forever</p>
+    <div class="footer-teams">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/phi.png&h=40&w=40" alt="Phillies">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/phi.png&h=40&w=40" alt="Eagles">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phi.png&h=40&w=40" alt="Sixers">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/phi.png&h=40&w=40" alt="Flyers">
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>  <!-- Philadelphia skyline SVG background -->
+  <svg class="skyline-svg" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMax slice">
+    <defs>
+      <linearGradient id="fadeUp" x1="0" y1="1" x2="0" y2="0">
+        <stop offset="0%" stop-color="#0f0f0f" stop-opacity="0.9"/>
+        <stop offset="50%" stop-color="#0f0f0f" stop-opacity="0.5"/>
+        <stop offset="100%" stop-color="#0f0f0f" stop-opacity="0.1"/>
+      </linearGradient>
+      <linearGradient id="fadeSides" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#0f0f0f" stop-opacity="1"/>
+        <stop offset="12%" stop-color="#0f0f0f" stop-opacity="0"/>
+        <stop offset="88%" stop-color="#0f0f0f" stop-opacity="0"/>
+        <stop offset="100%" stop-color="#0f0f0f" stop-opacity="1"/>
+      </linearGradient>
+    </defs>
+
+    <!-- All buildings at low opacity so they're atmospheric not dominant -->
+    <g opacity="0.22">
+
+    <!-- Far background — very small, right and left edges -->
+    <g fill="#aaa">
+      <rect x="0" y="175" width="30" height="45"/>
+      <rect x="33" y="168" width="22" height="52"/>
+      <rect x="58" y="180" width="18" height="40"/>
+      <rect x="1152" y="172" width="28" height="48"/>
+      <rect x="1183" y="165" width="20" height="55"/>
+    </g>
+
+    <!-- Mid buildings — left cluster -->
+    <g fill="#999">
+      <rect x="80" y="160" width="32" height="60"/>
+      <rect x="116" y="150" width="26" height="70"/>
+      <rect x="146" y="162" width="20" height="58"/>
+      <rect x="170" y="154" width="28" height="66"/>
+      <rect x="202" y="165" width="18" height="55"/>
+    </g>
+
+    <!-- Mid buildings — right cluster -->
+    <g fill="#999">
+      <rect x="980" y="158" width="30" height="62"/>
+      <rect x="1014" y="148" width="26" height="72"/>
+      <rect x="1044" y="160" width="22" height="60"/>
+      <rect x="1070" y="152" width="28" height="68"/>
+      <rect x="1102" y="163" width="18" height="57"/>
+      <rect x="1124" y="155" width="24" height="65"/>
+    </g>
+
+    <!-- ONE LIBERTY PLACE — left of center, stepped spire -->
+    <g fill="#bbb">
+      <rect x="236" y="128" width="44" height="92"/>
+      <rect x="242" y="114" width="32" height="16"/>
+      <rect x="248" y="100" width="20" height="16"/>
+      <rect x="253" y="86" width="10" height="16"/>
+      <rect x="256" y="74" width="4" height="14"/>
+      <rect x="257" y="68" width="2" height="8"/>
+    </g>
+
+    <!-- TWO LIBERTY PLACE -->
+    <g fill="#aaa">
+      <rect x="288" y="140" width="38" height="80"/>
+      <rect x="293" y="128" width="28" height="14"/>
+      <rect x="298" y="116" width="18" height="14"/>
+      <rect x="303" y="106" width="8" height="12"/>
+      <rect x="305" y="98" width="4" height="10"/>
+    </g>
+
+    <!-- CITY HALL — center, most prominent -->
+    <g fill="#ccc">
+      <!-- Main block — narrower and taller feeling -->
+      <rect x="548" y="148" width="104" height="72"/>
+      <!-- Clock tower base -->
+      <rect x="572" y="124" width="56" height="26"/>
+      <!-- Clock tower mid -->
+      <rect x="580" y="108" width="40" height="18"/>
+      <!-- Clock tower upper -->
+      <rect x="586" y="94" width="28" height="16"/>
+      <!-- Dome -->
+      <rect x="591" y="84" width="18" height="12"/>
+      <ellipse cx="600" cy="83" rx="10" ry="7"/>
+      <!-- William Penn — tiny figure on top -->
+      <rect x="598" y="73" width="4" height="12"/>
+      <ellipse cx="600" cy="72" rx="4" ry="3"/>
+      <!-- Arch windows suggestion -->
+      <rect x="556" y="160" width="14" height="20" rx="7" fill="#888"/>
+      <rect x="576" y="160" width="14" height="20" rx="7" fill="#888"/>
+      <rect x="610" y="160" width="14" height="20" rx="7" fill="#888"/>
+      <rect x="630" y="160" width="14" height="20" rx="7" fill="#888"/>
+    </g>
+
+    <!-- COMCAST CENTER — right of City Hall -->
+    <g fill="#b0b0b0">
+      <rect x="722" y="132" width="40" height="88"/>
+      <rect x="727" y="124" width="30" height="10"/>
+      <rect x="732" y="116" width="20" height="10"/>
+      <rect x="737" y="108" width="10" height="10"/>
+      <rect x="740" y="100" width="4" height="10"/>
+      <!-- window lines -->
+      <rect x="725" y="136" width="2" height="84" fill="#888"/>
+      <rect x="731" y="136" width="2" height="84" fill="#888"/>
+      <rect x="737" y="136" width="2" height="84" fill="#888"/>
+      <rect x="743" y="136" width="2" height="84" fill="#888"/>
+      <rect x="749" y="136" width="2" height="84" fill="#888"/>
+      <rect x="755" y="136" width="2" height="84" fill="#888"/>
+    </g>
+
+    <!-- CIRA CENTRE -->
+    <g fill="#a8a8a8">
+      <rect x="776" y="144" width="34" height="76"/>
+      <rect x="781" y="134" width="24" height="12"/>
+      <rect x="786" y="124" width="14" height="12"/>
+      <polygon points="789,108 793,124 785,124"/>
+      <rect x="791" y="102" width="2" height="8"/>
+    </g>
+
+    <!-- Right cluster buildings -->
+    <g fill="#a0a0a0">
+      <rect x="824" y="152" width="28" height="68"/>
+      <rect x="856" y="160" width="22" height="60"/>
+      <rect x="882" y="146" width="34" height="74"/>
+      <rect x="882" y="136" width="26" height="12"/>
+      <rect x="888" y="126" width="14" height="12"/>
+    </g>
+
+    </g><!-- end opacity group -->
+
+    <!-- Subtle gold ground line -->
+    <rect x="200" y="219" width="800" height="1" fill="#c8a84b" opacity="0.2"/>
+
+    <!-- Fade overlays -->
+    <rect x="0" y="0" width="1200" height="220" fill="url(#fadeUp)"/>
+    <rect x="0" y="0" width="1200" height="220" fill="url(#fadeSides)"/>
+  </svg>
+
+
+  <div class="hero-banner-inner">
+    <div class="hero-left">
+      <h1>Every Game.<br><span>Every Story.</span><br>One City.</h1>
+      <div class="hero-tagline">Philadelphia Eagles · Phillies · <strong>76ers</strong> · Flyers</div>
+    </div>
+    <div class="hero-right">
+      <div class="hero-stat">
+        <div class="hero-stat-num">4</div>
+        <div class="hero-stat-label">Teams</div>
+      </div>
+
+      <div class="hero-stat">
+        <div class="hero-stat-num">215</div>
+        <div class="hero-stat-label">Forever</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="nav-wrap">
+  <div class="tab-row views">
+    <span class="row-label">View</span>
+    <button class="nav-tab active" onclick="setView('all',this)">All</button>
+    <button class="nav-tab" onclick="setView('scores',this)">Scores</button>
+    <button class="nav-tab" onclick="setView('news',this)">News</button>
+  </div>
+  <div class="team-btn-row">
+    <button class="team-btn active" onclick="setTeam('all',this)">
+      <span class="team-btn-label">All Teams</span>
+    </button>
+    <button class="team-btn phillies-btn" onclick="setTeam('phillies',this)">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/phi.png&h=40&w=40" alt="Phillies">
+      <span class="team-btn-label">Phillies</span>
+    </button>
+    <button class="team-btn eagles-btn" onclick="setTeam('eagles',this)">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/phi.png&h=40&w=40" alt="Eagles">
+      <span class="team-btn-label">Eagles</span>
+    </button>
+    <button class="team-btn sixers-btn" onclick="setTeam('sixers',this)">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phi.png&h=40&w=40" alt="Sixers">
+      <span class="team-btn-label">Sixers</span>
+    </button>
+    <button class="team-btn flyers-btn" onclick="setTeam('flyers',this)">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/phi.png&h=40&w=40" alt="Flyers">
+      <span class="team-btn-label">Flyers</span>
+    </button>
+  </div>
+</div>
+
+<div class="page">
+  <div class="scores-col" id="scores-col"></div>
+  <div class="news-col" id="news-col">
+    <div style="display:flex;flex-direction:column;gap:12px;padding-top:4px;">
+      <div class="skel" style="height:200px;border-radius:16px;"></div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;">
+        <div class="skel" style="height:160px;"></div>
+        <div class="skel" style="height:160px;"></div>
+        <div class="skel" style="height:160px;"></div>
+        <div class="skel" style="height:160px;"></div>
+      </div>
+      <div class="skel" style="height:60px;"></div>
+      <div class="skel" style="height:60px;"></div>
+      <div class="skel" style="height:60px;"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+const L={
+  PHI_phillies:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/phi.png&h=80&w=80',
+  PHI_eagles:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/phi.png&h=80&w=80',
+  PHI_sixers:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phi.png&h=80&w=80',
+  PHI_flyers:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/phi.png&h=80&w=80',
+  BAL:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/bal.png&h=80&w=80',
+  NE:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ne.png&h=80&w=80',
+  WAS:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/wsh.png&h=80&w=80',
+  SF:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/sf.png&h=80&w=80',
+  BUF:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/buf.png&h=80&w=80',
+  NYK:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ny.png&h=80&w=80',
+  BOS:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/bos.png&h=80&w=80',
+  CWS:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/cws.png&h=80&w=80',
+  SD:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sd.png&h=80&w=80',
+  TOR:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tor.png&h=80&w=80',
+  MIL:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/mil.png&h=80&w=80',
+  CAR:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/car.png&h=80&w=80',
+  PIT:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/pit.png&h=80&w=80',
+};
+
+const TEAMS={
+  phillies:{league:'MLB',active:true,phillyLogo:L.PHI_phillies,
+    recent:[
+      {date:'Jun 6',home:'PHI',away:'CWS',scores:{PHI:3,CWS:6}},
+      {date:'Jun 5',home:'PHI',away:'CWS',scores:{PHI:8,CWS:6}},
+      {date:'Jun 4',home:'PHI',away:'SD',scores:{PHI:6,SD:4}},
+    ],
+    upcoming:[
+      {date:'Jun 7',time:'1:35 PM',home:'PHI',away:'CWS'},
+      {date:'Jun 8',time:'7:07 PM',home:'TOR',away:'PHI'},
+      {date:'Jun 9',time:'7:07 PM',home:'TOR',away:'PHI'},
+      {date:'Jun 10',time:'7:07 PM',home:'TOR',away:'PHI'},
+      {date:'Jun 12',time:'7:40 PM',home:'MIL',away:'PHI'},
+    ]},
+  sixers:{league:'NBA',active:false,note:'Off-season · Eliminated R2 by NYK (0–4)',phillyLogo:L.PHI_sixers,
+    recent:[
+      {date:'May 10',label:'R2 G4',home:'PHI',away:'NYK',scores:{PHI:114,NYK:144}},
+      {date:'May 2',label:'R1 G7',home:'BOS',away:'PHI',scores:{PHI:109,BOS:100}},
+    ],upcoming:[]},
+  flyers:{league:'NHL',active:false,note:'Off-season · Eliminated R2 by CAR (0–4)',phillyLogo:L.PHI_flyers,
+    recent:[
+      {date:'May 9',label:'R2 G4',home:'PHI',away:'CAR',scores:{PHI:2,CAR:3}},
+      {date:'Apr 29',label:'R1 G6',home:'PHI',away:'PIT',scores:{PHI:1,PIT:0}},
+    ],upcoming:[]},
+  eagles:{league:'NFL',active:false,note:'Off-season · Preseason starts Aug 15',phillyLogo:L.PHI_eagles,
+    recent:[
+      {date:'Jan 11',label:'Wild Card',home:'PHI',away:'SF',scores:{PHI:19,SF:23}},
+      {date:'Dec 28',home:'BUF',away:'PHI',scores:{PHI:13,BUF:12}},
+    ],
+    upcoming:[
+      {date:'Aug 15',time:'7:00 PM',home:'BAL',away:'PHI'},
+      {date:'Sep 13',time:'4:25 PM',home:'PHI',away:'WAS'},
+    ]},
+};
+
+// ── BAKED-IN NEWS — always loads instantly, sourced from real current Philly sports stories ──
+const BAKED_NEWS = [
+  // PHILLIES
+  {team:'phillies',source:'Philadelphia Inquirer',pubDate:'2026-06-04T20:00:00Z',
+   title:"Sánchez's historic 50⅔-inning scoreless streak ends — Philly gives him a standing ovation",
+   description:"Cristopher Sánchez finally surrendered a run against the Padres, snapping the longest scoreless streak in Phillies history. The 5th-longest in MLB history since 1893. Fans gave him a standing ovation for giving up a run. Only in Philly.",
+   link:'https://www.inquirer.com/phillies/cristopher-sanchez-mlb-record-scoreless-innings-lefty-pitcher-carl-hubbell-20260603.html',
+   thumbnail:null},
+  {team:'phillies',source:'MLB.com',pubDate:'2026-06-03T18:00:00Z',
+   title:'All-Star Game voting opens — which Phillies deserve a trip to Citizens Bank Park?',
+   description:"The 2026 MLB All-Star Game comes to Citizens Bank Park this July. Voting is open now. Sánchez, Harper, and Schwarber are the frontrunners. Philly fans need to show up for the ballot.",
+   link:'https://www.mlb.com/phillies',thumbnail:null},
+  {team:'phillies',source:'Phillies Nation',pubDate:'2026-06-05T14:00:00Z',
+   title:"Phillies rally past White Sox for 4th straight win — bats are waking up",
+   description:"Philadelphia is on a roll. Four straight wins heading into a Toronto road trip. The offense is finally clicking alongside the pitching staff. Red October vibes are building early.",
+   link:'https://philliesnation.com',thumbnail:null},
+  {team:'phillies',source:'NBC Sports Philadelphia',pubDate:'2026-06-04T16:00:00Z',
+   title:"Cristopher Sánchez signs 6-year $107M extension — Phillies lock up their ace",
+   description:"After proving he was severely underpaid on his previous deal, the Phillies rewarded Sánchez with a massive extension through 2032. The best pitcher in Phillies history just got paid like it.",
+   link:'https://www.nbcsportsphiladelphia.com',thumbnail:null},
+  {team:'phillies',source:'Phillies Nation',pubDate:'2026-06-02T12:00:00Z',
+   title:"Bryce Harper heating up — carrying the offense into June",
+   description:"Harper has been the engine of this Phillies lineup all season. With the All-Star Game coming to Citizens Bank Park, he's putting on a show for the home crowd.",
+   link:'https://philliesnation.com',thumbnail:null},
+  {team:'phillies',source:'PhillyVoice',pubDate:'2026-06-01T10:00:00Z',
+   title:"Phillies rotation depth is the best in the NL East — here's why",
+   description:"Sánchez, Wheeler, Nola, Luzardo. The Phillies have four legitimate aces. No other rotation in the division comes close. This team is built to make a deep October run.",
+   link:'https://phillyvoice.com/sports',thumbnail:null},
+
+  // EAGLES
+  {team:'eagles',source:'NBC Sports Philadelphia',pubDate:'2026-06-02T18:00:00Z',
+   title:"Eagles trade A.J. Brown to Patriots — DeVonta Smith steps up as WR1",
+   description:"After months of speculation the Eagles shipped A.J. Brown to New England. DeVonta Smith is the new number one receiver. Jordan Mailata sent a bold message about what Smith will accomplish.",
+   link:'https://www.nbcsportsphiladelphia.com',thumbnail:null},
+  {team:'eagles',source:'Bleeding Green Nation',pubDate:'2026-06-03T14:00:00Z',
+   title:"Eagles OTAs: First look at the new-look offense under coordinator Sean Mannion",
+   description:"A brand new offensive system is being installed at the NovaCare Complex. The early returns from OTAs are promising. Jalen Hurts looks comfortable in the new scheme.",
+   link:'https://www.bleedinggreennation.com',thumbnail:null},
+  {team:'eagles',source:'Eagles Wire',pubDate:'2026-06-01T16:00:00Z',
+   title:"Jordan Mailata sends Jalen Hurts warning to the rest of the NFL",
+   description:"The Eagles left tackle is fired up heading into 2026. Mailata publicly backed Hurts and sent a message to anyone doubting the Birds after the AJ Brown trade.",
+   link:'https://theeagleswire.usatoday.com',thumbnail:null},
+  {team:'eagles',source:'PhillyVoice',pubDate:'2026-05-30T10:00:00Z',
+   title:"Eagles mandatory minicamp June 9-10 — who are the key storylines to watch?",
+   description:"Mandatory minicamp is the last chance to see the Eagles before training camp in late July. The biggest questions: new WR1 role, new offensive system, and how the defense looks.",
+   link:'https://phillyvoice.com/sports',thumbnail:null},
+  {team:'eagles',source:'Bleeding Green Nation',pubDate:'2026-05-28T12:00:00Z',
+   title:"Howie Roseman defends AJ Brown trade — 'We got significant value back'",
+   description:"The Eagles GM went on record defending the blockbuster deal. Philadelphia received a first-round pick in return. Roseman says the future of the roster is brighter because of it.",
+   link:'https://www.bleedinggreennation.com',thumbnail:null},
+  {team:'eagles',source:'SportsTalk Philly',pubDate:'2026-05-25T14:00:00Z',
+   title:"Eagles 2026 schedule released — toughest stretch and key games to circle",
+   description:"The full schedule is out. Monday Night Football vs Chicago, Thanksgiving at Dallas, and a brutal four-game stretch in November. Here's what the Eagles are facing.",
+   link:'https://sportstalkphilly.com',thumbnail:null},
+
+  // SIXERS
+  {team:'sixers',source:'The Sporting News',pubDate:'2026-05-29T20:00:00Z',
+   title:"Sixers front office search narrows to two candidates after Morey firing",
+   description:"The search for a new President of Basketball Operations is heating up. Led by Bob Myers, the Sixers have identified their finalists. A decision could come any day now.",
+   link:'https://www.yardbarker.com/nba/teams/philadelphia_76ers',thumbnail:null},
+  {team:'sixers',source:'Liberty Ballers',pubDate:'2026-06-03T16:00:00Z',
+   title:"NBA Draft month is here — Sixers mock draft roundup and best available targets",
+   description:"The draft is coming and the Sixers have picks to work with. Liberty Ballers breaks down every realistic target and what Philadelphia needs most to build around Embiid and Maxey.",
+   link:'https://www.libertyballers.com',thumbnail:null},
+  {team:'sixers',source:'NBC Sports Philadelphia',pubDate:'2026-05-28T14:00:00Z',
+   title:"Bob Myers and Josh Harris hold press conference — what we learned about the Sixers' direction",
+   description:"The press conference raised more questions than it answered. Embiid at $58M, George at $54M, Maxey at $41M. The margin for error this offseason is razor thin.",
+   link:'https://www.nbcsportsphiladelphia.com',thumbnail:null},
+  {team:'sixers',source:'Yardbarker',pubDate:'2026-05-27T10:00:00Z',
+   title:"Opinion: Philly fans are losing faith in Sixers ownership — and rightfully so",
+   description:"The Morey firing isn't the whole story. A growing number of fans believe ownership doesn't have a real plan. With three massive contracts locked in, the rebuild window is tiny.",
+   link:'https://www.yardbarker.com/nba/teams/philadelphia_76ers',thumbnail:null},
+  {team:'sixers',source:'Liberty Ballers',pubDate:'2026-05-25T12:00:00Z',
+   title:"Sixers draft profile: Christian Anderson has big-time offensive talent",
+   description:"If the Sixers want to add a scoring punch off the bench this is their guy. Anderson has the tools to be an impact player from day one at the next level.",
+   link:'https://www.libertyballers.com',thumbnail:null},
+  {team:'sixers',source:'PhillyVoice',pubDate:'2026-05-22T14:00:00Z',
+   title:"VJ Edgecombe's rookie season was a bright spot in a brutal Sixers year",
+   description:"While the team struggled and the front office imploded, Edgecombe quietly had one of the best rookie seasons in recent Sixers history. The future has at least one bright light.",
+   link:'https://phillyvoice.com/sports',thumbnail:null},
+
+  // FLYERS
+  {team:'flyers',source:'Broad Street Hockey',pubDate:'2026-06-04T18:00:00Z',
+   title:"Flyers eyeing 6-foot-4 forward with 'goal-scoring hands' at No. 21 in the draft",
+   description:"The Flyers front office has zeroed in on a big skilled forward with the draft pick. Philadelphia needs size and scoring up front — this prospect checks both boxes.",
+   link:'https://www.broadstreethockey.com',thumbnail:null},
+  {team:'flyers',source:'Philly Sports Network',pubDate:'2026-06-05T10:00:00Z',
+   title:"Watching Carolina in the Cup Final stings — but the Flyers future is bright",
+   description:"The Hurricanes swept the Flyers in Round 2 and now they're playing for the Cup. It hurts. But Philadelphia pushed Pittsburgh to 6 games and showed real playoff character.",
+   link:'https://phillysportsnetwork.com',thumbnail:null},
+  {team:'flyers',source:'Broad Street Hockey',pubDate:'2026-05-20T14:00:00Z',
+   title:"Flyers 2026 draft strategy — building the forward corps of the future",
+   description:"With multiple picks and cap space coming, this is one of the most important drafts in recent Flyers history. Here's the full breakdown of Philadelphia's draft board.",
+   link:'https://www.broadstreethockey.com',thumbnail:null},
+  {team:'flyers',source:'NBC Sports Philadelphia',pubDate:'2026-05-15T12:00:00Z',
+   title:"Flyers announce passing of Forbes Kennedy — a piece of Broad Street history is gone",
+   description:"The Philadelphia Flyers organization mourned the loss of Forbes Kennedy, a forward from the team's early years. The Flyers family honors his legacy.",
+   link:'https://www.nbcsportsphiladelphia.com',thumbnail:null},
+
+  // GENERAL
+  {team:'general',source:'Metro Philadelphia',pubDate:'2026-06-01T10:00:00Z',
+   title:"Philadelphia is the center of the sports universe in 2026 — World Cup, MLB All-Star, and more",
+   description:"Lincoln Financial Field hosts World Cup matches in June and July. Citizens Bank Park gets the All-Star Game. It's the biggest sports summer in Philadelphia history.",
+   link:'https://www.metrophiladelphia.com',thumbnail:null},
+  {team:'general',source:'PhillyVoice',pubDate:'2026-05-18T14:00:00Z',
+   title:"Jimmy Rollins named manager for 2026 HBCU Swingman Classic — a Philly legend gives back",
+   description:"The Phillies Hall of Famer is headlining the classic as manager. Rollins has always been connected to the community and this is another example of his commitment to Philadelphia.",
+   link:'https://phillyvoice.com/sports',thumbnail:null},
+];
+
+// ── LIVE NEWS from news.json (updated every 6 hours by GitHub Actions) ──
+const EMOJI={phillies:'⚾',eagles:'🦅',sixers:'🏀',flyers:'🏒',general:'🏟'};
+
+let allArticles=[], displayedCount=0, activeSource='all';
+let view='all', team='all', sel=null;
+const BATCH=30;
+
+function detectTeam(title,desc){
+  const t=(title+' '+desc).toLowerCase();
+  if(/phillies|harper|nola|wheeler|sanchez|sánchez|rhys|realmuto|citizen.s bank|bryce|schwarber|stott/.test(t)) return 'phillies';
+  if(/eagles|hurts|sirianni|roseman|devonta|jalen|lincoln financial|nfc east|aj brown|a\.j\. brown|mailata/.test(t)) return 'eagles';
+  if(/sixers|76ers|embiid|maxey|george|morey|wells fargo|nba draft|paul george/.test(t)) return 'sixers';
+  if(/flyers|tortorella|nhl|stanley cup/.test(t)) return 'flyers';
+  return 'general';
+}
+
+function timeSince(d){
+  const date=new Date(d);
+  if(isNaN(date)) return '';
+  const m=Math.floor((Date.now()-date)/60000);
+  if(m<60) return m+'m ago';
+  if(m<1440) return Math.floor(m/60)+'h ago';
+  return Math.floor(m/1440)+'d ago';
+}
+
+function extractImg(item){
+  if(item.thumbnail&&item.thumbnail!=='self'&&item.thumbnail.startsWith('http')) return item.thumbnail;
+  if(item.enclosure&&item.enclosure.link&&item.enclosure.link.startsWith('http')) return item.enclosure.link;
+  return null;
+}
+
+function stripHtml(s){ return (s||'').replace(/<[^>]+>/g,'').replace(/&amp;/g,'&').replace(/&nbsp;/g,' ').trim(); }
+
+function mergeAndSort(existing, fresh){
+  const seen=new Set(existing.map(a=>a.title.slice(0,60).toLowerCase()));
+  const combined=[...existing];
+  fresh.forEach(a=>{
+    if(!a.title) return;
+    const key=a.title.slice(0,60).toLowerCase();
+    if(!seen.has(key)){ seen.add(key); combined.push(a); }
+  });
+  combined.sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate));
+  return combined;
+}
+
+async function loadAllFeeds(){
+  const nc=document.getElementById('news-col');
+
+  // Show baked news immediately
+  allArticles=[...BAKED_NEWS];
+  displayedCount=0;
+  renderNews();
+
+  // Fetch live news.json (compiled by GitHub Actions)
+  try{
+    const r=await fetch('./news.json?t='+Date.now());
+    const data=await r.json();
+    if(data.articles&&data.articles.length){
+      // Map team detection for general articles
+      const mapped=data.articles.map(a=>({
+        ...a,
+        team: a.team==='general' ? detectTeam(a.title,a.description||'') : a.team,
+      }));
+      allArticles=mergeAndSort(BAKED_NEWS, mapped);
+      displayedCount=0;
+      renderNews();
+      console.log(`Loaded ${data.articles.length} live articles. Updated: ${data.updated}`);
+    }
+  }catch(e){
+    console.log('news.json not available yet — showing baked news');
+  }
+
+  // Also try a couple live RSS feeds as bonus
+  const quickFeeds=[
+    {url:'https://sportstalkphilly.com/feed',label:'SportsTalk Philly',team:'general'},
+    {url:'https://philliesnation.com/feed',label:'Phillies Nation',team:'phillies'},
+    {url:'https://bleedinggreennation.com/rss/index.xml',label:'Bleeding Green Nation',team:'eagles'},
+    {url:'https://libertyballers.com/rss/index.xml',label:'Liberty Ballers',team:'sixers'},
+    {url:'https://broadstreethockey.com/rss/index.xml',label:'Broad Street Hockey',team:'flyers'},
+  ];
+  const PROXY='https://api.rss2json.com/v1/api.json?rss_url=';
+  for(const f of quickFeeds){
+    try{
+      const r=await fetch(PROXY+encodeURIComponent(f.url)+'&count=15',{signal:AbortSignal.timeout(5000)});
+      const d=await r.json();
+      if(d.status==='ok'&&d.items){
+        const fresh=d.items.map(item=>({
+          title:stripHtml(item.title||''),
+          description:stripHtml(item.description||'').slice(0,220),
+          link:item.link||'',pubDate:item.pubDate||'',
+          thumbnail:item.thumbnail||null,enclosure:item.enclosure||null,
+          team:f.team==='general'?detectTeam(item.title,item.description||''):f.team,
+          source:f.label,
+        }));
+        if(fresh.length){
+          allArticles=mergeAndSort(allArticles,fresh);
+          displayedCount=0;
+          renderNews();
+        }
+      }
+    }catch(e){}
+  }
+}
+
+function getFiltered(){
+  let arts=allArticles;
+  if(team!=='all') arts=arts.filter(a=>a.team===team||a.team==='general');
+  if(activeSource!=='all') arts=arts.filter(a=>a.source===activeSource);
+  return arts;
+}
+
+function fbUrl(title,link){
+  const site='https://ddifab.github.io/broadstreetsports';
+  const caption=`${title} — Full coverage at Broad Street Sports 👇 ${site}`;
+  return `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(link||site)}&quote=${encodeURIComponent(caption)}`;
+}
+
+function teamPlaceholder(team, type='trending'){
+  const colors={
+    phillies:{bg:'#1c0606',accent:'#cc2222',logo:L.PHI_phillies},
+    eagles:  {bg:'#021215',accent:'#004C54',logo:L.PHI_eagles},
+    sixers:  {bg:'#010820',accent:'#003DB5',logo:L.PHI_sixers},
+    flyers:  {bg:'#160900',accent:'#cf6a00',logo:L.PHI_flyers},
+    general: {bg:'#0f0f0f',accent:'#c8a84b',logo:null},
+  };
+  const c=colors[team]||colors.general;
+  const sizes={trending:'height:195px',grid:'height:95px',list:'width:66px;height:50px;border-radius:6px'};
+  const sz=sizes[type]||sizes.trending;
+  const logoSize=type==='trending'?52:type==='grid'?32:24;
+  const logoHtml=c.logo?`<img src="${c.logo}" style="width:${logoSize}px;height:${logoSize}px;object-fit:contain;opacity:.6" alt="">`:'';
+  return `<div style="width:100%;${sz};background:${c.bg};border-bottom:2px solid ${c.accent};display:flex;align-items:center;justify-content:center;flex-direction:column;gap:8px;flex-shrink:0;">
+    ${logoHtml}
+    <div style="font-size:9px;font-weight:800;color:${c.accent};text-transform:uppercase;letter-spacing:.12em;opacity:.7">${team==='general'?'Broad St':team}</div>
+  </div>`;
+}
+
+function renderNewsCol(){
+  if(view==='scores') return;
+  const filtered=getFiltered();
+  const nc=document.getElementById('news-col');
+  if(!filtered.length){
+    nc.innerHTML=`<div style="color:var(--muted);font-size:14px;padding:2rem 0;text-align:center">No stories found.</div>`;
+    return;
+  }
+  const toShow=filtered.slice(0,Math.max(displayedCount||BATCH,BATCH));
+  displayedCount=toShow.length;
+
+
+  const[top,...rest]=toShow;
+  const grid=rest.slice(0,4);
+  const list=rest.slice(4);
+  const topImg=extractImg(top);
+  const topTeam=top.team||'general';
+
+  const sources=['all',...new Set(filtered.map(a=>a.source).filter(Boolean))];
+  let sourcesHtml='';
+  if(view==='news'){
+    sourcesHtml=`<div class="source-bar">`;
+    sources.forEach(s=>{sourcesHtml+=`<button class="source-pill${activeSource===s?' active':''}" onclick="setSource('${s}')">${s==='all'?'All sources':s}</button>`;});
+    sourcesHtml+=`</div>`;
+  }
+
+  const counts={phillies:0,eagles:0,sixers:0,flyers:0};
+  filtered.forEach(a=>{if(counts[a.team]!==undefined) counts[a.team]++;});
+  const statsHtml=`<div class="stats-bar">
+    <div class="stat-pill"><strong>${filtered.length}</strong> stories</div>
+    <div class="stat-pill">⚾ <strong>${counts.phillies}</strong></div>
+    <div class="stat-pill">🦅 <strong>${counts.eagles}</strong></div>
+    <div class="stat-pill">🏀 <strong>${counts.sixers}</strong></div>
+    <div class="stat-pill">🏒 <strong>${counts.flyers}</strong></div>
+  </div>`;
+
+  let html=statsHtml+sourcesHtml;
+  html+=`<div class="sec-label gold">Trending now</div>`;
+  html+=`<a class="trending-card" href="${top.link||'#'}" target="_blank" rel="noopener">
+    ${topImg?`<img class="trending-img" src="${topImg}" alt="" onerror="this.outerHTML=teamPlaceholder('${topTeam}','trending')">`:`${teamPlaceholder(topTeam,'trending')}`}
+    <div class="trending-overlay">
+      <div class="trending-kicker">
+        <span class="trending-source tag-${topTeam}">${top.source}</span>
+        <span class="trending-dot"></span>
+        <span class="trending-time">${timeSince(top.pubDate)}</span>
+      </div>
+      <div class="trending-headline">${top.title}</div>
+      ${top.description?`<div class="trending-blurb">${top.description.slice(0,160)}...</div>`:''}
+      <div class="trending-footer">
+        <span class="read-more">Read story →</span>
+        <button class="fb-btn" onclick="event.preventDefault();window.open('${fbUrl(top.title,top.link)}','_blank')">
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="white"><path d="M24 12.07C24 5.41 18.63 0 12 0S0 5.41 0 12.07C0 18.1 4.39 23.1 10.13 24v-8.44H7.08v-3.49h3.04V9.41c0-3.02 1.8-4.7 4.54-4.7 1.31 0 2.68.24 2.68.24v2.97h-1.51c-1.49 0-1.95.93-1.95 1.88v2.27h3.32l-.53 3.49h-2.79V24C19.61 23.1 24 18.1 24 12.07z"/></svg>
+          Share
+        </button>
+      </div>
+    </div>
+  </a>`;
+
+  if(grid.length){
+    html+=`<div class="sec-label">Latest stories</div><div class="news-grid">`;
+    grid.forEach(a=>{
+      const img=extractImg(a),t=a.team||'general';
+      html+=`<a class="news-card" href="${a.link||'#'}" target="_blank" rel="noopener">
+        ${img?`<img class="nc-img" src="${img}" alt="" onerror="this.outerHTML=teamPlaceholder('${t}','grid')">`:`${teamPlaceholder(t,'grid')}`}
+        <div class="nc-body">
+          <div class="nc-kicker"><span class="nc-source tag-${t}">${a.source}</span><span class="nc-time">${timeSince(a.pubDate)}</span></div>
+          <div class="nc-headline">${a.title}</div>
+        </div>
+      </a>`;
+    });
+    html+=`</div>`;
+  }
+
+  if(list.length){
+    html+=`<div class="sec-label">More stories</div><div class="news-list">`;
+    list.forEach(a=>{
+      const img=extractImg(a),t=a.team||'general';
+      html+=`<a class="nl-item" href="${a.link||'#'}" target="_blank" rel="noopener">
+        <div class="nl-thumb" style="${img?'':'padding:0;overflow:hidden'}">${img?`<img src="${img}" style="width:66px;height:50px;object-fit:cover;border-radius:6px" alt="" onerror="this.outerHTML=teamPlaceholder('${t}','list')">`:`${teamPlaceholder(t,'list')}`}</div>
+        <div>
+          <div class="nl-kicker"><span class="nl-source tag-${t}">${a.source}</span><span class="nl-time">${timeSince(a.pubDate)}</span></div>
+          <div class="nl-headline">${a.title}</div>
+        </div>
+      </a>`;
+    });
+    html+=`</div>`;
+  }
+
+  if(displayedCount<filtered.length){
+    html+=`<button class="load-more-btn" onclick="loadMore()">Load more — ${filtered.length-displayedCount} more stories</button>`;
+  }
+  nc.innerHTML=html;
+}
+
+function loadMore(){displayedCount=Math.min(displayedCount+BATCH,getFiltered().length);renderNews();}
+function setSource(s){activeSource=s;displayedCount=0;renderNews();}
+function setView(v,el){
+  view=v;sel=null;
+  document.querySelectorAll('.tab-row.views .nav-tab').forEach(e=>e.classList.remove('active'));
+  el.classList.add('active');render();
+}
+function setTeam(t,el){
+  team=t;sel=null;displayedCount=0;activeSource='all';
+  document.querySelectorAll('.team-btn').forEach(e=>e.classList.remove('active'));
+  el.classList.add('active');render();
+}
+function toggle(k){sel=sel===k?null:k;renderScores();}
+
+function iTag(abbr,teamKey,size=32){
+  const src=abbr==='PHI'?TEAMS[teamKey].phillyLogo:L[abbr];
+  if(!src) return `<div style="width:${size}px;height:${size}px;border-radius:50%;background:#1e1e1e;display:flex;align-items:center;justify-content:center;font-size:9px;color:#444;font-weight:700">${abbr}</div>`;
+  return `<img style="width:${size}px;height:${size}px;object-fit:contain" src="${src}" alt="${abbr}" onerror="this.style.opacity='.1'">`;
+}
+function winnerOf(s){const[a,b]=Object.keys(s);return s[a]===s[b]?null:s[a]>s[b]?a:b;}
+
+function heroCard(g,teamKey){
+  const t=TEAMS[teamKey];
+  const hSrc=g.home==='PHI'?t.phillyLogo:(L[g.home]||'');
+  const aSrc=g.away==='PHI'?t.phillyLogo:(L[g.away]||'');
+  return `<div class="hero-card ${teamKey}-hero">
+    <img class="hero-watermark" src="${t.phillyLogo}" alt="">
+    <div class="hero-badge ${teamKey}">⚡ Next game · ${t.league}</div>
+    <div class="hero-matchup">
+      <div class="hero-team"><img class="hero-logo" src="${hSrc}" alt="${g.home}" onerror="this.style.opacity='.1'"><span class="hero-abbr${g.home==='PHI'?' philly':''}">${g.home}</span></div>
+      <div class="hero-center"><span class="hero-vs">VS</span><span class="hero-time">${g.time}</span><span class="hero-date">${g.date}</span></div>
+      <div class="hero-team"><img class="hero-logo" src="${aSrc}" alt="${g.away}" onerror="this.style.opacity='.1'"><span class="hero-abbr${g.away==='PHI'?' philly':''}">${g.away}</span></div>
+    </div>
+  </div>`;
+}
+
+function scoreCard(g,teamKey,key){
+  const t=TEAMS[teamKey],isSel=sel===key,hasScore=!!g.scores;
+  const w=hasScore?winnerOf(g.scores):null,homeWon=w===g.home,phillyWon=w==='PHI';
+  const hs=hasScore?g.scores[g.home]:null,as_=hasScore?g.scores[g.away]:null;
+  const meta=g.label||'',barClass=hasScore?(phillyWon?'win':'loss'):'neutral';
+  const exp=isSel&&hasScore?`<div class="expand-panel">
+    <div class="expand-row"><span class="lbl">Date</span><span class="val">${g.date}${meta?' · '+meta:''}</span></div>
+    <div class="expand-row"><span class="lbl">Final</span><span class="val">${g.home} ${hs} – ${as_} ${g.away}</span></div>
+    <div class="expand-row"><span class="lbl">Result</span><span class="val ${phillyWon?'win-val':'loss-val'}">${phillyWon?'✓ Win':'✗ Loss'}</span></div>
+  </div>`:'';
+  return `<div class="score-card${isSel?' selected':''}" onclick="toggle('${key}')">
+    <div class="side-bar ${barClass}"></div>
+    <div class="card-meta"><span class="league-tag">${t.league}${meta?' · '+meta:''} · ${g.date}</span>${hasScore?`<span class="status-pill pill-final">Final</span>`:`<span class="status-pill pill-upcoming">${g.time||'Upcoming'}</span>`}</div>
+    <div class="matchup">
+      <div class="team-side">${iTag(g.home,teamKey)}<div class="team-info"><span class="team-abbr${g.home==='PHI'?' philly':''}">${g.home}</span></div></div>
+      <div class="score-center">${hasScore?`<div class="scores"><span class="score-num${!homeWon?' dim':''}">${hs}</span><span class="score-sep">–</span><span class="score-num${homeWon?' dim':''}">${as_}</span></div>`:`<span style="font-size:11px;color:var(--muted);font-weight:700">VS</span>`}</div>
+      <div class="team-side away">${iTag(g.away,teamKey)}<div class="team-info"><span class="team-abbr${g.away==='PHI'?' philly':''}">${g.away}</span></div></div>
+    </div>${exp}
+  </div>`;
+}
+
+function offCard(teamKey){
+  const t=TEAMS[teamKey],emoji=EMOJI[teamKey],name=teamKey[0].toUpperCase()+teamKey.slice(1),next=t.upcoming[0];
+  return `<div class="off-card"><div class="off-left"><img class="off-logo" src="${t.phillyLogo}" alt="${name}" onerror="this.style.opacity='.1'"><div><div class="off-name">${emoji} ${name}</div><div class="off-note">${t.note}</div></div></div>${next?`<div class="off-next">Next: ${next.home} vs ${next.away}<br>${next.date} · ${next.time}</div>`:''}</div>`;
+}
+
+function renderScores(){
+  const sc=document.getElementById('scores-col');
+  if(view==='news'){sc.style.display='none';return;}
+  sc.style.display='block';
+  const today=new Date().toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'});
+  let h=`<div class="scores-header"><span class="scores-header-label">Scores</span><span class="scores-header-date">${today}</span></div>`;
+  if(team==='all'){
+    const next=TEAMS.phillies.upcoming[0];
+    if(next) h+=heroCard(next,'phillies');
+    h+=`<div class="sec-label">Recent results</div>`;
+    TEAMS.phillies.recent.slice(0,3).forEach((g,i)=>h+=scoreCard(g,'phillies',`phillies_re_${i}`));
+    h+=`<div class="sec-label" style="margin-top:20px">Off-season</div>`;
+    ['eagles','sixers','flyers'].forEach(t=>h+=offCard(t));
+  }else{
+    const t=TEAMS[team];
+    if(!t.active&&t.note) h+=`<div style="font-size:12px;color:var(--muted);padding:9px 13px;background:var(--surface);border:1px solid var(--border);border-radius:9px;margin-bottom:12px;">${t.note}</div>`;
+    if(t.upcoming.length){
+      h+=`<div class="sec-label">Upcoming</div>`;
+      if(t.active) h+=heroCard(t.upcoming[0],team);
+      t.upcoming.slice(t.active?1:0).forEach((g,i)=>h+=scoreCard(g,team,`${team}_up_${i}`));
+    }
+    if(t.recent.length){
+      h+=`<div class="sec-label" style="margin-top:${t.upcoming.length?'20px':'0'}">Recent results</div>`;
+      t.recent.forEach((g,i)=>h+=scoreCard(g,team,`${team}_re_${i}`));
+    }
+  }
+  sc.innerHTML=h;
+}
+
+function renderNews(){
+  const nc=document.getElementById('news-col');
+  if(view==='scores'){nc.style.display='none';return;}
+  nc.style.display='block';
+  if(view==='news'){
+    nc.style.gridColumn='1 / -1';
+    document.getElementById('scores-col').style.display='none';
+  }else{
+    nc.style.gridColumn='2';
+  }
+  renderNewsCol();
+}
+
+function render(){renderScores();renderNews();}
+
+render();
+loadAllFeeds();
+</script>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="f-logo">Broad St</div>
+      <p>Philadelphia's home for Eagles, Phillies, Sixers, and Flyers coverage. Built for Philly fans, by Philly fans. Every game. Every story. One city.</p>
+    </div>
+    <div class="footer-links">
+      <a href="#">All Teams</a>
+      <a href="#">Phillies</a>
+      <a href="#">Eagles</a>
+      <a href="#">Sixers</a>
+      <a href="#">Flyers</a>
+    </div>
+    <div class="footer-links">
+      <a href="#">Scores</a>
+      <a href="#">News</a>
+      <a href="#">About</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>© 2026 Broad Street Sports · Philadelphia, PA · 215 Forever</p>
+    <div class="footer-teams">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/phi.png&h=40&w=40" alt="Phillies">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/phi.png&h=40&w=40" alt="Eagles">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phi.png&h=40&w=40" alt="Sixers">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/phi.png&h=40&w=40" alt="Flyers">
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>  <!-- Philadelphia skyline SVG background -->
+  <svg class="skyline-svg" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMax slice">
+    <defs>
+      <linearGradient id="fadeUp" x1="0" y1="1" x2="0" y2="0">
+        <stop offset="0%" stop-color="#0f0f0f" stop-opacity="1"/>
+        <stop offset="60%" stop-color="#0f0f0f" stop-opacity="0.4"/>
+        <stop offset="100%" stop-color="#0f0f0f" stop-opacity="0"/>
+      </linearGradient>
+      <linearGradient id="fadeSides" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#0f0f0f" stop-opacity="1"/>
+        <stop offset="15%" stop-color="#0f0f0f" stop-opacity="0"/>
+        <stop offset="85%" stop-color="#0f0f0f" stop-opacity="0"/>
+        <stop offset="100%" stop-color="#0f0f0f" stop-opacity="1"/>
+      </linearGradient>
+    </defs>
+
+    <!-- Far background buildings -->
+    <g fill="#2a2a2a">
+      <rect x="0" y="140" width="50" height="80"/>
+      <rect x="54" y="125" width="35" height="95"/>
+      <rect x="92" y="148" width="28" height="72"/>
+      <rect x="124" y="132" width="40" height="88"/>
+      <rect x="168" y="155" width="22" height="65"/>
+      <rect x="194" y="138" width="32" height="82"/>
+      <rect x="1000" y="138" width="45" height="82"/>
+      <rect x="1048" y="122" width="33" height="98"/>
+      <rect x="1084" y="146" width="26" height="74"/>
+      <rect x="1114" y="130" width="38" height="90"/>
+      <rect x="1156" y="152" width="22" height="68"/>
+    </g>
+
+    <!-- Mid-ground buildings -->
+    <g fill="#333">
+      <rect x="20" y="105" width="48" height="115"/>
+      <rect x="72" y="88" width="38" height="132"/>
+      <rect x="114" y="112" width="30" height="108"/>
+      <rect x="148" y="96" width="44" height="124"/>
+      <rect x="196" y="120" width="26" height="100"/>
+      <rect x="226" y="100" width="36" height="120"/>
+      <rect x="960" y="100" width="38" height="120"/>
+      <rect x="1002" y="85" width="46" height="135"/>
+      <rect x="1052" y="108" width="30" height="112"/>
+      <rect x="1086" y="95" width="42" height="125"/>
+      <rect x="1132" y="118" width="28" height="102"/>
+      <rect x="1164" y="98" width="36" height="122"/>
+    </g>
+
+    <!-- ONE LIBERTY PLACE — tall left-of-center with spire -->
+    <g fill="#3e3e3e">
+      <rect x="268" y="55" width="60" height="165"/>
+      <rect x="276" y="40" width="44" height="18"/>
+      <rect x="284" y="24" width="28" height="18"/>
+      <rect x="291" y="8" width="14" height="18"/>
+      <rect x="296" y="0" width="4" height="12"/>
+      <!-- window columns -->
+      <rect x="272" y="60" width="4" height="155" fill="#252525"/>
+      <rect x="282" y="60" width="4" height="155" fill="#252525"/>
+      <rect x="292" y="60" width="4" height="155" fill="#252525"/>
+      <rect x="302" y="60" width="4" height="155" fill="#252525"/>
+      <rect x="312" y="60" width="4" height="155" fill="#252525"/>
+      <rect x="322" y="60" width="4" height="155" fill="#252525"/>
+    </g>
+
+    <!-- TWO LIBERTY PLACE -->
+    <g fill="#383838">
+      <rect x="338" y="78" width="52" height="142"/>
+      <rect x="345" y="62" width="38" height="18"/>
+      <rect x="352" y="46" width="24" height="18"/>
+      <rect x="358" y="30" width="12" height="18"/>
+      <rect x="362" y="18" width="4" height="14"/>
+    </g>
+
+    <!-- CITY HALL — dead center, most prominent -->
+    <g fill="#444">
+      <!-- Main block -->
+      <rect x="530" y="90" width="140" height="130"/>
+      <!-- Interior courtyard hints -->
+      <rect x="548" y="95" width="20" height="120" fill="#333"/>
+      <rect x="632" y="95" width="20" height="120" fill="#333"/>
+      <!-- Clock tower base -->
+      <rect x="568" y="54" width="64" height="40"/>
+      <!-- Clock tower mid -->
+      <rect x="576" y="32" width="48" height="24"/>
+      <!-- Clock tower upper -->
+      <rect x="584" y="16" width="32" height="18"/>
+      <!-- Dome base -->
+      <rect x="590" y="8" width="20" height="10"/>
+      <!-- Dome -->
+      <ellipse cx="600" cy="7" rx="14" ry="9"/>
+      <!-- William Penn -->
+      <rect x="597" y="0" width="6" height="10"/>
+      <ellipse cx="600" cy="0" rx="5" ry="3.5"/>
+      <!-- Arch windows -->
+      <rect x="548" y="118" width="20" height="28" rx="10" fill="#2a2a2a"/>
+      <rect x="576" y="118" width="20" height="28" rx="10" fill="#2a2a2a"/>
+      <rect x="604" y="118" width="20" height="28" rx="10" fill="#2a2a2a"/>
+      <rect x="632" y="118" width="20" height="28" rx="10" fill="#2a2a2a"/>
+      <!-- Upper windows -->
+      <rect x="544" y="96" width="10" height="14" fill="#2a2a2a"/>
+      <rect x="560" y="96" width="10" height="14" fill="#2a2a2a"/>
+      <rect x="630" y="96" width="10" height="14" fill="#2a2a2a"/>
+      <rect x="646" y="96" width="10" height="14" fill="#2a2a2a"/>
+    </g>
+
+    <!-- COMCAST CENTER -->
+    <g fill="#3a3a3a">
+      <rect x="705" y="48" width="52" height="172"/>
+      <rect x="711" y="40" width="40" height="10"/>
+      <rect x="717" y="32" width="28" height="10"/>
+      <rect x="723" y="22" width="16" height="12"/>
+      <rect x="728" y="12" width="6" height="12"/>
+      <rect x="709" y="52" width="4" height="165" fill="#2a2a2a"/>
+      <rect x="717" y="52" width="4" height="165" fill="#2a2a2a"/>
+      <rect x="725" y="52" width="4" height="165" fill="#2a2a2a"/>
+      <rect x="733" y="52" width="4" height="165" fill="#2a2a2a"/>
+      <rect x="741" y="52" width="4" height="165" fill="#2a2a2a"/>
+      <rect x="749" y="52" width="4" height="165" fill="#2a2a2a"/>
+    </g>
+
+    <!-- CIRA CENTRE -->
+    <g fill="#383838">
+      <rect x="772" y="72" width="46" height="148"/>
+      <rect x="778" y="60" width="34" height="14"/>
+      <rect x="784" y="48" width="22" height="14"/>
+      <polygon points="789,32 795,48 783,48" fill="#383838"/>
+      <rect x="793" y="28" width="4" height="6"/>
+    </g>
+
+    <!-- Right cluster -->
+    <g fill="#363636">
+      <rect x="830" y="82" width="40" height="138"/>
+      <rect x="874" y="95" width="32" height="125"/>
+      <rect x="910" y="76" width="46" height="144"/>
+      <rect x="910" y="60" width="36" height="18"/>
+      <rect x="918" y="45" width="20" height="17"/>
+    </g>
+
+    <!-- Gold accent line at ground -->
+    <rect x="0" y="217" width="1200" height="2" fill="#c8a84b" opacity="0.3"/>
+
+    <!-- Fade from bottom (ground) upward so skyline blends into dark bg -->
+    <rect x="0" y="0" width="1200" height="220" fill="url(#fadeUp)"/>
+    <!-- Fade sides -->
+    <rect x="0" y="0" width="1200" height="220" fill="url(#fadeSides)"/>
+  </svg>
+
+    <div class="hero-banner-inner">
+    <div class="hero-left">
+      <h1>Every Game.<br><span>Every Story.</span><br>One City.</h1>
+      <div class="hero-tagline">Philadelphia Eagles · Phillies · <strong>76ers</strong> · Flyers</div>
+    </div>
+    <div class="hero-right">
+      <div class="hero-stat">
+        <div class="hero-stat-num">4</div>
+        <div class="hero-stat-label">Teams</div>
+      </div>
+
+      <div class="hero-stat">
+        <div class="hero-stat-num">215</div>
+        <div class="hero-stat-label">Forever</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="nav-wrap">
+  <div class="tab-row views">
+    <span class="row-label">View</span>
+    <button class="nav-tab active" onclick="setView('all',this)">All</button>
+    <button class="nav-tab" onclick="setView('scores',this)">Scores</button>
+    <button class="nav-tab" onclick="setView('news',this)">News</button>
+  </div>
+  <div class="team-btn-row">
+    <button class="team-btn active" onclick="setTeam('all',this)">
+      <span class="team-btn-label">All Teams</span>
+    </button>
+    <button class="team-btn phillies-btn" onclick="setTeam('phillies',this)">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/phi.png&h=40&w=40" alt="Phillies">
+      <span class="team-btn-label">Phillies</span>
+    </button>
+    <button class="team-btn eagles-btn" onclick="setTeam('eagles',this)">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/phi.png&h=40&w=40" alt="Eagles">
+      <span class="team-btn-label">Eagles</span>
+    </button>
+    <button class="team-btn sixers-btn" onclick="setTeam('sixers',this)">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phi.png&h=40&w=40" alt="Sixers">
+      <span class="team-btn-label">Sixers</span>
+    </button>
+    <button class="team-btn flyers-btn" onclick="setTeam('flyers',this)">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/phi.png&h=40&w=40" alt="Flyers">
+      <span class="team-btn-label">Flyers</span>
+    </button>
+  </div>
+</div>
+
+<div class="page">
+  <div class="scores-col" id="scores-col"></div>
+  <div class="news-col" id="news-col">
+    <div style="display:flex;flex-direction:column;gap:12px;padding-top:4px;">
+      <div class="skel" style="height:200px;border-radius:16px;"></div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;">
+        <div class="skel" style="height:160px;"></div>
+        <div class="skel" style="height:160px;"></div>
+        <div class="skel" style="height:160px;"></div>
+        <div class="skel" style="height:160px;"></div>
+      </div>
+      <div class="skel" style="height:60px;"></div>
+      <div class="skel" style="height:60px;"></div>
+      <div class="skel" style="height:60px;"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+const L={
+  PHI_phillies:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/phi.png&h=80&w=80',
+  PHI_eagles:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/phi.png&h=80&w=80',
+  PHI_sixers:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phi.png&h=80&w=80',
+  PHI_flyers:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/phi.png&h=80&w=80',
+  BAL:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/bal.png&h=80&w=80',
+  NE:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ne.png&h=80&w=80',
+  WAS:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/wsh.png&h=80&w=80',
+  SF:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/sf.png&h=80&w=80',
+  BUF:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/buf.png&h=80&w=80',
+  NYK:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ny.png&h=80&w=80',
+  BOS:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/bos.png&h=80&w=80',
+  CWS:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/cws.png&h=80&w=80',
+  SD:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sd.png&h=80&w=80',
+  TOR:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tor.png&h=80&w=80',
+  MIL:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/mil.png&h=80&w=80',
+  CAR:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/car.png&h=80&w=80',
+  PIT:'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/pit.png&h=80&w=80',
+};
+
+const TEAMS={
+  phillies:{league:'MLB',active:true,phillyLogo:L.PHI_phillies,
+    recent:[
+      {date:'Jun 6',home:'PHI',away:'CWS',scores:{PHI:3,CWS:6}},
+      {date:'Jun 5',home:'PHI',away:'CWS',scores:{PHI:8,CWS:6}},
+      {date:'Jun 4',home:'PHI',away:'SD',scores:{PHI:6,SD:4}},
+    ],
+    upcoming:[
+      {date:'Jun 7',time:'1:35 PM',home:'PHI',away:'CWS'},
+      {date:'Jun 8',time:'7:07 PM',home:'TOR',away:'PHI'},
+      {date:'Jun 9',time:'7:07 PM',home:'TOR',away:'PHI'},
+      {date:'Jun 10',time:'7:07 PM',home:'TOR',away:'PHI'},
+      {date:'Jun 12',time:'7:40 PM',home:'MIL',away:'PHI'},
+    ]},
+  sixers:{league:'NBA',active:false,note:'Off-season · Eliminated R2 by NYK (0–4)',phillyLogo:L.PHI_sixers,
+    recent:[
+      {date:'May 10',label:'R2 G4',home:'PHI',away:'NYK',scores:{PHI:114,NYK:144}},
+      {date:'May 2',label:'R1 G7',home:'BOS',away:'PHI',scores:{PHI:109,BOS:100}},
+    ],upcoming:[]},
+  flyers:{league:'NHL',active:false,note:'Off-season · Eliminated R2 by CAR (0–4)',phillyLogo:L.PHI_flyers,
+    recent:[
+      {date:'May 9',label:'R2 G4',home:'PHI',away:'CAR',scores:{PHI:2,CAR:3}},
+      {date:'Apr 29',label:'R1 G6',home:'PHI',away:'PIT',scores:{PHI:1,PIT:0}},
+    ],upcoming:[]},
+  eagles:{league:'NFL',active:false,note:'Off-season · Preseason starts Aug 15',phillyLogo:L.PHI_eagles,
+    recent:[
+      {date:'Jan 11',label:'Wild Card',home:'PHI',away:'SF',scores:{PHI:19,SF:23}},
+      {date:'Dec 28',home:'BUF',away:'PHI',scores:{PHI:13,BUF:12}},
+    ],
+    upcoming:[
+      {date:'Aug 15',time:'7:00 PM',home:'BAL',away:'PHI'},
+      {date:'Sep 13',time:'4:25 PM',home:'PHI',away:'WAS'},
+    ]},
+};
+
+// ── BAKED-IN NEWS — always loads instantly, sourced from real current Philly sports stories ──
+const BAKED_NEWS = [
+  // PHILLIES
+  {team:'phillies',source:'Philadelphia Inquirer',pubDate:'2026-06-04T20:00:00Z',
+   title:"Sánchez's historic 50⅔-inning scoreless streak ends — Philly gives him a standing ovation",
+   description:"Cristopher Sánchez finally surrendered a run against the Padres, snapping the longest scoreless streak in Phillies history. The 5th-longest in MLB history since 1893. Fans gave him a standing ovation for giving up a run. Only in Philly.",
+   link:'https://www.inquirer.com/phillies/cristopher-sanchez-mlb-record-scoreless-innings-lefty-pitcher-carl-hubbell-20260603.html',
+   thumbnail:null},
+  {team:'phillies',source:'MLB.com',pubDate:'2026-06-03T18:00:00Z',
+   title:'All-Star Game voting opens — which Phillies deserve a trip to Citizens Bank Park?',
+   description:"The 2026 MLB All-Star Game comes to Citizens Bank Park this July. Voting is open now. Sánchez, Harper, and Schwarber are the frontrunners. Philly fans need to show up for the ballot.",
+   link:'https://www.mlb.com/phillies',thumbnail:null},
+  {team:'phillies',source:'Phillies Nation',pubDate:'2026-06-05T14:00:00Z',
+   title:"Phillies rally past White Sox for 4th straight win — bats are waking up",
+   description:"Philadelphia is on a roll. Four straight wins heading into a Toronto road trip. The offense is finally clicking alongside the pitching staff. Red October vibes are building early.",
+   link:'https://philliesnation.com',thumbnail:null},
+  {team:'phillies',source:'NBC Sports Philadelphia',pubDate:'2026-06-04T16:00:00Z',
+   title:"Cristopher Sánchez signs 6-year $107M extension — Phillies lock up their ace",
+   description:"After proving he was severely underpaid on his previous deal, the Phillies rewarded Sánchez with a massive extension through 2032. The best pitcher in Phillies history just got paid like it.",
+   link:'https://www.nbcsportsphiladelphia.com',thumbnail:null},
+  {team:'phillies',source:'Phillies Nation',pubDate:'2026-06-02T12:00:00Z',
+   title:"Bryce Harper heating up — carrying the offense into June",
+   description:"Harper has been the engine of this Phillies lineup all season. With the All-Star Game coming to Citizens Bank Park, he's putting on a show for the home crowd.",
+   link:'https://philliesnation.com',thumbnail:null},
+  {team:'phillies',source:'PhillyVoice',pubDate:'2026-06-01T10:00:00Z',
+   title:"Phillies rotation depth is the best in the NL East — here's why",
+   description:"Sánchez, Wheeler, Nola, Luzardo. The Phillies have four legitimate aces. No other rotation in the division comes close. This team is built to make a deep October run.",
+   link:'https://phillyvoice.com/sports',thumbnail:null},
+
+  // EAGLES
+  {team:'eagles',source:'NBC Sports Philadelphia',pubDate:'2026-06-02T18:00:00Z',
+   title:"Eagles trade A.J. Brown to Patriots — DeVonta Smith steps up as WR1",
+   description:"After months of speculation the Eagles shipped A.J. Brown to New England. DeVonta Smith is the new number one receiver. Jordan Mailata sent a bold message about what Smith will accomplish.",
+   link:'https://www.nbcsportsphiladelphia.com',thumbnail:null},
+  {team:'eagles',source:'Bleeding Green Nation',pubDate:'2026-06-03T14:00:00Z',
+   title:"Eagles OTAs: First look at the new-look offense under coordinator Sean Mannion",
+   description:"A brand new offensive system is being installed at the NovaCare Complex. The early returns from OTAs are promising. Jalen Hurts looks comfortable in the new scheme.",
+   link:'https://www.bleedinggreennation.com',thumbnail:null},
+  {team:'eagles',source:'Eagles Wire',pubDate:'2026-06-01T16:00:00Z',
+   title:"Jordan Mailata sends Jalen Hurts warning to the rest of the NFL",
+   description:"The Eagles left tackle is fired up heading into 2026. Mailata publicly backed Hurts and sent a message to anyone doubting the Birds after the AJ Brown trade.",
+   link:'https://theeagleswire.usatoday.com',thumbnail:null},
+  {team:'eagles',source:'PhillyVoice',pubDate:'2026-05-30T10:00:00Z',
+   title:"Eagles mandatory minicamp June 9-10 — who are the key storylines to watch?",
+   description:"Mandatory minicamp is the last chance to see the Eagles before training camp in late July. The biggest questions: new WR1 role, new offensive system, and how the defense looks.",
+   link:'https://phillyvoice.com/sports',thumbnail:null},
+  {team:'eagles',source:'Bleeding Green Nation',pubDate:'2026-05-28T12:00:00Z',
+   title:"Howie Roseman defends AJ Brown trade — 'We got significant value back'",
+   description:"The Eagles GM went on record defending the blockbuster deal. Philadelphia received a first-round pick in return. Roseman says the future of the roster is brighter because of it.",
+   link:'https://www.bleedinggreennation.com',thumbnail:null},
+  {team:'eagles',source:'SportsTalk Philly',pubDate:'2026-05-25T14:00:00Z',
+   title:"Eagles 2026 schedule released — toughest stretch and key games to circle",
+   description:"The full schedule is out. Monday Night Football vs Chicago, Thanksgiving at Dallas, and a brutal four-game stretch in November. Here's what the Eagles are facing.",
+   link:'https://sportstalkphilly.com',thumbnail:null},
+
+  // SIXERS
+  {team:'sixers',source:'The Sporting News',pubDate:'2026-05-29T20:00:00Z',
+   title:"Sixers front office search narrows to two candidates after Morey firing",
+   description:"The search for a new President of Basketball Operations is heating up. Led by Bob Myers, the Sixers have identified their finalists. A decision could come any day now.",
+   link:'https://www.yardbarker.com/nba/teams/philadelphia_76ers',thumbnail:null},
+  {team:'sixers',source:'Liberty Ballers',pubDate:'2026-06-03T16:00:00Z',
+   title:"NBA Draft month is here — Sixers mock draft roundup and best available targets",
+   description:"The draft is coming and the Sixers have picks to work with. Liberty Ballers breaks down every realistic target and what Philadelphia needs most to build around Embiid and Maxey.",
+   link:'https://www.libertyballers.com',thumbnail:null},
+  {team:'sixers',source:'NBC Sports Philadelphia',pubDate:'2026-05-28T14:00:00Z',
+   title:"Bob Myers and Josh Harris hold press conference — what we learned about the Sixers' direction",
+   description:"The press conference raised more questions than it answered. Embiid at $58M, George at $54M, Maxey at $41M. The margin for error this offseason is razor thin.",
+   link:'https://www.nbcsportsphiladelphia.com',thumbnail:null},
+  {team:'sixers',source:'Yardbarker',pubDate:'2026-05-27T10:00:00Z',
+   title:"Opinion: Philly fans are losing faith in Sixers ownership — and rightfully so",
+   description:"The Morey firing isn't the whole story. A growing number of fans believe ownership doesn't have a real plan. With three massive contracts locked in, the rebuild window is tiny.",
+   link:'https://www.yardbarker.com/nba/teams/philadelphia_76ers',thumbnail:null},
+  {team:'sixers',source:'Liberty Ballers',pubDate:'2026-05-25T12:00:00Z',
+   title:"Sixers draft profile: Christian Anderson has big-time offensive talent",
+   description:"If the Sixers want to add a scoring punch off the bench this is their guy. Anderson has the tools to be an impact player from day one at the next level.",
+   link:'https://www.libertyballers.com',thumbnail:null},
+  {team:'sixers',source:'PhillyVoice',pubDate:'2026-05-22T14:00:00Z',
+   title:"VJ Edgecombe's rookie season was a bright spot in a brutal Sixers year",
+   description:"While the team struggled and the front office imploded, Edgecombe quietly had one of the best rookie seasons in recent Sixers history. The future has at least one bright light.",
+   link:'https://phillyvoice.com/sports',thumbnail:null},
+
+  // FLYERS
+  {team:'flyers',source:'Broad Street Hockey',pubDate:'2026-06-04T18:00:00Z',
+   title:"Flyers eyeing 6-foot-4 forward with 'goal-scoring hands' at No. 21 in the draft",
+   description:"The Flyers front office has zeroed in on a big skilled forward with the draft pick. Philadelphia needs size and scoring up front — this prospect checks both boxes.",
+   link:'https://www.broadstreethockey.com',thumbnail:null},
+  {team:'flyers',source:'Philly Sports Network',pubDate:'2026-06-05T10:00:00Z',
+   title:"Watching Carolina in the Cup Final stings — but the Flyers future is bright",
+   description:"The Hurricanes swept the Flyers in Round 2 and now they're playing for the Cup. It hurts. But Philadelphia pushed Pittsburgh to 6 games and showed real playoff character.",
+   link:'https://phillysportsnetwork.com',thumbnail:null},
+  {team:'flyers',source:'Broad Street Hockey',pubDate:'2026-05-20T14:00:00Z',
+   title:"Flyers 2026 draft strategy — building the forward corps of the future",
+   description:"With multiple picks and cap space coming, this is one of the most important drafts in recent Flyers history. Here's the full breakdown of Philadelphia's draft board.",
+   link:'https://www.broadstreethockey.com',thumbnail:null},
+  {team:'flyers',source:'NBC Sports Philadelphia',pubDate:'2026-05-15T12:00:00Z',
+   title:"Flyers announce passing of Forbes Kennedy — a piece of Broad Street history is gone",
+   description:"The Philadelphia Flyers organization mourned the loss of Forbes Kennedy, a forward from the team's early years. The Flyers family honors his legacy.",
+   link:'https://www.nbcsportsphiladelphia.com',thumbnail:null},
+
+  // GENERAL
+  {team:'general',source:'Metro Philadelphia',pubDate:'2026-06-01T10:00:00Z',
+   title:"Philadelphia is the center of the sports universe in 2026 — World Cup, MLB All-Star, and more",
+   description:"Lincoln Financial Field hosts World Cup matches in June and July. Citizens Bank Park gets the All-Star Game. It's the biggest sports summer in Philadelphia history.",
+   link:'https://www.metrophiladelphia.com',thumbnail:null},
+  {team:'general',source:'PhillyVoice',pubDate:'2026-05-18T14:00:00Z',
+   title:"Jimmy Rollins named manager for 2026 HBCU Swingman Classic — a Philly legend gives back",
+   description:"The Phillies Hall of Famer is headlining the classic as manager. Rollins has always been connected to the community and this is another example of his commitment to Philadelphia.",
+   link:'https://phillyvoice.com/sports',thumbnail:null},
+];
+
+// ── LIVE NEWS from news.json (updated every 6 hours by GitHub Actions) ──
+const EMOJI={phillies:'⚾',eagles:'🦅',sixers:'🏀',flyers:'🏒',general:'🏟'};
+
+let allArticles=[], displayedCount=0, activeSource='all';
+let view='all', team='all', sel=null;
+const BATCH=30;
+
+function detectTeam(title,desc){
+  const t=(title+' '+desc).toLowerCase();
+  if(/phillies|harper|nola|wheeler|sanchez|sánchez|rhys|realmuto|citizen.s bank|bryce|schwarber|stott/.test(t)) return 'phillies';
+  if(/eagles|hurts|sirianni|roseman|devonta|jalen|lincoln financial|nfc east|aj brown|a\.j\. brown|mailata/.test(t)) return 'eagles';
+  if(/sixers|76ers|embiid|maxey|george|morey|wells fargo|nba draft|paul george/.test(t)) return 'sixers';
+  if(/flyers|tortorella|nhl|stanley cup/.test(t)) return 'flyers';
+  return 'general';
+}
+
+function timeSince(d){
+  const date=new Date(d);
+  if(isNaN(date)) return '';
+  const m=Math.floor((Date.now()-date)/60000);
+  if(m<60) return m+'m ago';
+  if(m<1440) return Math.floor(m/60)+'h ago';
+  return Math.floor(m/1440)+'d ago';
+}
+
+function extractImg(item){
+  if(item.thumbnail&&item.thumbnail!=='self'&&item.thumbnail.startsWith('http')) return item.thumbnail;
+  if(item.enclosure&&item.enclosure.link&&item.enclosure.link.startsWith('http')) return item.enclosure.link;
+  return null;
+}
+
+function stripHtml(s){ return (s||'').replace(/<[^>]+>/g,'').replace(/&amp;/g,'&').replace(/&nbsp;/g,' ').trim(); }
+
+function mergeAndSort(existing, fresh){
+  const seen=new Set(existing.map(a=>a.title.slice(0,60).toLowerCase()));
+  const combined=[...existing];
+  fresh.forEach(a=>{
+    if(!a.title) return;
+    const key=a.title.slice(0,60).toLowerCase();
+    if(!seen.has(key)){ seen.add(key); combined.push(a); }
+  });
+  combined.sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate));
+  return combined;
+}
+
+async function loadAllFeeds(){
+  const nc=document.getElementById('news-col');
+
+  // Show baked news immediately
+  allArticles=[...BAKED_NEWS];
+  displayedCount=0;
+  renderNews();
+
+  // Fetch live news.json (compiled by GitHub Actions)
+  try{
+    const r=await fetch('./news.json?t='+Date.now());
+    const data=await r.json();
+    if(data.articles&&data.articles.length){
+      // Map team detection for general articles
+      const mapped=data.articles.map(a=>({
+        ...a,
+        team: a.team==='general' ? detectTeam(a.title,a.description||'') : a.team,
+      }));
+      allArticles=mergeAndSort(BAKED_NEWS, mapped);
+      displayedCount=0;
+      renderNews();
+      console.log(`Loaded ${data.articles.length} live articles. Updated: ${data.updated}`);
+    }
+  }catch(e){
+    console.log('news.json not available yet — showing baked news');
+  }
+
+  // Also try a couple live RSS feeds as bonus
+  const quickFeeds=[
+    {url:'https://sportstalkphilly.com/feed',label:'SportsTalk Philly',team:'general'},
+    {url:'https://philliesnation.com/feed',label:'Phillies Nation',team:'phillies'},
+    {url:'https://bleedinggreennation.com/rss/index.xml',label:'Bleeding Green Nation',team:'eagles'},
+    {url:'https://libertyballers.com/rss/index.xml',label:'Liberty Ballers',team:'sixers'},
+    {url:'https://broadstreethockey.com/rss/index.xml',label:'Broad Street Hockey',team:'flyers'},
+  ];
+  const PROXY='https://api.rss2json.com/v1/api.json?rss_url=';
+  for(const f of quickFeeds){
+    try{
+      const r=await fetch(PROXY+encodeURIComponent(f.url)+'&count=15',{signal:AbortSignal.timeout(5000)});
+      const d=await r.json();
+      if(d.status==='ok'&&d.items){
+        const fresh=d.items.map(item=>({
+          title:stripHtml(item.title||''),
+          description:stripHtml(item.description||'').slice(0,220),
+          link:item.link||'',pubDate:item.pubDate||'',
+          thumbnail:item.thumbnail||null,enclosure:item.enclosure||null,
+          team:f.team==='general'?detectTeam(item.title,item.description||''):f.team,
+          source:f.label,
+        }));
+        if(fresh.length){
+          allArticles=mergeAndSort(allArticles,fresh);
+          displayedCount=0;
+          renderNews();
+        }
+      }
+    }catch(e){}
+  }
+}
+
+function getFiltered(){
+  let arts=allArticles;
+  if(team!=='all') arts=arts.filter(a=>a.team===team||a.team==='general');
+  if(activeSource!=='all') arts=arts.filter(a=>a.source===activeSource);
+  return arts;
+}
+
+function fbUrl(title,link){
+  const site='https://ddifab.github.io/broadstreetsports';
+  const caption=`${title} — Full coverage at Broad Street Sports 👇 ${site}`;
+  return `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(link||site)}&quote=${encodeURIComponent(caption)}`;
+}
+
+function teamPlaceholder(team, type='trending'){
+  const colors={
+    phillies:{bg:'#1c0606',accent:'#cc2222',logo:L.PHI_phillies},
+    eagles:  {bg:'#021215',accent:'#004C54',logo:L.PHI_eagles},
+    sixers:  {bg:'#010820',accent:'#003DB5',logo:L.PHI_sixers},
+    flyers:  {bg:'#160900',accent:'#cf6a00',logo:L.PHI_flyers},
+    general: {bg:'#0f0f0f',accent:'#c8a84b',logo:null},
+  };
+  const c=colors[team]||colors.general;
+  const sizes={trending:'height:195px',grid:'height:95px',list:'width:66px;height:50px;border-radius:6px'};
+  const sz=sizes[type]||sizes.trending;
+  const logoSize=type==='trending'?52:type==='grid'?32:24;
+  const logoHtml=c.logo?`<img src="${c.logo}" style="width:${logoSize}px;height:${logoSize}px;object-fit:contain;opacity:.6" alt="">`:'';
+  return `<div style="width:100%;${sz};background:${c.bg};border-bottom:2px solid ${c.accent};display:flex;align-items:center;justify-content:center;flex-direction:column;gap:8px;flex-shrink:0;">
+    ${logoHtml}
+    <div style="font-size:9px;font-weight:800;color:${c.accent};text-transform:uppercase;letter-spacing:.12em;opacity:.7">${team==='general'?'Broad St':team}</div>
+  </div>`;
+}
+
+function renderNewsCol(){
+  if(view==='scores') return;
+  const filtered=getFiltered();
+  const nc=document.getElementById('news-col');
+  if(!filtered.length){
+    nc.innerHTML=`<div style="color:var(--muted);font-size:14px;padding:2rem 0;text-align:center">No stories found.</div>`;
+    return;
+  }
+  const toShow=filtered.slice(0,Math.max(displayedCount||BATCH,BATCH));
+  displayedCount=toShow.length;
+
+
+  const[top,...rest]=toShow;
+  const grid=rest.slice(0,4);
+  const list=rest.slice(4);
+  const topImg=extractImg(top);
+  const topTeam=top.team||'general';
+
+  const sources=['all',...new Set(filtered.map(a=>a.source).filter(Boolean))];
+  let sourcesHtml='';
+  if(view==='news'){
+    sourcesHtml=`<div class="source-bar">`;
+    sources.forEach(s=>{sourcesHtml+=`<button class="source-pill${activeSource===s?' active':''}" onclick="setSource('${s}')">${s==='all'?'All sources':s}</button>`;});
+    sourcesHtml+=`</div>`;
+  }
+
+  const counts={phillies:0,eagles:0,sixers:0,flyers:0};
+  filtered.forEach(a=>{if(counts[a.team]!==undefined) counts[a.team]++;});
+  const statsHtml=`<div class="stats-bar">
+    <div class="stat-pill"><strong>${filtered.length}</strong> stories</div>
+    <div class="stat-pill">⚾ <strong>${counts.phillies}</strong></div>
+    <div class="stat-pill">🦅 <strong>${counts.eagles}</strong></div>
+    <div class="stat-pill">🏀 <strong>${counts.sixers}</strong></div>
+    <div class="stat-pill">🏒 <strong>${counts.flyers}</strong></div>
+  </div>`;
+
+  let html=statsHtml+sourcesHtml;
+  html+=`<div class="sec-label gold">Trending now</div>`;
+  html+=`<a class="trending-card" href="${top.link||'#'}" target="_blank" rel="noopener">
+    ${topImg?`<img class="trending-img" src="${topImg}" alt="" onerror="this.outerHTML=teamPlaceholder('${topTeam}','trending')">`:`${teamPlaceholder(topTeam,'trending')}`}
+    <div class="trending-overlay">
+      <div class="trending-kicker">
+        <span class="trending-source tag-${topTeam}">${top.source}</span>
+        <span class="trending-dot"></span>
+        <span class="trending-time">${timeSince(top.pubDate)}</span>
+      </div>
+      <div class="trending-headline">${top.title}</div>
+      ${top.description?`<div class="trending-blurb">${top.description.slice(0,160)}...</div>`:''}
+      <div class="trending-footer">
+        <span class="read-more">Read story →</span>
+        <button class="fb-btn" onclick="event.preventDefault();window.open('${fbUrl(top.title,top.link)}','_blank')">
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="white"><path d="M24 12.07C24 5.41 18.63 0 12 0S0 5.41 0 12.07C0 18.1 4.39 23.1 10.13 24v-8.44H7.08v-3.49h3.04V9.41c0-3.02 1.8-4.7 4.54-4.7 1.31 0 2.68.24 2.68.24v2.97h-1.51c-1.49 0-1.95.93-1.95 1.88v2.27h3.32l-.53 3.49h-2.79V24C19.61 23.1 24 18.1 24 12.07z"/></svg>
+          Share
+        </button>
+      </div>
+    </div>
+  </a>`;
+
+  if(grid.length){
+    html+=`<div class="sec-label">Latest stories</div><div class="news-grid">`;
+    grid.forEach(a=>{
+      const img=extractImg(a),t=a.team||'general';
+      html+=`<a class="news-card" href="${a.link||'#'}" target="_blank" rel="noopener">
+        ${img?`<img class="nc-img" src="${img}" alt="" onerror="this.outerHTML=teamPlaceholder('${t}','grid')">`:`${teamPlaceholder(t,'grid')}`}
+        <div class="nc-body">
+          <div class="nc-kicker"><span class="nc-source tag-${t}">${a.source}</span><span class="nc-time">${timeSince(a.pubDate)}</span></div>
+          <div class="nc-headline">${a.title}</div>
+        </div>
+      </a>`;
+    });
+    html+=`</div>`;
+  }
+
+  if(list.length){
+    html+=`<div class="sec-label">More stories</div><div class="news-list">`;
+    list.forEach(a=>{
+      const img=extractImg(a),t=a.team||'general';
+      html+=`<a class="nl-item" href="${a.link||'#'}" target="_blank" rel="noopener">
+        <div class="nl-thumb" style="${img?'':'padding:0;overflow:hidden'}">${img?`<img src="${img}" style="width:66px;height:50px;object-fit:cover;border-radius:6px" alt="" onerror="this.outerHTML=teamPlaceholder('${t}','list')">`:`${teamPlaceholder(t,'list')}`}</div>
+        <div>
+          <div class="nl-kicker"><span class="nl-source tag-${t}">${a.source}</span><span class="nl-time">${timeSince(a.pubDate)}</span></div>
+          <div class="nl-headline">${a.title}</div>
+        </div>
+      </a>`;
+    });
+    html+=`</div>`;
+  }
+
+  if(displayedCount<filtered.length){
+    html+=`<button class="load-more-btn" onclick="loadMore()">Load more — ${filtered.length-displayedCount} more stories</button>`;
+  }
+  nc.innerHTML=html;
+}
+
+function loadMore(){displayedCount=Math.min(displayedCount+BATCH,getFiltered().length);renderNews();}
+function setSource(s){activeSource=s;displayedCount=0;renderNews();}
+function setView(v,el){
+  view=v;sel=null;
+  document.querySelectorAll('.tab-row.views .nav-tab').forEach(e=>e.classList.remove('active'));
+  el.classList.add('active');render();
+}
+function setTeam(t,el){
+  team=t;sel=null;displayedCount=0;activeSource='all';
+  document.querySelectorAll('.team-btn').forEach(e=>e.classList.remove('active'));
+  el.classList.add('active');render();
+}
+function toggle(k){sel=sel===k?null:k;renderScores();}
+
+function iTag(abbr,teamKey,size=32){
+  const src=abbr==='PHI'?TEAMS[teamKey].phillyLogo:L[abbr];
+  if(!src) return `<div style="width:${size}px;height:${size}px;border-radius:50%;background:#1e1e1e;display:flex;align-items:center;justify-content:center;font-size:9px;color:#444;font-weight:700">${abbr}</div>`;
+  return `<img style="width:${size}px;height:${size}px;object-fit:contain" src="${src}" alt="${abbr}" onerror="this.style.opacity='.1'">`;
+}
+function winnerOf(s){const[a,b]=Object.keys(s);return s[a]===s[b]?null:s[a]>s[b]?a:b;}
+
+function heroCard(g,teamKey){
+  const t=TEAMS[teamKey];
+  const hSrc=g.home==='PHI'?t.phillyLogo:(L[g.home]||'');
+  const aSrc=g.away==='PHI'?t.phillyLogo:(L[g.away]||'');
+  return `<div class="hero-card ${teamKey}-hero">
+    <img class="hero-watermark" src="${t.phillyLogo}" alt="">
+    <div class="hero-badge ${teamKey}">⚡ Next game · ${t.league}</div>
+    <div class="hero-matchup">
+      <div class="hero-team"><img class="hero-logo" src="${hSrc}" alt="${g.home}" onerror="this.style.opacity='.1'"><span class="hero-abbr${g.home==='PHI'?' philly':''}">${g.home}</span></div>
+      <div class="hero-center"><span class="hero-vs">VS</span><span class="hero-time">${g.time}</span><span class="hero-date">${g.date}</span></div>
+      <div class="hero-team"><img class="hero-logo" src="${aSrc}" alt="${g.away}" onerror="this.style.opacity='.1'"><span class="hero-abbr${g.away==='PHI'?' philly':''}">${g.away}</span></div>
+    </div>
+  </div>`;
+}
+
+function scoreCard(g,teamKey,key){
+  const t=TEAMS[teamKey],isSel=sel===key,hasScore=!!g.scores;
+  const w=hasScore?winnerOf(g.scores):null,homeWon=w===g.home,phillyWon=w==='PHI';
+  const hs=hasScore?g.scores[g.home]:null,as_=hasScore?g.scores[g.away]:null;
+  const meta=g.label||'',barClass=hasScore?(phillyWon?'win':'loss'):'neutral';
+  const exp=isSel&&hasScore?`<div class="expand-panel">
+    <div class="expand-row"><span class="lbl">Date</span><span class="val">${g.date}${meta?' · '+meta:''}</span></div>
+    <div class="expand-row"><span class="lbl">Final</span><span class="val">${g.home} ${hs} – ${as_} ${g.away}</span></div>
+    <div class="expand-row"><span class="lbl">Result</span><span class="val ${phillyWon?'win-val':'loss-val'}">${phillyWon?'✓ Win':'✗ Loss'}</span></div>
+  </div>`:'';
+  return `<div class="score-card${isSel?' selected':''}" onclick="toggle('${key}')">
+    <div class="side-bar ${barClass}"></div>
+    <div class="card-meta"><span class="league-tag">${t.league}${meta?' · '+meta:''} · ${g.date}</span>${hasScore?`<span class="status-pill pill-final">Final</span>`:`<span class="status-pill pill-upcoming">${g.time||'Upcoming'}</span>`}</div>
+    <div class="matchup">
+      <div class="team-side">${iTag(g.home,teamKey)}<div class="team-info"><span class="team-abbr${g.home==='PHI'?' philly':''}">${g.home}</span></div></div>
+      <div class="score-center">${hasScore?`<div class="scores"><span class="score-num${!homeWon?' dim':''}">${hs}</span><span class="score-sep">–</span><span class="score-num${homeWon?' dim':''}">${as_}</span></div>`:`<span style="font-size:11px;color:var(--muted);font-weight:700">VS</span>`}</div>
+      <div class="team-side away">${iTag(g.away,teamKey)}<div class="team-info"><span class="team-abbr${g.away==='PHI'?' philly':''}">${g.away}</span></div></div>
+    </div>${exp}
+  </div>`;
+}
+
+function offCard(teamKey){
+  const t=TEAMS[teamKey],emoji=EMOJI[teamKey],name=teamKey[0].toUpperCase()+teamKey.slice(1),next=t.upcoming[0];
+  return `<div class="off-card"><div class="off-left"><img class="off-logo" src="${t.phillyLogo}" alt="${name}" onerror="this.style.opacity='.1'"><div><div class="off-name">${emoji} ${name}</div><div class="off-note">${t.note}</div></div></div>${next?`<div class="off-next">Next: ${next.home} vs ${next.away}<br>${next.date} · ${next.time}</div>`:''}</div>`;
+}
+
+function renderScores(){
+  const sc=document.getElementById('scores-col');
+  if(view==='news'){sc.style.display='none';return;}
+  sc.style.display='block';
+  const today=new Date().toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'});
+  let h=`<div class="scores-header"><span class="scores-header-label">Scores</span><span class="scores-header-date">${today}</span></div>`;
+  if(team==='all'){
+    const next=TEAMS.phillies.upcoming[0];
+    if(next) h+=heroCard(next,'phillies');
+    h+=`<div class="sec-label">Recent results</div>`;
+    TEAMS.phillies.recent.slice(0,3).forEach((g,i)=>h+=scoreCard(g,'phillies',`phillies_re_${i}`));
+    h+=`<div class="sec-label" style="margin-top:20px">Off-season</div>`;
+    ['eagles','sixers','flyers'].forEach(t=>h+=offCard(t));
+  }else{
+    const t=TEAMS[team];
+    if(!t.active&&t.note) h+=`<div style="font-size:12px;color:var(--muted);padding:9px 13px;background:var(--surface);border:1px solid var(--border);border-radius:9px;margin-bottom:12px;">${t.note}</div>`;
+    if(t.upcoming.length){
+      h+=`<div class="sec-label">Upcoming</div>`;
+      if(t.active) h+=heroCard(t.upcoming[0],team);
+      t.upcoming.slice(t.active?1:0).forEach((g,i)=>h+=scoreCard(g,team,`${team}_up_${i}`));
+    }
+    if(t.recent.length){
+      h+=`<div class="sec-label" style="margin-top:${t.upcoming.length?'20px':'0'}">Recent results</div>`;
+      t.recent.forEach((g,i)=>h+=scoreCard(g,team,`${team}_re_${i}`));
+    }
+  }
+  sc.innerHTML=h;
+}
+
+function renderNews(){
+  const nc=document.getElementById('news-col');
+  if(view==='scores'){nc.style.display='none';return;}
+  nc.style.display='block';
+  if(view==='news'){
+    nc.style.gridColumn='1 / -1';
+    document.getElementById('scores-col').style.display='none';
+  }else{
+    nc.style.gridColumn='2';
+  }
+  renderNewsCol();
+}
+
+function render(){renderScores();renderNews();}
+
+render();
+loadAllFeeds();
+</script>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="f-logo">Broad St</div>
+      <p>Philadelphia's home for Eagles, Phillies, Sixers, and Flyers coverage. Built for Philly fans, by Philly fans. Every game. Every story. One city.</p>
+    </div>
+    <div class="footer-links">
+      <a href="#">All Teams</a>
+      <a href="#">Phillies</a>
+      <a href="#">Eagles</a>
+      <a href="#">Sixers</a>
+      <a href="#">Flyers</a>
+    </div>
+    <div class="footer-links">
+      <a href="#">Scores</a>
+      <a href="#">News</a>
+      <a href="#">About</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>© 2026 Broad Street Sports · Philadelphia, PA · 215 Forever</p>
+    <div class="footer-teams">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/phi.png&h=40&w=40" alt="Phillies">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/phi.png&h=40&w=40" alt="Eagles">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phi.png&h=40&w=40" alt="Sixers">
+      <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/phi.png&h=40&w=40" alt="Flyers">
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
