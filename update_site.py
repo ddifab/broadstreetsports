@@ -68,7 +68,14 @@ def fetch_team_scores(team_key):
                     game['status'] = 'final'
                     recent.append((game_date, game))
                 elif game_date > now:
-                    game['time'] = game_date.strftime('%-I:%M %p')
+                    # Convert UTC to Eastern Time (EDT = UTC-4, EST = UTC-5)
+                    from datetime import timedelta
+                    import time as time_module
+                    # Determine offset: EDT (Mar-Nov) = -4, EST (Nov-Mar) = -5
+                    month = game_date.month
+                    utc_offset = -4 if 3 <= month <= 11 else -5
+                    eastern_time = game_date + timedelta(hours=utc_offset)
+                    game['time'] = eastern_time.strftime('%-I:%M %p') + ' ET'
                     game['status'] = 'scheduled'
                     # Check if live
                     if 'IN_PROGRESS' in status_name or 'in progress' in status_desc.lower():
