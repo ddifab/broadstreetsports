@@ -1,21 +1,9 @@
 {
-  "updated": "2026-06-09T21:23:47.203912+00:00",
+  "updated": "2026-06-09T23:34:11.019495+00:00",
   "scores": {
     "phillies": {
       "recent": [],
       "upcoming": [
-        {
-          "date": "6/9",
-          "home": "TOR",
-          "away": "PHI",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "MLB",
-          "name": "Philadelphia Phillies at Toronto Blue Jays",
-          "shortName": "PHI @ TOR",
-          "time": "11:07 PM",
-          "status": "scheduled"
-        },
         {
           "date": "6/10",
           "home": "TOR",
@@ -25,7 +13,7 @@
           "league": "MLB",
           "name": "Philadelphia Phillies at Toronto Blue Jays",
           "shortName": "PHI @ TOR",
-          "time": "11:07 PM",
+          "time": "7:07 PM ET",
           "status": "scheduled"
         },
         {
@@ -37,7 +25,7 @@
           "league": "MLB",
           "name": "Philadelphia Phillies at Milwaukee Brewers",
           "shortName": "PHI @ MIL",
-          "time": "11:40 PM",
+          "time": "7:40 PM ET",
           "status": "scheduled"
         },
         {
@@ -49,7 +37,7 @@
           "league": "MLB",
           "name": "Philadelphia Phillies at Milwaukee Brewers",
           "shortName": "PHI @ MIL",
-          "time": "11:10 PM",
+          "time": "7:10 PM ET",
           "status": "scheduled"
         },
         {
@@ -61,7 +49,7 @@
           "league": "MLB",
           "name": "Philadelphia Phillies at Milwaukee Brewers",
           "shortName": "PHI @ MIL",
-          "time": "6:10 PM",
+          "time": "2:10 PM ET",
           "status": "scheduled"
         },
         {
@@ -73,7 +61,19 @@
           "league": "MLB",
           "name": "Miami Marlins at Philadelphia Phillies",
           "shortName": "MIA @ PHI",
-          "time": "10:40 PM",
+          "time": "6:40 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "6/16",
+          "home": "PHI",
+          "away": "MIA",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "MLB",
+          "name": "Miami Marlins at Philadelphia Phillies",
+          "shortName": "MIA @ PHI",
+          "time": "6:40 PM ET",
           "status": "scheduled"
         }
       ]
@@ -90,7 +90,7 @@
           "league": "NFL",
           "name": "Washington Commanders at Philadelphia Eagles",
           "shortName": "WSH @ PHI",
-          "time": "8:25 PM",
+          "time": "4:25 PM ET",
           "status": "scheduled"
         },
         {
@@ -102,7 +102,7 @@
           "league": "NFL",
           "name": "Philadelphia Eagles at Tennessee Titans",
           "shortName": "PHI @ TEN",
-          "time": "5:00 PM",
+          "time": "1:00 PM ET",
           "status": "scheduled"
         },
         {
@@ -114,7 +114,7 @@
           "league": "NFL",
           "name": "Philadelphia Eagles at Chicago Bears",
           "shortName": "PHI @ CHI",
-          "time": "12:15 AM",
+          "time": "8:15 PM ET",
           "status": "scheduled"
         },
         {
@@ -126,7 +126,7 @@
           "league": "NFL",
           "name": "Los Angeles Rams at Philadelphia Eagles",
           "shortName": "LAR @ PHI",
-          "time": "5:00 PM",
+          "time": "1:00 PM ET",
           "status": "scheduled"
         },
         {
@@ -138,7 +138,7 @@
           "league": "NFL",
           "name": "Philadelphia Eagles at Jacksonville Jaguars",
           "shortName": "PHI VS JAX",
-          "time": "1:30 PM",
+          "time": "9:30 AM ET",
           "status": "scheduled"
         },
         {
@@ -150,7 +150,7 @@
           "league": "NFL",
           "name": "Carolina Panthers at Philadelphia Eagles",
           "shortName": "CAR @ PHI",
-          "time": "5:00 PM",
+          "time": "1:00 PM ET",
           "status": "scheduled"
         }
       ]
