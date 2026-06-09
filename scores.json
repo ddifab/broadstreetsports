@@ -1,1 +1,167 @@
-{"updated": "2026-06-09T00:00:00+00:00", "scores": {}}
+{
+  "updated": "2026-06-09T04:53:56.299456+00:00",
+  "scores": {
+    "phillies": {
+      "recent": [],
+      "upcoming": [
+        {
+          "date": "6/9",
+          "home": "TOR",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "MLB",
+          "name": "Philadelphia Phillies at Toronto Blue Jays",
+          "shortName": "PHI @ TOR",
+          "time": "11:07 PM",
+          "status": "scheduled"
+        },
+        {
+          "date": "6/10",
+          "home": "TOR",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "MLB",
+          "name": "Philadelphia Phillies at Toronto Blue Jays",
+          "shortName": "PHI @ TOR",
+          "time": "11:07 PM",
+          "status": "scheduled"
+        },
+        {
+          "date": "6/12",
+          "home": "MIL",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "MLB",
+          "name": "Philadelphia Phillies at Milwaukee Brewers",
+          "shortName": "PHI @ MIL",
+          "time": "11:40 PM",
+          "status": "scheduled"
+        },
+        {
+          "date": "6/13",
+          "home": "MIL",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "MLB",
+          "name": "Philadelphia Phillies at Milwaukee Brewers",
+          "shortName": "PHI @ MIL",
+          "time": "11:10 PM",
+          "status": "scheduled"
+        },
+        {
+          "date": "6/14",
+          "home": "MIL",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "MLB",
+          "name": "Philadelphia Phillies at Milwaukee Brewers",
+          "shortName": "PHI @ MIL",
+          "time": "6:10 PM",
+          "status": "scheduled"
+        },
+        {
+          "date": "6/15",
+          "home": "PHI",
+          "away": "MIA",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "MLB",
+          "name": "Miami Marlins at Philadelphia Phillies",
+          "shortName": "MIA @ PHI",
+          "time": "10:40 PM",
+          "status": "scheduled"
+        }
+      ]
+    },
+    "eagles": {
+      "recent": [],
+      "upcoming": [
+        {
+          "date": "9/13",
+          "home": "PHI",
+          "away": "WSH",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NFL",
+          "name": "Washington Commanders at Philadelphia Eagles",
+          "shortName": "WSH @ PHI",
+          "time": "8:25 PM",
+          "status": "scheduled"
+        },
+        {
+          "date": "9/20",
+          "home": "TEN",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NFL",
+          "name": "Philadelphia Eagles at Tennessee Titans",
+          "shortName": "PHI @ TEN",
+          "time": "5:00 PM",
+          "status": "scheduled"
+        },
+        {
+          "date": "9/29",
+          "home": "CHI",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NFL",
+          "name": "Philadelphia Eagles at Chicago Bears",
+          "shortName": "PHI @ CHI",
+          "time": "12:15 AM",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/4",
+          "home": "PHI",
+          "away": "LAR",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NFL",
+          "name": "Los Angeles Rams at Philadelphia Eagles",
+          "shortName": "LAR @ PHI",
+          "time": "5:00 PM",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/11",
+          "home": "JAX",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NFL",
+          "name": "Philadelphia Eagles at Jacksonville Jaguars",
+          "shortName": "PHI VS JAX",
+          "time": "1:30 PM",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/18",
+          "home": "PHI",
+          "away": "CAR",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NFL",
+          "name": "Carolina Panthers at Philadelphia Eagles",
+          "shortName": "CAR @ PHI",
+          "time": "5:00 PM",
+          "status": "scheduled"
+        }
+      ]
+    },
+    "sixers": {
+      "recent": [],
+      "upcoming": []
+    },
+    "flyers": {
+      "recent": [],
+      "upcoming": []
+    }
+  }
+}
