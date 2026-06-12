@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-12T11:55:00.693256+00:00",
-  "count": 167,
+  "updated": "2026-06-12T18:31:51.867862+00:00",
+  "count": 166,
   "articles": [
     {
       "title": "Flyers rumor roundup: Dylan Larkin probably isn't happening",
@@ -41,6 +41,36 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_29068877.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "Eagles News: A.J. Brown is \u201cnot leaving Philly on as sour a note as some folks believe\u201d",
+      "description": "Let\u2019s get to the Philadelphia Eagles news and links \u2026 Albert Breer\u2019s Notes: How Joel Bitonio Survived \u2018Brutal Stretches\u2019 With the Browns SIA.J. Brown trade. One thing I\u2019d add to my A.J. Brown story from Monday\u2019s takeaways\u2014he\u2019s not leaving Philly on a",
+      "link": "",
+      "pubDate": "2026-06-12T10:09:02-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Asking an NBA Draft expert about Allen Graves' fit with the Sixers",
+      "description": "\"Graves might end up being one of the elite-among-elite defenders in the league.\"",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-2026-nba-draft-mock-big-board-allen-graves-scouting-report-stats-highlights-interview-rumors/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 12 Jun 2026 13:56:46 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-01-13T231022Z_2004366642_MT1USATODAY27997956_RTRMADP_3_NCAA-BASKETBAL.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Exclusive: Former Phillies World Series pitcher set to retire after suffering career-ending injury during comeback attempt",
+      "description": "Former Phillies pitcher and 2022 National League champion Andrew Bellatti is \"unofficially, officially retired\" after suffering a serious elbow injury during his comeback attempt.",
+      "link": "https://philliesnation.com/2026/06/philadelphia-phillies-news-andrew-bellatti-set-to-retire-world-series-pitcher-reliever-elbow-injury-exclusive/",
+      "pubDate": "Fri, 12 Jun 2026 12:50:35 +0000",
+      "author": "Ty Daubert",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
     },
     {
       "title": "Why a Darnell Nurse trade could make sense for the Flyers",
@@ -161,16 +191,6 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
-    },
-    {
-      "title": "If this is it, Andre Drummond\u2019s Sixers tenure should be remembered fondly",
-      "description": "There\u2019s something to be said for a guy that just has impeccable vibes. After an enjoyable four months back in 2021-22, the Sixers brought back Andre Drummond in the 2024 offseason to be the Joel Embiid backup capable of eating a lot of regular season",
-      "link": "",
-      "pubDate": "2026-06-09T09:03:56-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "The 1952 All-Star Game in Philadelphia, and the weather that cut it short",
@@ -503,8 +523,38 @@
       "source": "SportsTalk Philly"
     },
     {
-      "title": "The Eagles Are Prepared For An All-In Season",
-      "description": "In case it wasn\u2019t clear, the Los Angeles Rams proved that they\u2019re preparing for another Super Bowl run. Just before [] The post The Eagles Are Prepared For An All-In Season appeared first on Philadelphia Sports Nation.",
+      "title": "Eagles Film Review: A.J. Epenesa signing is very sensible",
+      "description": "Ive been a little quieter than usual on here recently, so, apologies! Over the last few weeks, Ive been working through The Scouting Academys curriculum to improve my understanding of player evaluation and film study. My hope is that the time investe",
+      "link": "",
+      "pubDate": "2026-06-12T12:34:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "How much sense does Bennett Stirtz make for the Sixers?",
+      "description": "For the next month before the 2026 NBA Draft, we\u2019ll take an in-depth look at different prospects here at Liberty Ballers and try to figure out which players would be the best fit for the Sixers at No. 22. Next up in this series is Iowa\u2019s Bennett Stir",
+      "link": "",
+      "pubDate": "2026-06-12T11:00:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Eagles stock up, stock down: Spring practices edition",
+      "description": "Cam Jurgens and Landon Dickerson lead a group of Eagles looking to bounce back from a spotty 2025.",
+      "link": "https://www.phillyvoice.com/eagles-stock-stock-down-spring-practices-edition-2026-riq-woolen-landon-dickerson-cam-jurgens-jeremiah-trotter/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 12 Jun 2026 13:29:44 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_25103009_1.jpg",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "The Eagles Are Prepared for an All-in Season",
+      "description": "In case it wasn\u2019t clear, the Los Angeles Rams proved that they\u2019re preparing for another Super Bowl run. Just before [] The post The Eagles Are Prepared for an All-in Season appeared first on Philadelphia Sports Nation.",
       "link": "https://phlsportsnation.com/2026/06/12/the-eagles-are-prepared-for-an-all-in-season/",
       "pubDate": "Fri, 12 Jun 2026 04:30:30 +0000",
       "author": "Tyler L\u2019Heureux",
@@ -853,16 +903,6 @@
       "source": "PHL Sports Nation"
     },
     {
-      "title": "Eagles Minicamp Practice Notes: Defense ahead of offense thus far",
-      "description": "The Philadelphia Eagles held the first of two minicamp practices on Tuesday and I was at the NovaCare Jefferson Health Training Complex to watch the action unfold. Here\u2019s what I observed! UP NEXT: The Eagles\u2019 second and final minicamp practice will t",
-      "link": "",
-      "pubDate": "2026-06-09T18:28:30-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "ESPN predicts no Phillies to start All-Star Game, in Philly, including Cris S\u00e1nchez",
       "description": "In its self-proclaimed too-early MLB All-Star Game roster projection, ESPN predicts five Phils to make the NL team, but only as reserves.",
       "link": "https://www.phillyvoice.com/espn-phillies-start-all-star-game-national-league-cris-sanchez-bryce-harper-kyle-schwarber/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -893,30 +933,10 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "A.J. Brown\u2019s parting words for the Eagles were dripping in arrogance",
-      "description": "As A.J. Brown made his final trip to the Eagles facilities to collect his things and say his goodbyes, he also made a stop at the wall of Pro Bowler pictures to add his signature. The new Patriots receiver didn\u2019t just sign his name, however, accordin",
-      "link": "",
-      "pubDate": "2026-06-09T13:23:07-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Editor-in-chief mailbag: The Mike Gansey era begins",
       "description": "On Monday, the Sixers introduced Mike Gansey as their new president of basketball operations. He didn\u2019t reveal much about his vision for the team, but it seemed clear he was going to do his best to build around the team\u2019s \u201cBig 4\u201d while creating a mor",
       "link": "",
       "pubDate": "2026-06-09T12:00:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
-      "title": "If Dailyn Swain is there at 22, the Sixers should pounce",
-      "description": "For the next month before the 2026 NBA Draft, we\u2019ll take an in-depth look at different prospects here at Liberty Ballers and try to figure out which players would be the best fit for the Sixers at No. 22. Next up in this series is Texas\u2019 Dailyn Swain",
-      "link": "",
-      "pubDate": "2026-06-09T11:00:00-04:00",
       "author": "",
       "thumbnail": null,
       "team": "sixers",
@@ -1081,16 +1101,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/Photo_May_01_2026_2_18_22_PM.jpg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "IronPigs notes: How Phillies\u2019 organizational pitching depth has performed this week",
-      "description": "How have these IronPigs pitchers thrown the ball lately?",
-      "link": "https://philliesnation.com/2026/06/philadelphia-phillies-ironpigs-pitching-depth-minor-leagues-bryse-wilson-levi-stoudt-gabriel-barbosa-drake-fellows-brian-keller/",
-      "pubDate": "Sat, 06 Jun 2026 19:45:57 +0000",
-      "author": "Dan Sullivan",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
     },
     {
       "title": "The Eagles signed a few guys",
@@ -1383,16 +1393,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Can a former NFL great help Saquon Barkley thrive in new Eagles offense?",
-      "description": "Saquon Barkley is enlisting the advice of a former great NFL running back as he acclimates to the new Eagles offensive scheme.",
-      "link": "https://www.phillyvoice.com/eagles-running-back-saquon-barkley-todd-gurley-new-offense-scheme-sean-mannion/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Thu, 28 May 2026 12:23:21 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/11126_Eagles49ers_ColleenClaggett-0262.jpg",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
       "title": "Fact or fiction: Making sense of the Phillies big sweep vs. contending Padres",
       "description": "The Phillies are hosting this year's All-Star Game and it's seeming more and more inevitable that Cris S\u00e1nchez will be standing on the mound when the game begins in July.",
       "link": "https://www.phillyvoice.com/phillies-sweep-padres-cris-sanchez-scoreless-streak-trea-turner-leadoff-news-analysis-stats-schedule-wild-card-standings/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -1441,16 +1441,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_29009734.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "5 Sixers thoughts: Early returns on Daryl Morey's last draft pick, looking ahead to 2026 NBA Draft and more",
-      "description": "Beginning the week with a batch of Sixers notes, from all things draft to the team's ties in the NBA's pair of conference finals.",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-johni-broome-daryl-morey-replacement-bob-myers-2026-nba-draft-entry-deadline-jared-mccain-nba/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 25 May 2026 23:54:05 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_27291861.jpg",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
     },
     {
       "title": "Flyers prospects: Jack Nesbitt takes the college hockey bet",
