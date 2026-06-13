@@ -1,21 +1,9 @@
 {
-  "updated": "2026-06-12T18:31:51.867862+00:00",
+  "updated": "2026-06-13T00:04:59.031481+00:00",
   "scores": {
     "phillies": {
       "recent": [],
       "upcoming": [
-        {
-          "date": "6/12",
-          "home": "MIL",
-          "away": "PHI",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "MLB",
-          "name": "Philadelphia Phillies at Milwaukee Brewers",
-          "shortName": "PHI @ MIL",
-          "time": "7:40 PM ET",
-          "status": "scheduled"
-        },
         {
           "date": "6/13",
           "home": "MIL",
@@ -74,6 +62,18 @@
           "name": "Miami Marlins at Philadelphia Phillies",
           "shortName": "MIA @ PHI",
           "time": "1:05 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "6/18",
+          "home": "PHI",
+          "away": "NYM",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "MLB",
+          "name": "New York Mets at Philadelphia Phillies",
+          "shortName": "NYM @ PHI",
+          "time": "6:40 PM ET",
           "status": "scheduled"
         }
       ]
