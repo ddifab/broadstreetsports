@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-13T20:55:54.903997+00:00",
-  "count": 165,
+  "updated": "2026-06-14T08:56:16.130531+00:00",
+  "count": 164,
   "articles": [
     {
       "title": "Flyers rumor roundup: Dylan Larkin probably isn't happening",
@@ -33,6 +33,36 @@
       "source": "PhillyVoice"
     },
     {
+      "title": "Phillies predicted to trade for $100M Gold Glove winner, Silver Slugger after Adolis Garcia injury",
+      "description": "The Philadelphia Phillies have needed a big outfield bat for some time now. It just got even more urgent after Adolis Garcia went down with an injury.",
+      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-predicted-trade-100m-gold-glove-winner-silver-slugger-after-adolis-garcia-injury/70fb6b3fff4156243f5c86c4",
+      "pubDate": "Sat, 13 Jun 2026 23:28:41 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Eagles legend Donovan McNabb's son makes D1 college football commitment",
+      "description": "He plays a different position than his QB father did, too.",
+      "link": "https://www.sportingnews.com/us/nfl/philadelphia-eagles/news/eagles-legend-donovan-mcnabb-son-makes-d1-college-football-commitment/7ffea5643f27be2ad7533f2e",
+      "pubDate": "Sat, 13 Jun 2026 18:24:50 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Flyers 2026 NHL Mock Draft 2.0: A Flashy Trade-Up",
+      "description": "Only two weeks remain until the 2026 NHL Draft. But for the Philadelphia Flyers, there\u2019s not all that much excitement, thanks to ending a five-season playoff drought\u2014picking at 21st overall\u2026",
+      "link": "https://thehockeywriters.com/flyers-2026-nhl-mock-draft-2-0-a-flashy-trade-up/",
+      "pubDate": "Sat, 13 Jun 2026 18:15:00 +0000",
+      "author": "Hockey Writers",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Philly Sports Wire"
+    },
+    {
       "title": "Eagles Deadzone Debate: What role does Nick Sirianni play in the team\u2019s success?",
       "description": "Since he was hired to replace Doug Pederson following the 2020 season, Nick Sirianni has guided the Eagles to their most successful run of success in franchise history. The numbers are eye-popping. It\u2019s as impressive a resume as one could ask from an",
       "link": "",
@@ -51,6 +81,16 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Tanner McKee's trade cost revealed for Eagles QB",
+      "description": "Philly isn't shy about moving guys around in deals.",
+      "link": "https://www.sportingnews.com/us/nfl/philadelphia-eagles/news/tanner-mckees-trade-cost-revealed-eagles-qb/261f6438568dd7fac40e05f1",
+      "pubDate": "Sat, 13 Jun 2026 15:10:49 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Eagles News: A.J. Brown is \u201cnot leaving Philly on as sour a note as some folks believe\u201d",
@@ -121,46 +161,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Eagles' Jalen Carter gets $35 million per year contract update with trade twist",
-      "description": "Carter has game-changing talent at the defensive tackle position in Philadelphia.",
-      "link": "https://www.sportingnews.com/us/nfl/philadelphia-eagles/news/eagles-jalen-carter-gets-35-million-year-contract-update-trade-twist/1670ab8a8f4ab9642759e783",
-      "pubDate": "Thu, 11 Jun 2026 12:24:18 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Hurts briefly addresses Brown trade, looks forward...",
-      "description": "Eagles quarterback Jalen Hurts addressed the A.J. Brown trade for the first time since it became official Wednesday, briefly focusing on what they achieved during their four years together before...",
-      "link": "https://www.espn.com/nfl/story/_/id/49025526/jalen-hurts-take-away-eagles-aj-brown-accomplished",
-      "pubDate": "Thu, 11 Jun 2026 04:55:26 +0000",
-      "author": "ESPN",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Phils' Garc\u00eda exits with pulled muscle in shoulder...",
-      "description": "Phillies outfielder Adolis Garc\u00eda left Wednesday night's game at Toronto in the seventh inning after making consecutive throws to home plate on sacrifice flies. He was diagnosed with a pulled...",
-      "link": "https://www.espn.com/mlb/story/_/id/49024731/phillies-adolis-garcia-exits-pulled-muscle-right-shoulder",
-      "pubDate": "Thu, 11 Jun 2026 03:33:47 +0000",
-      "author": "ESPN",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "DE Za\u2019Darius Smith Released From Eagles\u2019 Reserve/Retired List",
-      "description": "Last year, veteran pass rusher Za\u2019Darius Smith signed with the Eagles a day after the team\u2019s season opener but only lasted five weeks in Philadelphia before announcing his midseason retirement....",
-      "link": "https://www.profootballrumors.com/2026/06/de-zadarius-smith-released-from-eagles-reserve-retired-list",
-      "pubDate": "Thu, 11 Jun 2026 00:52:16 +0000",
-      "author": "Pro Football Rumors",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Philly Sports Wire"
     },
     {
       "title": "NHL finally clarifies Maple Leafs\u2019 first-round pick conditions owed to Flyers",
@@ -453,16 +453,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Sixers mailbag: Questions about trading for a 2026 lottery pick and \u2013 shocker! \u2013 the Jared McCain trade",
-      "description": "Answering your latest questions, from the trade the Sixers made with the Oklahoma City Thunder in February to one they could make with the defending champions in June.",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-2026-nba-draft-picks-order-future-okc-jared-mccain-highlights-stats-trade-daryl-morey-nba/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 26 May 2026 14:04:30 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_29035678.jpg",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
       "title": "Flyers goalie prospects: Carson Bjarnason, Aleksei Kolosov, and the Yegor Zavragin wild card",
       "description": "Dan Vladar can hold down the Flyers' net now, but the hope is that Carson Bjarnason, Aleksei Kolosov, or Yegor Zavragin can develop to be the next in line.",
       "link": "https://www.phillyvoice.com/flyers-prospects-future-goalies-carson-bjarnason-aleksei-kolosov-yegor-zavragin-nhl/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -513,6 +503,76 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Sixers officially allowed to negotiate contract extension with Paul George",
+      "description": "Paul George is set to make about $110 million over the next two years. While he is now eligible to extend his contract, it is very unlikely a deal will get done.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-cap-sheet-paul-george-contract-highlights-stats-nba-free-agents-agency-rumors/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sun, 14 Jun 2026 03:30:28 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-05-09T022102Z_823635684_MT1USATODAY28910835_RTRMADP_3_NBA-PLAYOFFS-NE.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Sixers officially allowed to negotiate new contracts with nine pending free agents",
+      "description": "For now, the Sixers can exclusively negotiate with their soon-to-be free agents. On June 30, the rest of the NBA can get involved.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-nba-free-agency-rumors-quentin-grimes-kelly-oubre-jr-andre-drummond-kyle-lowry-dominick-barlow/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sun, 14 Jun 2026 03:30:05 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/111725_SixersvCeltics_ColleenClaggett-0058.jpg",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Phillies collect season-high 17 hits, edge Brewers",
+      "description": "J.T. Realmuto homered and drove in four runs as the Philadelphia Phillies held on for a 9-8 road victory over the Milwaukee Brewers on Saturday.,Kyle",
+      "link": "https://deadspin.com/phillies-collect-season-high-17-hits-edge-brewers/",
+      "pubDate": "Sun, 14 Jun 2026 02:52:39 +0000",
+      "author": "Deadspin",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Brad Keller struggles, but Phillies hold on to beat Brewers",
+      "description": "Brad Keller was bad on Saturday, but not bad enough to cost the Phillies, who held on to beat the Brewers.",
+      "link": "https://philliesnation.com/2026/06/brad-keller-struggles-but-phillies-hold-on-to-beat-brewers/",
+      "pubDate": "Sun, 14 Jun 2026 02:36:57 +0000",
+      "author": "Bailey Digh",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
+    },
+    {
+      "title": "Phillies, Realmuto (4 RBIs) erupt offensively to stave off Brewers' rally",
+      "description": "",
+      "link": "https://www.mlb.com/phillies/news/j-t-realmuto-edmundo-sosa-homer-in-phillies-win-vs-brewers",
+      "pubDate": "Sun, 14 Jun 2026 02:32:53 +0000",
+      "author": "MLB.com",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Brazil vs. Morocco live score, stats, result, highlights as Saibari pushes Atlas Eagles out in front",
+      "description": "Brazil target a return to former glory as they begin the 2026 FIFA World Cup, as the five-time winners get Group C play under way with a difficult match against Morocco on Saturday from MetLife...",
+      "link": "https://www.sportingnews.com/us/soccer/news/brazil-vs-morocco-world-cup-live-score-result-highlights/162a1a1a9cd0862f098ae59d",
+      "pubDate": "Sat, 13 Jun 2026 22:21:00 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Phillies already reaping rewards of international prospect who spurned Yankees",
+      "description": "The Philadelphia Phillies have a lot of unresolved issues with the Yankees, but this week they have a reason to chalk up a potential win.",
+      "link": "https://thatballsouttahere.com/phillies-already-reaping-rewards-of-international-prospect-who-spurned-yankees?utm_source=RSS",
+      "pubDate": "Sat, 13 Jun 2026 21:34:00 +0000",
+      "author": "That Ball's Outta Here",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
       "title": "Donovan McNabb's son commits to Div. I football program",
       "description": "Donovan McNabb Jr., son of former Eagles six-time Pro Bowl QB, committed to play at UNLV.",
       "link": "https://www.phillyvoice.com/donovan-mcnabb-jr-son-commits-unlv-rebels-college-recruiting-ranking-power-4/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -523,6 +583,26 @@
       "source": "PhillyVoice Eagles"
     },
     {
+      "title": "Phillies have surging promotion candidate after doomsday Adolis Garc\u00eda news",
+      "description": "As Adolis Garc\u00eda awaits news if he'll miss the rest of the Phillies season, the minor league system could potentially fill the void.",
+      "link": "https://thatballsouttahere.com/phillies-have-surging-promotion-candidate-after-doomsday-adolis-garcia-news?utm_source=RSS",
+      "pubDate": "Sat, 13 Jun 2026 17:26:56 +0000",
+      "author": "That Ball's Outta Here",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Eagles projected Super Bowl window is great news for fans in Philadelphia",
+      "description": "The future is bright in Philly.",
+      "link": "https://www.sportingnews.com/us/nfl/philadelphia-eagles/news/eagles-projected-super-bowl-window-great-news-fans-philadelphia/3f52bb1a0230202dd41f41a1",
+      "pubDate": "Sat, 13 Jun 2026 17:03:33 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
       "title": "Eagles rookie NFL player comparisons: OG Micah Morris",
       "description": "As we do every offseason, we'll be comparing each of the Philadelphia Eagles' rookies to current or former NFL players. Today we'll find a comp for sixth-round guard Micah Morris.",
       "link": "https://www.phillyvoice.com/eagles-rookie-nfl-player-comparisons-og-micah-morris/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -531,6 +611,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/IMG_3242.jpeg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "After masterpiece by Brewers' Jacob Misiorowski, Phillies look to locate offense",
+      "description": "The Philadelphia Phillies will be glad to face anyone not named Jacob Misiorowski on Saturday night when they continue their road series with the Milw",
+      "link": "https://deadspin.com/after-masterpiece-by-brewers-jacob-misiorowski-phillies-look-to-locate-offense/",
+      "pubDate": "Sat, 13 Jun 2026 14:52:32 +0000",
+      "author": "Deadspin",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "As Phillies baffled by Brewers\u2019 young righty, their own tries to find his footing",
@@ -733,16 +823,6 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "Phillies hoping Triple-A pitching depth can return to 2023 form with Brewers",
-      "description": "The Phillies don't have much starting pitching depth in the minor leagues, but hopefully former Milwaukee Brewer Bryse Wilson can help out the big league club.",
-      "link": "https://thatballsouttahere.com/phillies-hoping-triple-a-pitching-depth-can-return-to-2023-form-with-brewers?utm_source=RSS",
-      "pubDate": "Thu, 11 Jun 2026 12:11:50 +0000",
-      "author": "That Ball's Outta Here",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
       "title": "Eagles minicamp practice notes: The Eagles' secondary could be nasty in 2026",
       "description": "The Philadelphia Eagles finished up a two-day minicamp on Wednesday, and won't practice again until training camp begins in late July. As always, we have notes.",
       "link": "https://www.phillyvoice.com/eagles-minicamp-practice-notes-secondary-could-be-nasty-2026/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -751,66 +831,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/IMG_3366.jpeg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Phillies' right field problem gets worse with Adolis Garcia's injury",
-      "description": "The Philadelphia Phillies may be without outfielder Adolis Garcia for some time, as he left Wednesday night's game with a shoulder injury.",
-      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-outfield-problem-gets-worse-adolis-garcias-injury/9186135f0975b0f379f5fcf7",
-      "pubDate": "Thu, 11 Jun 2026 08:00:27 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Phillies hit 3 homers off Max Scherzer, down Blue Jays",
-      "description": "Alec Bohm hit a three-run home run Wednesday night and the visiting Philadelphia Phillies defeated the Toronto Blue Jays 7-4., ,Kyle Schwarber added a",
-      "link": "https://deadspin.com/phillies-hit-3-homers-off-max-scherzer-down-blue-jays/",
-      "pubDate": "Thu, 11 Jun 2026 06:02:08 +0000",
-      "author": "Deadspin",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Phillies OF Adolis Garcia exits with pulled shoulder muscle vs. Jays",
-      "description": "Phillies outfielder Adolis Garcia left Philadelphia's 7-4 road win over the Toronto Blue Jays on Wednesday in the seventh inning after pulling a muscl",
-      "link": "https://deadspin.com/phillies-of-adolis-garcia-exits-with-pulled-shoulder-muscle-vs-jays/",
-      "pubDate": "Thu, 11 Jun 2026 04:32:13 +0000",
-      "author": "Deadspin",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Dallas Goedert explains decision to remain with Philadelphia Eagles in free agency",
-      "description": "",
-      "link": "https://www.sportingnews.com/us/nfl/philadelphia-eagles/news/dallas-goedert-explains-decision-remain-philadelphia-eagles-free-agency/a61195f5cc8f837d74d505d0",
-      "pubDate": "Thu, 11 Jun 2026 03:14:46 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Phillies hit three homers off Max Scherzer, down Blue Jays",
-      "description": "Alec Bohm hit a three-run home run Wednesday night and the visiting Philadelphia Phillies defeated the Toronto Blue Jays 7-4., ,Kyle Schwarber added a",
-      "link": "https://deadspin.com/phillies-hit-three-homers-off-max-scherzer-down-blue-jays/",
-      "pubDate": "Thu, 11 Jun 2026 02:46:59 +0000",
-      "author": "Deadspin",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Harper, Schwarber, Bohm all go deep to get Phillies back in win column",
-      "description": "",
-      "link": "https://www.mlb.com/phillies/news/alec-bohm-phillies-win-series-over-blue-jays",
-      "pubDate": "Thu, 11 Jun 2026 02:41:03 +0000",
-      "author": "MLB.com",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
     },
     {
       "title": "Phillies stock watch: Aces deal, sluggers go deep in series win vs. Blue Jays",
@@ -831,16 +851,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Philadelphia Eagles star named dark horse NFL MVP candidate for 2026",
-      "description": "",
-      "link": "https://www.sportingnews.com/us/nfl/philadelphia-eagles/news/philadelphia-eagles-star-named-dark-horse-nfl-mvp-candidate-2026/32d4d975cc5d8aebd162f37f",
-      "pubDate": "Thu, 11 Jun 2026 00:26:24 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Philly Sports Wire"
     },
     {
       "title": "Could the Flyers\u2019 21st overall pick be on the move?",
@@ -1111,16 +1121,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_24668156.jpg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Former Phillies outfielder Max Kepler signs with NL West team",
-      "description": "Max Kepler agrees to a major league deal with an NL West team.",
-      "link": "https://philliesnation.com/2026/06/philadelphia-phillies-max-kepler-mlb-arizona-diamondbacks-free-agent-news/",
-      "pubDate": "Mon, 08 Jun 2026 00:38:43 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
     },
     {
       "title": "Sixers mock draft roundup 4.0: Frontcourt options galore at No. 22 overall",
@@ -1411,16 +1411,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_29054646.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Sixers year-in-review: Kelly Oubre Jr. set to hit the open market again",
-      "description": "Has Kelly Oubre Jr. done enough in three years with the Sixers to be prioritized moving forward?",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-kelly-oubre-jr-stats-contract-highlights-press-conference-interview/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 27 May 2026 09:00:00 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/111725_SixersvCeltics_ColleenClaggett-1830.jpg",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
     },
     {
       "title": "Flyers prospects: Shane Vansaghi, Jack Murtagh, and the notable names still climbing the ladder",
