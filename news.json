@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-19T12:37:19.399897+00:00",
-  "count": 166,
+  "updated": "2026-06-19T19:16:03.122009+00:00",
+  "count": 170,
   "articles": [
     {
       "title": "Crooked Pop Announces Philadelphia Phillies Partnership and Ryan Howard\u2019s Crooked Wiffle Ball Derby",
@@ -11,6 +11,16 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "PHL Sports Nation"
+    },
+    {
+      "title": "Phillies predicted to trade for $5.2M Gold Glove finalist, power bat to fill Adolis Garcia void",
+      "description": "The Phillies are going to need a bat in the lineup for sure after Adolis Garcia's injury. In this potential trade it comes in the form of an outfielder who has a good bat and elite defense.",
+      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-predicted-trade-52m-gold-glove-finalist-power-bat-fill-adolis-garcia-void/65ab95aa90e8a59ab80ded28",
+      "pubDate": "Tue, 16 Jun 2026 16:46:42 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Flyers rumor roundup: Dylan Larkin probably isn't happening",
@@ -33,14 +43,24 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "Phillies make Bryce Harper outfield decision with trade deadline looming",
-      "description": "Bryce Harper doesn't look to be changing positions this season.",
-      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-make-bryce-harper-outfield-decision-trade-deadline/33c4a096f5a8d843c5f042db",
-      "pubDate": "Thu, 18 Jun 2026 20:39:12 +0000",
-      "author": "Sporting News",
+      "title": "Who mock drafts have the Flyers taking at 21st overall one week before the NHL Draft",
+      "description": "The 2026 NHL Draft is a week away, and the Philadelphia Flyers have one first-round pick to use on Friday night. While there is a chance they make a first-round trade for the third straight year, what we know right now is that Danny Briere & Co. own ",
+      "link": "https://www.broadstreethockey.com/post/who-mock-drafts-have-the-flyers-taking-at-21st-overall-one-week-before-nhl-draft/",
+      "pubDate": "Fri, 19 Jun 2026 18:43:26 +0000",
+      "author": "Ryan Gilbert",
       "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Eagles News: ESPN suggests Moro Ojomo contract extension",
+      "description": "Let\u2019s get to the Philadelphia Eagles news and links \u2026 Final NFL offseason moves for 32 teams: Trades, signings, more ESPNExtend defensive lineman Moro Ojomo. Ojomo, a 2023 seventh-round pick, stepped in when Milton Williams left Philadelphia and had ",
+      "link": "",
+      "pubDate": "2026-06-19T11:22:07-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "NFL Trade Rumors: Eagles \u201cnuclear hot\u201d for Maxx Crosby?",
@@ -51,26 +71,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Phillies linked to trade for Giants' $20.5 million outfielder that'd be very lackluster",
-      "description": "This would be a very lackluster trade for the Phillies to make this summer.",
-      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-linked-trade-giants-205-million-very-lackluster/13562ef2ad7e3e12e14f711a",
-      "pubDate": "Thu, 18 Jun 2026 16:28:23 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Phillies linked by MLB exec to trade for Giants' Matt Chapman, but there's one big problem",
-      "description": "This trade would be interesting, but there's just one huge problem for the Phillies.",
-      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-link-mlb-exec-trade-giants-matt-chapman-one-problem/b5f5c7346f4ddc69143ea7da",
-      "pubDate": "Thu, 18 Jun 2026 15:59:27 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
     },
     {
       "title": "MLB trade rumors: Looking at some early OF targets, fits for Phillies",
@@ -131,6 +131,96 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-09T012459Z_246198689_MT1USATODAY28687118_RTRMADP_3_NHL-WASHINGTON-.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "NHL Rumors: Woll Trade Timing, Tortorella Done in Vegas, Carlson Plans",
+      "description": "In today\u2019s NHL rumors rundown, John Tortorella will not be back with the Vegas Golden Knights next season. What is their plan? What is his? Meanwhile, John Carlson has decided\u2026",
+      "link": "https://thehockeywriters.com/nhl-rumors-woll-trade-tortorella-done-in-vegas-carlson-plans-06-16-2026/",
+      "pubDate": "Tue, 16 Jun 2026 18:15:00 +0000",
+      "author": "Hockey Writers",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Phillies might make unexpected trade to address their Andrew Painter problem",
+      "description": "This might be a sneaky move for the Phillies this summer.",
+      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-might-make-unexpected-trade-andrew-painter-problem/3ac1dd2f05b917fcfd1ee816",
+      "pubDate": "Tue, 16 Jun 2026 17:50:27 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Flyers acquire Woll, Benoit from Maple Leafs",
+      "description": "The Philadelphia Flyers acquired goaltender Joseph Woll and defenseman Simon Benoit in a trade with the Toronto Maple Leafs on Tuesday.",
+      "link": "https://www.espn.com/nhl/story/_/id/49083348/flyers-acquire-goalie-woll-defenseman-benoit-maple-leafs",
+      "pubDate": "Tue, 16 Jun 2026 17:49:29 +0000",
+      "author": "ESPN",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "MLB insider reveals Phillies not making one specific trade would be a 'shock'",
+      "description": "This bodes well for the Phillies ahead of the MLB trade deadline.",
+      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/mlb-insider-phillies-not-making-one-specific-trade-be-shock/27b258be76318f2dd0e9c699",
+      "pubDate": "Tue, 16 Jun 2026 17:39:54 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "The Flyers want a center. Are the Senators an ideal trade partner?",
+      "description": "After a trade with the Leafs this week, the Flyers eye three Senators\u2019 pivots for a followup deal.",
+      "link": "https://www.dailyfaceoff.com/news/philadelphia-flyers-trade-center-targets-ottawa-senators-cozens-pinto-greig-ristolainen-rumors",
+      "pubDate": "Tue, 16 Jun 2026 17:00:00 +0000",
+      "author": "Daily Faceoff",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Leafs trade Woll, Benoit to Flyers for Ersson, Andrae, draft pick",
+      "description": "Woll, 27, started more than 100 games for the Leafs since 2023-24, and started in playoff games in 2024 and 2025.",
+      "link": "https://www.dailyfaceoff.com/news/toronto-maple-leafs-trade-joseph-woll-simon-benoit-philadelphia-flyers-samuel-ersson-emil-andrae-2026-nhl-draft-rumors",
+      "pubDate": "Tue, 16 Jun 2026 16:17:00 +0000",
+      "author": "Daily Faceoff",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Who is Emil Andrae? Maple Leafs get talented young defenseman in trade from Flyers",
+      "description": "This is why Toronto traded Joseph Woll away.",
+      "link": "https://www.sportingnews.com/us/nhl/toronto-maple-leafs/news/who-emil-andrae-maple-leafs-get-talented-young-defenseman-trade-flyers/a93459a744875cfcc2bba56b",
+      "pubDate": "Tue, 16 Jun 2026 16:00:29 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Why Maple Leafs traded Joseph Woll to Flyers",
+      "description": "Toronto made a big goalie trade on Tuesday.",
+      "link": "https://www.sportingnews.com/us/nhl/toronto-maple-leafs/news/why-maple-leafs-traded-joseph-woll-flyers/a25070ae1b283e95d9b31739",
+      "pubDate": "Tue, 16 Jun 2026 15:55:20 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Phillies have one problem with 'excellent' Twins .941 OPS outfielder trade target",
+      "description": "This would be the best possible trade pickup for the Phillies this summer.",
+      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-problem-excellent-twins-941-ops-outfielder-trade/6ae5c0e7074ce21e2da3d7bd",
+      "pubDate": "Tue, 16 Jun 2026 15:20:51 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Sixers mailbag: Coming up with more trade ideas \u2013 some flashy, some not",
@@ -403,6 +493,86 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "6 losers from the Eagles\u2019 spring practices",
+      "description": "The Philadelphia Eagles officially wrapped up their spring workout program last week. Now we\u2019ll take a look at the winners, losers (today\u2019s focus), and I don\u2019t knows that stood out from four media-attended practices. Disclaimer: These were non-contac",
+      "link": "",
+      "pubDate": "2026-06-19T14:16:30-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "5 overage prospects the Flyers could target in the 2026 NHL Draft",
+      "description": "Each player making it to the National Hockey League has their own road to get there. Most of the time its the junior ranks or NCAA, but others sometimes take a bit longer to develop. As a result, when they are of draft age, they might not be selected",
+      "link": "https://www.broadstreethockey.com/post/5-overage-prospects-the-flyers-could-target-in-the-2026-nhl-draft/",
+      "pubDate": "Fri, 19 Jun 2026 16:47:16 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Zuby Ejiofor is built for the dirty work, making him a perfect fit for the Sixers",
+      "description": "For the next month before the 2026 NBA Draft, we\u2019ll take an in-depth look at different prospects here at Liberty Ballers and try to figure out which players would be the best fit for the Sixers at No. 22. Next up in this series is St Johns\u2019 Zuby Ejio",
+      "link": "",
+      "pubDate": "2026-06-19T11:00:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "How Mike Gansey might change the Sixers NBA draft approach",
+      "description": "Less than one week away from the 2026 NBA draft, we still dont know much about the Sixers plans. Were starting to get word of some prospects whom the Sixers have brought in or will bring in for a predraft workout. We can make guesses based on big boa",
+      "link": "",
+      "pubDate": "2026-06-19T09:30:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Asking NBA Draft experts which prospect the Sixers should select at No. 22 overall",
+      "description": "Over the last week, PhillyVoice has asked five NBA Draft experts to make the case for players they believe the Sixers should target at No. 22 overall.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-2026-nba-mock-draft-order-allen-graves-joshua-jefferson-zuby-ejiofor-dailyn-swain-ebuka-okorie/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 19 Jun 2026 13:20:32 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-02-15T063140Z_1302183814_MT1USATODAY28244606_RTRMADP_3_NCAA-BASKETBAL.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Asking an NBA Draft expert about Joshua Jefferson's fit with the Sixers",
+      "description": "\"Jefferson is a hyperintelligent, hyperphysical force who manages to stuff the stat sheet by both outthinking and outworking opponents.\"",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-2026-nba-draft-mock-big-board-joshua-jefferson-scouting-report-stats-highlights-interview-rumors/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 19 Jun 2026 13:13:31 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-02-01T220159Z_1249017486_MT1USATODAY28136446_RTRMADP_3_NCAA-BASKETBAL.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Report: Sixers will complete in-person visits with six draft prospects by end of week",
+      "description": "As they near a decision with the No. 22 overall pick in the 2026 NBA Draft, the Sixers are getting closer looks at several prospects of interest.",
+      "link": "https://www.phillyvoice.com/sixers-nba-draft-prospect-visits-workouts-dailyn-swain-allen-graves-zuby-ejiofor/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 19 Jun 2026 12:52:11 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-03-22T012235Z_1909934776_MT1USATODAY28560759_RTRMADP_3_NCAA-BASKETBAL.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "A.J. Brown's top 10 moments with the Eagles",
+      "description": "The A.J. Brown era in Philadelphia is over, but he had his share of moments along the way. So, you know, let's rank them.",
+      "link": "https://www.phillyvoice.com/aj-brown-top-10-moments-eagles-super-bowl-jalen-hurts/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 19 Jun 2026 12:44:54 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/0939_09142023_Eagles_Vikings_Frese.jpg",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
       "title": "Tyrese Maxey\u2019s All-NBA leap kept the Sixers afloat",
       "description": "Tyrese Maxey\u2019s 2025-26 campaign started very similar to his year from a season prior. He was tasked with an incredible minutes load in order to lead whatever starting lineup was able to make it onto the court for the Sixers that night. Unlike the pre",
       "link": "",
@@ -463,26 +633,6 @@
       "source": "Phillies Nation"
     },
     {
-      "title": "Phillies sign former Guardians 5.47 ERA pitcher to contract amid Andrew Painter news",
-      "description": "This addition should provide some much-needed depth within the Phillies organization.",
-      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-sign-guardians-547-era-pitcher-andrew-painter-news/7267aba26ab4a7740fc3d431",
-      "pubDate": "Thu, 18 Jun 2026 20:24:22 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Phillies Sign Kolby Allard To Minor League Deal",
-      "description": "The Phillies have signed left-hander Kolby Allard to a minor league deal, reports Matt Gelb of The Athletic. He\u2019ll head to Triple-A Lehigh Valley and provide the Phils with some non-roster...",
-      "link": "https://www.mlbtraderumors.com/2026/06/phillies-sign-kolby-allard-to-minor-league-deal.html",
-      "pubDate": "Thu, 18 Jun 2026 20:09:38 +0000",
-      "author": "MLB Trade Rumors",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
       "title": "Phils OF Adolis Garcia officially done for season, LHP Tanner Banks demoted",
       "description": "The Phillies made some announcements Thursday, including rightfielder Adolis Garc\u00eda undergoing season-ending surgery and reliever Tanner Banks being demoted.",
       "link": "https://www.phillyvoice.com/phillies-adolis-garcia-injury-lat-tanner-banks-demoted-seth-johnson-bryse-elder/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -503,46 +653,6 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "Mariners sign ex-Phillies, Orioles .744 OPS outfielder for bench depth",
-      "description": "Seattle is adding an experienced utility man.",
-      "link": "https://www.sportingnews.com/us/mlb/seattle-mariners/news/mariners-ex-phillies-orioles-744-ops-outfielder-bench-depth/5ebb7e8d3e7ef43b6f2d9a5e",
-      "pubDate": "Thu, 18 Jun 2026 19:37:18 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Why Phillies outfielder Adolis Garcia is having season-ending surgery",
-      "description": "This is a tough outcome for Adolis Garcia.",
-      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/why-phillies-outfielder-adolis-garcia-season-ending-surgery/0a63cf27b23eccd2fff0a302",
-      "pubDate": "Thu, 18 Jun 2026 19:27:05 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Adolis Garc\u00eda To Undergo Season-Ending Surgery",
-      "description": "The Phillies announced that outfielder Adolis Garc\u00eda will undergo right latissimus dorsi repair surgery on Wednesday, June 24th. The recovery period is six to eight months, so he will miss the...",
-      "link": "https://www.mlbtraderumors.com/2026/06/adolis-garcia-to-undergo-season-ending-surgery.html",
-      "pubDate": "Thu, 18 Jun 2026 19:13:01 +0000",
-      "author": "MLB Trade Rumors",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Phillies add two new pitchers to MLB roster after Andrew Painter decision",
-      "description": "The Phillies are bringing in a few new faces to the bullpen for the Mets series.",
-      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-add-two-new-pitchers-roster-andrew-painter-decision/db3814049da3627a94ed8689",
-      "pubDate": "Thu, 18 Jun 2026 19:03:59 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
       "title": "How to watch Phillies vs. Mets weekend series with 2 national games",
       "description": "How to watch this week's Phillies vs. Mets series.",
       "link": "https://philliesnation.com/2026/06/philadelphia-phillies-new-york-mets-how-to-watch-june-18/",
@@ -551,26 +661,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
-    },
-    {
-      "title": "Phillies Select Bryse Wilson",
-      "description": "The Phillies announced that they have selected Bryse Wilson and recalled righty Seth Johnson. Left-hander Tanner Banks was optioned in a corresponding move. There was already one vacancy with...",
-      "link": "https://www.mlbtraderumors.com/2026/06/phillies-select-bryse-wilson.html",
-      "pubDate": "Thu, 18 Jun 2026 18:48:19 +0000",
-      "author": "MLB Trade Rumors",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "It turns out Phillies might be reaping every benefit of Alec Bohm\u2019s contract year",
-      "description": "The Alec Bohm experience has run its course in Philadelphia and Phillies fans have had enough. While it's best for both parties to bid one another adieu this winter, some good is still coming of...",
-      "link": "https://thatballsouttahere.com/it-turns-out-phillies-might-be-reaping-every-benefit-of-alec-bohm-contract-year?utm_source=RSS",
-      "pubDate": "Thu, 18 Jun 2026 18:44:16 +0000",
-      "author": "That Ball's Outta Here",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
     },
     {
       "title": "MLB to get rid of clocks for Home Run Derby in Philadelphia",
@@ -611,16 +701,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Asking an NBA Draft expert about Joshua Jefferson's fit with the Sixers",
-      "description": "\"Joshua Jefferson is a hyperintelligent, hyperphysical force who manages to stuff the stat sheet by both outthinking and outworking opponents.\"",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-2026-nba-draft-mock-big-board-joshua-jefferson-scouting-report-stats-highlights-interview-rumors/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Thu, 18 Jun 2026 13:33:26 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-02-01T220159Z_1249017486_MT1USATODAY28136446_RTRMADP_3_NCAA-BASKETBAL.JPG",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
     },
     {
       "title": "Sixers mock draft roundup 6.0: Five days away from Mike Gansey's decision at No. 22 overall",
@@ -743,16 +823,6 @@
       "source": "Phillies Nation"
     },
     {
-      "title": "Report: Sixers will complete in-person visits with six draft prospects by end of week",
-      "description": "As they near a decision with the No. 22 overall pick in the 2026 NBA Draft, the Sixers are getting closer looks at several prospects of interest.",
-      "link": "https://www.phillyvoice.com/sixers-nba-draft-prospect-visits-workouts-dailyn-swain-allen-graves-zuby-ejiofor/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 17 Jun 2026 16:18:08 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_28032100.jpg",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
       "title": "Eagles News: Julian Lurie is inspiring confidence as the team\u2019s future owner",
       "description": "Let\u2019s get to the Philadelphia Eagles news and links \u2026 Julian Lurie is the future of Eagles ownership. But how much do we really know about him? Inquirer\u201cHe is really smart. He\u2019s very creative. He\u2019s very empathetic,\u201d an Eagles source said. \u201cHe\u2019s reall",
       "link": "",
@@ -763,16 +833,6 @@
       "source": "Bleeding Green Nation"
     },
     {
-      "title": "5 potential steals the Flyers could land at 53rd overall",
-      "description": "The 2026 NHL Draft is just around the corner now that the Stanley Cup has been handed out. We can all start thinking about which prospects we want the Philadelphia Flyers to take and how upset we might get if they dont select one of our favorite teen",
-      "link": "https://www.broadstreethockey.com/post/5-potential-steals-the-flyers-could-land-at-53rd-overall/",
-      "pubDate": "Wed, 17 Jun 2026 14:30:00 +0000",
-      "author": "Thomas Williams",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "Phillies place Brad Keller on IL, use replacement to finish win after busy afternoon",
       "description": "Details on Brad Keller's injury and Max Lazar's busy afternoon.",
       "link": "https://philliesnation.com/2026/06/philadelphia-phillies-brad-keller-max-lazar-reliever-bullpen-injury-update-win-marlins/",
@@ -781,16 +841,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
-    },
-    {
-      "title": "Wednesday Morning Fly By: Oh hey the fun began",
-      "description": "*Well, didnt take long for Danny Briere to kick off his Summer Plans! Yesterday we learned that the Flyers made their first move of the offseason and it is looking like a win for our boys. [BSH] *So lets meet our new guys! Weve got a pianist and a co",
-      "link": "https://www.broadstreethockey.com/post/wednesday-morning-fly-by-oh-hey-the-fun-began/",
-      "pubDate": "Wed, 17 Jun 2026 10:00:00 +0000",
-      "author": "Kelly Hinkle",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Asking an NBA Draft expert about Zuby Ejiofor's fit with the Sixers",
@@ -863,6 +913,16 @@
       "source": "Liberty Ballers"
     },
     {
+      "title": "Why the Leafs chose to move on from Joseph Woll",
+      "description": "On Tuesday, the Leafs dealt Woll and defenseman Simon Benoit to the Philadelphia Flyers.",
+      "link": "https://www.dailyfaceoff.com/news/toronto-maple-leafs-chose-to-move-on-from-joseph-woll-trade-philadelphia-flyers",
+      "pubDate": "Tue, 16 Jun 2026 18:00:00 +0000",
+      "author": "Daily Faceoff",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Philly Sports Wire"
+    },
+    {
       "title": "Eagles reportedly sign another UFL player",
       "description": "The Philadelphia Eagles are apparently signing not one but (at least) two players from the United Football League following the recent conclusion of the 2026 UFL season. It was previously reported that the Eagles are signing DC Defenders wide receive",
       "link": "",
@@ -881,6 +941,36 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
+    },
+    {
+      "title": "Flyers, Maple Leafs swap goaltenders and defensemen",
+      "description": "The Toronto Maple Leafs acquired goaltender Samuel Ersson, defenseman Emil Andrae and a third-round pick in the 2026 NHL Draft from the Philadelphia F",
+      "link": "https://deadspin.com/flyers-maple-leafs-swap-goaltenders-and-defensemen/",
+      "pubDate": "Tue, 16 Jun 2026 16:47:31 +0000",
+      "author": "Deadspin",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Eagles' Saquon Barkley thinks Nick Sirianni deserves more respect",
+      "description": "",
+      "link": "https://www.sportingnews.com/us/nfl/philadelphia-eagles/news/eagles-saquon-barkley-thinks-nick-sirianni-deserves-more-respect/6bde05b6fa215a448f2bb96e",
+      "pubDate": "Tue, 16 Jun 2026 16:43:23 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Phillies called a 'strong fit' for All-Star Red Sox outfielder with one big problem",
+      "description": "The Phillies aren't actually that good a fit with this Red Sox outfielder.",
+      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-strong-fit-all-star-red-sox-outfielder-one-problem/6be0796923f205f68ea26af6",
+      "pubDate": "Tue, 16 Jun 2026 16:24:54 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Eagles News: Saquon Barkley says Nick Sirianni \u201cdoesn\u2019t get enough credit at all\u201d",
@@ -983,16 +1073,6 @@
       "source": "PHL Sports Nation"
     },
     {
-      "title": "13 winners from the Eagles\u2019 spring practices",
-      "description": "The Philadelphia Eagles officially wrapped up their spring workout program last week. Now let\u2019s take a look at the winners, losers, and I don\u2019t knows that stood out from four media-attended practices in the form of two days of voluntary OTAs and two ",
-      "link": "",
-      "pubDate": "2026-06-15T15:34:34-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Flyers thoughts: Philly's ties to the Stanley Cup, a look at the Darnell Nurse rumors",
       "description": "From Rod Brind'Amour to Shayne Gostisbehere and Philly native Eric Tulsky, the Hurricanes' Stanley Cup win carried a few ties back to the Flyers.",
       "link": "https://www.phillyvoice.com/flyers-thoughts-hurricanes-stanley-cup-darnell-nurse-trade-rumors-dan-vladar-contract/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -1001,26 +1081,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_29199487.jpg",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "The injury concerns are real, but Jayden Quaintance is a tantalizing talent",
-      "description": "For the next month before the 2026 NBA Draft, we\u2019ll take an in-depth look at different prospects here at Liberty Ballers and try to figure out which players would be the best fit for the Sixers at No. 22. Next up in this series is Kentucky\u2019s Jayden Q",
-      "link": "",
-      "pubDate": "2026-06-15T11:07:54-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
-      "title": "Eagles News: Philadelphia has one of the NFL\u2019s most versatile players",
-      "description": "Let\u2019s get to the Philadelphia Eagles news and links \u2026 Nick Emmanwori, Colston Loveland among NFL\u2019s 10 most versatile players The AthleticCooper DeJean, CB/safety/nickel, Eagles. Eagles coaches speak about Cooper DeJean with reverence because the scop",
-      "link": "",
-      "pubDate": "2026-06-15T10:39:33-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Phillies power rankings roundup: Three guys are basically carrying the offense",
@@ -1473,16 +1533,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Eagles OTA practice notes: Offense starts slow, but eventually makes some plays",
-      "description": "The Philadelphia Eagles had a full-team practice Tuesday, the second media-attended practice of the spring. Last week's practice was forced inside the bubble due to rain. This practice was outside on a gorgeous day. As always, we have notes.",
-      "link": "https://www.phillyvoice.com/eagles-ota-practice-notes-offense-starts-slow-eventually-makes-plays/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 03 Jun 2026 12:28:40 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/IMG_3239.jpeg",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
       "title": "Bonus Sixers mailbag: What should Mike Gansey's Plan A for 2026 offseason be?",
       "description": "Another day, another Sixers mailbag. As Mike Gansey enters Philadelphia, should he have major plans in the summer ahead?",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-mike-gansey-tyrese-maxey-vj-edgecombe-joel-embiid-contract-paul-george-nba-rumors/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -1511,16 +1561,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_29068922.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "5 Sixers thoughts: Mike Gansey enters, 2026 NBA Finals matchup set and more",
-      "description": "Mike Gansey has a crucial first impression to make this week, while former Sixer Julian Champagnie became the hero of the Western Conference Finals.",
-      "link": "https://www.phillyvoice.com/sixers-thoughts-mike-gansey-nba-finals-jared-mccain-julian-champagnie-tyrese-maxey-draft-lottery-reform/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 01 Jun 2026 14:00:06 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_29101711.jpg",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
     },
     {
       "title": "Flyers thoughts: A big-time offer sheet for a star is interesting, but far too risky",
