@@ -1,21 +1,9 @@
 {
-  "updated": "2026-06-18T21:29:42.035635+00:00",
+  "updated": "2026-06-19T12:37:19.399897+00:00",
   "scores": {
     "phillies": {
       "recent": [],
       "upcoming": [
-        {
-          "date": "6/18",
-          "home": "PHI",
-          "away": "NYM",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "MLB",
-          "name": "New York Mets at Philadelphia Phillies",
-          "shortName": "NYM @ PHI",
-          "time": "6:40 PM ET",
-          "status": "scheduled"
-        },
         {
           "date": "6/20",
           "home": "PHI",
@@ -66,6 +54,18 @@
         },
         {
           "date": "6/24",
+          "home": "WSH",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "MLB",
+          "name": "Philadelphia Phillies at Washington Nationals",
+          "shortName": "PHI @ WSH",
+          "time": "6:45 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "6/25",
           "home": "WSH",
           "away": "PHI",
           "homeLogo": "",
