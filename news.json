@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-20T10:15:30.579325+00:00",
-  "count": 154,
+  "updated": "2026-06-20T16:06:15.420585+00:00",
+  "count": 171,
   "articles": [
+    {
+      "title": "Crooked Pop Announces Philadelphia Phillies Partnership and Ryan Howard\u2019s Crooked Wiffle Ball Derby",
+      "description": "Twenty years after Crooked investor and Philadelphia Phillies legend Ryan Howard captured the historic 2006 Home Run Derby title, Crooked [] The post Crooked Pop Announces Philadelphia Phillies Partnership and Ryan Howard\u2019s Crooked Wiffle Ball Derby ",
+      "link": "https://phlsportsnation.com/2026/06/16/crooked-pop-announces-philadelphia-phillies-partnership-and-ryan-howards-crooked-wiffle-ball-derby/",
+      "pubDate": "Tue, 16 Jun 2026 22:03:35 +0000",
+      "author": "PHLSportsNation",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "PHL Sports Nation"
+    },
     {
       "title": "Phillies predicted to trade for $5.2M Gold Glove finalist, power bat to fill Adolis Garcia void",
       "description": "The Phillies are going to need a bat in the lineup for sure after Adolis Garcia's injury. In this potential trade it comes in the form of an outfielder who has a good bat and elite defense.",
@@ -31,6 +41,26 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_29068877.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "The Flyers\u2019 pursuit of John Carlson just got more complicated",
+      "description": "Its becoming the worst kept secret that the Philadelphia Flyers are eyeing up free agent defenseman John Carlson. Unfortunately, theres a new potential hiccup into them landing the offensive blueliner. With July 1 fast approaching, the rumor mill is ",
+      "link": "https://www.broadstreethockey.com/post/the-flyers-pursuit-of-john-carlson-just-got-more-complicated/",
+      "pubDate": "Sat, 20 Jun 2026 01:34:02 +0000",
+      "author": "Thomas Williams",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Who mock drafts have the Flyers taking at 21st overall one week before the NHL Draft",
+      "description": "The 2026 NHL Draft is a week away, and the Philadelphia Flyers have one first-round pick to use on Friday night. While there is a chance they make a first-round trade for the third straight year, what we know right now is that Danny Briere & Co. own ",
+      "link": "https://www.broadstreethockey.com/post/who-mock-drafts-have-the-flyers-taking-at-21st-overall-one-week-before-nhl-draft/",
+      "pubDate": "Fri, 19 Jun 2026 18:43:26 +0000",
+      "author": "Ryan Gilbert",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Eagles News: ESPN suggests Moro Ojomo contract extension",
@@ -211,6 +241,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_29177560.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "DeVonta Smith: Stepping Out of the Shadows into Eagles Legend Status",
+      "description": "With 2:47 left in the 3rd quarter of Super Bowl LIX \u2014 and the Eagles up 27\u20130 and needing one more score [] The post DeVonta Smith: Stepping Out of the Shadows into Eagles Legend Status appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/06/15/now-standing-on-his-own-and-moving-into-legendary-status/",
+      "pubDate": "Mon, 15 Jun 2026 11:29:22 +0000",
+      "author": "Michael Thomas Leibrandt",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "Asking an NBA Draft expert about Allen Graves' fit with the Sixers",
@@ -453,6 +493,36 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Eagles News: Is Philadelphia too late to the trend on offense?",
+      "description": "Let\u2019s get to the Philadelphia Eagles news and links \u2026 Mailbag: A visual of the Eagles decorated defense PhillyVoiceQuestion from @Generichandleguy (via Bluesky): Are the Eagles already too late to the Shanahan offense party? I\u2019m concerned that they\u2019r",
+      "link": "",
+      "pubDate": "2026-06-20T11:46:35-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "The Flyers are thin on picks for this NHL Draft, yet are holding a lot more cards",
+      "description": "The Flyers have narrowed themselves down to just four picks in the 2026 NHL Draft, but with how much they've stocked up the past few years, that may not be an issue.",
+      "link": "https://www.phillyvoice.com/flyers-nhl-draft-preview-danny-briere-brent-flahr-future-picks-trade-rumors/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sat, 20 Jun 2026 15:39:56 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-06-28T001007Z_855137660_MT1USATODAY26546808_RTRMADP_3_NHL-NHL-DRAFT.JPG",
+      "team": "flyers",
+      "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "Mailbag: A visual of the Eagles' decorated defense",
+      "description": "The Eagles' current defense consists of guys who have either arrived or are on the rise.",
+      "link": "https://www.phillyvoice.com/mailbag-visual-eagles-decorated-defense-pro-bowl-all-pro/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sat, 20 Jun 2026 13:51:41 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/Eagles_D_cover.png",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
       "title": "Jeffery Simmons contract extension holds meaning for Jalen Carter and the Eagles",
       "description": "Somewhere, Jalen Carter and his agent, Drew Rosenhaus, are smiling right now. I\u2019m guessing they\u2019re not actually together in person but that much is besides the point. The two have reason to be happy after seeing that Jeffery Simmons and the Tennessee",
       "link": "",
@@ -481,6 +551,16 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "5 overage prospects the Flyers could target in the 2026 NHL Draft",
+      "description": "Each player making it to the National Hockey League has their own road to get there. Most of the time its the junior ranks or NCAA, but others sometimes take a bit longer to develop. As a result, when they are of draft age, they might not be selected",
+      "link": "https://www.broadstreethockey.com/post/5-overage-prospects-the-flyers-could-target-in-the-2026-nhl-draft/",
+      "pubDate": "Fri, 19 Jun 2026 16:47:16 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Zuby Ejiofor is built for the dirty work, making him a perfect fit for the Sixers",
@@ -563,6 +643,16 @@
       "source": "Phillies Nation"
     },
     {
+      "title": "Friday Morning Fly By: One week to go",
+      "description": "*The offseason rumor mill keeps on turning, and today were shifting our focus to the unfolding Auston Matthews saga up in Toronto, because it would seem that the Flyers are doing the same. [BSH] *And, of course, were still working to unpack the Flyer",
+      "link": "https://www.broadstreethockey.com/post/friday-morning-fly-by-one-week-to-go-2/",
+      "pubDate": "Fri, 19 Jun 2026 10:00:00 +0000",
+      "author": "Madeline Campbell",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
       "title": "Why Trea Turner left Thursday\u2019s game early against the Mets",
       "description": "PHILADELPHIA For the second time this homestand, Trea Turner has left the game early after getting hit by a pitch. Turner departed the game Thursday against the New York Mets in the top of the third inning with a right calf contusion. He was hit with",
       "link": "https://philliesnation.com/2026/06/philadelphia-phillies-trea-turner-injury-update-new-york-mets-june-18/",
@@ -601,6 +691,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_28323812.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "Report: Flyers monitoring Auston Matthews amid uncertainty with the Leafs",
+      "description": "The Philadelphia Flyers are on the hunt. General manager Danny Briere is crouching down in the bushes and ready to pounce on whatever first-line center becomes available for this team to take a major step. And now theyre in the stages of just waiting",
+      "link": "https://www.broadstreethockey.com/post/report-flyers-monitoring-auston-matthews-amid-uncertainty-with-the-leafs/",
+      "pubDate": "Thu, 18 Jun 2026 19:51:28 +0000",
+      "author": "Thomas Williams",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "How to watch Phillies vs. Mets weekend series with 2 national games",
@@ -683,6 +783,26 @@
       "source": "PhillyVoice Eagles"
     },
     {
+      "title": "How Simon Benoit\u2019s addition affects Flyers\u2019 defense lineup",
+      "description": "The Flyers made a big shift to their roster, they announced yesterday, with the move to ship out backup goaltender Sam Ersson and depth defenseman Emil Andrae (along with a third round pick) to Toronto in exchange for Joseph Woll and Simon Benoit. An",
+      "link": "https://www.broadstreethockey.com/post/how-simon-benoits-addition-affects-flyers-defense-lineup/",
+      "pubDate": "Thu, 18 Jun 2026 11:31:16 +0000",
+      "author": "Madeline Campbell",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Why Mike Gansey May Be the Most Important Addition of the Sixers\u2019 Offseason",
+      "description": "The Philadelphia 76ers have focused on draft prospects, roster needs, and potential signings centered on Joel Embiid and Tyrese Maxey [] The post Why Mike Gansey May Be the Most Important Addition of the Sixers\u2019 Offseason appeared first on Philadelph",
+      "link": "https://phlsportsnation.com/2026/06/18/why-mike-gansey-may-be-the-most-important-addition-of-the-sixers-offseason/",
+      "pubDate": "Thu, 18 Jun 2026 07:35:21 +0000",
+      "author": "Cooper Hubbard",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "Phillies option Andrew Painter to Triple-A after another brutal start",
       "description": "The Phillies couldn't afford to have Painter overwhelmed every fifth day anymore.",
       "link": "https://www.phillyvoice.com/phillies-option-andrew-painter-triple-a-lehigh-valley-starting-pitching-don-mattingly/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -721,6 +841,16 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "How Danny Briere turned a Flyers weakness into a major strength",
+      "description": "It wasnt even a year ago, and the Philadelphia Flyers were looking at a goaltending issue that was a major problem at the time, and moving forward. At his year-end interview in the spring of 2025, Flyers general manager Danny Briere acknowledged the ",
+      "link": "https://www.broadstreethockey.com/post/how-danny-briere-turned-a-flyers-weakness-into-a-major-strength/",
+      "pubDate": "Wed, 17 Jun 2026 18:03:42 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Eagles mailbag: Better season in 2026: DeVonta Smith or A.J. Brown?",
@@ -893,16 +1023,6 @@
       "source": "Philly Sports Wire"
     },
     {
-      "title": "Eagles News: Saquon Barkley says Nick Sirianni \u201cdoesn\u2019t get enough credit at all\u201d",
-      "description": "Let\u2019s get to the Philadelphia Eagles news and links \u2026 Eagles coach Nick Sirianni is a hothead and a lightning rod. Just don\u2019t call him a phony The AthleticIn the City of Brotherly Love, Sirianni is stigmatized by the widespread perception of his limi",
-      "link": "",
-      "pubDate": "2026-06-16T12:13:36-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "The Eagles have a new No. 1 wide receiver and need to pay him that way",
       "description": "Now that DeVonta Smith is the unquestioned WR1 for the Eagles, his contract needs to reflect it \u2013 and before the price tag gets even higher.",
       "link": "https://www.phillyvoice.com/eagles-devonta-smith-salary-contract-extension-a-j-brown-howie-roseman/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -973,6 +1093,16 @@
       "source": "PhillyVoice Flyers"
     },
     {
+      "title": "All-Star Summer in Philly: How Fans Are Gearing Up for Baseball\u2019s Biggest Night",
+      "description": "Picture a row home in South Philly with the windows cracked open on a warm June evening. The Phillies are [] The post All-Star Summer in Philly: How Fans Are Gearing Up for Baseballs Biggest Night appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/06/15/all-star-summer-in-philly-how-fans-are-gearing-up-for-baseballs-biggest-night/",
+      "pubDate": "Mon, 15 Jun 2026 19:53:50 +0000",
+      "author": "PHLSportsNation",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "Flyers thoughts: Philly's ties to the Stanley Cup, a look at the Darnell Nurse rumors",
       "description": "From Rod Brind'Amour to Shayne Gostisbehere and Philly native Eric Tulsky, the Hurricanes' Stanley Cup win carried a few ties back to the Flyers.",
       "link": "https://www.phillyvoice.com/flyers-thoughts-hurricanes-stanley-cup-darnell-nurse-trade-rumors-dan-vladar-contract/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -1001,6 +1131,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/11925_EaglesRams_ColleenClaggett-4018.jpg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Philadelphia Wins on the Water, Once Again",
+      "description": "If you looked closely during the 1720s , you might see a young man swimming routinely in the Schulkyll River. It [] The post Philadelphia Wins on the Water, Once Again appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/06/15/philadelphia-wins-on-the-water-once-again/",
+      "pubDate": "Mon, 15 Jun 2026 09:57:36 +0000",
+      "author": "Michael Thomas Leibrandt",
+      "thumbnail": null,
+      "team": "general",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "5 Sixers thoughts: Predicting decisions on team options, Knicks win NBA Finals and more",
@@ -1103,6 +1243,16 @@
       "source": "PhillyVoice Flyers"
     },
     {
+      "title": "Ranking the Sixers\u2019 Biggest Offseason Needs",
+      "description": "The Philadelphia 76ers have been the focus of considerable discussion about what to do with the No. 22 overall choice [] The post Ranking the Sixers Biggest Offseason Needs appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/06/12/ranking-the-sixers-biggest-offseason-needs/",
+      "pubDate": "Fri, 12 Jun 2026 18:47:24 +0000",
+      "author": "Cooper Hubbard",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "Eagles stock up, stock down: Spring practices edition",
       "description": "Cam Jurgens and Landon Dickerson lead a group of Eagles looking to bounce back from a spotty 2025.",
       "link": "https://www.phillyvoice.com/eagles-stock-stock-down-spring-practices-edition-2026-riq-woolen-landon-dickerson-cam-jurgens-jeremiah-trotter/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -1111,6 +1261,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_25103009_1.jpg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "The Eagles Are Prepared for an All-in Season",
+      "description": "In case it wasn\u2019t clear, the Los Angeles Rams proved that they\u2019re preparing for another Super Bowl run. Just before [] The post The Eagles Are Prepared for an All-in Season appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/06/12/the-eagles-are-prepared-for-an-all-in-season/",
+      "pubDate": "Fri, 12 Jun 2026 04:30:30 +0000",
+      "author": "Tyler L\u2019Heureux",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "Which teams could pry Quentin Grimes away from the Sixers in free agency?",
@@ -1173,6 +1333,16 @@
       "source": "PhillyVoice Sixers"
     },
     {
+      "title": "Key Phillies Players Driving Philadelphia\u2019s 2026 Bounce-Back Hopes",
+      "description": "The Philadelphia Phillies are traditionally known as one of the preseason and early-season favorites to make a serious claim for [] The post Key Phillies Players Driving Philadelphias 2026 Bounce-Back Hopes appeared first on Philadelphia Sports Natio",
+      "link": "https://phlsportsnation.com/2026/06/10/key-phillies-players-driving-philadelphias-2026-bounce-back-hopes/",
+      "pubDate": "Wed, 10 Jun 2026 18:00:00 +0000",
+      "author": "PHLSportsNation",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "Once envious of the new offense the Eagles will run, Lane Johnson won't have to be anymore",
       "description": "The Eagles' star right tackle is in a weird spot \u2013 learning an offense he's always envied, for the first time, at 36 years old and possibly in his last season. He's embracing it.",
       "link": "https://www.phillyvoice.com/eagles-offense-lane-johnson-scheme-sean-mannion-west-coast/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -1193,6 +1363,16 @@
       "source": "PhillyVoice Eagles"
     },
     {
+      "title": "Team Philly Goes for the Gold at Transplant Games of America",
+      "description": "More than 200 adults and children will proudly represent the Philadelphia region at the 2026 Transplant Games of America in Denver. Athletes include [] The post Team Philly Goes for the Gold at Transplant Games of America appeared first on Philadelph",
+      "link": "https://phlsportsnation.com/2026/06/09/team-philly-goes-for-the-gold-at-transplant-games-of-america/",
+      "pubDate": "Tue, 09 Jun 2026 22:59:36 +0000",
+      "author": "PHLSportsNation",
+      "thumbnail": null,
+      "team": "general",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "ESPN predicts no Phillies to start All-Star Game, in Philly, including Cris S\u00e1nchez",
       "description": "In its self-proclaimed too-early MLB All-Star Game roster projection, ESPN predicts five Phils to make the NL team, but only as reserves.",
       "link": "https://www.phillyvoice.com/espn-phillies-start-all-star-game-national-league-cris-sanchez-bryce-harper-kyle-schwarber/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -1201,6 +1381,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_28682182.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "Saquon Barkley Is Learning From Todd Gurley III, and Now So Are You",
+      "description": "OTAs have started, so Eagles practices are underway. One note that may have gotten lost, especially with the constant AJ [] The post Saquon Barkley Is Learning From Todd Gurley III, and Now So Are You appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/06/09/saquon-barkley-is-learning-from-todd-gurley-iii-and-now-so-are-you/",
+      "pubDate": "Tue, 09 Jun 2026 20:12:02 +0000",
+      "author": "Kyle Lavin",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "Eagles rookie NFL player comparisons: QB Cole Payton",
@@ -1343,16 +1533,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "Why are the Eagles obsessed with the 49ers?",
-      "description": "After adding RB Elijah Mitchell, the Eagles now have five former 49ers on their roster. It's been an odd, developing trend for a few years.",
-      "link": "https://www.phillyvoice.com/eagles-obsessed-49ers-eli-mitchell-nick-sirianni-kyle-shanahan-nick-sirianni/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 03 Jun 2026 16:03:27 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_22058498.jpg",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
       "title": "Report: A Dan Vladar extension with the Flyers is 'pretty much done'",
       "description": "A Dan Vladar contract extension feels like a matter of \"when,\" not \"if.\"",
       "link": "https://www.phillyvoice.com/dan-vladar-flyers-contract-extension-nhl-rumors-report-goalie-market-sam-ersson/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -1459,16 +1639,6 @@
       "pubDate": "Wed, 20 May 2026 00:08:47 +0000",
       "author": "Nick Tricome",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_28880343.jpg",
-      "team": "flyers",
-      "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "The Flyers still need center help, but the position's outlook is much better now",
-      "description": "The Flyers still need that true No. 1 at the top, but strides from Trevor Zegras and Denver Barkey have made the search just a bit more manageable.",
-      "link": "https://www.phillyvoice.com/flyers-center-outlook-nhl-free-agency-trades-trevor-zegras-denver-barkey/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 19 May 2026 14:36:50 +0000",
-      "author": "Nick Tricome",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_28870704_1.jpg",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
     },
