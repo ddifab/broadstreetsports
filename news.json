@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-22T16:14:15.612104+00:00",
-  "count": 167,
+  "updated": "2026-06-22T22:57:42.440740+00:00",
+  "count": 162,
   "articles": [
     {
       "title": "Crooked Pop Announces Philadelphia Phillies Partnership and Ryan Howard\u2019s Crooked Wiffle Ball Derby",
@@ -21,6 +21,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_28679421.jpg",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "Why the Sixers didnt get involved in the Aaron Wiggins trade",
+      "description": "At this years trade deadline, the Sixers made a trade with the Oklahoma City Thunder that we dont need to rehash for the sake of everyones mental health. Their reported trade target from that deal is now on the move. In mid-May, Adam Aaronson of Phil",
+      "link": "",
+      "pubDate": "2026-06-22T12:23:06-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "How many NL All-Stars should the Phillies have?",
@@ -51,36 +61,6 @@
       "thumbnail": null,
       "team": "general",
       "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Monday Morning Fly By: Trades on trades",
-      "description": "*Things certainly are heating up around here! A couple of teams that weve had on our radar as potential trade partners for the Flyers have seen some activity this weekend, as the Kraken made the move to pick up Mackie Samoskevich from the Panthers. [",
-      "link": "https://www.broadstreethockey.com/post/monday-morning-fly-by-trades-on-trades/",
-      "pubDate": "Mon, 22 Jun 2026 10:00:00 +0000",
-      "author": "Madeline Campbell",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "The Brady Tkachuk trade could create a huge opportunity for the Flyers",
-      "description": "The Carolina Hurricanes won the Stanley Cup one week ago, and the trades have been flowing in ever since. The Philadelphia Flyers got things started by acquiring Joseph Woll and Simon Benoit for Emil Andrae, Sam Ersson, and a third-round pick on Tues",
-      "link": "https://www.broadstreethockey.com/post/the-brady-tkachuk-trade-could-create-a-huge-opportunity-for-the-flyers/",
-      "pubDate": "Sun, 21 Jun 2026 23:35:43 +0000",
-      "author": "Ryan Gilbert",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Report: Flyers targeting Shane Wright in trade talks with Kraken",
-      "description": "The Philadelphia Flyers are going to be right in the middle of basically every single trade rumor about a good defenseman and a young, good center. Its bound to happen. Its two major holes that this team needs to fill whether it is one of their prosp",
-      "link": "https://www.broadstreethockey.com/post/report-flyers-targeting-shane-wright-in-trade-talks-with-kraken/",
-      "pubDate": "Sun, 21 Jun 2026 18:26:25 +0000",
-      "author": "Thomas Williams",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Bryce Harper completes the cycle, Kyle Schwarber crushes three homers, and the Phillies make history",
@@ -167,16 +147,6 @@
       "description": "For the next month before the 2026 NBA Draft, we\u2019ll take an in-depth look at different prospects here at Liberty Ballers and try to figure out which players would be the best fit for the Sixers at No. 22. Next up in this series is Michigan\u2019s Morez Jo",
       "link": "",
       "pubDate": "2026-06-17T11:00:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
-      "title": "Can Paul George build on his strong finish to 2025-26?",
-      "description": "We saw quite the rise in impact from Paul George through 2025-26. The season started in typical Sixers fashion, with their star wing sidelined due to injury for the first 12 games. His play from mid November to the end of January was solid, yet he on",
-      "link": "",
-      "pubDate": "2026-06-17T09:03:19-04:00",
       "author": "",
       "thumbnail": null,
       "team": "sixers",
@@ -423,6 +393,66 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Phillies announce starter for opener in Washington, set rotation without Andrew Painter",
+      "description": "Who is starting for the Phillies on Monday night?",
+      "link": "https://philliesnation.com/2026/06/philadelphia-phillies-starting-rotation-news-tim-mayza-alan-rangel-washington-nationals-series-update-aaron-nola/",
+      "pubDate": "Mon, 22 Jun 2026 20:51:52 +0000",
+      "author": "Ty Daubert",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
+    },
+    {
+      "title": "NHL Draft: Six prospects the Flyers could pick at No. 21, Version 4.0",
+      "description": "From the Ruck twins to the speedy Mathis Preston, there are still more draft prospects that the Flyers should have their eyes on.",
+      "link": "https://www.phillyvoice.com/flyers-nhl-draft-2026-prospects-liam-ruck-marcus-nordmark-mathis-preston/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Mon, 22 Jun 2026 18:54:52 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2024-01-30T173923Z_1046911618_MT1USATODAY22403682_RTRMADP_3_YOUTH-OLYMPICS.JPG",
+      "team": "flyers",
+      "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "Sixers final mock draft round-up",
+      "description": "Were now a day away from the 2026 NBA Draft, set to be one of the best of the decade with a strong class of intriguing young prospects. The Sixers, as many of you know, hold the 22nd selection. With the draft closing in fast, talent evaluators from a",
+      "link": "",
+      "pubDate": "2026-06-22T13:46:56-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Eagles training camp start date announced",
+      "description": "We already knew that the Philadelphia Eagles are set to begin training camp sometime in late July. Now we have an official start date! With the NFL announcing reporting information for all 32 teams, weve come to learn that Eagles players will be arri",
+      "link": "",
+      "pubDate": "2026-06-22T13:10:09-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "How to watch Phillies vs. Nationals series",
+      "description": "The Phillies are down in D.C. for four against the Washington Nationals beginning Monday. The Nationals have been a bit of a surprise this year. They have one of the best offenses in MLB. Their .741 team OPS is the fifth-best in MLB. To put that into",
+      "link": "https://philliesnation.com/2026/06/philadelphia-phillies-washington-nationals-how-to-watch/",
+      "pubDate": "Mon, 22 Jun 2026 16:44:14 +0000",
+      "author": "Destiny Lugardo",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
+    },
+    {
+      "title": "Eagles News: Zack Baun says Vic Fangio is taking Philadelphia\u2019s defense \u201cto the next level\u201d",
+      "description": "Let\u2019s get to the Philadelphia Eagles news and links \u2026 Zack Baun inspired to lead Vic Fangios next-level defense in 2026 PhiladelphiaEagles.comAside from the changes to personnel and development of the younger players in the locker room, a large reaso",
+      "link": "",
+      "pubDate": "2026-06-22T12:39:09-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
       "title": "Jason Kelce is raising money for the Eagles Autism Foundation once again",
       "description": "For the sixth year in a row, Jason Kelce is raising money for the Eagles Autism Foundation through his annual fundraiser at the Jersey Shore. From the press release (bold emphasis mine): To raise funds for the Eagles Autism Foundation, Team 62 \u2013 led ",
       "link": "",
@@ -433,24 +463,14 @@
       "source": "Bleeding Green Nation"
     },
     {
-      "title": "5 moves the Flyers could make on their infamous June 23",
-      "description": "If theres one date on the calendar that contains a lot of Flyers franchise-altering history, it has to be June 23. Over the last 15 or so years, Philadelphia has somehow made moves on that specific date. A handful of these over the years include the ",
-      "link": "https://www.broadstreethockey.com/post/5-moves-the-flyers-could-make-on-their-infamous-june-23/",
-      "pubDate": "Mon, 22 Jun 2026 15:00:00 +0000",
-      "author": "Jason MacNeil",
+      "title": "Ebuka Okorie might be too good to pass up if he falls to Sixers at 22",
+      "description": "For the next month before the 2026 NBA Draft, we\u2019ll take an in-depth look at different prospects here at Liberty Ballers and try to figure out which players would be the best fit for the Sixers at No. 22. Next up in this series is Stanford\u2019s Eubka Ok",
+      "link": "",
+      "pubDate": "2026-06-22T11:01:17-04:00",
+      "author": "",
       "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Flyers announce 2026-27 preseason schedule",
-      "description": "With the focus primarily on the upcoming NHL Draft and free agent frenzy next week, the Philadelphia Flyers announced their 2026-27 exhibition schedule on Monday. And its going to be much shorter than previous schedules, which just four games on the ",
-      "link": "https://www.broadstreethockey.com/post/flyers-announce-2026-27-preseason-schedule/",
-      "pubDate": "Mon, 22 Jun 2026 14:36:30 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Can the Phillies realistically catch the Braves in the NL East?",
@@ -463,14 +483,14 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "7 hidden gems the Flyers could target in the 2026 NHL Draft",
-      "description": "The NHL Draft is great for finding the cornerstones of your franchise and the future stars of your team at the very tippy top of it. Nailing down those top five picks to set your team up for many years of future success with a very good player leadin",
-      "link": "https://www.broadstreethockey.com/post/7-potential-draft-steals-for-the-flyers-at-the-2026-nhl-draft/",
-      "pubDate": "Mon, 22 Jun 2026 11:30:00 +0000",
-      "author": "Thomas Williams",
+      "title": "The Sixers 2026-27 salary-cap outlook heading into the offseason",
+      "description": "Two years ago, the Sixers waltzed into the offseason with roughly $60 million of salary-cap space. Those days are long gone. With Joel Embiid, Paul George and Tyrese Maxey all on max contracts, the Sixers already project to be over the 2026-27 salary",
+      "link": "",
+      "pubDate": "2026-06-22T10:00:24-04:00",
+      "author": "",
       "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "FIFA Has Arrived In Philly. Talent From Around the World \u2014 Is Already Here",
@@ -521,16 +541,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
-    },
-    {
-      "title": "Predicting every Flyers pick in a full 7-round mock draft",
-      "description": "Its NHL Draft season so were going to do the only thing there is to do (other than extensively go over the top available prospects this year), and thats try to peer into a crystal ball and determine who might be the right pick for the Philadelphia Fl",
-      "link": "https://www.broadstreethockey.com/post/predicting-every-flyers-pick-in-a-full-7-round-mock-draft/",
-      "pubDate": "Sun, 21 Jun 2026 21:00:00 +0000",
-      "author": "Thomas Williams",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Sixers mock draft roundup 7.0: Two new options at No. 22 overall",
@@ -887,10 +897,10 @@
       "description": "No more clocks in the Home Run Derby.",
       "link": "https://philliesnation.com/2026/06/philadelphia-phillies-mlb-all-star-home-run-derby-2026/",
       "pubDate": "Thu, 18 Jun 2026 18:21:07 +0000",
-      "author": "Destiny Lugardo",
+      "author": "Phillies Nation",
       "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
+      "team": "general",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Which Eagles are likely headed elsewhere in 2027?",
@@ -901,16 +911,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_27860809.jpg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Eagles News: NFL insider says Philadelphia is \u201chesitant to pay\u201d Jalen Carter",
-      "description": "Let\u2019s get to the Philadelphia Eagles news and links \u2026 Albert Breer\u2019s Mailbag: How Mike McDaniel Can Get Justin Herbert in the MVP Conversation SIFrom Ben (@samuelslim2): Where are things at with the Eagles and Jalen Carter? Is he going to hold in? Ar",
-      "link": "",
-      "pubDate": "2026-06-18T11:13:21-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Chris Cenac is a great fit for the Sixers current roster and future",
@@ -983,16 +983,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "How many games on the Eagles\u2019 schedule do they have a quarterback advantage in?",
-      "description": "There is no escape from it. Jalen Hurts continues his trend. Since we started this annual activity in 2022, Hurts has done well in every even year and fallen off in every odd year. In the 2022 and 2024 seasons, for example, Hurts reached the Super Bo",
-      "link": "",
-      "pubDate": "2026-06-17T17:16:05-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Eagles mailbag: Better season in 2026: DeVonta Smith or A.J. Brown?",
       "description": "DeVonta Smith and A.J. Brown are their own No. 1s now, who each might be in for different degrees of success.",
       "link": "https://www.phillyvoice.com/eagles-mailbag-better-season-2026-devonta-smith-aj-brown/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -1033,16 +1023,6 @@
       "source": "PhillyVoice Flyers"
     },
     {
-      "title": "Post-Finals NBA mock draft roundup for the Sixers",
-      "description": "The NBA draft is a week away and a new batch of mocks dropped following the conclusion of the Finals. Parsing through the different projections for the Sixers at pick 22 reveals new names compared to mock drafts after the combine. With new president ",
-      "link": "",
-      "pubDate": "2026-06-16T14:01:26-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "The Eagles have a new No. 1 wide receiver and need to pay him that way",
       "description": "Now that DeVonta Smith is the unquestioned WR1 for the Eagles, his contract needs to reflect it \u2013 and before the price tag gets even higher.",
       "link": "https://www.phillyvoice.com/eagles-devonta-smith-salary-contract-extension-a-j-brown-howie-roseman/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -1053,16 +1033,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "The Sixers need shooters and there aren\u2019t many better than Isaiah Evans in this draft",
-      "description": "For the next month before the 2026NBA Draft, we\u2019ll take an in-depth look at different prospects here at Liberty Ballers and try to figure out which players would be the best fit for theSixersat No. 22. Next up in this series is Duke\u2019s Isaiah Evans. I",
-      "link": "",
-      "pubDate": "2026-06-16T11:00:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Philadelphia's most exciting 25 pro athletes under 25",
       "description": "It's a perfect time to fantasize about how these five local pro teams can make championship cases \u2014 and their best bets will be if some of the 25 players below pan out.",
       "link": "https://www.phillyvoice.com/philadelphia-top-25-prospects-under-25-analysis-news-phillies-sixers-flyers-phillies-rank-potential-2026/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -1071,16 +1041,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_26417535_1.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Where is there the biggest room for improvement for VJ Edgecombe in his sophomore season?",
-      "description": "After a season of his larger-than-life personality and plays, it\u2019s hard to imagine the Philadelphia 76ers without VJ Edgecombe now. The No. 3 overall pick from the 2025 NBA Draft\u2019s freshman season is behind him, and what a year it was. At just 20 yea",
-      "link": "",
-      "pubDate": "2026-06-16T08:40:02-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Asking an NBA Draft expert about Dailyn Swain's fit with the Sixers",
@@ -1579,16 +1539,6 @@
       "pubDate": "Wed, 20 May 2026 17:55:54 +0000",
       "author": "Nick Tricome",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_28814484.jpg",
-      "team": "flyers",
-      "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "The Flyers stuck to defense this season, will look to turn the offense up for the next one",
-      "description": "The Flyers, for better and worse, committed to low-event hockey this season. Next year, Rick Tocchet hopes they improved enough to start turning loose offensively.",
-      "link": "https://www.phillyvoice.com/flyers-turn-up-offense-goal-scoring-rick-tocchet-porter-martone-travis-konecny/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 20 May 2026 03:44:02 +0000",
-      "author": "Nick Tricome",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_28919940.jpg",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
     },
