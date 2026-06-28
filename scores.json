@@ -1,21 +1,9 @@
 {
-  "updated": "2026-06-28T14:58:42.770709+00:00",
+  "updated": "2026-06-28T18:54:33.018135+00:00",
   "scores": {
     "phillies": {
       "recent": [],
       "upcoming": [
-        {
-          "date": "6/28",
-          "home": "NYM",
-          "away": "PHI",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "MLB",
-          "name": "Philadelphia Phillies at New York Mets",
-          "shortName": "PHI @ NYM",
-          "time": "1:40 PM ET",
-          "status": "scheduled"
-        },
         {
           "date": "6/29",
           "home": "PHI",
@@ -74,6 +62,18 @@
           "name": "Philadelphia Phillies at Kansas City Royals",
           "shortName": "PHI @ KC",
           "time": "8:10 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "7/5",
+          "home": "KC",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "MLB",
+          "name": "Philadelphia Phillies at Kansas City Royals",
+          "shortName": "PHI @ KC",
+          "time": "3:00 PM ET",
           "status": "scheduled"
         }
       ]
