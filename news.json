@@ -1,17 +1,7 @@
 {
-  "updated": "2026-06-28T22:40:53.242081+00:00",
-  "count": 154,
+  "updated": "2026-06-29T14:36:22.029254+00:00",
+  "count": 155,
   "articles": [
-    {
-      "title": "8 Eagles named to CBS Sports Top 100 NFL players of 2026",
-      "description": "While the NFL slowly drips their list of Top 100 players for the upcoming season, CBS Sports released their Top 100 NFL players of 2026 by Pete Prisco, and there were eight Eagles named it would have been nine, but A.J. Brown, who dropped 33 spots fr",
-      "link": "",
-      "pubDate": "2026-06-27T14:34:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
     {
       "title": "Phillies react to Derek Hill\u2019s incredible catch: \u2018It\u2019s the best one I\u2019ve seen in person\u2019",
       "description": "NEW YORK The legend of Derek Hill continues. After hitting a pinch-hit go-ahead home run on Wednesday against the Nationals in the ninth inning and another on Thursday, Hill made an insane leaping catch over the right-center field wall to rob Juan So",
@@ -53,10 +43,30 @@
       "source": "PhillyVoice Flyers"
     },
     {
+      "title": "10 reasons the Eagles can win the Super Bowl",
+      "description": "Last Friday, we listed 10 reasons why the Philadelphia Eagles' 2026 season could go badly as part of our Dumpster Fire series. Here we'll do the opposite, as we'll take a look at 10 reasons why the Eagles could repeat as Super Bowl champions.",
+      "link": "https://www.phillyvoice.com/10-reasons-eagles-can-win-super-bowl-2026-jalen-hurts-sean-mannion/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Mon, 29 Jun 2026 13:50:15 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-09T183331Z_1605465128_MT1USATODAY29159186_RTRMADP_3_NFL-PHILADELPH.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Monday Morning Fly By: The picks are in",
+      "description": "*Thats another NHL Entry Draft in the books, and if nothing else, Danny Briere made sure people noticed what the Flyers were doing. The first move the Flyers made on Friday night was to trade back from 21 to 27 in order to pick up a couple more late ",
+      "link": "https://www.broadstreethockey.com/post/monday-morning-fly-by-the-picks-are-in/",
+      "pubDate": "Mon, 29 Jun 2026 10:00:00 +0000",
+      "author": "Kelly Hinkle",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
       "title": "Sixers free agency primer: Trade targets",
       "description": "Which players around the NBA should the Sixers target in deals? The second part of our annual offseason primer focuses on the trade market.",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-nba-trade-rumors-offseason-free-agents-agency-mike-gansey-joel-embiid-paul-george/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sun, 28 Jun 2026 21:59:54 +0000",
+      "pubDate": "Mon, 29 Jun 2026 01:02:41 +0000",
       "author": "Adam Aaronson",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/060826_126_MikeGanseyPressConference_KevinBarrett.jpg",
       "team": "sixers",
@@ -101,16 +111,6 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Eagles News: Nick Siriannis messaging that punts are OK is just mind-blowing",
-      "description": "Let\u2019s get to the Philadelphia Eagles news and links \u2026 10 reasons the Eagles will be a dumpster fire this season PhillyVoice1) Firing Kevin Patullo wont fix everything. Patullo was in over his head as a coordinator, but on some levels, he also unfairl",
-      "link": "",
-      "pubDate": "2026-06-27T12:42:03-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "How the Sixers can acquire significant rotation help via trade this offseason",
@@ -463,6 +463,26 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Five players to watch in Flyers Development Camp",
+      "description": "After a long and busy weekend of drafting, the Flyers are diving right into it this week, gather their prospects new and old for an equally busy week of action at Development Camp. The Flyers will have some of their exciting big name pieces still par",
+      "link": "https://www.broadstreethockey.com/post/five-players-to-watch-in-flyers-development-camp/",
+      "pubDate": "Mon, 29 Jun 2026 14:14:10 +0000",
+      "author": "Madeline Campbell",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "5 Sixers thoughts: Bargains worth targeting when free agency opens",
+      "description": "How can the Sixers get the best bang for their buck in free agency? These players could provide cost-effective value.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-roster-nba-free-agents-trade-rumors-jock-landale-marvin-bagley-iii-javonte-green-jamal-cain/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Mon, 29 Jun 2026 09:00:00 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-02-06T032411Z_1286776237_MT1USATODAY28166542_RTRMADP_3_NBA-UTAH-JAZZ-.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
       "title": "Sixers free agency primer: Free agents",
       "description": "The main event of our three-part exploration of the Sixers' options this summer, focusing on a massive collection of potential targets in free agency.",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-nba-trade-rumors-offseason-free-agents-agency-mike-gansey-nick-nurse-team-needs/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -543,16 +563,6 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "Eagles News: Jalen Carter, Defensive Player of the Year in 2026?",
-      "description": "Let\u2019s get to the Philadelphia Eagles news and links \u2026 Kyler Murray for MVP? KC Concepcion for OROY? Long-shot picks for major NFL awards in 2026 NFL.comDEFENSIVE PLAYER OF THE YEAR Jalen Carter has been a disruptive force since entering the league, e",
-      "link": "",
-      "pubDate": "2026-06-28T08:08:49-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Everything Brent Flahr said about the Flyers\u2019 2026 NHL Draft class",
       "description": "Philadelphia Flyers assistant general manager Brent Flahr spoke with the media Saturday afternoon after the 2026 National Hockey League Draft wrapped up in Buffalo. Flahr said the plan the scouting staff had going into the draft seemed to fall apart ",
       "link": "https://www.broadstreethockey.com/post/everything-brent-flahr-said-about-the-flyers-2026-nhl-draft-class/",
@@ -627,26 +637,6 @@
       "description": "The Flyers closed out their fifth round by selecting their first forward of this draft so far, picking up center KJ Sauer out of the Minnesota high school system. &#x1F536; WELCOME TO PHILLY! &#x1F536;With the 136th overall pick in the 2026 #NHLDraft",
       "link": "https://www.broadstreethockey.com/post/flyers-select-kj-sauer-with-136th-overall-pick-in-2026-nhl-draft/",
       "pubDate": "Sat, 27 Jun 2026 18:48:25 +0000",
-      "author": "Madeline Campbell",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Flyers just drafted the biggest Flyers fan ever",
-      "description": "The first purpose of the NHL Draft is to get some young players in your organization and maybe get the next franchise cornerstone or maybe get your giant 6-foot-8 defenseman that you hope is good enough to be a No. 4 and improve the outlook of your t",
-      "link": "https://www.broadstreethockey.com/post/flyers-just-drafted-the-biggest-flyers-fan-ever/",
-      "pubDate": "Sat, 27 Jun 2026 18:28:38 +0000",
-      "author": "Thomas Williams",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Flyers select Marek Skleni\u010dka with 120th overall pick in 2026 NHL Draft",
-      "description": "Dont look now, folks, but its a run on goalies! After using their 62nd overall pick on Czech goaltender Martin Psohlavec, they took a bit of break until late in Round 4 and used their 120th overall pick to draft another Czech goaltender. &#x1F536; WE",
-      "link": "https://www.broadstreethockey.com/post/flyers-select-marek-sklenicka-with-120th-overall-pick-in-2026-nhl-draft/",
-      "pubDate": "Sat, 27 Jun 2026 18:28:08 +0000",
       "author": "Madeline Campbell",
       "thumbnail": null,
       "team": "flyers",
@@ -1023,6 +1013,16 @@
       "source": "Bleeding Green Nation"
     },
     {
+      "title": "The Eagles entire 2026 draft class is now under contract",
+      "description": "The Philadelphia Eagles officially signed Markel Bell to a standard four-year rookie contract, according to NFL insider Tom Pelissero. The team later confirmed as much. Bell was the only remaining unsigned pick from the Eagles 2026 NFL Draft class. A",
+      "link": "",
+      "pubDate": "2026-06-23T13:53:17-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
       "title": "Does Riq Woolen's addition give the Eagles the NFL's best secondary?",
       "description": "\"The sky is the limit,\" new Eagles CB Riq Woolen said about the potential of Philly's secondary being the NFL's best.",
       "link": "https://www.phillyvoice.com/eagles-riq-woolen-best-secondary-cornernback-analysis-rankings/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -1031,6 +1031,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/651A3934-2.jpg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles News: DeVonta Smith steps into covenant",
+      "description": "Let\u2019s get to the Philadelphia Eagles news and links \u2026 Philadelphia Eagles DeVonta Smith Is Married! Inside His Sophisticated Black-and-White Wedding to Mya Danielle (Exclusive) PeopleDeVonta Smith has another ring to add to his collection \u2014 a wedding",
+      "link": "",
+      "pubDate": "2026-06-23T11:09:54-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Sixers mock draft roundup 8.0: Final guesses ahead of No. 22 overall pick",
@@ -1051,6 +1061,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2024-01-30T173923Z_1046911618_MT1USATODAY22403682_RTRMADP_3_YOUTH-OLYMPICS.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "Eagles training camp start date announced",
+      "description": "We already knew that the Philadelphia Eagles are set to begin training camp sometime in late July. Now we have an official start date! With the NFL announcing reporting information for all 32 teams, weve come to learn that Eagles players will be arri",
+      "link": "",
+      "pubDate": "2026-06-22T13:10:09-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Can the Phillies realistically catch the Braves in the NL East?",
@@ -1391,16 +1411,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_29163935.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Eagles minicamp practice notes: The Eagles' secondary could be nasty in 2026",
-      "description": "The Philadelphia Eagles finished up a two-day minicamp on Wednesday, and won't practice again until training camp begins in late July. As always, we have notes.",
-      "link": "https://www.phillyvoice.com/eagles-minicamp-practice-notes-secondary-could-be-nasty-2026/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Thu, 11 Jun 2026 12:04:14 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/IMG_3366.jpeg",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Phillies stock watch: Aces deal, sluggers go deep in series win vs. Blue Jays",
