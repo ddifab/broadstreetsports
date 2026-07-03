@@ -1,37 +1,7 @@
 {
-  "updated": "2026-07-03T09:44:18.192318+00:00",
-  "count": 171,
+  "updated": "2026-07-03T16:05:21.132733+00:00",
+  "count": 168,
   "articles": [
-    {
-      "title": "How did Celtics, Jaylen Brown get here? Trade to 76ers caps off stunning deterioration of relationship",
-      "description": "Boston dramatically shifted gears by trading Brown, the 2024 Finals MVP, to the rival 76ers",
-      "link": "https://www.cbssports.com/nba/news/jaylen-brown-trade-celtics-relationship-76ers/",
-      "pubDate": "Thu, 02 Jul 2026 01:23:43 +0000",
-      "author": "CBS Sports",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "76ers rejected Celtics' wild Jaylen Brown-centered trade offer for V.J. Edgecombe, per report",
-      "description": "The Philadelphia 76ers refused to surrender their 20-year-old rising star in a blockbuster deal.",
-      "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/76ers-rejected-celtics-wild-jaylen-brown-centered-trade-offer-vj-edgecombe-report/23ca18b60feaffa637c2a77e",
-      "pubDate": "Thu, 02 Jul 2026 01:19:39 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Details On 2028 Pick Involved In Celtics/Sixers Trade",
-      "description": "Three of the draft picks the Celtics are acquiring from the Sixers in their shocking Jaylen Brown blockbuster appear to be relatively straightforward. Those three selections are reportedly as...",
-      "link": "https://www.hoopsrumors.com/2026/07/details-on-2028-pick-involved-in-celtics-sixers-trade.html",
-      "pubDate": "Thu, 02 Jul 2026 03:08:29 +0000",
-      "author": "Hoops Rumors",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
     {
       "title": "With blockbuster trade, Sixers betting on Joel Embiid just as much as Jaylen Brown",
       "description": "In one of the most stunning moves in franchise history, the Sixers have traded for 2024 NBA Finals MVP Jaylen Brown. Where do they go from here?",
@@ -43,24 +13,44 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Flyers reportedly \u2018pushing hard\u2019 for John Carlson with Darnell Nurse off board",
-      "description": "The Philadelphia Flyers have had quite a few players on their wishlist this offseason, whether it be via free agency or trade. Theyve been able to make some depth additions in net and up front, but the only change on the blue line has been a downgrad",
-      "link": "https://www.broadstreethockey.com/post/flyers-reportedly-pushing-hard-for-john-carlson-with-darnell-nurse-off-board/",
-      "pubDate": "Wed, 01 Jul 2026 20:22:25 +0000",
-      "author": "Ryan Gilbert",
+      "title": "Phillies react to Derek Hill\u2019s incredible catch: \u2018It\u2019s the best one I\u2019ve seen in person\u2019",
+      "description": "NEW YORK \u2014 The legend of Derek Hill continues. After hitting a pinch-hit go-ahead home run on Wednesday against the Nationals in the ninth inning and another on Thursday, Hill made an insane...",
+      "link": "https://philliesnation.com/2026/06/philadelphia-phillies-derek-hill-new-york-mets-catch-juan-soto-june-26-2026-update/",
+      "pubDate": "Fri, 26 Jun 2026 23:50:50 +0000",
+      "author": "Phillies Nation",
       "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
+      "team": "phillies",
+      "source": "Philly Sports Wire"
     },
     {
-      "title": "8 Eagles named to CBS Sports Top 100 NFL players of 2026",
-      "description": "While the NFL slowly drips their list of Top 100 players for the upcoming season, CBS Sports released their Top 100 NFL players of 2026 by Pete Prisco, and there were eight Eagles named it would have been nine, but A.J. Brown, who dropped 33 spots fr",
+      "title": "Report: Sixers sign Rayan Rupert to two-way contract",
+      "description": "Rayan Rupert's tools \u2013 he stands at 6-foot-7, weighs 205 pounds and has an elite 7-foot-3 wingspan \u2013 make him an intriguing prospect.",
+      "link": "https://www.phillyvoice.com/report-sixers-sign-rayan-rupert-two-way-contract-stats-highlights-bio-roster-news-analysis-nba-free-agency/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 03 Jul 2026 15:14:45 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-13T031042Z_1862984994_MT1USATODAY28718356_RTRMADP_3_NBA-MEMPHIS-GR.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Where the Sixers stand financially after adding Jaylen Brown, Anfernee Simons",
+      "description": "Sixers president of basketball operations Mike Gansey didnt take long to make a big splash, huh? On Wednesday, he agreed to trade Paul George, two first-round picks and two second-round picks to the Boston Celtics for Jaylen Brown, according to multi",
       "link": "",
-      "pubDate": "2026-06-27T14:34:00-04:00",
+      "pubDate": "2026-07-02T23:59:51-04:00",
       "author": "",
       "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Jaylen Brown\u2019s first statement since being traded to Sixers",
+      "description": "Jaylen Brown is a Sixer. Those are not words I ever thought I\u2019d write, let alone out of nowhere in 2026 free agency after he was dealt for the 36-year-old Paul George of all players. But here we are. Mike Gansey has not been messing around after taki",
+      "link": "",
+      "pubDate": "2026-07-02T15:46:12-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Reports: Sixers 'trying to make a pitch' to LeBron James, 'expressing interest' after Jaylen Brown trade",
@@ -93,6 +83,16 @@
       "source": "PhillyVoice Sixers"
     },
     {
+      "title": "Sixers free agency tracker: Sixers reportedly trade for Jaylen Brown; sign Anfernee Simons",
+      "description": "At 6 p.m. ET on June 30, free agency in the NBA will officially begin. For the Philadelphia 76ers, there are a number of moving parts in the mix already. The Sixers picked up Alabama guard Labaron Philon Jr. last week with the No. 22 pick in the 2026",
+      "link": "",
+      "pubDate": "2026-07-02T14:47:55-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
       "title": "Eagles News: PFF quarterback rankings have Jalen Hurts in the middle of the pack",
       "description": "Let\u2019s get to the Philadelphia Eagles news and links \u2026 PFF Quarterback Rankings: All 32 starters ahead of the 2026 NFL season PFF15) JALEN HURTS. Hurts posted a top-12 PFF passing grade for the fourth consecutive season, yet there are times when he do",
       "link": "",
@@ -101,6 +101,16 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "The Jaylen Brown trade makes a lot of sense for the Sixers. I can\u2019t bring myself to like it",
+      "description": "Since I\u2019ve had the pleasure of covering games and being around the team for this illustrious blog, I\u2019ve felt proud in my ability to divorce myself from the fandom of the team I grew up with. It\u2019s been easier than I thought it would be to leave those ",
+      "link": "",
+      "pubDate": "2026-07-02T13:30:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Excitement might be scary, but the Jaylen Brown trade was a no-brainer",
@@ -113,26 +123,6 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "Where the Sixers stand financially after the Jaylen Brown trade",
-      "description": "Sixers president of basketball operations Mike Gansey didnt take long to make a big splash, huh? On Wednesday, he agreed to trade Paul George, two first-round picks and two second-round picks to the Boston Celtics for Jaylen Brown, according to multi",
-      "link": "",
-      "pubDate": "2026-07-02T09:56:05-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
-      "title": "Pirates look to slow Phillies' explosive offense in series finale",
-      "description": "Trea Turner and the Philadelphia Phillies have scored 25 runs in their three games against the Pittsburgh Pirates this week.,The Phillies hope to auth",
-      "link": "https://deadspin.com/pirates-look-to-slow-phillies-explosive-offense-in-series-finale/",
-      "pubDate": "Thu, 02 Jul 2026 07:32:27 +0000",
-      "author": "Deadspin",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
       "title": "What the Jaylen Brown Trade Says About the Sixers\u2019 Championship Vision",
       "description": "The Philadelphia 76ers have completed their most significant offseason acquisition. Philadelphia reportedly acquired Jaylen Brown from the Boston Celtics in [] The post What the Jaylen Brown Trade Says About the Sixers\u2019 Championship Vision appeared f",
       "link": "https://phlsportsnation.com/2026/07/02/what-the-jaylen-brown-trade-says-about-the-sixers-championship-vision/",
@@ -143,60 +133,10 @@
       "source": "PHL Sports Nation"
     },
     {
-      "title": "Skenes lit up by Phils, laments lack of execution",
-      "description": "Pirates ace Paul Skenes lasted only four innings against the Phillies on Wednesday night and allowed a season-high seven earned runs in a 10-6 loss.",
-      "link": "https://www.espn.com/mlb/story/_/id/49244770/paul-skenes-struggles-continue-pirates-fall-phillies",
-      "pubDate": "Thu, 02 Jul 2026 04:41:28 +0000",
-      "author": "ESPN",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Tim MacMahon reveals that front offices around the NBA did not like Jaylen Brown's value",
-      "description": "The NBA world was shocked when Jaylen Brown got traded to the 76ers, but it might not have been a surprise to front offices around the league.",
-      "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/tim-macmahon-reveals-front-offices-nba-jaylen-browns-value/a024109cfddce2bc5ccad8c1",
-      "pubDate": "Thu, 02 Jul 2026 03:14:55 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "The 76ers want to go one step further by signing LeBron James in free agency",
-      "description": "After the 76ers traded for Jaylen Brown, they are feeling confident enough to chase LeBron James in free agency.",
-      "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/76ers-want-one-step-further-signing-lebron-james-free-agency/d7a406ae96b1585ca336c3dc",
-      "pubDate": "Thu, 02 Jul 2026 02:18:43 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Grading the Jaylen Brown-Paul George trade: Who wo...",
-      "description": "Boston sent star Jaylen Brown to Philadelphia for Paul George and picks. Which side won the trade?",
-      "link": "https://www.espn.com/nba/story/_/id/49242086/jaylen-brown-philadelphia-76ers-boston-celtics-trade-grades-reaction",
-      "pubDate": "Thu, 02 Jul 2026 01:39:35 +0000",
-      "author": "ESPN",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
       "title": "The Sixers\u2019 next reported target: LeBron James (seriously)",
       "description": "Well, if you thought the news of the Sixers trading for Jaylen Brown was shocking, you might want to sit down for this one. The Sixers are reportedly looking to talk to LeBron James \u2026 yes, you are reading that correctly. Tony Jones is as plugged in a",
       "link": "",
       "pubDate": "2026-07-01T21:08:27-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
-      "title": "Sixers free agency tracker: Sixers reportedly trade for Jaylen Brown?!",
-      "description": "At 6 p.m. ET on June 30, free agency in the NBA will officially begin. For the Philadelphia 76ers, there are a number of moving parts in the mix already. The Sixers picked up Alabama guard Labaron Philon Jr. last week with the No. 22 pick in the 2026",
-      "link": "",
-      "pubDate": "2026-07-01T18:34:58-04:00",
       "author": "",
       "thumbnail": null,
       "team": "sixers",
@@ -211,26 +151,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-05-03T031703Z_310471187_MT1USATODAY28869719_RTRMADP_3_NBA-PLAYOFFS-PH.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "WHAT?!?! Sixers reportedly acquire Jaylen Brown for Paul George, picks in trade with Celtics",
-      "description": "Well, how do you do, Mike Gansey? Yes, that headline is real. The Sixers have agreed to trade Paul George, two first-round picks and two second-round picks to the Boston Celtics for All-Star wing Jaylen Brown, per ESPN\u2019s Shams Charania. We\u2019ll pause t",
-      "link": "",
-      "pubDate": "2026-07-01T18:20:05-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
-      "title": "Flyers\u2019 reported interest in Mavrik Bourque made no sense",
-      "description": "The Philadelphia Flyers have been one of the more aggressive teams so far this offseason. While general manager Danny Briere hasnt made any bonafide blockbusters or groundbreaking moves the Joseph Woll trade was nice , the Orange and Black seem to be",
-      "link": "https://www.broadstreethockey.com/post/flyers-reported-interest-in-mavrik-bourque-made-no-sense/",
-      "pubDate": "Wed, 01 Jul 2026 19:57:21 +0000",
-      "author": "Ryan Gilbert",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Eagles News: Tank Bigsby warrants more playing time in 2026",
@@ -251,16 +171,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_29302849.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Sixers free agency primer: Mike Gansey's first summer in charge about to heat up",
-      "description": "From the minutiae of the Sixers' salary-cap standing to players they can target in trade talks and free agency, our annual primer is a one-stop shop for up-to-date offseason information.",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-nba-offseason-free-agents-agency-rumors-mike-gansey-joel-embiid-paul-george-tyrese-maxey/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 01 Jul 2026 04:22:58 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/123_1_2.jpeg",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
     },
     {
       "title": "Asking a salary cap expert about the Sixers' free agents and key trade assets",
@@ -293,6 +203,26 @@
       "source": "PhillyVoice Eagles"
     },
     {
+      "title": "Hot Phillies hope to feast on foundering Mets",
+      "description": "The Philadelphia Phillies hit another impressive milestone under interim manager Don Mattingly on Friday night.,For the New York Mets, it was more of",
+      "link": "https://deadspin.com/hot-phillies-hope-to-feast-on-foundering-mets/",
+      "pubDate": "Sat, 27 Jun 2026 11:57:32 +0000",
+      "author": "Deadspin",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "5 Phillies who are making Dave Dombrowski\u2019s trade deadline decisions more difficult by the day",
+      "description": "The trade deadline is the only avenue to improve the Phillies. Unfortunately, Dave Dombrowski doesn\u2019t have much to trade, and some of the underperforming players on his squad are making it...",
+      "link": "https://thatballsouttahere.com/5-phillies-who-are-making-dave-dombrowski-trade-deadline-decisions-more-difficult-by-the-day?utm_source=RSS",
+      "pubDate": "Sat, 27 Jun 2026 11:45:00 +0000",
+      "author": "That Ball's Outta Here",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
       "title": "NHL Draft: Flyers take hulking London defenseman Maksim Sokolovskii with 27th pick",
       "description": "The Flyers traded back and went for London Knights defenseman Maksim Sokolovskii at 27th overall. He's a 6'7\" blueliner who can skate, and definitely hit.",
       "link": "https://www.phillyvoice.com/flyers-nhl-draft-pick-27-maksim-sokolovksii-london-knights-defenseman-analysis-reaction/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -301,6 +231,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-27T025730Z_1124414183_MT1USATODAY29281015_RTRMADP_3_NHL-NHL-DRAFT.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "Wade Chiddick to return for third season with the Wildcats",
+      "description": "Per Philadelphia Sports Now, graduate guard Wade Chiddick has returned for another season with Villanova. Chiddick appeared in two games in the 2025-26 season, scoring three points. The guard will...",
+      "link": "https://www.vuhoops.com/villanova-basketball/34414/wade-chiddick-to-return-for-third-season-with-the-wildcats",
+      "pubDate": "Sat, 27 Jun 2026 01:48:14 +0000",
+      "author": "VU Hoops",
+      "thumbnail": null,
+      "team": "general",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Flyers thoughts: Garnet Hathaway was inavluable for a young team, but now it's ready to move on",
@@ -493,6 +433,76 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Could Philadelphia really have Michael Jordan AND LeBron James?",
+      "description": "Happy holiday weekend to our largely American audience. While the Fourth of July is a slow time of the year for the NFL, such is not the case for the NBA. In case you missed it, which I find hard to believe even if you don\u2019t follow professional baske",
+      "link": "",
+      "pubDate": "2026-07-03T11:49:15-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Porter Martone is building his leadership role at Flyers Development Camp",
+      "description": "As the Flyers annual Development Camp has gotten rolling through this week, another opportunity has come to pass to see a wide variety of prospects, at a wide variety of places on their own developments some prospects just looking to get their footin",
+      "link": "https://www.broadstreethockey.com/post/porter-martone-is-building-his-leadership-role-at-flyers-development-camp/",
+      "pubDate": "Fri, 03 Jul 2026 14:45:53 +0000",
+      "author": "Madeline Campbell",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Rich Paul on Sixers: \u2018How could they not have [LeBron\u2019s] attention?\u2019",
+      "description": "We have a whole lot of smoke, friends. After a couple days of LeBron James speculation and reports, his agent and longtime friend Rich Paul confirmed The King\u2019s interest in potentially joining the Philadelphia 76ers. Paul, the head of Klutch Sports, ",
+      "link": "",
+      "pubDate": "2026-07-03T09:56:01-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Klutch Sports CEO Rich Paul confirms Sixers have LeBron James' attention: 'Everything has changed'",
+      "description": "On Friday morning's edition of his podcast, \"Game Over,\" Klutch Sports CEO Rich Paul spoke glowingly about the Sixers as a potential fit for LeBron James.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-lebron-james-free-agency-nba-rumors-rich-paul-jaylen-brown-trade-mike-gansey/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 03 Jul 2026 13:14:45 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-12-08T031951Z_262879056_MT1USATODAY27769822_RTRMADP_3_NBA-LOS-ANGELES.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Things to watch for at Eagles training camp: Tight end and fullback edition",
+      "description": "Eli Stowers is in place to be the Eagles' eventual TE1, but that likely won't happen this season.",
+      "link": "https://www.phillyvoice.com/things-watch-eagles-training-camp-tight-end-and-fullback-edition-dallas-goedert-eli-stowers/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 03 Jul 2026 12:38:37 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/Photo_May_01_2026_2_25_14_PM.jpg",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Tyson Foerster is locked in as a Flyers mainstay, and maybe one of the best values in the NHL",
+      "description": "If Tyson Foerster continues to develop as a goal scorer, his $7.1 million cap hit will end up as one of the best deals in the league.",
+      "link": "https://www.phillyvoice.com/flyers-tyson-foerster-mainstay-contract-extension-analysis-cap-hit-value-goal-scoring/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 03 Jul 2026 12:32:52 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-22T032050Z_1687514233_MT1USATODAY28782022_RTRMADP_3_NHL-MONTREAL-C.JPG",
+      "team": "flyers",
+      "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "Friday Morning Fly By: Back to the waiting game",
+      "description": "*Flyers GM Danny Briere made some comments about their projections and expectations for next season that seemed to ruffle some feathers, but maybe we should reel some of those bad feelings back in an really unpack those quotes and the Flyers situatio",
+      "link": "https://www.broadstreethockey.com/post/friday-morning-fly-by-back-to-the-waiting-game/",
+      "pubDate": "Fri, 03 Jul 2026 10:00:00 +0000",
+      "author": "Madeline Campbell",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
       "title": "Report: Flyers interested in trading for Morgan Rielly",
       "description": "It has been one of the top storylines of the Philadelphia Flyers offseason, but now a couple days into NHL free agency, they have not yet addressed their desire to upgrade their blue line. General manager Danny Briere wants to make a significant impr",
       "link": "https://www.broadstreethockey.com/post/report-flyers-interested-in-trading-for-morgan-rielly/",
@@ -553,6 +563,16 @@
       "source": "PhillyVoice"
     },
     {
+      "title": "Updated Sixers 2026-27 roster as NBA free agency begins",
+      "description": "The 2026NBA Draftis over, and free agency is underway. With all the comings and goings throughout the league overall, it can be hard to keep up with who is actually on the Philadelphia 76ers roster from day to day. So, use our tracker below to help y",
+      "link": "",
+      "pubDate": "2026-07-02T14:46:51-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
       "title": "Report: Sixers signing Anfernee Simons to two-year, $12.3 million contract",
       "description": "One of the best three-point shooters in the NBA is signing up to be the Sixers' new sixth man at a reasonable cost.",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-anfernee-simons-stats-highlights-contract-nba-free-agency-deals-jaylen-brown-trade/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -561,6 +581,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-02-21T042139Z_1743430822_MT1USATODAY28299318_RTRMADP_3_NBA-TORONTO-RA.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Sixers reportedly agree to terms with Anfernee Simons",
+      "description": "Mike Gansey isn\u2019t done yet. The Sixers have agreed to terms with free-agent Anferenee Simons, according to ESPN\u2019s Shams Charania. The deal is for two years and $12.3 million. If Simons has any type of success in Philadelphia, he\u2019ll likely turn down t",
+      "link": "",
+      "pubDate": "2026-07-02T14:37:55-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "ESPN gives the Eagles the best offseason grade of any NFL team",
@@ -653,16 +683,6 @@
       "source": "Phillies Nation"
     },
     {
-      "title": "S\u00e1nchez, Wheeler hold spots in SP Power Rankings",
-      "description": "",
-      "link": "https://www.mlb.com/phillies/news/mlb-seventh-starting-pitcher-power-rankings-2026",
-      "pubDate": "Thu, 02 Jul 2026 04:18:26 +0000",
-      "author": "MLB.com",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
       "title": "Zack Wheeler upset after early pull: \u2018I feel like I\u2019ve earned that\u2019",
       "description": "PHILADELPHIA An impressive Zack Wheeler streak came to an end on Wednesday night. The Phillies right-hander did not complete five innings in a start for the first time since June 16, 2024. It was Fathers Day 2024, and Wheeler allowed four home runs a",
       "link": "https://philliesnation.com/2026/07/philadelphia-phillies-zack-wheeler-don-mattingly-pull-orion-kerkering-july-1-2026-update/",
@@ -683,46 +703,6 @@
       "source": "Phillies Nation"
     },
     {
-      "title": "Former NBA champion believes Paul George will be a great fit alongside Jayson Tatum",
-      "description": "Despite all the backlash the Celtics are getting, it seems some people believe that Paul George could be a difference-maker for Boston.",
-      "link": "https://www.sportingnews.com/us/nba/boston-celtics/news/former-champ-believe-paul-george-great-fit-jayson-tatum/dbe74258299e0c5b8782dda4",
-      "pubDate": "Thu, 02 Jul 2026 02:51:03 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Eastern Conference tiers: Knicks on top, but several new-look contenders emerge after NBA's summer shakeup",
-      "description": "New York just won the title, but will have plenty of competition with the 76ers, Raptors and Heat making major moves",
-      "link": "https://www.cbssports.com/nba/news/nba-eastern-conference-tiers-knicks-76ers-celtics-heat-raptors-jaylen-brown-trade/",
-      "pubDate": "Thu, 02 Jul 2026 02:33:01 +0000",
-      "author": "CBS Sports",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Trea Turner homers again as Phillies rough up Paul Skenes, Pirates",
-      "description": "Trea Turner homered for the third straight game as the Philadelphia Phillies hammered Paul Skenes in a 10-6 victory over the visiting Pittsburgh Pirat",
-      "link": "https://deadspin.com/trea-turner-homers-again-as-phillies-rough-up-paul-skenes-pirates/",
-      "pubDate": "Thu, 02 Jul 2026 02:22:59 +0000",
-      "author": "Deadspin",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Sixers Register Interest In LeBron James",
-      "description": "Add the Sixers to the list of teams who want to be involved in the LeBron James sweepstakes. According to Tony Jones of The Athletic, Philadelphia has reached out to express its interest in...",
-      "link": "https://www.hoopsrumors.com/2026/07/sixers-register-interest-in-lebron-james.html",
-      "pubDate": "Thu, 02 Jul 2026 01:09:46 +0000",
-      "author": "Hoops Rumors",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
       "title": "Danny Briere explains why the Flyers didn\u2019t make a blockbuster move as free agency opened",
       "description": "At the end of the first day of free agent frenzy Wednesday, Philadelphia Flyers general manager Danny Briere re-signed goaltender Dan Vladar and winger Tyson Foerster to sizeable contract extensions, added some depth in fourth-line center Noel Acciar",
       "link": "https://www.broadstreethockey.com/post/danny-briere-explains-why-the-flyers-didnt-make-a-blockbuster-move-as-free-agency-opened/",
@@ -731,16 +711,6 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Bill Simmons' strange reaction to Celtics trading Jaylen Brown for Paul George",
-      "description": "Simmons said Boston should keep Jaylen Brown a day before trading him.",
-      "link": "https://www.sportingnews.com/us/nba/boston-celtics/news/bill-simmons-strange-reaction-trading-jaylen-brown/ffbf7511e50b92f6ea37f9eb",
-      "pubDate": "Thu, 02 Jul 2026 00:08:54 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
     },
     {
       "title": "Report: Flyers are still in the mix to sign Claude Giroux",
@@ -761,16 +731,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-30T013035Z_1072561793_MT1USATODAY28842102_RTRMADP_3_NHL-STANLEY-CU.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Updated Sixers 2026-27 roster as NBA free agency begins",
-      "description": "The 2026NBA Draftis over, and free agency is underway. With all the comings and goings throughout the league overall, it can be hard to keep up with who is actually on the Philadelphia 76ers roster from day to day. So, use our tracker below to help y",
-      "link": "",
-      "pubDate": "2026-07-01T19:01:28-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Phillies promote veteran outfielder Tommy Pham to Triple-A roster after recent minor-league signing",
@@ -833,16 +793,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Report: Kelly Oubre Jr. to sign two-year, $17 million contract with Pacers",
-      "description": "And there goes the other unrestricted free agent. ESPNs Shams Charania has reported that Kelly Oubre Jr. will be signing a two-year, $17 million dollar deal with the Pacers, ending his tenure in Philadelphia after three seasons. Given their financial",
-      "link": "",
-      "pubDate": "2026-07-01T14:57:11-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Flyers sign Tyson Foerster to eight-year extension, lock in another core piece",
       "description": "The 24-year-old Foerster has developed into a strong two-way winger and a clear core piece of the Flyers' long-term vision.",
       "link": "https://www.phillyvoice.com/flyers-free-agency-tyson-foerster-8-year-extension-cap-hit-goal-scorer/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -873,16 +823,6 @@
       "source": "Phillies Nation"
     },
     {
-      "title": "Report: Quentin Grimes to sign four-year, $60 million dollar deal with Lakers, ending his Sixers tenure",
-      "description": "Yeah, that might be a bit rich for our blood. ESPNs Shams Charania has reported that Quentin Grimes will be signing a four-year, $60 million dollar deal with the Los Angeles Lakers, ending his Sixers tenure after two seasons. The Lakers were one of t",
-      "link": "",
-      "pubDate": "2026-07-01T12:13:26-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Report: Quentin Grimes leaves Sixers for four-year, $60 million contract with Lakers",
       "description": "Quentin Grimes' time in Philadelphia is, perhaps unsurprisingly, over.",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-nba-free-agency-available-agents-quentin-grimes-stats-highlights-contract-interview-lakers/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -903,16 +843,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Report: Sixers agree to one-year deal with center Ariel Hukporti",
-      "description": "The Philadelphia 76ers continue to make moves in the first 24 hours of free agency. Just about 12 hours after reportedly agreeing to terms with former Cleveland Cavaliers forward Dean Wade, the Sixers are now reported to have agreed to a one-year, $3",
-      "link": "",
-      "pubDate": "2026-07-01T10:37:17-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Report: Sixers signing Ariel Hukporti to one-year, $3.4 million contract",
       "description": "Ariel Hukporti has 79 NBA games under his belt. The Sixers believe the soon-to-be third-year big can improve their backup center situation.",
       "link": "https://www.phillyvoice.com/report-sixers-signing-ariel-hukporti-stats-contract-highlights-parade-nba-free-agency-news-analysis-rumors/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -921,16 +851,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-12T231815Z_747145886_MT1USATODAY28716541_RTRMADP_3_NBA-CHARLOTTE-H.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Sixers group revealed for 2026 NBA Cup",
-      "description": "Due apparently to a failure to recognize the need for content during slow periods of the calendar year, the NBA revealed groups for the 2026 NBA Cup during the opening night of free agency. The Philadelphia 76ers will not have an easy path to Las Veg",
-      "link": "",
-      "pubDate": "2026-07-01T09:27:10-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Report: Quentin Grimes will not return to Sixers",
@@ -1163,16 +1083,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Report: Sixers accept Dominick Barlow's $3.4 million team option",
-      "description": "Dominick Barlow averaged 7.7 points, 4.8 rebounds, 1.2 assists, 0.9 blocks, 0.7 steals and 23.8 minutes across 71 games (59 starts) for the 2025-26 Sixers.",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-nba-free-agency-agents-rumors-cap-sheet-contract-dominick-barlow-stats-highlights-career-bio/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 29 Jun 2026 16:14:43 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-03-24T001826Z_1275018242_MT1USATODAY28571848_RTRMADP_3_NBA-OKLAHOMA-C.JPG",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
       "title": "Flyers thoughts: The draft was underwhelming, but not backbreaking",
       "description": "The 2026 NHL Draft was a mundane one for the Flyers, but not necessarily one that hurts them. They just won't see an impact from it for years.",
       "link": "https://www.phillyvoice.com/flyers-thoughts-2026-nhl-draft-analysis-reactions-maksim-sokolovskii-brek-liske-dan-vladar/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -1313,6 +1223,16 @@
       "source": "PhillyVoice Flyers"
     },
     {
+      "title": "Flyers Draft Maksim Sokolovskii 27th Overall",
+      "description": "With the 27th pick in the 2026 NHL Entry Draft, the Philadelphia Flyers have selected Maksim Sokolovskii from the London Knights of the Ontario Hockey League (OHL). About Maksim Sokolovskii\u2026",
+      "link": "https://thehockeywriters.com/flyers-draft-maksim-sokolovskii-27th-overall/",
+      "pubDate": "Sat, 27 Jun 2026 02:57:20 +0000",
+      "author": "Hockey Writers",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Philly Sports Wire"
+    },
+    {
       "title": "NHL Draft: A cheat sheet of all the Flyers' options at No. 21",
       "description": "The 21st overall pick in the NHL Draft on Friday will be the next key decision to the Flyers' future. They have a lot of prospects to consider.",
       "link": "https://www.phillyvoice.com/flyers-nhl-daft-2026-cheat-sheet-picks-prospects-trade-rumors/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -1321,6 +1241,66 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-06-28T001007Z_855137660_MT1USATODAY26546808_RTRMADP_3_NHL-NHL-DRAFT.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "Flyers select Maksim Sokolovskii No. 27 overall at the 2026 NHL Draft",
+      "description": "Sokolovskii had two goals, six assists and eight points in 44 games with the London Knights in the OHL.",
+      "link": "https://www.dailyfaceoff.com/news/philadelphia-flyers-maksim-sokolovskii-2026-nhl-entry-draft-london-knights-kazakhstan",
+      "pubDate": "Sat, 27 Jun 2026 02:35:22 +0000",
+      "author": "Daily Faceoff",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Phillies give Zack Wheeler just enough support, edge Mets, interim manager",
+      "description": "Zack Wheeler tossed seven strong innings on Friday night for the visiting Philadelphia Phillies, who edged the struggling New York Mets 2-1 in the ope",
+      "link": "https://deadspin.com/phillies-give-zack-wheeler-just-enough-support-edge-mets-interim-manager/",
+      "pubDate": "Sat, 27 Jun 2026 01:51:58 +0000",
+      "author": "Deadspin",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Wheeler woke up with 5 career pick-offs -- he'll go to sleep with 7",
+      "description": "",
+      "link": "https://www.mlb.com/phillies/news/zack-wheeler-collects-two-pick-offs-vs-mets",
+      "pubDate": "Sat, 27 Jun 2026 01:50:30 +0000",
+      "author": "MLB.com",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Warriors, 76ers and Pacers predicted to battle for $60 million NBA champion center",
+      "description": "The Golden State Warriors, Philadelphia 76ers, and Indiana Pacers could end up battling for a 7-foot-2 center with an NBA championship under his belt in free agency this offseason.",
+      "link": "https://www.sportingnews.com/us/nba/golden-state-warriors/news/warriors-76ers-and-pacers-predicted-battle-60-million-nba-champion-center/972990c7a9d2f8783fa2dc6c",
+      "pubDate": "Fri, 26 Jun 2026 23:54:04 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Phillies can rub Mets' managerial mistake directly in their faces after Carlos Mendoza firing",
+      "description": "The New York Mets firing Carlos Mendoza gave the Phillies a golden opportunity to deliver a knockout blow to their rival's disastrous season.",
+      "link": "https://thatballsouttahere.com/phillies-can-rub-mets-managerial-mistake-directly-in-their-faces-after-carlos-mendoza-firing?utm_source=RSS",
+      "pubDate": "Fri, 26 Jun 2026 23:00:01 +0000",
+      "author": "That Ball's Outta Here",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "After 81 games, Phillies and Mets are in very different places",
+      "description": "NEW YORK \u2014 Mets president of baseball operations David Stearns took questions for 18 minutes after the firing of manager Carlos Mendoza after an uninspiring first half of the season that has New...",
+      "link": "https://philliesnation.com/2026/06/philadelphia-phillies-don-mattingly-david-stearns-carlos-mendoza-manager-firing-new-york-mets-june-26-2026/",
+      "pubDate": "Fri, 26 Jun 2026 22:30:29 +0000",
+      "author": "Phillies Nation",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Should There Be Concern Over Jalen Carter\u2019s Contract?",
@@ -1591,16 +1571,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-14T005203Z_430305486_MT1USATODAY29193204_RTRMADP_3_MLB-PHILADELPHI.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Eagles rookie NFL player comparisons: S Cole Wisniewski",
-      "description": "As we do every offseason, we'll be comparing each of the Philadelphia Eagles' rookies to current or former NFL players. Today we'll find a comp for seventh-round safety Cole Wisniewski.",
-      "link": "https://www.phillyvoice.com/eagles-rookie-nfl-player-comparisons-s-cole-wisniewski-reed-blankenship-jeremy-chinn/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sun, 14 Jun 2026 10:30:53 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/IMG_3005.jpeg",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Phillies call up Gabriel Rincones Jr., while Adolis Garc\u00eda goeson 60-day IL",
