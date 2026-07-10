@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10T18:14:35.433051+00:00",
-  "count": 163,
+  "updated": "2026-07-10T20:10:48.977527+00:00",
+  "count": 169,
   "articles": [
     {
       "title": "Mike Gansey says Joel Embiid \u2018fired up\u2019 about Brown trade, upcoming season",
@@ -71,6 +71,26 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2024-12-26T005823Z_73173566_MT1USATODAY25061974_RTRMADP_3_NBA-PHILADELPHIA.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Mike Schmidt, Chase Utley star in Phillies All-Star Game hype video",
+      "description": "Two Phillies legends star in the team's hype video promoting the 2026 MLB All-Star Game, which is next week at Citizens Bank Park.",
+      "link": "https://www.phillyvoice.com/phillies-hype-video-mlb-all-star-game-mike-schmidt-chase-utley-harry-kalas/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 10 Jul 2026 19:05:29 +0000",
+      "author": "Geoff Mosher",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_29170574.jpg",
+      "team": "phillies",
+      "source": "PhillyVoice"
+    },
+    {
+      "title": "Report: Ducks are trying to trade players to make room for Leo Carlsson",
+      "description": "As we wait for the Anaheim Ducks and general manager Pat Verbeek to make their decision on the Philadelphia Flyers offer sheet to Leo Carlsson we are slowly dying and losing the sense of what seven days means to our life, please rescue us from this h",
+      "link": "https://www.broadstreethockey.com/post/report-ducks-are-trying-to-trade-players-to-make-room-for-leo-carlsson/",
+      "pubDate": "Thu, 09 Jul 2026 13:25:40 +0000",
+      "author": "Thomas Williams",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Multiple Phillies trade deadline needs come into focus in loss to Reds",
@@ -423,6 +443,16 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Eagles have 2 of ESPN\u2019s Top 10 ranked defensive tackles in 2026",
+      "description": "As ESPN continues to reveal their Top 10 lists for each position, the Eagles are quickly racking up nods as one of the best rosters in the league. They\u2019ve already claimed one of the top running backs (Saquon Barkley), and two of the top cornerbacks (",
+      "link": "",
+      "pubDate": "2026-07-10T15:05:19-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
       "title": "Kyle Schwarber to participate in 2026 Home Run Derby",
       "description": "PHILADELPHIA MLB home run leader Kyle Schwarber will participate in the 2026 Home Run Derby in Philadelphia, the Phillies announced Friday on social media. As of July 10, Schwarber is the only hitter in the majors with over 30 home runs. For a second",
       "link": "https://philliesnation.com/2026/07/philadelphia-phillies-news-kyle-schwarber-to-participate-in-2026-home-run-derby/",
@@ -463,6 +493,16 @@
       "source": "PhillyVoice Flyers"
     },
     {
+      "title": "Eagles News: Saquon Barkley makes the case for LeBron James to come to Philly",
+      "description": "Let\u2019s get to the Philadelphia Eagles news and links \u2026 Saquon Barkley pitches LeBron James on bringing title to Philadelphia: Youd be remembered forever NFL.comDuring his youth football camp at Haddonfield High School in New Jersey, Eagles star runnin",
+      "link": "",
+      "pubDate": "2026-07-10T11:21:10-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
       "title": "Who are the biggest All-Star snubs in Phillies history?",
       "description": "Zack Wheeler was not named an All-Star this year. What are some other all-time Phillies All-Star snubs?",
       "link": "https://philliesnation.com/2026/07/philadelphia-phillies-zack-wheeler-all-star-game-snubs-history-cristopher-sanchez-john-denny-von-hayes-antionio-bastardo-jonathan-papelbon-pat-burrell/",
@@ -471,16 +511,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
-    },
-    {
-      "title": "Paul George\u2019s Sixers legacy is complicated to say the least",
-      "description": "July 1, 2024, was a triumphant day for the Philadelphia 76ers. Their year-long plan of preparing cap space had paid off by landing Paul George, the top free agent in his class, to play with Joel Embiid and Tyrese Maxey in a renewed effort to dominate",
-      "link": "",
-      "pubDate": "2026-07-10T10:25:06-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Is Tyrese Maxey the main attraction for LeBron James as he considers joining Sixers? Rich Paul answers",
@@ -501,6 +531,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/072424_EaglesPractice_Claggett-8585.jpg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Leo Carlsson wanted the Ducks to match the Flyers\u2019 offer sheet",
+      "description": "Leo Carlsson will not be joining the Philadelphia Flyers, as the Anaheim Ducks matched the five-year, $18 million offer sheet on Thursday. It was a hopeful week for those in Philadelphia, and the hockey world had its eyes on Anaheim ahead of the Duck",
+      "link": "https://www.broadstreethockey.com/post/leo-carlsson-wanted-the-ducks-to-match-the-flyers-offer-sheet/",
+      "pubDate": "Fri, 10 Jul 2026 03:00:06 +0000",
+      "author": "Ryan Gilbert",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Phillies' Bryce Harper confirms he'll be in the All-Star Home Run Derby",
@@ -531,6 +571,16 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
+    },
+    {
+      "title": "Missing out on Leo Carlsson doesn\u2019t ruin the Flyers\u2019 offseason",
+      "description": "Although the final decision might not have been expected until July 10, the dreams of Leo Carlsson being Philadelphias first-line center were foiled Thursday afternoon. Anaheim matched the five-year, $90 million offer sheet the Flyers extended to Car",
+      "link": "https://www.broadstreethockey.com/post/missing-out-on-leo-carlsson-doesnt-ruin-the-flyers-offseason/",
+      "pubDate": "Fri, 10 Jul 2026 00:19:28 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Sixers win first Summer League game over Pistons; Philon, Broome, 2 newcomers shine",
@@ -603,6 +653,16 @@
       "source": "PHL Sports Nation"
     },
     {
+      "title": "3 things the Flyers can still do this offseason after not getting Leo Carlsson",
+      "description": "The dream has been slaughtered by the Anaheim Ducks. Leo Carlsson is not coming to the Philadelphia Flyers after the Ducks decided to match the offer sheet that Danny Briere tendered less than a week ago. At least we know a little bit earlier than ex",
+      "link": "https://www.broadstreethockey.com/post/3-things-the-flyers-can-still-do-this-offseason-after-not-getting-leo-carlsson/",
+      "pubDate": "Thu, 09 Jul 2026 17:24:08 +0000",
+      "author": "Thomas Williams",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
       "title": "Ducks match offer sheet, Leo Carlsson kept from Flyers",
       "description": "The Flyers swung for the fences by making Carlsson the highest-paid player in the NHL, but the Ducks are accepting the cost to keep him.",
       "link": "https://www.phillyvoice.com/flyers-dont-get-leo-carlsson-ducks-match-offer-sheet/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -621,6 +681,16 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Ducks match Leo Carlsson offer sheet from Flyers",
+      "description": "Well, it was fun while it lasted. We had the opportunity to dream of a bona fide No. 1 center playing for the Orange and Black for several days but it all now comes crashing down. The Anaheim Ducks have announced that they have matched the offer shee",
+      "link": "https://www.broadstreethockey.com/post/ducks-match-leo-carlsson-offer-sheet-from-flyers/",
+      "pubDate": "Thu, 09 Jul 2026 16:22:21 +0000",
+      "author": "Thomas Williams",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "IronPigs notes: Which Phillies depth pieces have impressed in early stages of second half?",
@@ -703,6 +773,16 @@
       "source": "Phillies Nation"
     },
     {
+      "title": "Win or lose, this could be Danny Briere\u2019s last offer sheet for years",
+      "description": "Its July 8, and two days from now the landscape for the Philadelphia Flyers will be a lot clearer. Right now things are in an antsy holding pattern. The offer sheet to Leo Carlsson might have pushed Claude Girouxs possible signing off the table, whil",
+      "link": "https://www.broadstreethockey.com/post/win-or-lose-this-could-be-danny-brieres-last-offer-sheet-for-years/",
+      "pubDate": "Wed, 08 Jul 2026 19:07:41 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
       "title": "ESPN rankings 2026: 3 Eagles cornerbacks earn Top 10 votes",
       "description": "As ESPN\u2019s Jeremy Fowler continues to roll out the top positional rankings of 2026, there were several Eagles included in the Top 10 cornerbacks list. The Eagles drafted both Quinyon Mitchell and Cooper DeJean in 2024, and the duo quickly ascended to ",
       "link": "",
@@ -721,6 +801,16 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
+    },
+    {
+      "title": "What the Leo Carlsson offer sheet reveals about the Flyers\u2019 future",
+      "description": "In case you somehow havent heard by now, the Philadelphia Flyers have signed Leo Carlsson to a massive offer sheet. News broke last Friday that Carlsson agreed to the Flyers offer: a five-year contract carrying an $18 million AAV. If the Anaheim Duck",
+      "link": "https://www.broadstreethockey.com/post/what-the-leo-carlsson-offer-sheet-reveals-about-the-flyers-future/",
+      "pubDate": "Wed, 08 Jul 2026 17:00:00 +0000",
+      "author": "Brad Keffer",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "It might escape notice, but Dean Wade has much to offer",
@@ -923,16 +1013,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Eagles Rookie Review: Jihaad Campbell\u2019s areas for improvement",
-      "description": "One of my favorite things to do every offseason is to go back and compare my post-draft notes on the Eagles\u2019 rookies with how they actually looked when they got on the field. It\u2019s a fun blend of film study, self-evaluation, and a check on how well ce",
-      "link": "",
-      "pubDate": "2026-07-05T13:44:56-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Five Phillies named to MLB All-Star Game, as Brandon Marsh gets first career nod",
       "description": "Brandon Marsh and Jhoan Duran will be first-time All-Stars, while Bryce Harper, Kyle Schwarber, and Cristopher S\u00e1nchez will be back in the Midsummer Classic, too.",
       "link": "https://www.phillyvoice.com/phillies-2026-mlb-all-stars-brandon-marsh-bryce-harper-kyle-schwarber-cristopher-sanchez/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -951,16 +1031,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_25103009_1.jpg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Eagles News: Philadelphia\u2019s defining number for 2026",
-      "description": "Let\u2019s get to the Philadelphia Eagles news and links \u2026 The defining number for each NFL team in 2026 NFL.comNUMBER: 28.4%. How will first-time OC Sean Mannion\u2019s offense differ from that of his predecessor in Philly, Kevin Patullo? Consider this: Patul",
-      "link": "",
-      "pubDate": "2026-07-05T09:22:13-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Sixers film study: The aspects of Jaylen Brown's game worth being worried about",
@@ -1549,16 +1619,6 @@
       "pubDate": "Thu, 18 Jun 2026 00:04:54 +0000",
       "author": "Nick Tricome",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-17T201317Z_763201856_MT1USATODAY29217609_RTRMADP_3_MLB-MIAMI-MARLI.JPG",
-      "team": "phillies",
-      "source": "PhillyVoice"
-    },
-    {
-      "title": "Phillies stack lefty bats in series win over Marlins, but Andrew Painter melts down",
-      "description": "Brandon Marsh is still surging, the Phillies went heavy on lefties and piled on runs for two games, but then Andrew Painter got overwhelmed again in the finale.",
-      "link": "https://www.phillyvoice.com/phillies-marlins-series-wrap-highlights-brandon-marsh-leadoff-andrew-painter-meltdown/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 17 Jun 2026 23:55:00 +0000",
-      "author": "Nick Tricome",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_29216857.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
     },
