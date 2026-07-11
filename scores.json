@@ -1,21 +1,9 @@
 {
-  "updated": "2026-07-11T21:36:51.493012+00:00",
+  "updated": "2026-07-11T22:34:23.123054+00:00",
   "scores": {
     "phillies": {
       "recent": [],
       "upcoming": [
-        {
-          "date": "7/11",
-          "home": "DET",
-          "away": "PHI",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "MLB",
-          "name": "Philadelphia Phillies at Detroit Tigers",
-          "shortName": "PHI @ DET",
-          "time": "6:10 PM ET",
-          "status": "scheduled"
-        },
         {
           "date": "7/12",
           "home": "DET",
@@ -74,6 +62,18 @@
           "name": "Los Angeles Dodgers at Philadelphia Phillies",
           "shortName": "LAD @ PHI",
           "time": "7:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "7/21",
+          "home": "PHI",
+          "away": "LAD",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "MLB",
+          "name": "Los Angeles Dodgers at Philadelphia Phillies",
+          "shortName": "LAD @ PHI",
+          "time": "6:40 PM ET",
           "status": "scheduled"
         }
       ]
