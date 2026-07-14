@@ -1,17 +1,7 @@
 {
-  "updated": "2026-07-14T21:43:47.875174+00:00",
-  "count": 158,
+  "updated": "2026-07-14T22:43:33.309262+00:00",
+  "count": 168,
   "articles": [
-    {
-      "title": "Mike Gansey says Joel Embiid \u2018fired up\u2019 about Brown trade, upcoming season",
-      "description": "Amidst the excitement of the last week or so in Sixers land was a small cloud hanging over things. After president of basketball operations Mike Gansey pulled off a stunning blockbuster trade to acquire Jaylen Brown, it didn\u2019t take long for many Sixe",
-      "link": "",
-      "pubDate": "2026-07-09T15:07:56-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
     {
       "title": "Sixers and Celtics officially execute trade involving Jaylen Brown and Paul George",
       "description": "Last week's stunning blockbuster trade between the Sixers and Celtics is done.",
@@ -31,6 +21,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-29T215508Z_687345021_MT1USATODAY28840665_RTRMADP_3_MLB-SAN-FRANCIS.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "Philly Offseason Drama: Cooper DeJean\u2019s Rivalry Romance & Ben Simmons\u2019 Shocking Comeback Wish",
+      "description": "What do you think the signers of that Declaration of Independence would say if they knew that some of our [] The post Philly Offseason Drama: Cooper DeJean\u2019s Rivalry Romance & Ben Simmons\u2019 Shocking Comeback Wish appeared first on Philadelphia Sports ",
+      "link": "https://phlsportsnation.com/2026/07/06/behind-enemy-lines-and-wanting-back-in-a-philly-sports-off-season-saga/",
+      "pubDate": "Mon, 06 Jul 2026 11:49:09 +0000",
+      "author": "Michael Thomas Leibrandt",
+      "thumbnail": null,
+      "team": "general",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "Sixers mailbag: If LeBron James does not come to Philadelphia, what should rest of free agency look like?",
@@ -111,6 +111,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-10T185613Z_1353028209_MT1USATODAY29167718_RTRMADP_3_NFL-PHILADELPH.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Phillies (And Other Teams) Load Up on Local Talent in 2026 MLB Draft",
+      "description": "I\u2019m not talking about a stunning move for the Athletics from the plans of going to Las Vegas back to [] The post Phillies (And Other Teams) Load Up on Local Talent in 2026 MLB Draft appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/07/13/philadelphia-baseball-is-back/",
+      "pubDate": "Mon, 13 Jul 2026 11:50:42 +0000",
+      "author": "Michael Thomas Leibrandt",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "Flyers have one week to sign Jamie Drysdale and Trevor Zegras before arbitration",
@@ -223,6 +233,16 @@
       "source": "PhillyVoice Sixers"
     },
     {
+      "title": "Why School Mascots Are Becoming a Bigger Part of Local Sports Culture",
+      "description": "Across the country, school sports are having a moment. Participation in high school athletics reached a record high during the [] The post Why School Mascots Are Becoming a Bigger Part of Local Sports Culture appeared first on Philadelphia Sports Nat",
+      "link": "https://phlsportsnation.com/2026/07/02/why-school-mascots-are-becoming-a-bigger-part-of-local-sports-culture/",
+      "pubDate": "Thu, 02 Jul 2026 19:30:00 +0000",
+      "author": "PHLSportsNation",
+      "thumbnail": null,
+      "team": "general",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "MLB Trade rumors: Which starting pitchers will Phillies target?",
       "description": "If the Phillies are in a seven-game postseason series, do you trust Aaron Nola as their fourth starter? Will Andrew Painter make a big league return? Will Alan Rangel really emerge as a solid rotation arm?",
       "link": "https://www.phillyvoice.com/mlb-trade-rumors-starting-pitchers-phillies-target-tarik-skubal-robbie-ray-sonny-gray-sandy-alcantara-news/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -333,6 +353,26 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Instant observations: Labaron Philon Jr. and Summer Sixers drop to 2-1",
+      "description": "Three of the 2026 Summer Sixers' first four games in Las Vegas are complete.",
+      "link": "https://www.phillyvoice.com/sixers-vs-rockets-box-score-highlights-labaron-philon-jr-johni-broome-roster-schedule-nba-news/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 14 Jul 2026 21:56:05 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-03-26T153955Z_1396275553_MT1USATODAY28588367_RTRMADP_3_NCAA-BASKETBAL.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Jalen Hurts Ranked 17th on an Official NFL QB List: What are We Doing Here?",
+      "description": "Sir, a second Jalen Hurts hit piece has hit the offseason. Yet again curtesy of Jermey Fowler. I have the [] The post Jalen Hurts Ranked 17th on an Official NFL QB List: What are We Doing Here? appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/07/14/jalen-hurts-ranked-17th-on-an-official-nfl-qb-list-what-are-we-doing-here/",
+      "pubDate": "Tue, 14 Jul 2026 20:37:45 +0000",
+      "author": "Kyle Lavin",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "Report: LeBron James has 'a focus' on Sixers, Cleveland Cavaliers and Miami Heat",
       "description": "It sounds like at least five contenders remain in play to sign LeBron James, but the Sixers are one of three particularly strong suitors.",
       "link": "https://www.phillyvoice.com/report-lebron-james-has-focus-cleveland-cavaliers-miami-heat-and-sixers/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -343,6 +383,36 @@
       "source": "PhillyVoice Sixers"
     },
     {
+      "title": "Eagles schedule preview: Titans",
+      "description": "When and where: Week 2 at home Key additions: HC Robert Saleh, OC Brian Daboll, WR Wandale Robinson, EDGE John Franklin-Myers, CB Alontae Taylor, CB Cordale Flott Key subtractions: TE Chig Okonkwo, EDGE Arden Key, G Kevin Zeitler, EDGE Jihad Ward Las",
+      "link": "",
+      "pubDate": "2026-07-14T16:01:01-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Sixers-Rockets, Summer League: Game Discussion Thread",
+      "description": "Game Details When: Tuesday, July 14, 4:00 p.m. ETWhere: Thomas Mack Center, Las Vegas, NVWatch: NBC Sports Philadelphia Plus, Prime VideoFollow: @LibertyBallers",
+      "link": "",
+      "pubDate": "2026-07-14T15:30:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "The GOAT? If LeBron chooses Philly, he can become a god here",
+      "description": "It\u2019s been 43 years since the Philadelphia 76ers won an NBA championship. As a refresher, that team was positively loaded. It put \u201cBig 3s\u201d and the \u201cHeatles\u201d to shame. Mo Cheeks, an eventual Hall of Famer, was the head of the snake as the starting poin",
+      "link": "",
+      "pubDate": "2026-07-14T13:44:22-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
       "title": "The Home Run Derby was signature Philly, and it was perfect",
       "description": "Philly finally got a Home Run Derby, and made the annual summer showcase in July feel like a borderline pennant clincher in October.",
       "link": "https://www.phillyvoice.com/mlb-all-star-home-run-derby-philly-booing-reactions-kyle-schwarber-ben-rice-willson-contreras/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -351,6 +421,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-07-14T020831Z_1533883359_MT1USATODAY29381907_RTRMADP_3_MLB-ALL-STAR-H.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "Eagles News: Philadelphia leads the NFL in offensive line investments",
+      "description": "Let\u2019s get to the Philadelphia Eagles news and links \u2026 Offensive Line Investments for 2026 Over The CapI thought we could take a look today at offensive line investments across the NFL. I decided to do the valuations a bit differently here. For any pl",
+      "link": "",
+      "pubDate": "2026-07-14T13:22:25-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Porter Martone ranked as one of the NHL\u2019s top prospects",
@@ -381,6 +461,16 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
+    },
+    {
+      "title": "Summer Sixers face Rockets looking to remain undefeated",
+      "description": "The Summer Sixers have gotten off to a hot start in the desert, winning their first two games against Detroit and Indiana. Two more wins and they\u2019ll be on their way to the Summer League semifinals, in search of the organization\u2019s first Summer League ",
+      "link": "",
+      "pubDate": "2026-07-14T07:00:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Tuesday Morning Fly By: It\u2019s a waiting game",
@@ -703,6 +793,16 @@
       "source": "Phillies Nation"
     },
     {
+      "title": "TNA Wrestling Returns to Philadelphia for Two Nights of High-Energy Pro Wrestling",
+      "description": "The stars of TNA Wrestling return to Philadelphia for two nights of action-packed pro wrestling at the Liacouras Center at [] The post TNA Wrestling Returns to Philadelphia for Two Nights of High-Energy Pro Wrestling appeared first on Philadelphia Sp",
+      "link": "https://phlsportsnation.com/2026/07/12/tna-wrestling-returns-to-philadelphia-for-two-nights-of-high-energy-pro-wrestling/",
+      "pubDate": "Sun, 12 Jul 2026 20:30:00 +0000",
+      "author": "PHLSportsNation",
+      "thumbnail": null,
+      "team": "general",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "Eagles News: Makai Lemon among most exciting Week 1 debut candidates",
       "description": "Let\u2019s get to the Philadelphia Eagles news and links \u2026 2026 NFL seasons most highly anticipated Week 1 debuts: Newly acquired players spice up all 16 games NFL.comMAKAI LEMON \u2014 We started this article with former Eagles wideout A.J. Brown \u2026 and the la",
       "link": "",
@@ -993,14 +1093,14 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Sixers-Pistons, Summer League: Game Discussion Thread",
-      "description": "It\u2019s time for some basketball! Summer League 2026 is upon us, and the Philadelphia 76ers begin their seasonal run on Thursday evening with a 5:30 p.m. ET game against the Detroit Pistons. The game will be broadcast on NBC Philadelphia Sports+ as well",
-      "link": "",
-      "pubDate": "2026-07-09T17:15:00-04:00",
-      "author": "",
+      "title": "Has Mike Gansey Done Enough This Offseason?",
+      "description": "The Philadelphia 76ers had many questions heading into the 2026 summer. The company made a significant shift by appointing Mike [] The post Has Mike Gansey Done Enough This Offseason? appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/07/09/has-mike-gansey-done-enough-this-offseason/",
+      "pubDate": "Thu, 09 Jul 2026 17:42:45 +0000",
+      "author": "Cooper Hubbard",
       "thumbnail": null,
       "team": "sixers",
-      "source": "Liberty Ballers"
+      "source": "PHL Sports Nation"
     },
     {
       "title": "Ducks match offer sheet, Leo Carlsson kept from Flyers",
@@ -1013,26 +1113,6 @@
       "source": "PhillyVoice Flyers"
     },
     {
-      "title": "Is safety the Eagles\u2019 biggest weakness?",
-      "description": "The Eagles have continued to build their roster this offseason, with GM Howie Roseman making several big moves on both sides of the ball. As the team inches closer to training camp, and battles for starting spots still underway, ESPN ranked the Eagle",
-      "link": "",
-      "pubDate": "2026-07-09T12:34:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "5 Sixers to watch in Summer League",
-      "description": "The Summer Sixers tip off in Vegas starting Thursday night against the Detroit Pistons at 5:30 p.m. on Amazon Prime and NBC Sports Philadelphia. Here are five players to watch. Labaron Philon, G Just because it\u2019s obvious doesn\u2019t mean it can\u2019t be true",
-      "link": "",
-      "pubDate": "2026-07-09T10:54:03-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "A look at the Eagles' players over 30, and their succession plan for each",
       "description": "They don't have to immediately think about it, but the Eagles will have to be ready for what happens after Saquon Barkley and Lane Johnson.",
       "link": "https://www.phillyvoice.com/look-eagles-players-over-30-and-their-succession-plan-each-2026-lane-johnson-saquon-barkley/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -1041,16 +1121,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-11-28T212800Z_1172258424_MT1USATODAY27694823_RTRMADP_3_NFL-CHICAGO-BE.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Eagles News: Philadelphia\u2019s 2026 breakout candidate",
-      "description": "Let\u2019s get to the Philadelphia Eagles news and links \u2026 2026 NFL season: Picking breakout candidates for all 32 teams ESPNPhiladelphia Eagles. Nolan Smith Jr., Edge. The typical breakout name at pass rusher in Philadelphia is Jalyx Hunt, and understand",
-      "link": "",
-      "pubDate": "2026-07-09T07:08:06-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Bob Myers makes Sixers' pitch to LeBron James on agent Rich Paul's podcast",
@@ -1093,6 +1163,16 @@
       "source": "PhillyVoice Sixers"
     },
     {
+      "title": "Looking at the 5 Hottest Moments in Eagles\u2019 History",
+      "description": "Hey, it\u2019s been pretty hot in Philly. It\u2019s got me thinking of hot performances by Eagles players throughout history. It [] The post Looking at the 5 Hottest Moments in Eagles\u2019 History appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/07/07/looking-at-the-hottest-moments-in-eagles-history/",
+      "pubDate": "Tue, 07 Jul 2026 20:57:21 +0000",
+      "author": "Kyle Lavin",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "No reunion between Flyers, Claude Giroux as he reportedly will sign back with Senators",
       "description": "Despite rumblings that he might return to Philadelphia, former Flyers captain Claude Giroux is going back to Ottawa.",
       "link": "https://www.phillyvoice.com/flyers-claude-giroux-captain-report-ottawa-senators-resign-nhl-rumors-contracts-free-agency/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -1113,6 +1193,16 @@
       "source": "PhillyVoice Eagles"
     },
     {
+      "title": "Ferris Wheels & Football: Villanova Returns to Ocean City\u2019s Carey Stadium",
+      "description": "The Eagles will not be the only Philadelphia-area football team preparing for a 2026 campaign at Training Camp in the [] The post Ferris Wheels & Football: Villanova Returns to Ocean Citys Carey Stadium appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/07/06/a-fresh-start-to-2026-one-that-begins-at-the-shore/",
+      "pubDate": "Tue, 07 Jul 2026 03:04:42 +0000",
+      "author": "Michael Thomas Leibrandt",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "Flyers thoughts: Leo Carlsson is worth it",
       "description": "Leo Carlsson is the star center the Flyers need. The cost is steep, but the Flyers can afford it, while the Ducks might not be able to.",
       "link": "https://www.phillyvoice.com/flyers-news-rumors-free-agency-thoughts-leo-carlsson-offer-sheet-breakdown-cap-space-ducks-decision/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -1131,6 +1221,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-03-28T010254Z_998479395_MT1USATODAY28600740_RTRMADP_3_NCAA-BASKETBALL.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "From 1776 to 2026: Why Hope Still Defines the Spirit of Philadelphia Sports",
+      "description": "Philadelphia concluded its celebration of the writing of the Declaration of Independence right here two hundred and fifty years ago, [] The post From 1776 to 2026: Why Hope Still Defines the Spirit of Philadelphia Sports appeared first on Philadelphi",
+      "link": "https://phlsportsnation.com/2026/07/06/a-message-for-philly-one-of-hope/",
+      "pubDate": "Mon, 06 Jul 2026 11:55:04 +0000",
+      "author": "Michael Thomas Leibrandt",
+      "thumbnail": null,
+      "team": "general",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "Sixers film study: Anfernee Simons is the shooter this team needs \u2013 at what cost?",
@@ -1213,6 +1313,16 @@
       "source": "PhillyVoice Sixers"
     },
     {
+      "title": "The Philly Connection: How A.J. Brown\u2019s Eagles Exit Could Set Up New England\u2019s Super Bowl Revenge Tour",
+      "description": "Somewhere in Boston, in the aftermath of that suffocating defeat at the hands of the Seattle Seahawks back in February, [] The post The Philly Connection: How A.J. Browns Eagles Exit Could Set Up New Englands Super Bowl Revenge Tour appeared first on",
+      "link": "https://phlsportsnation.com/2026/07/03/the-philly-connection-how-a-j-browns-eagles-exit-could-set-up-new-englands-super-bowl-revenge-tour/",
+      "pubDate": "Fri, 03 Jul 2026 22:30:00 +0000",
+      "author": "PHLSportsNation",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "Asking a Portland beat writer about the three former Trail Blazers signed by the Sixers",
       "description": "In a span of 24 hours, the Sixers signed three former Portland Trail Blazers. What should Philadelphia fans know about Anfernee Simons, Rayan Rupert and Caleb Love?",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-anfernee-simons-stats-highlights-caleb-love-rayan-rupert-sean-highkin-portland-trail-blazers/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -1291,16 +1401,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-30T012241Z_1955347327_MT1USATODAY28842035_RTRMADP_3_NHL-STANLEY-CU.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Report: Sixers guard, Philadelphia native Kyle Lowry to retire after 20 NBA seasons",
-      "description": "Kyle Lowry, a six-time All-Star and one-time NBA champion, has reached the end of a career which should land him in the Basketball Hall of Fame.",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-kyle-lowry-retire-after-20-nba-seasons-career-stats-highlights-nba-rumors/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Thu, 02 Jul 2026 20:53:24 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_27992815.jpg",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
     },
     {
       "title": "10 awards for the Phillies after memorable split with Pirates",
