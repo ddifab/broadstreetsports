@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T13:03:19.613862+00:00",
+  "updated": "2026-07-15T15:15:31.202942+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -161,7 +161,68 @@
     },
     "flyers": {
       "recent": [],
-      "upcoming": []
+      "upcoming": [
+        {
+          "date": "9/30",
+          "home": "VGK",
+          "away": "CHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NHL",
+          "name": "Chicago Blackhawks at Vegas Golden Knights",
+          "shortName": "CHI @ VGK",
+          "time": "10:30 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/3",
+          "home": "BUF",
+          "away": "CHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NHL",
+          "name": "Chicago Blackhawks at Buffalo Sabres",
+          "shortName": "CHI @ BUF",
+          "time": "7:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/6",
+          "home": "CHI",
+          "away": "STL",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NHL",
+          "name": "St. Louis Blues at Chicago Blackhawks",
+          "shortName": "STL @ CHI",
+          "time": "12:00 AM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "12/18",
+          "home": "OTT",
+          "away": "CHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NHL",
+          "name": "Chicago Blackhawks at Ottawa Senators",
+          "shortName": "CHI @ OTT",
+          "time": "1:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "12/20",
+          "home": "OTT",
+          "away": "CHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NHL",
+          "name": "Chicago Blackhawks at Ottawa Senators",
+          "shortName": "CHI @ OTT",
+          "time": "8:00 AM ET",
+          "status": "scheduled"
+        }
+      ]
     }
   }
 }

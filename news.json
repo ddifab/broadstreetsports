@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-15T13:03:19.613862+00:00",
-  "count": 165,
+  "updated": "2026-07-15T15:15:31.202942+00:00",
+  "count": 166,
   "articles": [
     {
       "title": "Sixers and Celtics officially execute trade involving Jaylen Brown and Paul George",
@@ -53,6 +53,16 @@
       "source": "PhillyVoice Sixers"
     },
     {
+      "title": "Flyers get Penguins at home for 2026-27 season opener",
+      "description": "Out of the gate, the Flyers will get a rematch of last year's rollercoaster of a first-round playoff series, very likely with more fireworks to go off.",
+      "link": "https://www.phillyvoice.com/flyers-2026-2027-season-opener-penguins-xfinity-mobile-arena-playoff-rematch/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 15 Jul 2026 14:49:23 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-30T012029Z_2143476060_MT1USATODAY28842026_RTRMADP_3_NHL-STANLEY-CU.JPG",
+      "team": "flyers",
+      "source": "PhillyVoice Flyers"
+    },
+    {
       "title": "Phillies All-Stars soak in the fireworks, appreciate \u2018Sandlot\u2019 tribute: \u2018It almost just brings tears to my eyes\u2019",
       "description": "PHILADELPHIA Brandon Marsh stood in right field with a boy in a red T-shirt and a backward Phillies cap and watched the fireworks burst around them. For the 28-year-old outfielder, The Sandlot was a childhood favorite. And at the end of the fourth in",
       "link": "https://philliesnation.com/2026/07/mlb-all-star-game-2026-philadelphia-citizens-bank-park-fireworks-sandlot-brandon-marsh-bryce-harper-phillies/",
@@ -64,7 +74,7 @@
     },
     {
       "title": "Delco native Kevin McGonigle met his idol \u2014 a Phillies legend \u2014 before hometown All-Star Game",
-      "description": "PHILADELPHIA The Detroit Tigers Kevin McGonigle, a 21-year-old rookie sensation from Media, Pa., is living out every local baseball fans dream. The rookie is the youngest player to be named an All-Star this year. The game happened to be at Citizens B",
+      "description": "PHILADELPHIA The Detroit Tigers Kevin McGonigle, a 21-year-old rookie sensation from Media, Pa., is living out every local baseball fans dream. He is the youngest player to be named an All-Star this year. The game happened to be at Citizens Bank Park",
       "link": "https://philliesnation.com/2026/07/mlb-all-star-game-detroit-tigers-kevin-mcgonigle-chase-utley-delco/",
       "pubDate": "Wed, 15 Jul 2026 05:50:46 +0000",
       "author": "Destiny Lugardo",
@@ -293,16 +303,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Report: Sixers signing Rayan Rupert to two-way contract",
-      "description": "Rayan Rupert's tools \u2013 he stands at 6-foot-7, weighs 205 pounds and has an elite 7-foot-3 wingspan \u2013 make him an intriguing prospect.",
-      "link": "https://www.phillyvoice.com/report-sixers-sign-rayan-rupert-two-way-contract-stats-highlights-bio-roster-news-analysis-nba-free-agency/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Fri, 03 Jul 2026 16:56:13 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-13T031042Z_1862984994_MT1USATODAY28718356_RTRMADP_3_NBA-MEMPHIS-GR.JPG",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
       "title": "Why School Mascots Are Becoming a Bigger Part of Local Sports Culture",
       "description": "Across the country, school sports are having a moment. Participation in high school athletics reached a record high during the [] The post Why School Mascots Are Becoming a Bigger Part of Local Sports Culture appeared first on Philadelphia Sports Nat",
       "link": "https://phlsportsnation.com/2026/07/02/why-school-mascots-are-becoming-a-bigger-part-of-local-sports-culture/",
@@ -363,16 +363,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Flyers trade F Garnet Hathaway to Panthers in pre-draft deal",
-      "description": "With the NHL Draft starting Friday, the Flyers dealt Garnet Hathaway and a draft pick for two draft picks, including a future pick.",
-      "link": "https://www.phillyvoice.com/flyers-trade-garnet-hathaway-carolina-panthers-nhl-draft-picks/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Thu, 25 Jun 2026 16:08:21 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_28774363.jpg",
-      "team": "flyers",
-      "source": "PhillyVoice Flyers"
-    },
-    {
       "title": "Eagles offseason power rankings roundup: Are Birds great, or just good?",
       "description": "With all impact NFL moves in the rear-view mirror, several outlets that cover the NFL have released their early rankings. Where do they have the Eagles?",
       "link": "https://www.phillyvoice.com/eagles-offseason-power-rankings-roundup-nfl-stats-analysis/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -411,6 +401,26 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "SportsTalk Philly"
+    },
+    {
+      "title": "Revisiting the results of PhillyVoice's 2025-26 preseason Sixers survey",
+      "description": "Before the 2025-26 Sixers season began, 736 fans filled out our survey, registering opinions about the 2025 offseason and an unpredictable campaign ahead.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-fan-survey-daryl-morey-joel-embiid-jared-mccain-trade-vj-edgecombe-tyrese-maxey-nba/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 15 Jul 2026 13:01:30 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/111725_SixersvCeltics_ColleenClaggett-9960.jpg",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Red-yellow-green light: Eagles injury concerns heading into training camp",
+      "description": "Barring any surprises, the Philadelphia Eagles probably won't have anyone on their PUP list heading into training camp. But they do have more than a handful of players with injury concerns, so let's round them up here.",
+      "link": "https://www.phillyvoice.com/red-yellow-green-light-eagles-injury-concerns-heading-training-camp/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 15 Jul 2026 12:46:35 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-09T205221Z_240466601_MT1USATODAY29160337_RTRMADP_3_NFL-PHILADELPHI.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Wednesday Morning Fly By: Relish when you can",
@@ -473,6 +483,16 @@
       "source": "Philly Sports Wire"
     },
     {
+      "title": "Report: Maxey, Embiid, Brown trio recruiting LeBron James",
+      "description": "Now 41 years old, future Hall of Famer LeBron James has dominated free agency talk, with his decision on where to play next looming across the landscape. We havent heard too much about the Sixers pursuit, however, until now. ESPNs Dave McMenamin repo",
+      "link": "",
+      "pubDate": "2026-07-14T19:50:03-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
       "title": "Sources: Maxey-led 76ers trio has talked to LeBron...",
       "description": "76ers stars Tyrese Maxey, Joel Embiid and Jaylen Brown have all been in communication with LeBron James amid the team's pursuit, sources told ESPN on Tuesday, with Maxey leading the charge.",
       "link": "https://www.espn.com/nba/story/_/id/49362336/76ers-tyrese-maxey-joel-embiid-jaylen-brown-communication-lebron-james-amid-pursuit",
@@ -491,6 +511,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2019-02-10T210924Z_178276382_NOCID_RTRMADP_3_NBA-LOS-ANGELES-LAKERS-AT-PHI.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Sixers crushed in their first Summer League loss despite Philon\u2019s strong shooting",
+      "description": "The only player you care about looking good while the rest of the team gets smoked is the quintessential Summer League experience. The Summer Sixers were demolished 87-64 by the Houston Rockets. They are now 2-1 with their penultimate game coming Wed",
+      "link": "",
+      "pubDate": "2026-07-14T17:56:11-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Instant observations: Labaron Philon Jr. and Summer Sixers drop to 2-1",
@@ -1013,16 +1043,6 @@
       "source": "Bleeding Green Nation"
     },
     {
-      "title": "Paul George\u2019s Sixers legacy is complicated to say the least",
-      "description": "July 1, 2024, was a triumphant day for the Philadelphia 76ers. Their year-long plan of preparing cap space had paid off by landing Paul George, the top free agent in his class, to play with Joel Embiid and Tyrese Maxey in a renewed effort to dominate",
-      "link": "",
-      "pubDate": "2026-07-10T10:25:06-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Is Tyrese Maxey the main attraction for LeBron James as he considers joining Sixers? Rich Paul answers",
       "description": "Another day, another conversation about LeBron James' fit with the Sixers on the podcast of his agent, Rich Paul.",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-lebron-james-rumors-tyrese-maxey-rich-paul-max-kellerman-game-over-podcast-bob-myers/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -1051,16 +1071,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-07-10T000346Z_148041073_MT1USATODAY29362039_RTRMADP_3_PHILADELPHIA-PH.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Sixers win first Summer League game over Pistons; Philon, Broome, 2 newcomers shine",
-      "description": "The Sixers won their opening game of the 2026 Summer League campaign in Las Vegas by a score of 101-93 over the Detroit Pistons. More importantly, a few young players really shined for Philadelphia in the seasonal debut. This was the first of four sc",
-      "link": "",
-      "pubDate": "2026-07-09T19:55:01-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Instant observations: Labaron Philon Jr. makes debut in Summer Sixers' opener",
