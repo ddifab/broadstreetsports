@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T15:15:31.202942+00:00",
+  "updated": "2026-07-15T17:01:33.406290+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -172,6 +172,18 @@
           "name": "Chicago Blackhawks at Vegas Golden Knights",
           "shortName": "CHI @ VGK",
           "time": "10:30 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/2",
+          "home": "UTA",
+          "away": "CHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NHL",
+          "name": "Chicago Blackhawks at Utah Mammoth",
+          "shortName": "CHI @ UTA",
+          "time": "9:00 PM ET",
           "status": "scheduled"
         },
         {
