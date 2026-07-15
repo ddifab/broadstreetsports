@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-15T17:01:33.406290+00:00",
-  "count": 147,
+  "updated": "2026-07-15T18:50:36.647916+00:00",
+  "count": 156,
   "articles": [
+    {
+      "title": "Mike Gansey says Joel Embiid \u2018fired up\u2019 about Brown trade, upcoming season",
+      "description": "Amidst the excitement of the last week or so in Sixers land was a small cloud hanging over things. After president of basketball operations Mike Gansey pulled off a stunning blockbuster trade to acquire Jaylen Brown, it didn\u2019t take long for many Sixe",
+      "link": "",
+      "pubDate": "2026-07-09T15:07:56-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
     {
       "title": "Sixers and Celtics officially execute trade involving Jaylen Brown and Paul George",
       "description": "Last week's stunning blockbuster trade between the Sixers and Celtics is done.",
@@ -41,6 +51,26 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-03-26T015732Z_1271968168_MT1USATODAY28585525_RTRMADP_3_NBA-CHICAGO-BU.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Zack Baun unanimously considered a top 10 linebacker by NFL coaches and executives",
+      "description": "The NFL\u2019s best players at each position continue to be revealed by Jeremy Fowler of ESPN, and the latest list includes yet another defensive player from the Eagles. Among those considered the Top 10 linebackers throughout the league, Zack Baun emerge",
+      "link": "",
+      "pubDate": "2026-07-15T14:02:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Grading the Phillies' first half performance",
+      "description": "The Phillies are 54-43, just two games behind the Braves for the NL East lead and firmly in a Wild Card playoff spot. That's the good news.",
+      "link": "https://www.phillyvoice.com/grading-phillies-first-half-performance-news-analysis-offense-starting-pitching-trade-rumors-deadline/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 15 Jul 2026 17:18:55 +0000",
+      "author": "Evan Macy",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_29372854.jpg",
+      "team": "phillies",
+      "source": "PhillyVoice"
     },
     {
       "title": "Eagles News: DeVonta Smith among Philadelphia\u2019s first-time Pro Bowl candidates",
@@ -133,16 +163,6 @@
       "source": "Philly Sports Wire"
     },
     {
-      "title": "Phillies fans got the playoff preview they needed (with the wrong ending) at Home Run Derby",
-      "description": "The Home Run Derby was quite the success in Philadelphia Monday night. The crowd backed its stars in Bryce Harper and Kyle Schwarber and gave the playoff feel to the event throughout.",
-      "link": "https://thatballsouttahere.com/phillies-fans-got-the-playoff-preview-they-needed-with-the-wrong-ending-at-home-run-derby?utm_source=RSS",
-      "pubDate": "Tue, 14 Jul 2026 21:03:12 +0000",
-      "author": "That Ball's Outta Here",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
       "title": "Why star closers Jhoan Duran and Mason Miller could steal the show at the All-Star Game",
       "description": "PHILADELPHIA \u2013 When the lights go down and The Undertaker\u2019s signature gong hits in the ninth inning of a close game at Citizens Bank Park, Jhoan Duran is getting the ball. Since arriving in Philadelphia via trade at last year\u2019s deadline, Duran has be",
       "link": "https://philliesnation.com/2026/07/philadelphia-phillies-jhoan-duran-mason-miller-all-star-game-philadelphia-closers/",
@@ -151,6 +171,16 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
+    },
+    {
+      "title": "The greatest Flyers in franchise history, from A to Z (Part 1)",
+      "description": "The draft is done, free agency is done, the offer sheet is history (at least for Leo Carlsson) and there are a few upcoming contracts (or arbitration cases) that need to be resolved either through a contract extension, or the harder, more acrimonious",
+      "link": "https://www.broadstreethockey.com/post/the-greatest-flyers-in-franchise-history-from-a-to-z-part-1/",
+      "pubDate": "Tue, 14 Jul 2026 14:30:00 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Bryce Harper reflects on memorable entrance, Philly Home Run Derby experience",
@@ -363,6 +393,16 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "5 free agents who could still make the Flyers better",
+      "description": "The Philadelphia Flyers may have missed out on the biggest upgrade they could have in Leo Carlsson, but there is still some room for improvement maybe just ever so slightly. And you can find that still in the free agent market. The pool of free agent",
+      "link": "https://www.broadstreethockey.com/post/5-free-agents-who-could-still-make-the-flyers-better/",
+      "pubDate": "Wed, 15 Jul 2026 17:55:28 +0000",
+      "author": "Thomas Williams",
+      "thumbnail": "https://www.broadstreethockey.com/wp-content/uploads/sites/12/2026/07/image-4-1024x825.png",
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
       "title": "Five non-obvious questions facing the Eagles headed into training camp",
       "description": "We know what the obvious questions are about the Eagles headed into camp. What are the less-obvious ones?",
       "link": "https://www.phillyvoice.com/five-non-obvious-questions-facing-eagles-headed-training-camp/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -391,6 +431,36 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-09T205221Z_240466601_MT1USATODAY29160337_RTRMADP_3_NFL-PHILADELPHI.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Wednesday Morning Fly By: Relish when you can",
+      "description": "*Another mid-July day, another day of nothing going on. And its not even August yet. We may have already reached the dregs, friends. Anyway, you may have been feeling a bit down about the Flyers recent lack of offseason wins. But find a little joy in",
+      "link": "https://www.broadstreethockey.com/post/wednesday-morning-fly-by-relish-when-you-can/",
+      "pubDate": "Wed, 15 Jul 2026 10:00:00 +0000",
+      "author": "Kelly Hinkle",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Phillies soak in All-Star atmosphere: 'This is just like heaven right now'",
+      "description": "",
+      "link": "https://www.mlb.com/phillies/news/phillies-host-all-star-game-at-citizens-bank-park",
+      "pubDate": "Wed, 15 Jul 2026 05:57:27 +0000",
+      "author": "MLB.com",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Heat, 76ers, Cavaliers reportedly finalists in bidding war for $101M ex-Laker 4-time NBA champion",
+      "description": "The Miami Heat, Philadelphia 76ers, and Cleveland Cavaliers are finalists for the biggest name on the market. This is news for each organization with a decision expected to be made soon.",
+      "link": "https://www.sportingnews.com/us/nba/miami-heat/news/heat-76ers-cavaliers-reportedly-finalists-bidding-war-101m-ex-laker-4-time-nba-champion/295832d83ae37150ed311519",
+      "pubDate": "Wed, 15 Jul 2026 04:43:04 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "AL tops NL in rather quiet All-Star Game",
@@ -423,16 +493,6 @@
       "source": "Philly Sports Wire"
     },
     {
-      "title": "Report: Maxey, Embiid, Brown trio recruiting LeBron James",
-      "description": "Now 41 years old, future Hall of Famer LeBron James has dominated free agency talk, with his decision on where to play next looming across the landscape. We havent heard too much about the Sixers pursuit, however, until now. ESPNs Dave McMenamin repo",
-      "link": "",
-      "pubDate": "2026-07-14T19:50:03-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Sources: Maxey-led 76ers trio has talked to LeBron...",
       "description": "76ers stars Tyrese Maxey, Joel Embiid and Jaylen Brown have all been in communication with LeBron James amid the team's pursuit, sources told ESPN on Tuesday, with Maxey leading the charge.",
       "link": "https://www.espn.com/nba/story/_/id/49362336/76ers-tyrese-maxey-joel-embiid-jaylen-brown-communication-lebron-james-amid-pursuit",
@@ -451,26 +511,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2019-02-10T210924Z_178276382_NOCID_RTRMADP_3_NBA-LOS-ANGELES-LAKERS-AT-PHI.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Mike Gansey sends clear message regarding 76ers' pursuit of LeBron James",
-      "description": "Gansey would love to bring The King to Philadelphia.",
-      "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/mike-gansey-sends-clear-message-regarding-76ers-pursuit-lebron-james/9c14be26f9ec19414e46c9bf",
-      "pubDate": "Tue, 14 Jul 2026 23:13:59 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Sixers crushed in their first Summer League loss despite Philon\u2019s strong shooting",
-      "description": "The only player you care about looking good while the rest of the team gets smoked is the quintessential Summer League experience. The Summer Sixers were demolished 87-64 by the Houston Rockets. They are now 2-1 with their penultimate game coming Wed",
-      "link": "",
-      "pubDate": "2026-07-14T17:56:11-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Instant observations: Labaron Philon Jr. and Summer Sixers drop to 2-1",
@@ -503,26 +543,6 @@
       "source": "Bleeding Green Nation"
     },
     {
-      "title": "Sixers-Rockets, Summer League: Game Discussion Thread",
-      "description": "Game Details When: Tuesday, July 14, 4:00 p.m. ETWhere: Thomas Mack Center, Las Vegas, NVWatch: NBC Sports Philadelphia Plus, Prime VideoFollow: @LibertyBallers",
-      "link": "",
-      "pubDate": "2026-07-14T15:30:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
-      "title": "The GOAT? If LeBron chooses Philly, he can become a god here",
-      "description": "It\u2019s been 43 years since the Philadelphia 76ers won an NBA championship. As a refresher, that team was positively loaded. It put \u201cBig 3s\u201d and the \u201cHeatles\u201d to shame. Mo Cheeks, an eventual Hall of Famer, was the head of the snake as the starting poin",
-      "link": "",
-      "pubDate": "2026-07-14T13:44:22-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "The Home Run Derby was signature Philly, and it was perfect",
       "description": "Philly finally got a Home Run Derby, and made the annual summer showcase in July feel like a borderline pennant clincher in October.",
       "link": "https://www.phillyvoice.com/mlb-all-star-home-run-derby-philly-booing-reactions-kyle-schwarber-ben-rice-willson-contreras/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -541,6 +561,16 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Porter Martone ranked as one of the NHL\u2019s top prospects",
+      "description": "Fans of the Philadelphia Flyers are extremely high on 19-year-old forward Porter Martone, and for good reason. The Peterborough native and childhood Flyers fan made an immediate impact in the NHL following a stellar campaign at Michigan State Univers",
+      "link": "https://www.broadstreethockey.com/post/porter-martone-ranked-as-one-of-the-nhls-top-prospects/",
+      "pubDate": "Tue, 14 Jul 2026 13:04:38 +0000",
+      "author": "Ryan Quigley",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Things to watch for at Eagles training camp: Safety edition",
@@ -573,6 +603,16 @@
       "source": "Liberty Ballers"
     },
     {
+      "title": "Tuesday Morning Fly By: It\u2019s a waiting game",
+      "description": "*Cant imagine much is going to happen here in the Flyers Cinematic Universe between now and Jamie Drysdale and Trevor Zegras signing their new contracts, whether that happens with an arbiter or it happens before they get there. So were all going to b",
+      "link": "https://www.broadstreethockey.com/post/tuesday-morning-fly-by-its-a-waiting-game/",
+      "pubDate": "Tue, 14 Jul 2026 10:00:00 +0000",
+      "author": "Kelly Hinkle",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
       "title": "Sixers mailbag: Will Jaylen Brown stunt VJ Edgecombe's development?",
       "description": "Answering your latest Sixers questions as the LeBron James sweepstakes continue.",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-jaylen-brown-trade-vj-edgecombe-dean-wade-lebron-james-rumors-nba-dean-wade/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -601,6 +641,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_29381757.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "Leo Carlsson\u2019s agents reveal why the Flyers\u2019 offer sheet was impossible to refuse",
+      "description": "It wasnt a scene from The Godfather, but Flyers general manager Danny Briere will never resemble the fictional character Don Vito Corleone more than he did last week. Thats according to hockey agents Matt and Ryan Keator, the agents representing Anah",
+      "link": "https://www.broadstreethockey.com/post/leo-carlssons-agents-reveal-why-the-flyers-offer-sheet-was-impossible-to-refuse/",
+      "pubDate": "Tue, 14 Jul 2026 00:31:50 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Mike Trout \u2018never would\u2019ve envisioned\u2019 playing in the All-Star Game at Citizens Bank Park",
@@ -633,6 +683,16 @@
       "source": "PhillyVoice Sixers"
     },
     {
+      "title": "3 home run swings Danny Briere can still take for Flyers this offseason",
+      "description": "Philadelphia has been at the center of the sports world for most of the summer. Philadelphia Stadium hosted several World Cup games to kick things off, and the MLB All-Star Game and Home Run Derby are at Citizens Bank Park this week. Add in the 76ers",
+      "link": "https://www.broadstreethockey.com/post/3-home-run-swings-danny-briere-can-still-take-for-flyers-this-offseason/",
+      "pubDate": "Mon, 13 Jul 2026 18:47:00 +0000",
+      "author": "Ryan Gilbert",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
       "title": "Phillies' Bryce Harper confirms he'll be in the All-Star Home Run Derby",
       "description": "Bryce Harper will be the Phillies' hometown rep in the annual All-Star Home Run Derby Monday night at Citizens Bank Park.",
       "link": "https://www.phillyvoice.com/phillies-bryce-harper-home-run-derby-confirmed-mlb-all-star-citizens-bank-park/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -651,6 +711,16 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
+    },
+    {
+      "title": "Morgan Rielly may be the Flyers\u2019 last chance to upgrade the blue line",
+      "description": "The Philadelphia Flyers have run out of obvious options to make their blue line better, but there is someone on the Toronto Maple Leafs that could be perfect.",
+      "link": "https://www.broadstreethockey.com/post/morgan-rielly-may-be-the-flyers-last-chance-to-upgrade-the-blue-line/",
+      "pubDate": "Mon, 13 Jul 2026 17:05:40 +0000",
+      "author": "Thomas Williams",
+      "thumbnail": "https://www.broadstreethockey.com/wp-content/uploads/sites/12/2026/07/4S1A9809-300x200.jpg",
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "How to watch the MLB Home Run Derby and All-Star Game",
@@ -711,6 +781,16 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
+    },
+    {
+      "title": "Monday Morning Fly By: Time to pivot",
+      "description": "*The Flyers lost out in that offer sheet bid for Leo Carlsson. We more or less expected it, but its still a bummer. But were accepting it begrudgingly and we are moving on. But also like, what now? [Inquirer] *The last time something like this happen",
+      "link": "https://www.broadstreethockey.com/post/monday-morning-fly-by-time-to-pivot/",
+      "pubDate": "Mon, 13 Jul 2026 10:00:00 +0000",
+      "author": "Madeline Campbell",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "5 Sixers thoughts: LeBron James contenders keep waiting, Eastern Conference as good as ever and more",
@@ -883,16 +963,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Eagles have 2 of ESPN\u2019s Top 10 ranked defensive tackles in 2026",
-      "description": "As ESPN continues to reveal their Top 10 lists for each position, the Eagles are quickly racking up nods as one of the best rosters in the league. They\u2019ve already claimed one of the top running backs (Saquon Barkley), and two of the top cornerbacks (",
-      "link": "",
-      "pubDate": "2026-07-10T15:05:19-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "The Flyers didn't get Leo Carlsson, but they might've grabbed the NHL's attention",
       "description": "The Leo Carlsson offer sheet didn't work, but it sent a message that could benefit the Flyers later on.",
       "link": "https://www.phillyvoice.com/flyers-leo-carlsson-offer-sheet-match-reaction-domino-effect-connor-mcdavid-nhl-rumors/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -901,6 +971,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-03-14T205938Z_711492581_MT1USATODAY28494944_RTRMADP_3_NHL-ANAHEIM-DUC.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "Paul George\u2019s Sixers legacy is complicated to say the least",
+      "description": "July 1, 2024, was a triumphant day for the Philadelphia 76ers. Their year-long plan of preparing cap space had paid off by landing Paul George, the top free agent in his class, to play with Joel Embiid and Tyrese Maxey in a renewed effort to dominate",
+      "link": "",
+      "pubDate": "2026-07-10T10:25:06-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Is Tyrese Maxey the main attraction for LeBron James as he considers joining Sixers? Rich Paul answers",
@@ -933,6 +1013,16 @@
       "source": "PhillyVoice"
     },
     {
+      "title": "Sixers win first Summer League game over Pistons; Philon, Broome, 2 newcomers shine",
+      "description": "The Sixers won their opening game of the 2026 Summer League campaign in Las Vegas by a score of 101-93 over the Detroit Pistons. More importantly, a few young players really shined for Philadelphia in the seasonal debut. This was the first of four sc",
+      "link": "",
+      "pubDate": "2026-07-09T19:55:01-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
       "title": "Instant observations: Labaron Philon Jr. makes debut in Summer Sixers' opener",
       "description": "For the first time, Labaron Philon Jr. played in a Sixers uniform on Thursday. What stood out from the 21-year-old's debut in Summer League?",
       "link": "https://www.phillyvoice.com/sixers-vs-pistons-summer-league-box-score-highlights-labaron-philon-jr-johni-broome-roster-schedule-nba-news/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -941,6 +1031,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-03-27T231539Z_1079538321_MT1USATODAY28599933_RTRMADP_3_NCAA-BASKETBAL.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Sixers-Pistons, Summer League: Game Discussion Thread",
+      "description": "It\u2019s time for some basketball! Summer League 2026 is upon us, and the Philadelphia 76ers begin their seasonal run on Thursday evening with a 5:30 p.m. ET game against the Detroit Pistons. The game will be broadcast on NBC Philadelphia Sports+ as well",
+      "link": "",
+      "pubDate": "2026-07-09T17:15:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Ducks match offer sheet, Leo Carlsson kept from Flyers",
@@ -1329,16 +1429,6 @@
       "pubDate": "Mon, 29 Jun 2026 13:54:50 +0000",
       "author": "Evan Macy",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_28645297.jpg",
-      "team": "phillies",
-      "source": "PhillyVoice"
-    },
-    {
-      "title": "NL East feast continues for Phillies, who take two from Mets to stay hot on Braves' tail",
-      "description": "The Phillies have owned the NL East over the past two weeks, and after taking two more from the Mets they're a serious threat to win the division again.",
-      "link": "https://www.phillyvoice.com/phillies-mets-recap-nl-east-bryce-harper-kyle-schwarber-braves-analysis-mlb/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sun, 28 Jun 2026 21:47:03 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-27T223425Z_1931068233_MT1USATODAY29285859_RTRMADP_3_MLB-PHILADEL_U1J8fPh.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
     },

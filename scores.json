@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T17:01:33.406290+00:00",
+  "updated": "2026-07-15T18:50:36.647916+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -199,7 +199,7 @@
           "status": "scheduled"
         },
         {
-          "date": "10/6",
+          "date": "10/7",
           "home": "CHI",
           "away": "STL",
           "homeLogo": "",
@@ -207,7 +207,7 @@
           "league": "NHL",
           "name": "St. Louis Blues at Chicago Blackhawks",
           "shortName": "STL @ CHI",
-          "time": "12:00 AM ET",
+          "time": "8:00 PM ET",
           "status": "scheduled"
         },
         {
