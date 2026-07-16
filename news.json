@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T11:24:11.208485+00:00",
+  "updated": "2026-07-16T13:12:22.217167+00:00",
   "count": 165,
   "articles": [
     {
@@ -33,6 +33,16 @@
       "source": "PHL Sports Nation"
     },
     {
+      "title": "The greatest Flyers in franchise history, from A to Z (Part 2)",
+      "description": "Fear not dear readers, we know there are 26 letters in the alphabet, hence here is the second part of the greatest Flyers in franchise history overview, beginning with M and moving through Z. Its not quite as loaded as the first part was, but there a",
+      "link": "https://www.broadstreethockey.com/post/the-greatest-flyers-in-franchise-history-from-a-to-z-part-2/",
+      "pubDate": "Thu, 16 Jul 2026 12:00:00 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
       "title": "Wildfire smoke and bad air quality threatens sports: Yankees, Blue Jays, World Cup Final, Phillies-Mets and more games to watch closely",
       "description": "The haze is noticeable in a number of cities.",
       "link": "https://www.sportingnews.com/us/mlb/news/wildfire-smoke-bad-air-quality-threatens-sports-yankees-blue-jays-world-cup-final-phillies-mets/8ad7686de6a8aab24075c7bd",
@@ -63,6 +73,16 @@
       "source": "PhillyVoice Sixers"
     },
     {
+      "title": "Instant observations: Labaron Philon Jr. struggles vs. a team full of former Sixers",
+      "description": "Labaron Philon Jr. had his worst game in Las Vegas, as the Summer Sixers fell to a team with four old friends.",
+      "link": "https://www.phillyvoice.com/sixers-vs-magic-box-score-highlights-labaron-philon-jr-roster-schedule-nba-news-summer-league/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Thu, 16 Jul 2026 12:02:23 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-03-20T204843Z_222088804_MT1USATODAY28548805_RTRMADP_3_NCAA-BASKETBALL.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
       "title": "Instant observations: Historic All-Star Weekend in Philly ends with a whimper",
       "description": "X",
       "link": "https://www.phillyvoice.com/instant-observations-phillies-all-star-game-schwarber-sanchez/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -71,16 +91,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_29387122.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Instant observations: Labaron Philon Jr. struggles vs. a team full of former Sixers",
-      "description": "Labaron Philon Jr. had his worst game in Las Vegas, as the Summer Sixers fell to a team with four old friends.",
-      "link": "https://www.phillyvoice.com/sixers-vs-magic-box-score-highlights-labaron-philon-jr-roster-schedule-nba-news-summer-league/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 15 Jul 2026 21:53:08 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-03-20T204843Z_222088804_MT1USATODAY28548805_RTRMADP_3_NCAA-BASKETBALL.JPG",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
     },
     {
       "title": "Philon struggles as Summer Sixers\u2019 comeback falls short vs. Magic",
@@ -443,6 +453,26 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Instant observations: Labaron Philon Jr. makes debut in Summer Sixers' opener",
+      "description": "For the first time, Labaron Philon Jr. played in a Sixers uniform on Thursday. What stood out from the 20-year-old's debut in Summer League?",
+      "link": "https://www.phillyvoice.com/sixers-vs-pistons-summer-league-box-score-highlights-labaron-philon-jr-johni-broome-roster-schedule-nba-news/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Thu, 16 Jul 2026 12:27:22 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-03-27T231539Z_1079538321_MT1USATODAY28599933_RTRMADP_3_NCAA-BASKETBAL.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Instant observations: Labaron Philon Jr. and Summer Sixers drop to 2-1",
+      "description": "Three of the 2026 Summer Sixers' first four games in Las Vegas are complete.",
+      "link": "https://www.phillyvoice.com/sixers-vs-rockets-box-score-highlights-labaron-philon-jr-johni-broome-roster-schedule-nba-news/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Thu, 16 Jul 2026 12:02:05 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-03-26T153955Z_1396275553_MT1USATODAY28588367_RTRMADP_3_NCAA-BASKETBAL.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
       "title": "Thursday Morning Fly By: Oh right, 84 games",
       "description": "*Big news, everyone! Our long national nightmare is over and Trevor Zegras has a contract! Jimbo, you&#x2019;re up. [BSH]* Got a few schedule details yesterday too, as we learned that the Flyers will open up at home against the Penguins. Thatll be fu",
       "link": "https://www.broadstreethockey.com/post/thursday-morning-fly-by-oh-right-84-games/",
@@ -663,16 +693,6 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "Instant observations: Labaron Philon Jr. and Summer Sixers drop to 2-1",
-      "description": "Three of the 2026 Summer Sixers' first four games in Las Vegas are complete.",
-      "link": "https://www.phillyvoice.com/sixers-vs-rockets-box-score-highlights-labaron-philon-jr-johni-broome-roster-schedule-nba-news/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 14 Jul 2026 21:56:05 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-03-26T153955Z_1396275553_MT1USATODAY28588367_RTRMADP_3_NCAA-BASKETBAL.JPG",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
       "title": "Jalen Hurts Ranked 17th on an Official NFL QB List: What Are We Doing Here?",
       "description": "Sir, a second Jalen Hurts hit piece has hit the offseason. Yet again, courtesy of Jermey Fowler. We\u2019ll get into [] The post Jalen Hurts Ranked 17th on an Official NFL QB List: What Are We Doing Here? appeared first on Philadelphia Sports Nation.",
       "link": "https://phlsportsnation.com/2026/07/14/jalen-hurts-ranked-17th-on-an-official-nfl-qb-list-what-are-we-doing-here/",
@@ -781,16 +801,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Tuesday Morning Fly By: It\u2019s a waiting game",
-      "description": "*Cant imagine much is going to happen here in the Flyers Cinematic Universe between now and Jamie Drysdale and Trevor Zegras signing their new contracts, whether that happens with an arbiter or it happens before they get there. So were all going to b",
-      "link": "https://www.broadstreethockey.com/post/tuesday-morning-fly-by-its-a-waiting-game/",
-      "pubDate": "Tue, 14 Jul 2026 10:00:00 +0000",
-      "author": "Kelly Hinkle",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Sixers mailbag: Will Jaylen Brown stunt VJ Edgecombe's development?",
@@ -1111,16 +1121,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-07-10T000346Z_148041073_MT1USATODAY29362039_RTRMADP_3_PHILADELPHIA-PH.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Instant observations: Labaron Philon Jr. makes debut in Summer Sixers' opener",
-      "description": "For the first time, Labaron Philon Jr. played in a Sixers uniform on Thursday. What stood out from the 21-year-old's debut in Summer League?",
-      "link": "https://www.phillyvoice.com/sixers-vs-pistons-summer-league-box-score-highlights-labaron-philon-jr-johni-broome-roster-schedule-nba-news/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Thu, 09 Jul 2026 23:44:59 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-03-27T231539Z_1079538321_MT1USATODAY28599933_RTRMADP_3_NCAA-BASKETBAL.JPG",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
     },
     {
       "title": "Has Mike Gansey Done Enough This Offseason?",
