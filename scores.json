@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T16:59:26.924826+00:00",
+  "updated": "2026-07-16T18:05:54.898789+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -211,27 +211,27 @@
           "status": "scheduled"
         },
         {
-          "date": "12/18",
-          "home": "OTT",
+          "date": "10/8",
+          "home": "NYI",
           "away": "CHI",
           "homeLogo": "",
           "awayLogo": "",
           "league": "NHL",
-          "name": "Chicago Blackhawks at Ottawa Senators",
-          "shortName": "CHI @ OTT",
-          "time": "1:00 PM ET",
+          "name": "Chicago Blackhawks at New York Islanders",
+          "shortName": "CHI @ NYI",
+          "time": "7:30 PM ET",
           "status": "scheduled"
         },
         {
-          "date": "12/20",
-          "home": "OTT",
-          "away": "CHI",
+          "date": "10/10",
+          "home": "CHI",
+          "away": "CAR",
           "homeLogo": "",
           "awayLogo": "",
           "league": "NHL",
-          "name": "Chicago Blackhawks at Ottawa Senators",
-          "shortName": "CHI @ OTT",
-          "time": "8:00 AM ET",
+          "name": "Carolina Hurricanes at Chicago Blackhawks",
+          "shortName": "CAR @ CHI",
+          "time": "7:00 PM ET",
           "status": "scheduled"
         }
       ]
