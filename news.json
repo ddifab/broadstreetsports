@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-17T18:49:01.379683+00:00",
-  "count": 147,
+  "updated": "2026-07-17T19:55:47.906915+00:00",
+  "count": 157,
   "articles": [
     {
       "title": "Sixers and Celtics officially execute trade involving Jaylen Brown and Paul George",
@@ -31,6 +31,16 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
+    },
+    {
+      "title": "The greatest Flyers in franchise history, from A to Z (Part 2)",
+      "description": "Fear not dear readers, we know there are 26 letters in the alphabet, hence here is the second part of the greatest Flyers in franchise history overview, beginning with M and moving through Z. Its not quite as loaded as the first part was, but there a",
+      "link": "https://www.broadstreethockey.com/post/the-greatest-flyers-in-franchise-history-from-a-to-z-part-2/",
+      "pubDate": "Thu, 16 Jul 2026 12:00:00 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Wildfire smoke and bad air quality threatens sports: Yankees, Blue Jays, World Cup Final, Phillies-Mets and more games to watch closely",
@@ -83,6 +93,16 @@
       "source": "Phillies Nation"
     },
     {
+      "title": "Friday Morning Fly By: Make your plans",
+      "description": "*Yesterday the league released the full season schedules for each and every team, including your Philadelphia Flyers. There are some things to make note of, while youre planning your attack for th year. [BSH] *For once, several NHL franchises decided",
+      "link": "https://www.broadstreethockey.com/post/friday-morning-fly-by-make-your-plans/",
+      "pubDate": "Fri, 17 Jul 2026 10:00:00 +0000",
+      "author": "Kelly Hinkle",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
       "title": "Phillies RP Brad Keller will miss the rest of the season with torn UCL",
       "description": "It might be time for the Phillies to move relief pitching from a low key need to a must improve ahead of the MLB's trade deadline this month.",
       "link": "https://www.phillyvoice.com/phillies-rp-brad-keller-injured-list-ucl-tear-trade-rumors-bullpen-stats-analysis-latest-news/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -91,6 +111,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_29155140.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "Philadelphia Flyers reveal 2026-27 84-game NHL schedule",
+      "description": "The National Hockey League released their entire schedule Thursday afternoon, and the Flyers schedule looks just a little less condensed than last season even though theyre playing two more games over last year. Tell a friend to tell a friend. Our 20",
+      "link": "https://www.broadstreethockey.com/post/philadelphia-flyers-reveal-2026-27-84-game-nhl-schedule/",
+      "pubDate": "Thu, 16 Jul 2026 17:38:53 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Phillies power ranking roundup: Can they keep up the fireworks to topple Atlanta?",
@@ -383,16 +413,6 @@
       "source": "PhillyVoice Flyers"
     },
     {
-      "title": "Flyers thoughts: Garnet Hathaway was inavluable for a young team, but now it's ready to move on",
-      "description": "Hathaway was traded to the Panthers on Thursday. The vet had a big influence on the Flyers' locker room, but now it's on the youth to carry that torch.",
-      "link": "https://www.phillyvoice.com/flyers-thoughts-garnet-hathaway-trade-reactions-jason-robertson-rumors/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Fri, 26 Jun 2026 17:02:28 +0000",
-      "author": "Nick Tricome",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_28881589.jpg",
-      "team": "flyers",
-      "source": "PhillyVoice Flyers"
-    },
-    {
       "title": "How Does George Suspension Impact 76ers for Rest of 2025-26 Season?",
       "description": "The Paul George suspension will impact everything the 76ers do from on-court play to influencing their potential moves at the upcoming trade deadline. The post How Does George Suspension Impact 76ers for Rest of 2025-26 Season? appeared first on Phil",
       "link": "https://www.sportstalkphilly.com/news/how-does-george-suspension-impact-76ers-for-rest-of-2025-26-season/",
@@ -421,6 +441,26 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "SportsTalk Philly"
+    },
+    {
+      "title": "Flyers, Jamie Drysdale avoid arbitration, agree to 4-year contract",
+      "description": "Less than two days after signing Trevor Zegras to a new contract, the Philadelphia Flyers locked up another of their young restricted free agents. The Flyers inked defenseman Jamie Drysdale to a four-year, $26 million contract Friday afternoon, which",
+      "link": "https://www.broadstreethockey.com/post/flyers-jamie-drysdale-avoid-arbitration-agree-to-4-year-contract/",
+      "pubDate": "Fri, 17 Jul 2026 19:27:39 +0000",
+      "author": "Ryan Quigley",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Flyers get Jamie Drysdale's extension done, for four years at $6.5 million per",
+      "description": "Drysdale took a substantial leap on the blue line last season, and the Flyers are betting on him continuing to improve.",
+      "link": "https://www.phillyvoice.com/flyers-jamie-drysdale-contract-extension-term-cap-hit-nhl-free-agency-defense/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 17 Jul 2026 19:10:42 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-05-05T002125Z_658319586_MT1USATODAY28880026_RTRMADP_3_NHL-STANLEY-CUP.JPG",
+      "team": "flyers",
+      "source": "PhillyVoice Flyers"
     },
     {
       "title": "Is Labaron Philon Jr. a better for Nick Nurse, Sixers than Jared McCain?",
@@ -483,6 +523,26 @@
       "source": "Phillies Nation"
     },
     {
+      "title": "Could Alex Bump be the odd man out of a Flyers lineup spot?",
+      "description": "July has turned the corner to wind down, and the regular season will be here for the Flyers before we or they know it. With just a few bits of business left to take care of over these next couple of months, the Flyers all but set as the next new seas",
+      "link": "https://www.broadstreethockey.com/post/could-alex-bump-be-the-odd-man-out-of-a-flyers-roster-spot/",
+      "pubDate": "Fri, 17 Jul 2026 12:03:32 +0000",
+      "author": "Madeline Campbell",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "8 most notable dates on the Flyers\u2019 2026-27 schedule",
+      "description": "We now know who the Philadelphia Flyers play against and where and when for all 84 games of the 2026-27 season, as the team announced their full schedule, so we can plan accordingly. But what games specifically should we circle on our calendar to rea",
+      "link": "https://www.broadstreethockey.com/post/8-most-notable-dates-on-the-flyers-2026-27-schedule/",
+      "pubDate": "Fri, 17 Jul 2026 02:18:22 +0000",
+      "author": "Thomas Williams",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
       "title": "Key dates on the 2027 Phillies schedule",
       "description": "PHILADELPHIA Its business as usual for MLB. The league announced the 2027 regular season schedule on Thursday. The schedule is, of course, pending a labor agreement between MLB and the Players Association. The two sides were close to missing games in",
       "link": "https://philliesnation.com/2026/07/philadelphia-phillies-2027-schedule-dates/",
@@ -513,6 +573,16 @@
       "source": "Phillies Nation"
     },
     {
+      "title": "What Danny Briere said about the Leo Carlsson offer sheet and Trevor Zegras extension",
+      "description": "The following morning, after signing Flyers forward Trevor Zegras to a four-year, $36.5 million contract, Philadelphia general manager Danny Briere says hes hoping for the winger/center to take much more of a leadership role over the course of the ne",
+      "link": "https://www.broadstreethockey.com/post/flyers-gm-danny-briere-says-zegras-needs-to-provide-leadership-over-next-four-years/",
+      "pubDate": "Thu, 16 Jul 2026 17:23:55 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
       "title": "Eagles schedule preview: Rams",
       "description": "When and where: Week 4 at home Key additions: EDGE Myles Garrett, CB Trent McDuffie, CB Jaylen Watson Key subtractions: EDGE Jared Verse, LT Rob Havenstein Last season: Lost two games in Seattle by a combined 5 points, Matthew Stafford won MVP becaus",
       "link": "",
@@ -521,6 +591,16 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Why So Serious? Ranking the films of Christopher Nolan",
+      "description": "You Either Die A Hero, Or You Live Long Enough To See Yourself Write Another Movie Ranking",
+      "link": "https://www.broadstreethockey.com/post/why-so-serious-ranking-the-films-of-christopher-nolan/",
+      "pubDate": "Thu, 16 Jul 2026 15:13:52 +0000",
+      "author": "Jason Polinsky",
+      "thumbnail": "https://www.broadstreethockey.com/wp-content/uploads/sites/12/2024/01/saturday_music_club__2_-300x200.jpg",
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Eagles News: Should Philadelphia add competition for Jake Elliott?",
@@ -541,6 +621,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-21T010010Z_157759227_MT1USATODAY29239412_RTRMADP_3_MLB-NEW-YORK-ME.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "What Trevor Zegras\u2019s extension means for the Flyers\u2019 salary cap",
+      "description": "One of the few remaining things on Danny Brieres to-do list for the Philadelphia Flyers this summer was checked off on Wednesday night. Trevor Zegras put pen to paper on a four-year contract extension that carries a $9.125-million AAV, making him the",
+      "link": "https://www.broadstreethockey.com/post/what-trevor-zegrass-extension-means-for-the-flyers-salary-cap/",
+      "pubDate": "Thu, 16 Jul 2026 13:14:14 +0000",
+      "author": "Thomas Williams",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Three free agent signings who make sense for the Eagles prior to training camp",
@@ -571,6 +661,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-03-26T153955Z_1396275553_MT1USATODAY28588367_RTRMADP_3_NCAA-BASKETBAL.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Thursday Morning Fly By: Oh right, 84 games",
+      "description": "*Big news, everyone! Our long national nightmare is over and Trevor Zegras has a contract! Jimbo, you&#x2019;re up. [BSH]* Got a few schedule details yesterday too, as we learned that the Flyers will open up at home against the Penguins. Thatll be fu",
+      "link": "https://www.broadstreethockey.com/post/thursday-morning-fly-by-oh-right-84-games/",
+      "pubDate": "Thu, 16 Jul 2026 10:00:00 +0000",
+      "author": "Kelly Hinkle",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Flyers get Trevor Zegras extension done, at four years and $36.5 million",
