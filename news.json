@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-17T09:43:09.084371+00:00",
-  "count": 167,
+  "updated": "2026-07-17T11:11:57.592086+00:00",
+  "count": 154,
   "articles": [
     {
       "title": "Sixers and Celtics officially execute trade involving Jaylen Brown and Paul George",
@@ -31,16 +31,6 @@
       "thumbnail": null,
       "team": "general",
       "source": "PHL Sports Nation"
-    },
-    {
-      "title": "A better version of Aaron Nola in the second half could go a long way for the Phillies",
-      "description": "PHILADELPHIA Its been a better stretch for Phillies starter Aaron Nola. Pitching in the thick Canadian wildfire smoke, he gave the Phillies a quality start, his sixth of the season, in a 4-1 loss to the New York Mets to open up the second half. Its s",
-      "link": "https://philliesnation.com/2026/07/philadelphia-phillies-aaron-nola-rotation-second-half-july-16-2026/",
-      "pubDate": "Fri, 17 Jul 2026 02:40:10 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
     },
     {
       "title": "The greatest Flyers in franchise history, from A to Z (Part 2)",
@@ -81,6 +71,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-03-26T015732Z_1271968168_MT1USATODAY28585525_RTRMADP_3_NBA-CHICAGO-BU.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Friday Morning Fly By: Make your plans",
+      "description": "*Yesterday the league released the full season schedules for each and every team, including your Philadelphia Flyers. There are some things to make note of, while youre planning your attack for th year. [BSH] *For once, several NHL franchises decided",
+      "link": "https://www.broadstreethockey.com/post/friday-morning-fly-by-make-your-plans/",
+      "pubDate": "Fri, 17 Jul 2026 10:00:00 +0000",
+      "author": "Kelly Hinkle",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Phillies RP Brad Keller will miss the rest of the season with torn UCL",
@@ -221,56 +221,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Phillies All-Stars soak in the fireworks, appreciate \u2018Sandlot\u2019 tribute: \u2018It almost just brings tears to my eyes\u2019",
-      "description": "PHILADELPHIA Brandon Marsh stood in right field with a boy in a red T-shirt and a backward Phillies cap and watched the fireworks burst around them. For the 28-year-old outfielder, The Sandlot was a childhood favorite. And at the end of the fourth in",
-      "link": "https://philliesnation.com/2026/07/mlb-all-star-game-2026-philadelphia-citizens-bank-park-fireworks-sandlot-brandon-marsh-bryce-harper-phillies/",
-      "pubDate": "Wed, 15 Jul 2026 11:30:00 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
-      "title": "Delco native Kevin McGonigle met his idol \u2014 a Phillies legend \u2014 before hometown All-Star Game",
-      "description": "PHILADELPHIA The Detroit Tigers Kevin McGonigle, a 21-year-old rookie sensation from Media, Pa., is living out every local baseball fans dream. He is the youngest player to be named an All-Star this year. The game happened to be at Citizens Bank Park",
-      "link": "https://philliesnation.com/2026/07/mlb-all-star-game-detroit-tigers-kevin-mcgonigle-chase-utley-delco/",
-      "pubDate": "Wed, 15 Jul 2026 05:50:46 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
-      "title": "Cristopher S\u00e1nchez\u2019s worst start at home this year comes in the All-Star Game",
-      "description": "PHILADELPHIA Cristopher S\u00e1nchez labored through his inning as the National League All-Star starter. He allowed three runs on three hits and walked two batters. With his pitch count creeping above 30, NL manager Dave Roberts had right-hander Riley OBr",
-      "link": "https://philliesnation.com/2026/07/cristopher-sanchezs-worst-start-at-home-this-year-comes-in-the-all-star-game/",
-      "pubDate": "Wed, 15 Jul 2026 02:30:38 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
-      "title": "Why star closers Jhoan Duran and Mason Miller could steal the show at the All-Star Game",
-      "description": "PHILADELPHIA \u2013 When the lights go down and The Undertaker\u2019s signature gong hits in the ninth inning of a close game at Citizens Bank Park, Jhoan Duran is getting the ball. Since arriving in Philadelphia via trade at last year\u2019s deadline, Duran has be",
-      "link": "https://philliesnation.com/2026/07/philadelphia-phillies-jhoan-duran-mason-miller-all-star-game-philadelphia-closers/",
-      "pubDate": "Tue, 14 Jul 2026 19:52:49 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
-      "title": "Bryce Harper reflects on memorable entrance, Philly Home Run Derby experience",
-      "description": "PHILADELPHIA Bryce Harper heard a familiar voice as he stepped on to the field. With the Citizens Bank Park crowd roaring, legendary ring announcer Michael Buffer narrated the moment. \u201cFrom your hometown Philadelphia Phillies, Bryce Harper!\u201d Harper, ",
-      "link": "https://philliesnation.com/2026/07/philadelphia-phillies-bryce-harper-home-run-derby-news-all-star-game-july-14/",
-      "pubDate": "Tue, 14 Jul 2026 04:48:53 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
     },
     {
       "title": "ESPN annual NFL survey: Jalen Hurts isn't a top 10 QB anymore",
@@ -473,16 +423,6 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "Key dates on the 2027 Phillies schedule",
-      "description": "PHILADELPHIA Its business as usual for MLB. The league announced the 2027 regular season schedule on Thursday. The schedule is, of course, pending a labor agreement between MLB and the Players Association. The two sides were close to missing games in",
-      "link": "https://philliesnation.com/2026/07/philadelphia-phillies-2027-schedule-dates/",
-      "pubDate": "Thu, 16 Jul 2026 22:38:01 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
       "title": "Phillies announce 2027 schedule",
       "description": "The Phillies will open up on the road against Washington next season, and also play Washington in their home opener.",
       "link": "https://www.phillyvoice.com/phillies-2027-schedule-release-national-league-bryce-harper-kyle-schwarber/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -491,16 +431,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_29239412.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "The latest on Brad Keller",
-      "description": "PHILADELPHIA \u2013 The Phillies will likely be without leverage reliever Brad Keller for the remainder of the year. He was placed on the 15-day IL on Thursday with a right UCL tear. Seth Johnson was recalled from Triple-A Lehigh Valley as a corresponding",
-      "link": "https://philliesnation.com/2026/07/philadelphia-phillies-brad-keller-injury-update-july-16-2026/",
-      "pubDate": "Thu, 16 Jul 2026 20:50:50 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
     },
     {
       "title": "What Danny Briere said about the Leo Carlsson offer sheet and Trevor Zegras extension",
@@ -667,10 +597,10 @@
       "description": "The Phillies have set their starters for their first series of the second half.",
       "link": "https://philliesnation.com/2026/07/philadelphia-phillies-news-starting-rotation-second-half-all-star-game-aaron-nola-jesus-luzardo-alan-rangel-cristopher-sanchez-zack-wheeler-new-york-mets/",
       "pubDate": "Wed, 15 Jul 2026 20:10:19 +0000",
-      "author": "Ty Daubert",
+      "author": "Phillies Nation",
       "thumbnail": null,
       "team": "phillies",
-      "source": "Phillies Nation"
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Sixers-Magic, Summer League: Game Discussion Thread",
@@ -681,16 +611,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Flyers prospect Martin Psohlavec heads to WHL for key development year",
-      "description": "Some Philadelphia Flyers prospects still have to figure out where they will be playing next season as they all have fairly crucial years for their development, but at least one recently drafted goaltender now has that question answered. Martin Psohla",
-      "link": "https://www.broadstreethockey.com/post/flyers-prospect-martin-psohlavec-heads-to-whl-for-key-development-year/",
-      "pubDate": "Wed, 15 Jul 2026 18:50:51 +0000",
-      "author": "Thomas Williams",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "When Philly is the center of the sports universe",
@@ -751,16 +671,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-09T205221Z_240466601_MT1USATODAY29160337_RTRMADP_3_NFL-PHILADELPHI.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "AL tops NL in rather quiet All-Star Game",
-      "description": "The National League and American League combined for four runs and 10 hits in this year's All-Star Game at Citizens Bank Park.",
-      "link": "https://philliesnation.com/2026/07/philadelphia-phillies-major-league-baseball-all-star-game-cristopher-sanchez-cody-bellinger-dave-roberts/",
-      "pubDate": "Wed, 15 Jul 2026 04:26:42 +0000",
-      "author": "Bailey Digh",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
     },
     {
       "title": "Report: Maxey, Embiid, Brown trio recruiting LeBron James",
@@ -873,16 +783,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Brandon Marsh made the All-Star Game, so this Phillies fan had the outfielder\u2019s sister shave his head",
-      "description": "This Phillies fan and social media user had his head shaved by Brandon Marsh's sister to keep a promise about the outfielder making the All-Star Game.",
-      "link": "https://philliesnation.com/2026/07/mlb-all-star-game-2026-philadelphia-phillies-brandon-marsh-updates-fan-sister-shaved-head/",
-      "pubDate": "Tue, 14 Jul 2026 11:30:00 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
       "title": "Summer Sixers face Rockets looking to remain undefeated",
       "description": "The Summer Sixers have gotten off to a hot start in the desert, winning their first two games against Detroit and Indiana. Two more wins and they\u2019ll be on their way to the Summer League semifinals, in search of the organization\u2019s first Summer League ",
       "link": "",
@@ -903,16 +803,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Superstar Kyle Schwarber puts on show for Philly crowd in Home Run Derby: \u2018It exceeded my expectation\u2019",
-      "description": "PHILADELPHIA The ball rolled toward the infield after a fan tossed back the memento from Jordan Walkers 12th and final home run in the championship round of the Home Run Derby. The Cardinals breakout All-Star stole the show on Monday night at Citizen",
-      "link": "https://philliesnation.com/2026/07/mlb-home-run-derby-kyle-schwarber-philadelphia-phillies-citizens-bank-park-all-star-jordan-walker/",
-      "pubDate": "Tue, 14 Jul 2026 05:36:44 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
       "title": "10 awards from the 2026 Home Run Derby in Philly",
       "description": "Phillies designated hitter Kyle Schwarber came just short of winning the 2026 Home Run Derby, an event with as much Philly flavor as the event could possibly have had.",
       "link": "https://www.phillyvoice.com/10-awards-2026-mlb-all-star-home-run-derby-philly-kyle-schwarber-bryce-harper-citizens-bank-park/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -921,26 +811,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_29381757.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Mike Trout \u2018never would\u2019ve envisioned\u2019 playing in the All-Star Game at Citizens Bank Park",
-      "description": "Mike Trout will take the field for the American League in the All-Star Game for the first time in seven years on Tuesday night at Citizens Bank Park.",
-      "link": "https://philliesnation.com/2026/07/philadelphia-phillies-mike-trout-major-league-baseball-all-star-game-los-angeles-angels-update/",
-      "pubDate": "Mon, 13 Jul 2026 21:31:13 +0000",
-      "author": "Bailey Digh",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
-      "title": "Cristopher S\u00e1nchez isn\u2019t nervous to start the All-Star Game: \u2018I feel at home\u2019",
-      "description": "Pitching where he's most comfortable, Cristopher S\u00e1nchez is ready to go for the 2026 All-Star Game at Citizens Bank Park.",
-      "link": "https://philliesnation.com/2026/07/philadelphia-phillies-cristopher-sanchez-major-league-baseball-all-star-game/",
-      "pubDate": "Mon, 13 Jul 2026 21:03:56 +0000",
-      "author": "Bailey Digh",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
     },
     {
       "title": "Report: 'It's decision time for LeBron James,' with Sixers and at least four other teams in the mix",
