@@ -1,21 +1,9 @@
 {
-  "updated": "2026-07-18T18:41:39.761886+00:00",
+  "updated": "2026-07-18T19:56:57.732345+00:00",
   "scores": {
     "phillies": {
       "recent": [],
       "upcoming": [
-        {
-          "date": "7/18",
-          "home": "PHI",
-          "away": "NYM",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "MLB",
-          "name": "New York Mets at Philadelphia Phillies",
-          "shortName": "NYM @ PHI",
-          "time": "3:05 PM ET",
-          "status": "scheduled"
-        },
         {
           "date": "7/19",
           "home": "PHI",
@@ -74,6 +62,18 @@
           "name": "New York Yankees at Philadelphia Phillies",
           "shortName": "NYY @ PHI",
           "time": "6:40 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "7/25",
+          "home": "PHI",
+          "away": "NYY",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "MLB",
+          "name": "New York Yankees at Philadelphia Phillies",
+          "shortName": "NYY @ PHI",
+          "time": "6:05 PM ET",
           "status": "scheduled"
         }
       ]
