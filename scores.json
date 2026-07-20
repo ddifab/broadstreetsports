@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T17:14:20.698652+00:00",
+  "updated": "2026-07-20T19:20:36.671204+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -157,7 +157,32 @@
     },
     "sixers": {
       "recent": [],
-      "upcoming": []
+      "upcoming": [
+        {
+          "date": "10/11",
+          "home": "BOS",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "Philadelphia 76ers at Boston Celtics",
+          "shortName": "PHI @ BOS",
+          "time": "8:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/16",
+          "home": "PHI",
+          "away": "BOS",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "Boston Celtics at Philadelphia 76ers",
+          "shortName": "BOS @ PHI",
+          "time": "7:00 PM ET",
+          "status": "scheduled"
+        }
+      ]
     },
     "flyers": {
       "recent": [],
