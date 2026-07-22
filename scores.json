@@ -1,21 +1,9 @@
 {
-  "updated": "2026-07-22T21:53:19.949233+00:00",
+  "updated": "2026-07-22T22:49:49.792939+00:00",
   "scores": {
     "phillies": {
       "recent": [],
       "upcoming": [
-        {
-          "date": "7/22",
-          "home": "PHI",
-          "away": "LAD",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "MLB",
-          "name": "Los Angeles Dodgers at Philadelphia Phillies",
-          "shortName": "LAD @ PHI",
-          "time": "6:40 PM ET",
-          "status": "scheduled"
-        },
         {
           "date": "7/24",
           "home": "PHI",
@@ -74,6 +62,18 @@
           "name": "Philadelphia Phillies at Miami Marlins",
           "shortName": "PHI @ MIA",
           "time": "6:40 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "7/29",
+          "home": "MIA",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "MLB",
+          "name": "Philadelphia Phillies at Miami Marlins",
+          "shortName": "PHI @ MIA",
+          "time": "12:10 PM ET",
           "status": "scheduled"
         }
       ]
