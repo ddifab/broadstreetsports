@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-27T22:03:43.586039+00:00",
-  "count": 163,
+  "updated": "2026-07-27T23:52:13.824321+00:00",
+  "count": 164,
   "articles": [
     {
       "title": "Mike Gansey has orchestrated the greatest offseason in Philadelphia 76ers history",
@@ -23,6 +23,16 @@
       "source": "PhillyVoice Sixers"
     },
     {
+      "title": "MLB rumors: What Tigers want in Tarik Skubal trade; Yankees eye elite arm; Phillies target No. 5 starter",
+      "description": "The Aug. 3 trade deadline is less than two weeks away",
+      "link": "https://www.cbssports.com/mlb/news/mlb-rumors-trade-deadline-tigers-tarik-skubal-yankees-mason-miller-phillies-rotation/",
+      "pubDate": "Wed, 22 Jul 2026 13:40:39 +0000",
+      "author": "CBS Sports",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
       "title": "ESPN survey shows that the Eagles are both loaded and underrated",
       "description": "Over the last couple of weeks, ESPN surveyed \"league executives, coaches and scouts\" to come up with a list of the top 10 players at each positional group. The Philadelphia Eagles had eight players crack those top 10 lists, which was second in the NF",
       "link": "https://www.phillyvoice.com/espn-survey-shows-eagles-are-both-loaded-and-underrated/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -41,6 +51,16 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
+    },
+    {
+      "title": "Eagles schedule preview: Seahawks",
+      "description": "When and where: Week 15 at home at 5pm on Saturday Key additions: None Key subtractions: OC Klint Kubiak, RB Kenneth Walker, S Coby Brant, EDGE Boye Mafe, CB Tariq Woolen Last season: They won the Super Bowl. Pretty good season. The question for this",
+      "link": "",
+      "pubDate": "2026-07-27T12:34:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Taking stock of the Phillies' best trade chips",
@@ -173,16 +193,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "Philadelphia Eagles Hidden Gems: 3 underrated players on the 2026 roster",
-      "description": "Through the Nick Sirianni era, the Philadelphia Eagles have demonstrated an odd, though now predictable, story arc. After Sirianni\u2019s 2022 Eagles barely lost Super Bowl LVII to the Kansas City Chiefs with Shane Steichen as the offensive mastermind, St",
-      "link": "",
-      "pubDate": "2026-07-23T10:05:27-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Three training camp trade targets who make sense for the Eagles",
       "description": "Since he reassumed his GM duties in 2016, Howie Roseman has made 24 (!) trades during training camp. Here are three players who make sense for the Eagles as trade targets during 2026 training camp.",
       "link": "https://www.phillyvoice.com/three-training-camp-trade-targets-eagles-raiders-browns-bengals-jackson-powers-johnson-grant-delpit-kris-jenkins/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -191,6 +201,46 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2024-12-23T030013Z_1074090056_MT1USATODAY25050312_RTRMADP_3_NFL-JACKSONVIL.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Yankees and Phillies should be of interest after latest rumor for All-Star catcher",
+      "description": "Could this catcher be available?",
+      "link": "https://www.sportingnews.com/us/mlb/new-york-yankees/news/yankees-phillies-should-interest-after-latest-rumor-catcher/ac6e6da68c77d2868696dbe4",
+      "pubDate": "Wed, 22 Jul 2026 15:33:00 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Phillies' weak farm system receives encouraging trade update from Dave Dombrowski",
+      "description": "The Phillies' farm system isn't as weak as it seems, according to Dave Dombrowski.",
+      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-weak-farm-system-encouraging-update-dave-dombrowski/58aa66f1b709455f8538f25a",
+      "pubDate": "Wed, 22 Jul 2026 14:08:07 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Phillies' Andrew Painter named as potential centerpiece in a Tarik Skubal trade",
+      "description": "This trade concept for the Phillies using Andrew Painter for Tarik Skubal is bold.",
+      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-andrew-painter-named-potential-tarik-skubal-trade/2cb4bf7ddf2fe1b2383d6915",
+      "pubDate": "Wed, 22 Jul 2026 13:54:04 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "One offseason bullpen decision could have saved the Phillies a world of trouble",
+      "description": "In light of ongoing speculation that the Phillies could trade for lights-out reliever Luke Weaver, the question is worth asking: what if they had just signed Weaver instead of Brad Keller?",
+      "link": "https://thatballsouttahere.com/one-offseason-bullpen-decision-could-have-saved-phillies-keller-vs-weaver?utm_source=RSS",
+      "pubDate": "Wed, 22 Jul 2026 11:30:01 +0000",
+      "author": "That Ball's Outta Here",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Ranking the Eagles' 20 most valuable trade assets",
@@ -203,16 +253,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "2026 Deadline Rumors: Phillies looking to acquire back-end starter this week",
-      "description": "Keep track of all the latest trade deadline rumors pertaining to the Phillies on Phillies Nation. Monday, July 20 at 7:00 p.m. \u2014 Salisbury: Phillies actively looking for back-end starter The...",
-      "link": "https://philliesnation.com/2026/07/2026-deadline-rumors-phillies-looking-to-acquire-back-end-starter-this-week/",
-      "pubDate": "Mon, 20 Jul 2026 23:32:10 +0000",
-      "author": "Phillies Nation",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
       "title": "5 Sixers thoughts: Long-term options in trades, dissecting Dean Wade and more",
       "description": "As the Sixers await a decision from LeBron James, a look at their long-term possibilities in trade talks and diving deeper into their largest free-agency signing so far.",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-mike-gansey-draft-picks-clippers-2028-dean-wade-contract-stats-highlights-nba-preseason/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -221,16 +261,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/060826_068_MikeGanseyPressConference_KevinBarrett.jpg",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Phillies release throwback uniforms for Field of Dreams game",
-      "description": "The Phillies have released the throwback uniforms they will wear for the MLB at Field of Dreams game in Dyersville, Iowa on August 13, 2026. The Phillies will wear a 1939-inspired road gray...",
-      "link": "https://philliesnation.com/2026/07/philadelphia-phillies-minnesota-twins-mlb-field-of-dreams-game-uniform-1939-1941/",
-      "pubDate": "Mon, 20 Jul 2026 15:13:48 +0000",
-      "author": "Phillies Nation",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
     },
     {
       "title": "MLB trade rumors: Phillies 'would love to acquire' Mets top reliever",
@@ -363,6 +393,26 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Makai Lemon is a versatile player",
+      "description": "Former Eagles undrafted free agent Reed Blankenship earned a huge new contract with the Houston Texans this offseason, and he and Cooper DeJean welcomed Blankenship\u2019s new teammate Calen Bullock on their Exciting Mics podcast. Bullock overlapped with ",
+      "link": "",
+      "pubDate": "2026-07-27T16:37:47-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Updated Sixers 2026-27 roster throughout monumental free agency",
+      "description": "The 2026NBA Draftis over, and free agency is underway. With all the comings and goings throughout the league overall, it can be hard to keep up with who is actually on the Philadelphia 76ers roster from day to day. So, use our tracker below to help y",
+      "link": "",
+      "pubDate": "2026-07-27T16:04:55-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
       "title": "LeBron James, star-studded Sixers heading to Brooklyn for preseason game",
       "description": "It\u2019s somewhat strange that in the year 2026, we still have to piece together NBA preseason schedules bit by bit over time from different sources, but we found another part of the puzzle on Monday afternoon, courtesy of the Brooklyn Nets. The Sixers w",
       "link": "",
@@ -401,6 +451,16 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Eagles News: Philadelphia\u2019s biggest question entering training camp",
+      "description": "Let\u2019s get to the Philadelphia Eagles news and links \u2026 The Biggest Question for Every NFL Team as Training Camps Begin The RingerPhiladelphia Eagles \u2014 How will Jalen Hurts play in a new offensive scheme? Even after trading away receiver A.J. Brown, Ph",
+      "link": "",
+      "pubDate": "2026-07-27T11:39:56-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Injuries to these 3 Flyers could derail next season",
@@ -471,6 +531,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-07-27T012309Z_2101623829_MT1USATODAY29456485_RTRMADP_3_MLB-NEW-YORK-Y.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "As a passer only, Jalen Hurts\u2019 rankings make some sense",
+      "description": "Jalen Hurts is one of the most perplexingly great players in the NFL and, perhaps, Eagles history. He has won a Super Bowl, played in two of them, and was the best player on the field in both. He is 56-22 in the regular season as a starter. He has be",
+      "link": "",
+      "pubDate": "2026-07-26T20:08:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Phillies notes: Could Kyle Schwarber play some more first base soon?",
@@ -693,16 +763,6 @@
       "source": "Phillies Nation"
     },
     {
-      "title": "Philly reacts to LeBron James choosing the Sixers",
-      "description": "This is going to take some getting used to. Typing out that headline, it still didn\u2019t feel real. LeBron James is a member of the Philadelphia 76ers. It goes without saying that the entire Philadelphia region has been in a state of celebration since t",
-      "link": "",
-      "pubDate": "2026-07-24T16:09:28-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Eagles schedule preview: Colts",
       "description": "When and where: Week 14 at home Key additions: EDGE Arden Key, EDGE Michael Clemons, LB Akeem Davis-Gaither Key subtractions: WR Michael Pittman, LB Zaire Franklin, RT Braden Smith, EDGE Kwity Paye, S Nick Cross, LB Germaine Pratt, CB Kenny Moore Las",
       "link": "",
@@ -793,16 +853,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Chandler Martin visited the Eagles ahead of training camp",
-      "description": "The Philadelphia Eagles waived linebacker Chandler Martin in June with a failed physical designation, and now over a month later, he was back visiting with the team, as noted by Aaron Wilson of KPRC 2 Houston. The Eagles signed Martin to a two-year d",
-      "link": "",
-      "pubDate": "2026-07-24T10:10:18-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Some takeaways from Nick Sirianni's pre-training camp press conference",
       "description": "A little while back, Nick Sirianni held a press conference with Philadelphia Eagles media and spoke for a little over a half hour. Let's just say that information did not flow freely like it often does during, saaayyy, a Vic Fangio presser, but I do ",
       "link": "https://www.phillyvoice.com/some-takeaways-nick-sirianni-pre-training-camp-press-conference/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -831,26 +881,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-19T005237Z_952258215_MT1USATODAY28763057_RTRMADP_3_NHL-STANLEY-CUP.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Eagles schedule preview: Cardinals",
-      "description": "When and where: Week 13 in Arizona Key additions: HC Mike LaFleur, G Isaac Seumalo, RB Tyler Allgeier, DT Roy Lopez, WR Kendrick Bourne, QB Gardner Minshew Key subtractions: QB Kyler Murray, S Jalen Thompson, DT Dalvin Tomlinson, DL Calais Campbell, ",
-      "link": "",
-      "pubDate": "2026-07-23T14:05:52-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Eagles News: Philadelphia\u2019s under-25 talent ranks middle of the pack",
-      "description": "Let\u2019s get to the Philadelphia Eagles news and links \u2026 Ranking NFL teams by under-25 talent: Pats, Texans lead list ESPN18) Philadelphia Eagles. Last years rank: 14. Blue chips: LB Jihaad Campbell, CB/S Cooper DeJean. Notable graduated players: DT Jal",
-      "link": "",
-      "pubDate": "2026-07-23T09:56:13-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Phillies rookie reliever makes big-league debut, months after initial call-up: \u2018It felt like the right time to get him in\u2019",
@@ -903,6 +933,46 @@
       "source": "PhillyVoice"
     },
     {
+      "title": "J.T. Realmuto concedes 'lack of judgment' in sloppy double play blunder in Phillies' loss to Dodgers",
+      "description": "The Phillies put runners on second and third with one out in the ninth before botched baserunning handed them the loss",
+      "link": "https://www.cbssports.com/mlb/news/phillies-dodgers-double-play-jt-realmuto-justin-crawford/",
+      "pubDate": "Wed, 22 Jul 2026 14:35:25 +0000",
+      "author": "CBS Sports",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "John Kruk, Larry Andersen, Don Mattingly all left speechless by unforgivable JT Realmuto gaffe",
+      "description": "The Philadelphia Phillies lost to the Los Angeles Dodgers on Tuesday in large part because of JT Realmuto's gaffe.",
+      "link": "https://thatballsouttahere.com/john-kruk-larry-andersen-don-mattingly-all-left-speechless-by-unforgivable-jt-realmuto-gaffe-video?utm_source=RSS",
+      "pubDate": "Wed, 22 Jul 2026 14:19:34 +0000",
+      "author": "That Ball's Outta Here",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Jalen Hurts ranked No. 56 in NFL's Top 100 Players of 2026",
+      "description": "The Super Bowl LIX MVP makes his fourth appearance on the list.",
+      "link": "https://www.philadelphiaeagles.com/news/jalen-hurts-ranked-no-56-in-nfl-s-top-100-players-of-2026",
+      "pubDate": "Wed, 22 Jul 2026 14:03:44 +0000",
+      "author": "Eagles.com",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Phillies eager to atone from bases-running blunder vs. Dodgers",
+      "description": "One night after escaping with a win to even the series at a game apiece, the Los Angeles Dodgers visit the Philadelphia Phillies on Wednesday in the d",
+      "link": "https://deadspin.com/phillies-eager-to-atone-from-bases-running-blunder-vs-dodgers/",
+      "pubDate": "Wed, 22 Jul 2026 13:42:28 +0000",
+      "author": "Deadspin",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
       "title": "Can Zack Wheeler really win NL Cy Young award this season?",
       "description": "Sort of under the radar over the last few weeks, 36-year-old veteran Zack Wheeler has reclaimed his spot as the Phillies best starting pitcher. And he might be the best one in the National League.",
       "link": "https://www.phillyvoice.com/zack-wheeler-stats-analysis-rumors-news-nl-cy-young-award-season-cris-sanchez-innings-qualify/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -913,6 +983,16 @@
       "source": "PhillyVoice"
     },
     {
+      "title": "Trea Turner's defensive work finally pays off in potential reset point vs. Dodgers",
+      "description": "Trea Turner might have turned over a new leaf on defense following an impressive showing in the infield on Tuesday.",
+      "link": "https://thatballsouttahere.com/trea-turner-s-defensive-work-finally-pays-off-in-potential-reset-point-vs-dodgers?utm_source=RSS",
+      "pubDate": "Wed, 22 Jul 2026 13:17:42 +0000",
+      "author": "That Ball's Outta Here",
+      "thumbnail": null,
+      "team": "general",
+      "source": "Philly Sports Wire"
+    },
+    {
       "title": "Eagles 53-man roster projection, before the start of training camp",
       "description": "The Philadelphia Eagles have yet to conduct a single full-team practice, so is it a little early to project the their 53-man roster? Eh, each year I find that the initial look at the 53-man roster is a good indicator of depth, both at the gameday lim",
       "link": "https://www.phillyvoice.com/eagles-53-man-roster-projection-start-training-camp-2026/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -921,6 +1001,46 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/Photo_May_01_2026_2_36_34_PM.jpg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "J.T. Realmuto, Justin Crawford explain how Phillies ran into two outs on bases in bizarre game-ending double play",
+      "description": "Justin Crawford got caught off third base, and J.T. Realmuto was thrown out running from third to second.",
+      "link": "https://philliesnation.com/2026/07/philadelphia-phillies-jt-realmuto-baserunning-blunder-mistake-game-ending-double-play-justin-crawford-third-base-second-base-contact-loss/",
+      "pubDate": "Wed, 22 Jul 2026 04:35:04 +0000",
+      "author": "Phillies Nation",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Phils blow rally after Realmuto's 'lapse' on bases...",
+      "description": "J.T. Realmuto took the blame for a baserunning mistake that ended a potential Phillies rally in Tuesday night's 2-1 loss to the Dodgers.",
+      "link": "https://www.espn.com/mlb/story/_/id/49421866/phillies-blow-rally-realmuto-baserunning-lapse",
+      "pubDate": "Wed, 22 Jul 2026 04:33:26 +0000",
+      "author": "ESPN",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Ex-Laker LeBron James had last-minute change of heart in Warriors, Heat, 76ers sweepstakes",
+      "description": "LeBron James has kept the NBA world waiting for nearly a month on a free agency decision. There is belief that he made his mind up and has changed it since.",
+      "link": "https://www.sportingnews.com/us/nba/news/ex-laker-lebron-james-had-last-minute-change-heart-warriors-heat-76ers-sweepstakes/bcf3721fb17990c7aafd5400",
+      "pubDate": "Wed, 22 Jul 2026 03:49:02 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Zack Wheeler on home run by Max Muncy: \u2018It\u2019s maybe not the best pitch in that situation\u2019",
+      "description": "Zack Wheeler was not pleased with his pitch selection in Max Muncy's second at-bat on Tuesday night.",
+      "link": "https://philliesnation.com/2026/07/philadelphia-phillies-zack-wheeler-jt-realmuto-los-angeles-dodgers-max-muncy/",
+      "pubDate": "Wed, 22 Jul 2026 03:34:03 +0000",
+      "author": "Phillies Nation",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "The Flyers have built to a healthy cap situation, but now they have to work to keep it that way",
@@ -963,76 +1083,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "For the Phillies, defense isn\u2019t just a Trea Turner problem",
-      "description": "PHILADELPHIA \u2014 Trea Turner was all over this game, good and bad. He had his best day at the plate this year, going 3-for-5 with two home runs and a double in a 10-7 Phillies win. Through four...",
-      "link": "https://philliesnation.com/2026/07/philadelphia-phillies-trea-turner-defense-errors-don-mattingly/",
-      "pubDate": "Tue, 21 Jul 2026 04:38:43 +0000",
-      "author": "Phillies Nation",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Philadelphia Union set to welcome back star winger after injury stint",
-      "description": "The Union are slated to regain their offensive talisman in the coming days.",
-      "link": "https://www.sportingnews.com/us/soccer/news/philadelphia-union-set-welcome-back-star-winger-after-injury-stint/29e0bc649c1051aeaab7d5c2",
-      "pubDate": "Tue, 21 Jul 2026 03:47:53 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "general",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Trea Turner knocks two out as Phillies control Dodgers",
-      "description": "Trea Turner had two homers, a double and five RBIs to fuel the Philadelphia Phillies to a 10-7 victory over the visiting Los Angeles Dodgers on Monday",
-      "link": "https://deadspin.com/trea-turner-knocks-two-out-as-phillies-control-dodgers/",
-      "pubDate": "Tue, 21 Jul 2026 02:52:07 +0000",
-      "author": "Deadspin",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Phillies add electric arm from Double-A to big-league bullpen with rotation questions looming",
-      "description": "The Phillies added prospect Alex McFarlane to their bullpen.",
-      "link": "https://philliesnation.com/2026/07/philadelphia-phillies-bullpen-rookie-callup-prospect-alex-mcfarlane-reliever-bullpen-alan-rangel-demoted-sent-down-update-roster-move/",
-      "pubDate": "Mon, 20 Jul 2026 22:15:15 +0000",
-      "author": "Phillies Nation",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "How to watch Phillies vs. Dodgers with one game on national TV",
-      "description": "PHILADELPHIA \u2014 The Phillies and the Los Angeles Dodgers will meet for three games at Citizens Bank Park beginning on Monday. The 2025 NLDS rematch will feature one game on national TV for fans in...",
-      "link": "https://philliesnation.com/2026/07/philadelphia-phillies-los-angeles-dodgers-how-to-watch-july-20-espn-tbs/",
-      "pubDate": "Mon, 20 Jul 2026 21:42:54 +0000",
-      "author": "Phillies Nation",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Heat, 76ers, Cavaliers reportedly top destinations for $101M four-time NBA champion, former MVP",
-      "description": "The Miami Heat, Philadelphia 76ers, and Cleveland Cavaliers are almost at the finish line for their priority free agent. They are believed to be the finalists for a former NBA champion and MVP.",
-      "link": "https://www.sportingnews.com/us/nba/miami-heat/news/heat-76ers-cavaliers-reportedly-top-destinations-101m-four-time-nba-champion-former-mvp/3a69a865b4dad78c2fde44d7",
-      "pubDate": "Mon, 20 Jul 2026 21:08:50 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "\u2018This is the place I want to play as long as I can:\u2019 Jamie Drysdale on new deal with Flyers",
-      "description": "On Friday, Drysdale signed a four-year contract to remain with the Flyers that will carry a salary cap hit of $6.5 million.",
-      "link": "https://www.dailyfaceoff.com/news/jamie-drysdale-new-deal-philadelphia-flyers-place-i-want-play-long-nhl-contract",
-      "pubDate": "Mon, 20 Jul 2026 20:13:11 +0000",
-      "author": "Daily Faceoff",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Philly Sports Wire"
-    },
-    {
       "title": "Report: Phillies will call up reliever Alex McFarlane straight from Double-A",
       "description": "The Phillies are adding Alex McFarlane's 100-plus mph pitches to their bullpen, at least for a night.",
       "link": "https://www.phillyvoice.com/phillies-alex-mcfarlane-call-up-reliever-bullpen-double-a-sinker-velocity-dodgers/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -1043,26 +1093,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "Reports: Phillies set to recall RHP Alex McFarlane",
-      "description": "The Philadelphia Phillies are set to recall right-hander Alex McFarlane from Double-A Reading in advance of Monday's series opener against the Los Ang",
-      "link": "https://deadspin.com/reports-phillies-set-to-recall-rhp-alex-mcfarlane/",
-      "pubDate": "Mon, 20 Jul 2026 18:13:15 +0000",
-      "author": "Deadspin",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Eagles 2026 Training Camp Position Preview: Special Teams",
-      "description": "A rookie joins the ranks of Jake Elliott and Braden Mann.",
-      "link": "https://www.philadelphiaeagles.com/news/eagles-2026-training-camp-position-preview-special-teams",
-      "pubDate": "Mon, 20 Jul 2026 16:00:02 +0000",
-      "author": "Eagles.com",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Philly Sports Wire"
-    },
-    {
       "title": "Phillies unveil MLB at Field of Dreams game uniforms",
       "description": "Bryce Harper and the Phillies will call back to 1939 when they face the Twins on Aug. 13 in Iowa.",
       "link": "https://www.phillyvoice.com/phillies-mlb-at-field-of-dreams-game-uniforms-bryce-harper-twins-mlb-iowa/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -1071,26 +1101,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/HNrTfOsWQAAo5Qg.jpeg",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Phillies To Promote Alex McFarlane",
-      "description": "The Phillies are recalling right-handed relief prospect Alex McFarlane for what would be his major league debut if he gets into a game, as first reported by Minor League News on Instagram. Matt...",
-      "link": "https://www.mlbtraderumors.com/2026/07/phillies-to-promote-alex-mcfarlane.html",
-      "pubDate": "Mon, 20 Jul 2026 15:09:20 +0000",
-      "author": "MLB Trade Rumors",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Twins and Phillies' special Field of Dreams game u...",
-      "description": "Both clubs will include throwback elements for their uniforms as the Field of Dreams game returns on Aug. 13.",
-      "link": "https://www.espn.com/mlb/story/_/id/49406196/minnesota-twins-philadelphia-phillies-field-dreams-game-2026-mlb-uniforms",
-      "pubDate": "Mon, 20 Jul 2026 15:06:26 +0000",
-      "author": "ESPN",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
     },
     {
       "title": "Everybody loves new Eagles CB Riq Woolen",

@@ -1,21 +1,9 @@
 {
-  "updated": "2026-07-27T22:03:43.586039+00:00",
+  "updated": "2026-07-27T23:52:13.824321+00:00",
   "scores": {
     "phillies": {
       "recent": [],
       "upcoming": [
-        {
-          "date": "7/27",
-          "home": "MIA",
-          "away": "PHI",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "MLB",
-          "name": "Philadelphia Phillies at Miami Marlins",
-          "shortName": "PHI @ MIA",
-          "time": "6:40 PM ET",
-          "status": "scheduled"
-        },
         {
           "date": "7/28",
           "home": "MIA",
@@ -74,6 +62,18 @@
           "name": "Philadelphia Phillies at Baltimore Orioles",
           "shortName": "PHI @ BAL",
           "time": "1:35 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "8/3",
+          "home": "PHI",
+          "away": "WSH",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "MLB",
+          "name": "Washington Nationals at Philadelphia Phillies",
+          "shortName": "WSH @ PHI",
+          "time": "6:40 PM ET",
           "status": "scheduled"
         }
       ]
@@ -158,6 +158,18 @@
     "sixers": {
       "recent": [],
       "upcoming": [
+        {
+          "date": "10/8",
+          "home": "BKN",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "Philadelphia 76ers at Brooklyn Nets",
+          "shortName": "PHI @ BKN",
+          "time": "7:30 PM ET",
+          "status": "scheduled"
+        },
         {
           "date": "10/11",
           "home": "BOS",
