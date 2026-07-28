@@ -1,21 +1,9 @@
 {
-  "updated": "2026-07-28T21:53:58.524275+00:00",
+  "updated": "2026-07-28T22:47:57.590352+00:00",
   "scores": {
     "phillies": {
       "recent": [],
       "upcoming": [
-        {
-          "date": "7/28",
-          "home": "MIA",
-          "away": "PHI",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "MLB",
-          "name": "Philadelphia Phillies at Miami Marlins",
-          "shortName": "PHI @ MIA",
-          "time": "6:40 PM ET",
-          "status": "scheduled"
-        },
         {
           "date": "7/29",
           "home": "MIA",
@@ -66,6 +54,18 @@
         },
         {
           "date": "8/3",
+          "home": "PHI",
+          "away": "WSH",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "MLB",
+          "name": "Washington Nationals at Philadelphia Phillies",
+          "shortName": "WSH @ PHI",
+          "time": "6:40 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "8/4",
           "home": "PHI",
           "away": "WSH",
           "homeLogo": "",
