@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-01T11:08:41.610137+00:00",
-  "count": 150,
+  "updated": "2026-08-01T12:48:53.677192+00:00",
+  "count": 149,
   "articles": [
     {
       "title": "LeBron James, the NBA's all-time leading scorer, is signing with the Sixers",
@@ -38,6 +38,16 @@
       "link": "https://philliesnation.com/2026/07/philadelphia-phillies-trade-deadline-outfield-trea-turner-alec-bohm/",
       "pubDate": "Wed, 29 Jul 2026 16:20:12 +0000",
       "author": "Destiny Lugardo",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
+    },
+    {
+      "title": "Phillies Nation Top 15 Phillies Prospects: Trade Deadline 2026",
+      "description": "Ranking the Phillies' top prospects ahead of the trade deadline.",
+      "link": "https://philliesnation.com/2026/08/philadelphia-phillies-top-prospects-prospect-list-gage-wood-aidan-miller-ramon-marquez-francisco-renteria-tyler-spangler-trade-deadline-pieces-analysis-scouting-report-update/",
+      "pubDate": "Sat, 01 Aug 2026 11:30:00 +0000",
+      "author": "Ty Daubert",
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
@@ -263,16 +273,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "Alec Bohm passes Chase Utley, breaks obscure franchise record for RBI HBPs in Phillies win",
-      "description": "Alec Bohm set the new franchise record for bases-loaded hit-by-pitches.",
-      "link": "https://philliesnation.com/2026/07/philadelphia-phillies-news-record-bases-loaded-rbi-hit-by-pitch-alec-bohm-chase-utley-franchise-all-time-win-yankees/",
-      "pubDate": "Mon, 27 Jul 2026 11:00:00 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
       "title": "5 Sixers thoughts: From on-court fit to local excitement, all things LeBron James",
       "description": "After a weekend of digesting the stunning news, unpacking LeBron James' decision to join the Sixers.",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-lebron-james-nick-nurse-depth-chart-roster-stats-highlights-kentavious-caldwell-pope-kcp/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -491,6 +491,16 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "The national attention around the Sixers has never been greater",
+      "description": "The Sixers are the talk of the NBA. Who would have thought that would have been the case just over two months ago when the euphoria of eliminating the Boston Celtics had been quickly erased at the hands of another rival in the New York Knicks? Well, ",
+      "link": "",
+      "pubDate": "2026-07-31T10:19:28-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Eagles 2026 training camp battle tracker",
@@ -873,16 +883,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Signing LeBron means pressure for Nick Nurse",
-      "description": "While Sixers head coach Nick Nurse was celebrating his 59th birthday on Friday, the rest of the NBA universe went into a frenzy following the news that LeBron James will be signing with Philadelphia. With The King comes a new batch of lofty expectati",
-      "link": "",
-      "pubDate": "2026-07-27T09:55:37-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "30 things I'll be watching at 2026 Eagles training camp",
       "description": "After a long dead period over the last couple of months, Philadelphia Eagles training camp will begin this week, as the team will hold its first practice Wednesday morning. Here are 30 things I'll be watching this summer.",
       "link": "https://www.phillyvoice.com/30-things-ill-be-watching-2026-eagles-training-camp-jalen-hurts-sean-mannion/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -1019,16 +1019,6 @@
       "pubDate": "Fri, 24 Jul 2026 14:56:42 +0000",
       "author": "Geoff Mosher",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/072325_EaglesPractice_ColleenClaggett-5393.jpg",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Some takeaways from Nick Sirianni's pre-training camp press conference",
-      "description": "A little while back, Nick Sirianni held a press conference with Philadelphia Eagles media and spoke for a little over a half hour. Let's just say that information did not flow freely like it often does during, saaayyy, a Vic Fangio presser, but I do ",
-      "link": "https://www.phillyvoice.com/some-takeaways-nick-sirianni-pre-training-camp-press-conference/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Fri, 24 Jul 2026 12:19:11 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-09T181207Z_160015276_MT1USATODAY29159064_RTRMADP_3_NFL-PHILADELPHI.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
     },
