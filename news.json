@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-04T01:51:27.320602+00:00",
-  "count": 161,
+  "updated": "2026-08-04T04:51:35.582428+00:00",
+  "count": 173,
   "articles": [
     {
       "title": "LeBron James, the NBA's all-time leading scorer, is signing with the Sixers",
@@ -11,6 +11,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-12-08T162245Z_1026576580_MT1USATODAY27771589_RTRMADP_3_NBA-LOS-ANGELE.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "2026 MLB trade deadline recap: Red Sox, Phillies, Dodgers go big",
+      "description": "A deadline highlighted by All-Stars on the move has passed. Here's what you need to know about the deals that defined this trade season.",
+      "link": "https://www.espn.com/mlb/story/_/id/49410877/2026-mlb-trade-deadline-tracker-rumors-alerts-news-latest-updates-analysis",
+      "pubDate": "Mon, 03 Aug 2026 23:03:58 +0000",
+      "author": "ESPN",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "What to expect from the Phillies on MLB trade deadline day",
@@ -33,21 +43,21 @@
       "source": "Bleeding Green Nation"
     },
     {
-      "title": "Phillies deadline history: What were best, worst moves Dave Dombrowski has made at trade deadline for Philadelphia?",
-      "description": "What were the best, worst trades that Dave Dombrowski has made at the deadline as Phillies president of baseball operations?",
-      "link": "https://philliesnation.com/2026/07/philadelphia-phillies-tra-de-deadline-history-ranking-all-of-dave-dombrowskis-deadline-deals-in-philadelphia-moves-news-mlb/",
-      "pubDate": "Thu, 30 Jul 2026 16:37:40 +0000",
-      "author": "Phillies Nation",
+      "title": "Phillies executive remains confident in Trea Turner's defensive skills",
+      "description": "Dave Dombrowski went to bat for Trea Turner during a recent press interview, defending his work at shortstop.",
+      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-executive-remains-confident-trea-turners-defensive-skills/d927e81586e57ce9a8570d2c",
+      "pubDate": "Tue, 04 Aug 2026 02:53:17 +0000",
+      "author": "Sporting News",
       "thumbnail": null,
       "team": "phillies",
       "source": "Philly Sports Wire"
     },
     {
-      "title": "ESPN's Jeff Passan reveals why it'd be 'OK' if Phillies don't address all of their needs",
-      "description": "This would be a fairly disappointing outcome for the trade deadline.",
-      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/espns-jeff-passan-why-ok-if-phillies-dont-address-all-needs/9387178aac96d4447cde02af",
-      "pubDate": "Thu, 30 Jul 2026 15:50:52 +0000",
-      "author": "Sporting News",
+      "title": "Derek Hill's grand slam rallies Phillies to victory over Nationals",
+      "description": "Derek Hill hit a go-ahead grand slam in the seventh inning to highlight the Philadelphia Phillies' 6-3 comeback victory over the visiting Washington N",
+      "link": "https://deadspin.com/derek-hills-grand-slam-rallies-phillies-to-victory-over-nationals/",
+      "pubDate": "Tue, 04 Aug 2026 01:42:01 +0000",
+      "author": "Deadspin",
       "thumbnail": null,
       "team": "phillies",
       "source": "Philly Sports Wire"
@@ -81,6 +91,56 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
+    },
+    {
+      "title": "Phillies lose out on bullpen reunion as Twins get revenge for Jhoan Duran trade",
+      "description": "The Philadelphia Phillies failed to outbid the Twins for Jeff Hoffman, leaving them with Brooks Raley and Caleb Kilian as their lone bullpen reinforcements at the trade deadline.",
+      "link": "https://thatballsouttahere.com/phillies-lose-out-on-bullpen-reunion-as-twins-get-revenge-for-jhoan-duran-trade?utm_source=RSS",
+      "pubDate": "Tue, 04 Aug 2026 00:45:00 +0000",
+      "author": "That Ball's Outta Here",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Phillies land intriguing depth outfielder in buzzer-beater trade with the Athletics",
+      "description": "The Philadelphia Phillies and the Athletics link up for a buzzer-beater trade that brings an intriguing depth outfielder to the City of Brotherly Love.",
+      "link": "https://thatballsouttahere.com/phillies-land-intriguing-depth-outfielder-in-buzzer-beater-trade-with-the-athletics?utm_source=RSS",
+      "pubDate": "Mon, 03 Aug 2026 23:57:05 +0000",
+      "author": "That Ball's Outta Here",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Harper moving to RF after Arraez trade: 'I'd do anything for this organization'",
+      "description": "2-time MVP set to play outfield for first time since April 2022",
+      "link": "https://www.mlb.com/phillies/news/bryce-harper-to-move-back-to-outfield-after-luis-arraez-trade",
+      "pubDate": "Mon, 03 Aug 2026 22:27:48 +0000",
+      "author": "MLB.com",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Phillies beat trade deadline buzzer with trade for Athletics' 25-year-old outfielder",
+      "description": "This young A's outfielder is the Phillies' lone outfield upgrade at the deadline.",
+      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-trade-buzzer-trade-athletics-25-year-old-outfielder/a49e85916e42d7df52d62973",
+      "pubDate": "Mon, 03 Aug 2026 22:26:48 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Phillies make tiny trade for struggling Royals prospect amid trade deadline blockbusters",
+      "description": "The Philadelphia Phillies responded to several trade deadline blockbusters by...trading reliever Nolan Hoffman to the Royals for a 19-year-old.",
+      "link": "https://thatballsouttahere.com/phillies-make-tiny-trade-for-struggling-royals-prospect-amid-trade-deadline-blockbusters?utm_source=RSS",
+      "pubDate": "Mon, 03 Aug 2026 21:36:56 +0000",
+      "author": "That Ball's Outta Here",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "How will the Phillies realign infield and outfield after trade deadline?",
@@ -141,6 +201,16 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
+    },
+    {
+      "title": "A Philly Road Back To National Prominance",
+      "description": "For more than 125 years \u2014 Notre Dame Football has been one of the most legendary programs in all of college football. [] The post A Philly Road Back To National Prominance appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/08/02/a-philly-road-back-to-national-prominance/",
+      "pubDate": "Mon, 03 Aug 2026 00:58:53 +0000",
+      "author": "Michael Thomas Leibrandt",
+      "thumbnail": null,
+      "team": "general",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "10 awards from the Phillies' first series win since the All-Star break",
@@ -213,24 +283,14 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "Phillies latest trade deadline rumors point to Blue Jays outfielder with Philly blood",
-      "description": "The Philadelphia Phillies are reportedly making a play for Daulton Varsho ahead of the trade deadline, though he isn't the most ideal trade candidate to fill their outfield needs.",
-      "link": "https://thatballsouttahere.com/phillies-latest-trade-deadline-rumors-point-to-blue-jays-outfielder-with-philly-blood?utm_source=RSS",
-      "pubDate": "Thu, 30 Jul 2026 18:21:25 +0000",
-      "author": "That Ball's Outta Here",
+      "title": "Has Mike Gansey Built the NBA\u2019s Most Complete Roster?",
+      "description": "A Dramatic Offseason Transformation The Philadelphia 76ers entered one of their most significant summers in recent memory when Mike Gansey [] The post Has Mike Gansey Built the NBAs Most Complete Roster? appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/07/30/has-mike-gansey-built-the-nbas-most-complete-roster/",
+      "pubDate": "Thu, 30 Jul 2026 17:58:13 +0000",
+      "author": "Cooper Hubbard",
       "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Phillies interested in trade with Blue Jays for $10.75M Gold Glove outfielder",
-      "description": "This trade rumor should come as little surprise to Phillies fans.",
-      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-interested-trade-blue-jays-gold-glove-outfielder/6a99ede00a4f206db8ce56e7",
-      "pubDate": "Thu, 30 Jul 2026 17:46:07 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
+      "team": "sixers",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "Heroes and zeroes from Day 2 of Eagles camp: Dontayvion Wicks makes a stellar catch, Cole Payton has a brutal day",
@@ -241,16 +301,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-07-30T150220Z_121835336_MT1USATODAY29478900_RTRMADP_3_NFL-PHILADELPHI.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Phillies could face huge problem with reported trade interest in Angels' Zach Neto",
-      "description": "This problem for the Phillies could mean Neto isn't a viable option.",
-      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-could-huge-problem-trade-interest-angels-zach-neto/96135f0061ad7e7efd10d0a8",
-      "pubDate": "Thu, 30 Jul 2026 15:38:16 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
     },
     {
       "title": "Bryce Harper says the Phillies 'need some help.' They have to help themselves first.",
@@ -483,6 +533,46 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Eagles G Landon Dickerson Did Not Consider Offseason Retirement",
+      "description": "Multiple reports in February indicated that Eagles left guard Landon Dickerson was considering retirement following an injury-riddled 2025 season. By the end of the month, it became clear that...",
+      "link": "https://www.profootballrumors.com/2026/08/eagles-g-landon-dickerson-did-not-consider-offseason-retirement",
+      "pubDate": "Tue, 04 Aug 2026 02:21:50 +0000",
+      "author": "Pro Football Rumors",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Jaylen Brown admits he felt disrespected by people he thought were on his side",
+      "description": "Jaylen Brown is ready to stand out for the 76ers after seeing the 'disrespect.'",
+      "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/jaylen-brown-felt-disrespected-people-thought-were-his-side/de8daca918c362b1fc344d1b",
+      "pubDate": "Tue, 04 Aug 2026 02:02:18 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "A\u2019s, Phillies To Swap Seth Johnson For Colby Thomas",
+      "description": "The Athletics acquired reliever Seth Johnson from the Phillies for outfielder Colby Thomas, reports Jayson Stark of The Athletic. More to come.",
+      "link": "https://www.mlbtraderumors.com/2026/08/as-phillies-to-swap-seth-johnson-for-colby-thomas.html",
+      "pubDate": "Mon, 03 Aug 2026 22:28:43 +0000",
+      "author": "MLB Trade Rumors",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Phillies' Bryce Harper returning to right field after Luis Arraez deal",
+      "description": "Bryce Harper said what every Philadelphia Phillies fan was feeling last week when he declared, \"I think we need some help.\",To help make that happen,",
+      "link": "https://deadspin.com/phillies-bryce-harper-returning-to-right-field-after-luis-arraez-deal/",
+      "pubDate": "Mon, 03 Aug 2026 22:22:53 +0000",
+      "author": "Deadspin",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
       "title": "Eagles 2026 training camp battle tracker",
       "description": "At the start of Eagles training camp, there are a half dozen battles to be won or lost over the next month or so. Here we'll keep track of each of those battles and add analysis after each practice.",
       "link": "https://www.phillyvoice.com/eagles-2026-training-camp-battle-tracker-wide-receiver-tight-end-safety-edge-qb2/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -491,6 +581,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-05-01T195858Z_89307492_MT1USATODAY28854522_RTRMADP_3_NFL-PHILADELPHIA.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Phillies To Move Bryce Harper To Outfield",
+      "description": "The Phillies are making multiple defensive adjustments after the acquisition of second baseman Luis Arraez. The most notable move is two-time MVP Bryce Harper returning to the outfield. Bryson...",
+      "link": "https://www.mlbtraderumors.com/2026/08/phillies-to-move-bryce-harper-to-outfield.html",
+      "pubDate": "Mon, 03 Aug 2026 21:19:20 +0000",
+      "author": "MLB Trade Rumors",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Phillies gave \u2018zero\u2019 thought to moving Trea Turner off shortstop",
@@ -623,6 +723,16 @@
       "source": "PhillyVoice Eagles"
     },
     {
+      "title": "The Process Is Dead. Philly Sports Couldn\u2019t Be More Alive",
+      "description": "LeBron James \u2014 arguably the best player to ever step onto the court \u2014 has signed what will in all probability be his last [] The post The Process Is Dead. Philly Sports Couldn\u2019t Be More Alive appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/08/03/the-process-is-dead-philly-sports-couldnt-be-more-alive/",
+      "pubDate": "Mon, 03 Aug 2026 11:33:33 +0000",
+      "author": "Michael Thomas Leibrandt",
+      "thumbnail": null,
+      "team": "general",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "Monday Morning Fly By: One month to go",
       "description": "*The Flyers are set to open a pretty major next season in just under two months time, and a good portion of their success is going to hinge on how their young players fare. [BSH] *Porter Martone in particular has a chance to be a major driver of succ",
       "link": "https://www.broadstreethockey.com/post/monday-morning-fly-by-one-month-to-go/",
@@ -673,6 +783,16 @@
       "source": "Phillies Nation"
     },
     {
+      "title": "Beginning In Grand Fashion \u2014 Ending In Jubilation?",
+      "description": "It did not begin with a wimper. It did not begin with little fanfare. Rather \u2014 the Eagles quest for another Super [] The post Beginning In Grand Fashion \u2014 Ending In Jubilation? appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/08/02/beginning-in-grand-fashion-ending-in-jubilation/",
+      "pubDate": "Sun, 02 Aug 2026 14:54:36 +0000",
+      "author": "Michael Thomas Leibrandt",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "Eagles 2026 opponent injury / suspension / holdout tracker",
       "description": "Training camps are underway league-wide, and as such, we'll start to see injuries trickle in around the NFL. Here we'll keep tabs on the Philadelphia Eagles' opponents, and notable players on those teams who are either recovering from injuries, facin",
       "link": "https://www.phillyvoice.com/eagles-2026-opponent-injury-suspension-holdout-tracker/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -681,6 +801,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-01-11T231216Z_1064701816_MT1USATODAY27986055_RTRMADP_3_NFL-NFC-WILD-C.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "An Eagles Running Game Gashing You By Committee?",
+      "description": "LeBron James isn\u2019t just the oldest, active player in the NBA. He\u2019s also the oldest player that the Sixers have [] The post An Eagles Running Game Gashing You By Committee? appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/08/02/an-eagles-running-game-gashing-you-by-committee/",
+      "pubDate": "Sun, 02 Aug 2026 11:43:21 +0000",
+      "author": "Michael Thomas Leibrandt",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "A mostly \u2018clean game\u2019 snaps Phillies losing streak at 4",
@@ -813,6 +943,16 @@
       "source": "Liberty Ballers"
     },
     {
+      "title": "Eagles vs. Ravens: What to Expect From Philadelphia\u2019s Preseason Opener",
+      "description": "The Eagles\u2019 preseason opener against Baltimore will be less about the final score and more about the first signs of progress in Sean Mannion\u2019s offense, the rebuilt receiving corps, and Philadelphia\u2019s young defense. The post Eagles vs. Ravens: What to",
+      "link": "https://phlsportsnation.com/2026/07/31/eagles-ravens-2026-preseason-preview/",
+      "pubDate": "Fri, 31 Jul 2026 14:16:58 +0000",
+      "author": "Fede Carballo",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "How Rick Tocchet\u2019s teams have performed in their second season",
       "description": "In his first season behind the bench in Philadelphia, Rick Tocchet brought the Flyers back to the playoffs for the first time in five years. Now, with a full season in his system and another offseason to implement his vision, year two should provide ",
       "link": "https://www.broadstreethockey.com/post/how-rick-tocchets-teams-have-performed-in-their-second-season/",
@@ -841,66 +981,6 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Eagles \u2018Likely\u2019 To Lose Moro Ojomo In \u201927",
-      "description": "The Eagles found a rare seventh-round gem in defensive lineman Moro Ojomo, whom they took 249th in a 259-player draft in 2023. Although he is stuck in the shadow of linemates Jalen Carter and...",
-      "link": "https://www.profootballrumors.com/2026/07/eagles-likely-to-lose-moro-ojomo-in-27",
-      "pubDate": "Thu, 30 Jul 2026 21:56:39 +0000",
-      "author": "Pro Football Rumors",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Stacking wins an issue for both Orioles, Phillies",
-      "description": "Momentum has been hard to come by for the Baltimore Orioles and Philadelphia Phillies in the past week-and-a-half.,Their next chance to generate consi",
-      "link": "https://deadspin.com/stacking-wins-an-issue-for-both-orioles-phillies/",
-      "pubDate": "Thu, 30 Jul 2026 21:27:55 +0000",
-      "author": "Deadspin",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Spadaro: Jihaad Campbell eyes opportunity to reward Eagles' faith in him",
-      "description": "The 2025 first-round pick put in the work this offseason as he prepares for a potentially bigger role.",
-      "link": "https://www.philadelphiaeagles.com/news/jihaad-campbell-eyes-opportunity-to-reward-eagles-faith-in-him",
-      "pubDate": "Thu, 30 Jul 2026 21:00:00 +0000",
-      "author": "Eagles.com",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "76ers' LeBron James shuts down recent retirement rumors heading into his 24th season",
-      "description": "LeBron James has had recent reports come up about him being followed around by a production crew. This has created new retirement rumors, but he quickly put them to rest.",
-      "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/76ers-lebron-james-shuts-down-recent-retirement-rumors-heading-his-24th-season/fdd53c60e4c2463b872e729c",
-      "pubDate": "Thu, 30 Jul 2026 20:39:21 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Phillies Interested In Daulton Varsho",
-      "description": "The Phillies are interested in Blue Jays outfielder Daulton Varsho, reports Jon Heyman of The New York Post. Earlier today, Jon Morosi of MLB Network reported that the two clubs are emerging as...",
-      "link": "https://www.mlbtraderumors.com/2026/07/phillies-interested-in-daulton-varsho.html",
-      "pubDate": "Thu, 30 Jul 2026 19:44:15 +0000",
-      "author": "MLB Trade Rumors",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "4 Flyers Games to Circle on the 2026-27 Schedule",
-      "description": "All eyes will be on Xfinity Mobile Arena on Sept. 30. Ok, not as many as there will be when the building\u2019s other home team makes its home debut after\u2026",
-      "link": "https://thehockeywriters.com/4-flyers-games-to-circle-on-the-2026-27-schedule/",
-      "pubDate": "Thu, 30 Jul 2026 19:40:00 +0000",
-      "author": "Hockey Writers",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Philly Sports Wire"
     },
     {
       "title": "LeBron to the Sixers is huge, but to Eagles' Vic Fangio, that isn't close to the best signing in Philly sports history",
@@ -1013,6 +1093,16 @@
       "source": "PhillyVoice Eagles"
     },
     {
+      "title": "LeBron James Is Taking His Talents to Philadelphia: What It Means for Eagles Fans",
+      "description": "A great boon has come to Philadelphia. If you\u2019ve been living under a rock, with no internet, and no human [] The post LeBron James Is Taking His Talents to Philadelphia: What It Means for Eagles Fans appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/07/28/lebron-james-has-taken-his-talents-to-philadelphia-what-it-means-for-eagles-fans/",
+      "pubDate": "Tue, 28 Jul 2026 20:29:50 +0000",
+      "author": "Kyle Lavin",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "How Jalen Carter's extension ranks with the NFL's highest-paid defensive players",
       "description": "If all goes according to plan, the Eagles will have one of the best defensive players in the NFL, along with one of the league's biggest bargains.",
       "link": "https://www.phillyvoice.com/jalen-carter-eagles-contract-extension-salary-cap-contract-comparisons-nfl/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -1093,6 +1183,26 @@
       "source": "PhillyVoice"
     },
     {
+      "title": "Whatever You Do, Please Don\u2019t Question Q",
+      "description": "If you find yourself unable to pull away from the Netflix Show Quarterback like many of us\u2014 you\u2019ll be excited for another season [] The post Whatever You Do, Please Don\u2019t Question Q appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/07/26/whatever-you-do-please-dont-question-q/",
+      "pubDate": "Mon, 27 Jul 2026 01:34:59 +0000",
+      "author": "Michael Thomas Leibrandt",
+      "thumbnail": null,
+      "team": "general",
+      "source": "PHL Sports Nation"
+    },
+    {
+      "title": "Arcadia Standout Maurice Scott Continues to Shine, Both on and off The Water",
+      "description": "Philadelphia might have been the site of American Independence 250 years ago \u2014 but fifty years before that \u2014 our waters were used by [] The post Arcadia Standout Maurice Scott Continues to Shine, Both on and off The Water appeared first on Philadelph",
+      "link": "https://phlsportsnation.com/2026/07/26/an-arcadia-standout-continues-to-shine-both-in-and-out-of-the-water/",
+      "pubDate": "Mon, 27 Jul 2026 01:28:16 +0000",
+      "author": "Michael Thomas Leibrandt",
+      "thumbnail": null,
+      "team": "general",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "The Sixers have to shed two salaries. What are their options?",
       "description": "After agreeing to deals with LeBron James and Kentavious Caldwell-Pope, the Sixers will likely let two players go. Which candidates make the most sense?",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-lebron-james-signing-reaction-kentavious-caldwell-pope-kcp-dalen-terry-jabari-walker-johni-broome/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -1151,6 +1261,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-02-12T051830Z_942393008_MT1USATODAY28216130_RTRMADP_3_NBA-MEMPHIS-GRI.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "The King\u2019s Last Decision: LeBron James Signs with the Philadelphia 76ers",
+      "description": "The largest move of the 2026 NBA offseason has been made by the Philadelphia 76ers. A Franchise-Changing Decision After weeks [] The post The King\u2019s Last Decision: LeBron James Signs with the Philadelphia 76ers appeared first on Philadelphia Sports N",
+      "link": "https://phlsportsnation.com/2026/07/24/lebron-james-gives-the-76ers-one-final-chance-at-an-nba-championship/",
+      "pubDate": "Fri, 24 Jul 2026 21:05:36 +0000",
+      "author": "Cooper Hubbard",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "After landing LeBron James, how should the Sixers utilize their final roster spot?",
