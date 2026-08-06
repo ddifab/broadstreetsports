@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T15:03:49.316938+00:00",
+  "updated": "2026-08-06T23:46:07.064356+00:00",
   "count": 173,
   "articles": [
     {
@@ -41,6 +41,36 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_22618886.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "After 'crazy transition,' Jaylen Brown ready to win with Sixers: 'I want to earn everybody's respect and trust'",
+      "description": "At his introductory press conference on Thursday, Jaylen Brown discussed being traded to the Sixers, playing alongside LeBron James and much more.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-jaylen-brown-press-conference-interview-trade-reaction-celtics-lebron-james-joel-embiid-nba/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Thu, 06 Aug 2026 21:41:55 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/080626_JaylenBrownPresser_ColleenClaggett-7712.jpg",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Former Eagles training camp updates",
+      "description": "Training camp is underway throughout the league, and there\u2019s been a few updates from Eagles alumni \u2014 some good, some not so great. Several former Eagles are dealing with injuries, but one legendary Super Bowl winner is close to returning to the field",
+      "link": "",
+      "pubDate": "2026-08-06T13:19:32-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Maksim Sokolovskii would like everyone to know he\u2019s very strong",
+      "description": "This offseason has been all about Philadelphia Flyers fans wanting to see workout videos from one particular player so that he can bounce back from a disappointing sophomore season. Its all we really care about as were still over a month away from tr",
+      "link": "https://www.broadstreethockey.com/post/maksim-sokolovskii-would-like-everyone-to-know-hes-very-strong/",
+      "pubDate": "Thu, 06 Aug 2026 15:58:42 +0000",
+      "author": "Thomas Williams",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Thursday Morning Fly By: 56 days of silence remain",
@@ -363,26 +393,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Sixers trade Johni Broome, second-round pick to Clippers for cash considerations",
-      "description": "ESPN\u2019s Shams Charania has reported that the Sixers will be trading Johni Broome and a second-round pick to the LA Clippers for cash considerations. The team has since confirmed the trade. Details of that second-round pick have come from Jake Fischer ",
-      "link": "",
-      "pubDate": "2026-07-28T16:56:27-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
-      "title": "Editor-in-chief mailbag: So, LeBron is a Sixer",
-      "description": "I have to be honest, this is still tripping me up. I\u2019ve been comparing the last few weeks of covering this team to an out-of-body experience. This type of good fortune rarely finds the Sixers. First, the Jaylen Brown trade. Then, LeBron James decidin",
-      "link": "",
-      "pubDate": "2026-07-28T12:02:03-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "MLB trade rumors: The latest buzz connects Phillies to Robbie Ray, Jo Adell, Foster Griffin",
       "description": "Here's a quick look at some of the latest names being connected to the Phillies a week from the MLB Trade Deadline.",
       "link": "https://www.phillyvoice.com/mlb-trade-rumors-latest-buzz-connects-phillies-robbie-ray-jo-adell-foster-griffin-deadline/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -443,16 +453,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "5 Sixers thoughts: Long-term options in trades, dissecting Dean Wade and more",
-      "description": "As the Sixers await a decision from LeBron James, a look at their long-term possibilities in trade talks and diving deeper into their largest free-agency signing so far.",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-mike-gansey-draft-picks-clippers-2028-dean-wade-contract-stats-highlights-nba-preseason/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 20 Jul 2026 15:17:35 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/060826_068_MikeGanseyPressConference_KevinBarrett.jpg",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
       "title": "MLB trade rumors: Phillies 'would love to acquire' Mets top reliever",
       "description": "The Phillies want to contend, and it's no secret they're shopping right now.",
       "link": "https://www.phillyvoice.com/mlb-trade-rumors-phillies-mets-bullpen-reliever-news-analysis-luke-weaver-starting-pitcher-issues/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -511,6 +511,76 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "SportsTalk Philly"
+    },
+    {
+      "title": "Can rookie Justin Crawford learn from Luis Arraez? Phillies think new addition is \u2018a great guy for him to talk to\u2019",
+      "description": "PHILADELPHIA When Justin Crawford spoke with new Phillies teammate Luis Arraez inside the first-base dugout while the club was batting in the bottom of the second inning on Wednesday night at Citizens Bank Park, it was a welcome sight for the organiz",
+      "link": "https://philliesnation.com/2026/08/philadelphia-phillies-justin-crawford-luis-arraez-trade-deadline-learn-contact-hitter-batting-champion-don-mattingly-news-feature/",
+      "pubDate": "Thu, 06 Aug 2026 20:49:03 +0000",
+      "author": "Ty Daubert",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
+    },
+    {
+      "title": "Eagles training camp: 17 winners, 8 losers, and 5 IDKs from the first week",
+      "description": "Philadelphia Eagles training camp began just over a week ago. Let\u2019s take a look at the most notable winners, losers, and I don\u2019t knows from the first six practices down at the Jefferson Health Training Complex. Obligatory disclaimer: The Eagles only ",
+      "link": "",
+      "pubDate": "2026-08-06T16:00:36-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Flyers 2026 Top 25 Under 25, No. 17: Spencer Gill",
+      "description": "After yesterday&#x2019;s profile on Carson Bjarnason, next up on our list is defenseman Spencer Gill, a 2024 second-rounder that has played his two post-draft seasons in the QMJHL. The big question mark with Gill remains his injury history, which onl",
+      "link": "https://www.broadstreethockey.com/post/flyers-2026-top-25-under-25-no-17-spencer-gill/",
+      "pubDate": "Thu, 06 Aug 2026 18:16:05 +0000",
+      "author": "Cole Keller",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Jalen Hurts is 'calibrating' to another new Eagles offense, but this one just might stick",
+      "description": "So far through Eagles training camp, Hurts is doing a lot of the things many wanted to believe that he couldn't \u2013 or wouldn't \u2013 do.",
+      "link": "https://www.phillyvoice.com/eagles-news-jalen-hurts-offense-calibrating-under-center-play-action-success-sean-mannion/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Thu, 06 Aug 2026 16:50:44 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/072926_EaglesTrainingCamp_ColleenClaggett-5768.jpg",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Is This the Deepest 76ers Roster of the Process Era?",
+      "description": "A New Era in Philadelphia With good reason, the Philadelphia 76ers have dominated NBA news during the offseason. Head of [] The post Is This the Deepest 76ers Roster of the Process Era? appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/08/06/is-this-the-deepest-76ers-roster-of-the-process-era/",
+      "pubDate": "Thu, 06 Aug 2026 16:05:30 +0000",
+      "author": "Cooper Hubbard",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "PHL Sports Nation"
+    },
+    {
+      "title": "Fantasy football injuries: updates on Jaylen Waddle, Malik Nabers, Alec Pierce and more",
+      "description": "Should DeVonta Smith and Makai Lemon's training camp injuries affect your fantasy plans?",
+      "link": "https://www.phillyvoice.com/fantasy-football-injuries-mike-evans-devonta-smith-jaylen-waddle-jahmyr-gibbs-emeka-egbuka-news-latest/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Thu, 06 Aug 2026 15:57:53 +0000",
+      "author": "Evan Macy",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-07-30T203219Z_395947503_MT1USATODAY29482784_RTRMADP_3_NFL-NEW-YORK-GI.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles News: Jalen Hurts praises Darius Cooper, unprompted",
+      "description": "Let\u2019s get to the Philadelphia Eagles news and links \u2026 Jalen Hurts interview with Mike Garafolo and Brian Baldinger NFL NetworkMIKE GARAFOLO: How about this receiver room? We know DeVonta Smith, what he\u2019s done over the course of his career, we know he",
+      "link": "",
+      "pubDate": "2026-08-06T10:54:46-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Seven takeaways from Vic Fangio's Wednesday training camp press conference",
@@ -623,6 +693,16 @@
       "source": "PhillyVoice"
     },
     {
+      "title": "Jim Lynam: Plenty of challenges ahead for Lebron-led Sixers",
+      "description": "Lightning struck just as Jim Lynam was finishing the ninth hole at Twisted Dune Golf Club in South Jersey on a recent Friday. It came not in the usual way, but in the form of newsflash: LeBron James was going to sign with the Sixers. A few hours earl",
+      "link": "",
+      "pubDate": "2026-08-05T12:00:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
       "title": "Heroes and zeroes from Day 6 of Eagles training camp: Jalen Hurts looks solid during short practice",
       "description": "The Eagles quarterbacks sparked some discussion after their respective performances in training camp Wednesday.",
       "link": "https://www.phillyvoice.com/heroes-zeroes-training-camp-day-6-jalen-hurts-tanner-mckee-andy-dalton-qb-2-battle-news-analysis/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -641,6 +721,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/Eagles_practice.png",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Mike Gansey stops by Phillies broadcast: \u2018We dont get LeBron without Jaylen [Brown]\u2019 and more",
+      "description": "It\u2019s been a busy summer for Philadelphia 76ers president of basketball operations Mike Gansey. From arriving in Philly just a few months ago, to trading for Jaylen Brown and then LeBron James, he\u2019s had a whirlwind start in the City of Brotherly Love.",
+      "link": "",
+      "pubDate": "2026-08-05T09:25:26-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Flyers 2026 Top 25 Under 25, No. 18: Carson Bjarnason",
@@ -773,16 +863,6 @@
       "source": "PHL Sports Nation"
     },
     {
-      "title": "Eagles Training Camp Practice Notes: Offense out of sync as DeVonta Smith and Makai Lemon miss time",
-      "description": "Today marked the fifth Philadelphia Eagles training camp practice ahead of the 2026 NFL season. Here\u2019s what I observed at the Jefferson Health Training Complex! EAGLES PRACTICE NOTES UP NEXT: The Eagles practice again tomorrow starting at 10:00 AM Ea",
-      "link": "",
-      "pubDate": "2026-08-04T15:26:46-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "How much WAR did the Flyers add and lose this offseason?",
       "description": "There has been an undying desire for people that analyze hockey, to summarize a players impact with one single number. Something you can point to and see whether or not a player actually did a lot of what contributed to their team winning games, or t",
       "link": "https://www.broadstreethockey.com/post/how-much-war-did-the-flyers-add-and-lose-this-offseason/",
@@ -803,6 +883,16 @@
       "source": "PhillyVoice Eagles"
     },
     {
+      "title": "Editor-in-chief mailbag: The Sixers\u2019 roster is mostly set",
+      "description": "Once the Sixers officially sign Kentavious Caldwell-Pope, they\u2019ll have 14 players under standard contracts. Since they\u2019re hard-capped at the first apron, they don\u2019t have adequate money to sign a player to the veteran minimum. They could look to sign ",
+      "link": "",
+      "pubDate": "2026-08-04T12:34:45-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
       "title": "Flyers prospect Jack Murtagh looking to rebound from rough freshman season",
       "description": "The Flyers certainly made some noise in the second round of last years draft, making a whopping four selections and leaning heavily into a particular archetype of player in that range, snapping up a group which collectively brings a good amount of si",
       "link": "https://www.broadstreethockey.com/post/flyers-prospect-jack-murtagh-looking-to-rebound-from-rough-freshman-season/",
@@ -821,26 +911,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Eagles training camp: Live practice updates from Day 5",
-      "description": "The Philadelphia Eagles\u2019 2026 training camp schedule continues this morning with the second of three straight days of practice. Players are expected to be in pads for the summer\u2019s most intense session thus far. Here\u2019s what\u2019s on tap for Tuesday (all t",
-      "link": "",
-      "pubDate": "2026-08-04T09:45:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Eagles News: Moro Ojomo was asked about his contract outlook",
-      "description": "Let\u2019s get to the Philadelphia Eagles news and links \u2026 \u2018I cant be thinking about that: Moro Ojomo opens up on his contract and future NBCSPMoro Ojomo couldn\u2019t be happier for his fellow defensive linemen, Jordan Davis and Jalen Carter, for getting huge",
-      "link": "",
-      "pubDate": "2026-08-04T09:39:08-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Eagles G Landon Dickerson Did Not Consider Offseason Retirement",
@@ -943,26 +1013,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "Flyers 2026 Top 25 Under 25, No. 20: Jack Murtagh",
-      "description": "Next up in our list is Jack Murtagh, a 2025 second rounder that disappointed in his freshman year at Boston University. Coming out of the US National Team Development Program in his draft year, the Flyers had hopes that Murtagh would find a way to tr",
-      "link": "https://www.broadstreethockey.com/post/flyers-2026-top-25-under-25-no-20-jack-murtagh/",
-      "pubDate": "Mon, 03 Aug 2026 14:30:00 +0000",
-      "author": "Cole Keller",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "The biggest factor that will determine the Flyers 2026-27 season",
-      "description": "The Philadelphia Flyers enter the 2026-27 season with higher expectations than last year. Theyre looking at the playoffs not just as a possibility but as a given, although its not going to be easy to get there. Theyre hoping goaltender Dan Vladar can",
-      "link": "https://www.broadstreethockey.com/post/the-biggest-factor-that-will-determine-the-flyers-2026-27-season/",
-      "pubDate": "Mon, 03 Aug 2026 13:00:00 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "Eagles mailbag: Is Makai Lemon's slow start to camp cause for concern?",
       "description": "We're still only three practices into 2026 Philadelphia Eagles training camp, but there's actually stuff to talk about now, so let's do a mailbag or two, shall we? Thanks as always for doing half the work for me.",
       "link": "https://www.phillyvoice.com/eagles-mailbag-is-makai-lemon-slow-start-training-camp-concern/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -991,16 +1041,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2024-04-08T003156Z_1448628221_MT1USATODAY22968139_RTRMADP_3_NBA-PORTLAND-T.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Phillies take six-inning win in first rain-shortened game since 2022",
-      "description": "BALTIMORE The third tarp pull was the charm for the Phillies on Sunday afternoon. After a pair of delays that saw the Orioles grounds crew put the tarp on the field three total times, the Phillies won 8-0 in six innings at Camden Yards, marking their",
-      "link": "https://philliesnation.com/2026/08/philadelphia-phillies-rain-shortened-win-delay-victory-baltimore-orioles-trade-deadline-eve-weather-zack-wheeler/",
-      "pubDate": "Sun, 02 Aug 2026 22:19:43 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
     },
     {
       "title": "Beginning In Grand Fashion \u2014 Ending In Jubilation?",
@@ -1153,26 +1193,6 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "Eagles 2026 training camp practice notes, Day 1: An initial look at Sean Mannion's offense",
-      "description": "It was the first day of school back at the \"Jefferson Health Training Complex\" on Wednesday, as the Philadelphia Eagles had their first practice of training camp. There are no pads this early in camp, and it was a short practice, but there's plenty t",
-      "link": "https://www.phillyvoice.com/eagles-2026-training-camp-practice-notes-day-1-initial-look-sean-mannion-offense/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 29 Jul 2026 18:12:01 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-10T185305Z_2107597310_MT1USATODAY29167707_RTRMADP_3_NFL-PHILADELPH.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Just how different might the Eagles offense look in 2026?",
-      "description": "The offense took the field at the Jefferson Health training complex Wednesday as training camp opened and it did not look like the Philadelphia Eagles. At least not like a team that has played in Philly for the last half decade under Nick Sirianni's ",
-      "link": "https://www.phillyvoice.com/eagles-offense-training-camp-middle-of-the-field-under-center-play-action-sean-mannion-news/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 29 Jul 2026 17:40:31 +0000",
-      "author": "Evan Macy",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/072926_EaglesTrainingCamp_ColleenClaggett-5289.jpg",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
       "title": "LeBron James Is Taking His Talents to Philadelphia: What It Means for Eagles Fans",
       "description": "A great boon has come to Philadelphia. If you\u2019ve been living under a rock, with no internet, and no human [] The post LeBron James Is Taking His Talents to Philadelphia: What It Means for Eagles Fans appeared first on Philadelphia Sports Nation.",
       "link": "https://phlsportsnation.com/2026/07/28/lebron-james-has-taken-his-talents-to-philadelphia-what-it-means-for-eagles-fans/",
@@ -1181,16 +1201,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "PHL Sports Nation"
-    },
-    {
-      "title": "No, VJ Edgecombe\u2019s development is not doomed by new Sixers lineup",
-      "description": "Now that the dust has settled on the initial shock and excitement of LeBron James announcing his signing with the Philadelphia 76ers, the discussion focus has shifted to how the King will mesh with his new team. There are a ton of angles to look at t",
-      "link": "",
-      "pubDate": "2026-07-28T09:27:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "What new Sixers fans need to know about LeBron James' next team",
@@ -1227,16 +1237,6 @@
       "description": "If you find yourself unable to pull away from the Netflix Show Quarterback like many of us\u2014 you\u2019ll be excited for another season [] The post Whatever You Do, Please Don\u2019t Question Q appeared first on Philadelphia Sports Nation.",
       "link": "https://phlsportsnation.com/2026/07/26/whatever-you-do-please-dont-question-q/",
       "pubDate": "Mon, 27 Jul 2026 01:34:59 +0000",
-      "author": "Michael Thomas Leibrandt",
-      "thumbnail": null,
-      "team": "general",
-      "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Arcadia Standout Maurice Scott Continues to Shine, Both on and off The Water",
-      "description": "Philadelphia might have been the site of American Independence 250 years ago \u2014 but fifty years before that \u2014 our waters were used by [] The post Arcadia Standout Maurice Scott Continues to Shine, Both on and off The Water appeared first on Philadelph",
-      "link": "https://phlsportsnation.com/2026/07/26/an-arcadia-standout-continues-to-shine-both-in-and-out-of-the-water/",
-      "pubDate": "Mon, 27 Jul 2026 01:28:16 +0000",
       "author": "Michael Thomas Leibrandt",
       "thumbnail": null,
       "team": "general",
