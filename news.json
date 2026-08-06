@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T23:44:18.343824+00:00",
-  "count": 173,
+  "updated": "2026-08-06T01:16:02.729870+00:00",
+  "count": 165,
   "articles": [
     {
       "title": "LeBron James, the NBA's all-time leading scorer, is signing with the Sixers",
@@ -31,16 +31,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_22618886.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Flyers 2026 Top 25 Under 25, No. 19: Cole Knuble",
-      "description": "From a prospect just getting started in his collegiate career to another wrapping up his for good, we move on to dig into the season and trajectory of Cole Knuble, whos at quite the interesting inflection point in his career, staring down a full-time",
-      "link": "https://www.broadstreethockey.com/post/flyers-2026-top-25-under-25-no-19-cole-knuble/",
-      "pubDate": "Tue, 04 Aug 2026 22:53:03 +0000",
-      "author": "Madeline Campbell",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Why Phillies are batting contact-first Luis Arraez in cleanup spot after trade-deadline deal",
@@ -473,6 +463,16 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Why did Phillies starter Andrew Painter exit game after four innings?",
+      "description": "PHILADELPHIA Phillies rookie Andrew Painter was removed from Wednesday nights start after only four innings and 63 pitches due to tightness in his left hamstring, the club announced. The right-hander allowed just one run, working around some early tr",
+      "link": "https://philliesnation.com/2026/08/philadelphia-phillies-andrew-painter-injury-update-hamstring-tightness-exit-start-four-innings-washington-nationals-news/",
+      "pubDate": "Thu, 06 Aug 2026 00:32:41 +0000",
+      "author": "Ty Daubert",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
+    },
+    {
       "title": "How Andrew Painter\u2019s last big-league outing, recent Triple-A performance gave Phillies confidence in him as fifth starter",
       "description": "PHILADELPHIA \u2014 Andrew Painter was scheduled to take the mound for Triple-A Lehigh Valley for the sixth time in 2026 on Friday night. He got the call to report back to the Phillies and made his first big-league start since June 17 against the Orioles ",
       "link": "https://philliesnation.com/2026/08/philadelphia-phillies-andrew-painter-minor-league-last-start-trade-deadline-fifth-starter-dave-dombrowski-confidence-feature/",
@@ -513,14 +513,34 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "3 Flyers who should get more opportunity in the shootout",
-      "description": "If you were to look at the all-time shootout goal leader for the Flyers, it probably wouldnt surprise you its Claude Giroux with 30. Next up is his longtime partner on the ice in Jakub Voracek with 15. Sean Couturier (14), current Flyers general mana",
-      "link": "https://www.broadstreethockey.com/post/3-flyers-who-should-get-more-opportunity-in-the-shootout/",
-      "pubDate": "Wed, 05 Aug 2026 18:50:21 +0000",
-      "author": "Jason MacNeil",
+      "title": "Eagles Training Camp Practice Notes: Jalen Hurts looked sharp",
+      "description": "Today marked the sixth Philadelphia Eagles training camp practice ahead of the 2026 NFL season. Here\u2019s what I observed at the Jefferson Health Training Complex! EAGLES PRACTICE NOTES UP NEXT: The Eagles have a walkthrough closed to media access on Th",
+      "link": "",
+      "pubDate": "2026-08-05T14:39:54-04:00",
+      "author": "",
       "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Vic Fangio says you shouldn\u2019t sleep on this Eagles linebacker",
+      "description": "The Eagles were back on the practice field Wednesday, and defensive coordinator Vic Fangio spoke to reporters before things got started. He talked about Jordan Davis\u2019 development as a pass rusher, and what he\u2019s seen from some of the depth players, es",
+      "link": "",
+      "pubDate": "2026-08-05T14:24:46-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Eagles training camp injury updates",
+      "description": "It didn\u2019t take long, but we\u2019ve reached the point of Philadelphia Eagles training camp where a successful day is one with no injuries. That wasn\u2019t the case on Tuesday and Wednesday. Perhaps most concerning was Cooper DeJean being sidelined with an arm",
+      "link": "",
+      "pubDate": "2026-08-05T13:19:57-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "For the first game at least, Luis Arr\u00e1ez was exactly what the Phillies needed",
@@ -571,16 +591,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Flyers 2026 Top 25 Under 25, No. 18: Carson Bjarnason",
-      "description": "Lehigh Valley Phantoms goaltender Carson Bjarnasons goals for 2025-26 were probably far different than what transpired. It was a trying, arduous season for the netminder, one that he hopes not to duplicate heading into 2026-27. Regardless, the young ",
-      "link": "https://www.broadstreethockey.com/post/flyers-2026-top-25-under-25-no-18-carson-bjarnason/",
-      "pubDate": "Wed, 05 Aug 2026 13:18:04 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Stock up, stock down after the first week of 2026 Eagles training camp",
@@ -713,16 +723,6 @@
       "source": "Bleeding Green Nation"
     },
     {
-      "title": "How much WAR did the Flyers add and lose this offseason?",
-      "description": "There has been an undying desire for people that analyze hockey, to summarize a players impact with one single number. Something you can point to and see whether or not a player actually did a lot of what contributed to their team winning games, or t",
-      "link": "https://www.broadstreethockey.com/post/how-much-war-did-the-flyers-add-and-lose-this-offseason/",
-      "pubDate": "Tue, 04 Aug 2026 18:31:12 +0000",
-      "author": "Thomas Williams",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "Heroes and zeros from Day 5 of Eagles training camp: A new WR 2 starts to emerge, O-line struggles",
       "description": "The Eagles practiced with their pads on and went nearly two hours on Tuesday, with some clear winners and losers from practice emerging.",
       "link": "https://www.phillyvoice.com/heroes-zeros-eagles-training-camp-day-5-dontayvion-wicks-fantasy-news-wr2-quinyon-mitchell-will-shipley/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -741,16 +741,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Flyers prospect Jack Murtagh looking to rebound from rough freshman season",
-      "description": "The Flyers certainly made some noise in the second round of last years draft, making a whopping four selections and leaning heavily into a particular archetype of player in that range, snapping up a group which collectively brings a good amount of si",
-      "link": "https://www.broadstreethockey.com/post/flyers-prospect-jack-murtagh-looking-to-rebound-from-rough-freshman-season/",
-      "pubDate": "Tue, 04 Aug 2026 14:45:19 +0000",
-      "author": "Madeline Campbell",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Jaylen Brown wants Sixers to go group skydiving if they win the title",
@@ -843,16 +833,6 @@
       "source": "Phillies Nation"
     },
     {
-      "title": "Eagles Training Camp Practice Notes: Jalen Hurts strikes back",
-      "description": "Today marked the fourth Philadelphia Eagles training camp practice ahead of the 2026 NFL season. The players were in pads for the first time this summer while practicing indoors due to heavy rain outside. Here\u2019s what I observed at the Jefferson Healt",
-      "link": "",
-      "pubDate": "2026-08-03T15:53:48-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Eagles 2026 training camp practice notes, Day 4: Jalen Hurts has his best day so far",
       "description": "Day 4 of Philadelphia Eagles training camp was inside the practice bubble, with heavy rains flooding Philly. Usually the indoor practices kinda suck, but there was a lot of fun action today.",
       "link": "https://www.phillyvoice.com/eagles-2026-training-camp-practice-notes-day-4-jalen-hurts-best-day-so-far/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -893,46 +873,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "Eagles veterans explain why the new scheme is offensive line-friendly",
-      "description": "The Eagles offensive line has been a dominant staple for the team for more than a decade, but heading into the 2026 season, the group was forced to make a lot of changes \u2014 both to the coaching staff and to the overall offensive scheme. As the guys ge",
-      "link": "",
-      "pubDate": "2026-08-03T11:11:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Flyers 2026 Top 25 Under 25, No. 20: Jack Murtagh",
-      "description": "Next up in our list is Jack Murtagh, a 2025 second rounder that disappointed in his freshman year at Boston University. Coming out of the US National Team Development Program in his draft year, the Flyers had hopes that Murtagh would find a way to tr",
-      "link": "https://www.broadstreethockey.com/post/flyers-2026-top-25-under-25-no-20-jack-murtagh/",
-      "pubDate": "Mon, 03 Aug 2026 14:30:00 +0000",
-      "author": "Cole Keller",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Philadelphia Eagles training camp practice: Live updates from Day 4",
-      "description": "The Philadelphia Eagles\u2019 2026 training camp schedule resumes this morning following Sunday\u2019s rest. The Birds will practice on Monday, Tuesday, and Wednesday this week before a walkthrough closed to media access on Thursday. Then they\u2019ll have practice",
-      "link": "",
-      "pubDate": "2026-08-03T09:27:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "The biggest factor that will determine the Flyers 2026-27 season",
-      "description": "The Philadelphia Flyers enter the 2026-27 season with higher expectations than last year. Theyre looking at the playoffs not just as a possibility but as a given, although its not going to be easy to get there. Theyre hoping goaltender Dan Vladar can",
-      "link": "https://www.broadstreethockey.com/post/the-biggest-factor-that-will-determine-the-flyers-2026-27-season/",
-      "pubDate": "Mon, 03 Aug 2026 13:00:00 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "Eagles mailbag: Is Makai Lemon's slow start to camp cause for concern?",
       "description": "We're still only three practices into 2026 Philadelphia Eagles training camp, but there's actually stuff to talk about now, so let's do a mailbag or two, shall we? Thanks as always for doing half the work for me.",
       "link": "https://www.phillyvoice.com/eagles-mailbag-is-makai-lemon-slow-start-training-camp-concern/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -951,16 +891,6 @@
       "thumbnail": null,
       "team": "general",
       "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Monday Morning Fly By: One month to go",
-      "description": "*The Flyers are set to open a pretty major next season in just under two months time, and a good portion of their success is going to hinge on how their young players fare. [BSH] *Porter Martone in particular has a chance to be a major driver of succ",
-      "link": "https://www.broadstreethockey.com/post/monday-morning-fly-by-one-month-to-go/",
-      "pubDate": "Mon, 03 Aug 2026 10:00:00 +0000",
-      "author": "Madeline Campbell",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "5 Sixers thoughts: Should Jaylen Brown receive a one-year contract extension?",
@@ -1021,16 +951,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "PHL Sports Nation"
-    },
-    {
-      "title": "A mostly \u2018clean game\u2019 snaps Phillies losing streak at 4",
-      "description": "BALTIMORE Trea Turner walked up to the plate for the second time in the eighth inning, and then walked right back to the dugout. There was a pause. Nearly every player on the field stood still, forgetting there were three outs. The Phillies this time",
-      "link": "https://philliesnation.com/2026/08/philadelphia-phillies-baltimore-orioles-august-1-2026-bryson-stott-cristopher-sanchez/",
-      "pubDate": "Sun, 02 Aug 2026 03:40:53 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
     },
     {
       "title": "Eagles 2026 training camp practice notes, Day 3: The D-line is dominant",
