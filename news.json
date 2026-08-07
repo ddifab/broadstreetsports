@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T23:46:07.064356+00:00",
-  "count": 173,
+  "updated": "2026-08-07T01:58:05.129000+00:00",
+  "count": 174,
   "articles": [
     {
       "title": "LeBron James, the NBA's all-time leading scorer, is signing with the Sixers",
@@ -71,6 +71,16 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Kentavious Caldwell-Pope signing made official, will wear No. 1 for Sixers",
+      "description": "The Philadelphia 76ers traded Johni Broome to the Los Angeles Clippers last week in order to create enough cap space under the first apron to sign Kentavious Caldwell-Pope to a veteran\u2019s minimum deal. Yesterday, that signing was made official. Per Si",
+      "link": "",
+      "pubDate": "2026-08-06T09:02:43-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Thursday Morning Fly By: 56 days of silence remain",
@@ -373,16 +383,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Where the Sixers stand financially after signing LeBron James, KCP",
-      "description": "Sixers president of basketball operations Mike Gansey didnt take long to make a big splash, huh? On July 1, he agreed to trade Paul George, two first-round picks and two second-round picks to the Boston Celtics for Jaylen Brown. He wasn\u2019t done there,",
-      "link": "",
-      "pubDate": "2026-07-28T20:04:02-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Source: Sixers trade Johni Broome, second-round pick to Los Angeles Clippers for cash considerations",
       "description": "Johni Broome, the No. 35 overall pick in the 2025 NBA Draft, shot 4-for-24 from the field as a rookie. He has been salary dumped to make room for Kentavious Caldwell-Pope.",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-roster-salary-cap-first-apron-room-johni-broome-lebron-james-kentavious-caldwell-pope-kcp/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -463,16 +463,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "Phillies RP Brad Keller will miss the rest of the season with torn UCL",
-      "description": "It might be time for the Phillies to move relief pitching from a low key need to a must improve ahead of the MLB's trade deadline this month.",
-      "link": "https://www.phillyvoice.com/phillies-rp-brad-keller-injured-list-ucl-tear-trade-rumors-bullpen-stats-analysis-latest-news/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Thu, 16 Jul 2026 19:43:59 +0000",
-      "author": "Evan Macy",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_29155140.jpg",
-      "team": "phillies",
-      "source": "PhillyVoice"
-    },
-    {
       "title": "Flyers get Penguins at home for 2026-27 season opener",
       "description": "Out of the gate, the Flyers will get a rematch of last year's rollercoaster of a first-round playoff series, very likely with more fireworks to go off.",
       "link": "https://www.phillyvoice.com/flyers-2026-2027-season-opener-penguins-xfinity-mobile-arena-playoff-rematch/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -511,6 +501,36 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "SportsTalk Philly"
+    },
+    {
+      "title": "The Phillies got cooler and maybe a bit better with Luis Arr\u00e1ez, but the bullpen might still leave them short",
+      "description": "Arr\u00e1ez brought an energy at the plate that the Phillies badly needed, but the bullpen might still be their Achilles Heel when it counts.",
+      "link": "https://www.phillyvoice.com/phillies-nationals-series-wrap-cooler-better-luis-arraez-bullpen-concerns-postseason-mlb-standings/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 07 Aug 2026 01:38:03 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-08-06T225459Z_1671517825_MT1USATODAY29531489_RTRMADP_3_MLB-WASHINGTON.JPG",
+      "team": "phillies",
+      "source": "PhillyVoice"
+    },
+    {
+      "title": "Takeaways from Jaylen Brown\u2019s introductory press conference",
+      "description": "Five weeks and one LeBron James signing later, Jaylen Brown finally spoke to the media as a member of the Philadelphia 76ers. He answered questions for about 20 minutes about his relationship with the team and teammates, both new and old, and what he",
+      "link": "",
+      "pubDate": "2026-08-06T20:14:47-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Flyers re-sign Nikita Grebenkin to two-year extension",
+      "description": "Just about the whole of the hockey world has gone quiet for the month of August, it would seem, but the Flyers have resurfaced to knock out a bit of business. The team announced Thursday evening that theyve agreed to terms with forward Nikita Grebenk",
+      "link": "https://www.broadstreethockey.com/post/flyers-re-sign-nikita-grebenkin-to-two-year-extension/",
+      "pubDate": "Thu, 06 Aug 2026 23:46:36 +0000",
+      "author": "Madeline Campbell",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Can rookie Justin Crawford learn from Luis Arraez? Phillies think new addition is \u2018a great guy for him to talk to\u2019",
@@ -561,6 +581,16 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "PHL Sports Nation"
+    },
+    {
+      "title": "LeBron James can help Tyrese Maxey be better than ever",
+      "description": "LeBron James is a Philadelphia 76er. I know youll have read that a lot by now, but I dont think another mention hurts when it still feels this surreal. Theres so much to think about with LeBrons arrival. Beyond the excitement that the possible greate",
+      "link": "",
+      "pubDate": "2026-08-06T12:05:05-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Fantasy football injuries: updates on Jaylen Waddle, Malik Nabers, Alec Pierce and more",
@@ -1163,16 +1193,6 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "Thanks to LeBron James, Joel Embiid finally has the superteam hes always wanted",
-      "description": "Two years ago, Joel Embiid found himself envious of Jayson Tatum. At the time, Tatum and the Boston Celtics were fresh off winning the 2023-24 NBA championship. The Celtics took advantage of a few CBA loopholes to build an unsustainably deep team (as",
-      "link": "",
-      "pubDate": "2026-07-30T09:59:13-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Five takeaways from Howie Roseman's and Nick Sirianni's opening training camp presser",
       "description": "Roseman and Sirianni had a few things to talk about at the start of camp, mainly Jalen Carter's new extension.",
       "link": "https://www.phillyvoice.com/five-takeaways-howie-roseman-and-nick-sirianni-opening-training-camp-presser/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -1181,16 +1201,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/072926_EaglesTrainingCamp_ColleenClaggett-4663.jpg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Beyond a star-studded starting five, Sixers boast plenty of depth",
-      "description": "LeBron James is a Sixer. Some variation of that sentence might be the lede for all of our foreseeable articles. With James in the fold, the Sixers will have one of the most immensely talented starting groups in NBA history. Tyrese Maxey, VJ Edgecombe",
-      "link": "",
-      "pubDate": "2026-07-29T15:21:27-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "LeBron James Is Taking His Talents to Philadelphia: What It Means for Eagles Fans",
