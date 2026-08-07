@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T14:02:42.454532+00:00",
+  "updated": "2026-08-07T15:41:04.624298+00:00",
   "count": 173,
   "articles": [
     {
@@ -39,6 +39,26 @@
       "pubDate": "Mon, 03 Aug 2026 13:06:27 +0000",
       "author": "Evan Macy",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_22618886.jpg",
+      "team": "phillies",
+      "source": "PhillyVoice"
+    },
+    {
+      "title": "Report: Kevin Love\u2019s agent in contact with the 76ers",
+      "description": "The free agency dust is finally starting to settle in Sixers land after a blockbuster trade for Jaylen Brown and the signing of LeBron James. Thus far, the Sixers have signaled theyre heading into the season with their current group at 14 roster spot",
+      "link": "",
+      "pubDate": "2026-08-07T11:14:49-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Checking in on Phillies' playoff chances with 46 games to go",
+      "description": "A little over a month and a half of games remain in the regular season for the Phillies, who no longer have the trade deadline to look forward to.",
+      "link": "https://www.phillyvoice.com/phillies-nl-east-wild-card-playoff-race-standings-schedule-odds-chances-strength-news-analysis-path-october/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 07 Aug 2026 13:55:07 +0000",
+      "author": "Evan Macy",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-08-05T022235Z_1872106867_MT1USATODAY29516238_RTRMADP_3_MLB-WASHINGTON.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
     },
@@ -1173,16 +1193,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Report: LeBron James, ESPN closing in on agreement for \u2018The Last Dance\u2019 style documentary",
-      "description": "It\u2019s not even been a week since we found out LeBron James is now a Philadelphia 76er, and the impact of his arrival is already starting to go beyond what he\u2019ll be doing on the basketball court \u2014 just as you\u2019d expect. There\u2019s also how he plans to tell",
-      "link": "",
-      "pubDate": "2026-07-30T11:28:29-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Five takeaways from Howie Roseman's and Nick Sirianni's opening training camp presser",
       "description": "Roseman and Sirianni had a few things to talk about at the start of camp, mainly Jalen Carter's new extension.",
       "link": "https://www.phillyvoice.com/five-takeaways-howie-roseman-and-nick-sirianni-opening-training-camp-presser/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -1461,16 +1471,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-05-05T002125Z_658319586_MT1USATODAY28880026_RTRMADP_3_NHL-STANLEY-CUP.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Phillies announce 2027 schedule",
-      "description": "The Phillies will open up on the road against Washington next season, and also play Washington in their home opener.",
-      "link": "https://www.phillyvoice.com/phillies-2027-schedule-release-national-league-bryce-harper-kyle-schwarber/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Thu, 16 Jul 2026 21:12:04 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_29239412.jpg",
-      "team": "phillies",
-      "source": "PhillyVoice"
     },
     {
       "title": "Flyers get Trevor Zegras extension done, at four years and $36.5 million",
