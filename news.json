@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T16:37:19.134754+00:00",
+  "updated": "2026-08-14T17:42:15.341693+00:00",
   "count": 174,
   "articles": [
     {
@@ -31,6 +31,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_22618886.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "Tracking 2026-27 Sixers games reported and announced ahead of NBA schedule release",
+      "description": "Before the entire 2026-27 Sixers schedule is released on Thursday afternoon, consider this a one-stop shop for any and all games that have been announced or reported in advance.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-announced-nba-schedule-release-lebron-james-jaylen-brown-joel-embiid-vj-edgecombe-tyrese-maxey/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 14 Aug 2026 16:58:39 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-01-29T032443Z_404191813_MT1USATODAY28108624_RTRMADP_3_NBA-LOS-ANGELES.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
     },
     {
       "title": "Flyers 2026 Top 25 Under 25, No. 11: Jack Nesbitt",
@@ -71,16 +81,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/080426_EaglesTrainingCamp_ColleenClaggett-6343.jpg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Tracking 2026-27 Sixers games reported and announced ahead of NBA schedule release",
-      "description": "Before the entire 2026-27 Sixers schedule is released on Thursday afternoon, consider this a one-stop shop for any and all games that have been announced or reported in advance.",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-announced-nba-schedule-release-lebron-james-jaylen-brown-joel-embiid-vj-edgecombe-tyrese-maxey/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Thu, 13 Aug 2026 16:50:50 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-01-29T032443Z_404191813_MT1USATODAY28108624_RTRMADP_3_NBA-LOS-ANGELES.JPG",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
     },
     {
       "title": "Eagles Training Camp Notes: Practice ends after a fight breaks out",
@@ -221,26 +221,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/080426_EaglesTrainingCamp_ColleenClaggett-6475.jpg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "The Sixers should be in no rush to fill their last open roster spot",
-      "description": "The race to fill the Sixers last standard roster spot has already begun. On Friday, ESPNs Dave McMenamin reported that Kevin Loves agent had already been in touch with the Sixers after LeBron James decided to sign with them. Love has interest in pair",
-      "link": "",
-      "pubDate": "2026-08-10T11:00:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
-      "title": "Buttoned-down Brown might be just what the Sixers need",
-      "description": "Let the record show that in answering the first question of his first news conference as a 76er last Thursday, Jaylen Brown invoked the word \u201cprocess.\u201d And if you listened closely, you could just about hear reporters\u2019 eyes rolling as they hunkered do",
-      "link": "",
-      "pubDate": "2026-08-10T08:28:05-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "5 Sixers thoughts: Mike Gansey talks Jaylen Brown trade and LeBron James signing amid transformational summer",
@@ -453,6 +433,16 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Eagles Film Review: Tyler Steen is a perfectly capable starting guard",
+      "description": "Over the past few weeks, I\u2019ve been spending a lot of time watching offensive line film as part of my work with The Scouting Academy. One of the five offensive linemen I have to evaluate for the course is Tyler Steen, which made this pretty perfect ti",
+      "link": "",
+      "pubDate": "2026-08-14T12:34:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
       "title": "Field of Dreams slowed things down for the Phillies, maybe when they need it most",
       "description": "Emerging from the cornfield in Dyersville, Iowa, Kyle Schwarber, Aaron Nola, and the Phillies were able to just be the Phillies again.",
       "link": "https://www.phillyvoice.com/phillies-mlb-field-of-dreams-slow-down-kyle-schwarber-aaron-nola-postseason-race/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -461,6 +451,26 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-08-14T025616Z_138992789_MT1USATODAY29579423_RTRMADP_3_MLB-FIELD-OF-DR.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "Has Joel Embiid already clinched a spot in the Basketball Hall of Fame?",
+      "description": "On Saturday, Amare Stoudemire, Doc Rivers and Mike DAntoni will be among the latest inductees to the Naismith Basketball Hall of Fame. LeBron James is an absolute lock to join them in the next few years. Players now have to be only two years removed ",
+      "link": "",
+      "pubDate": "2026-08-14T12:00:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "LB Roundtable, Part 3: Team construction depth",
+      "description": "Fresh off a massive offseason, the Philadelphia 76ers have nearly rebuilt their roster with new additions including LeBron James and Jaylen Brown. The spotlight is now on this team as never before, with media scrutiny intensifying. The Liberty Baller",
+      "link": "",
+      "pubDate": "2026-08-14T10:15:13-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Eagles 2026 training camp bubble player power rankings",
@@ -801,16 +811,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-11-26T013305Z_687594762_MT1USATODAY27681020_RTRMADP_3_NBA-ORLANDO-MAG.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Two former Eagles quickly find new teams",
-      "description": "The Philadelphia Eagles made a slew of roster moves on Monday that included waiving undrafted rookie free agent signings Dae\u2019Quan Wright and Jaedan Roberts. It didn\u2019t take long for them to find new NFL homes. Wright was plucked off waivers by the Cle",
-      "link": "",
-      "pubDate": "2026-08-12T10:17:16-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Eagles training camp player stock up/stock down media poll",
