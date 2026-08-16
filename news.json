@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T21:08:22.337519+00:00",
+  "updated": "2026-08-16T22:08:11.916191+00:00",
   "count": 176,
   "articles": [
     {
@@ -19,6 +19,16 @@
       "pubDate": "Mon, 03 Aug 2026 13:06:27 +0000",
       "author": "Evan Macy",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_22618886.jpg",
+      "team": "phillies",
+      "source": "PhillyVoice"
+    },
+    {
+      "title": "Rare Phillies combo of consistent hitting, shutdown relief pitching fuels sweep of Twins",
+      "description": "A needed blowout of the Twins at the Field of Dreams game, followed by another in Minnesota and then a comeback win, helped the Phillies get back on track.",
+      "link": "https://www.phillyvoice.com/phillies-twins-recap-field-of-dreams-mlb-stats-analysis-alec-bohm-jesus-luzardo/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sun, 16 Aug 2026 21:25:54 +0000",
+      "author": "Geoff Mosher",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-08-16T021236Z_1908756104_MT1USATODAY29594960_RTRMADP_3_MLB-PHILADELPH.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
     },
@@ -421,6 +431,16 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "SportsTalk Philly"
+    },
+    {
+      "title": "Alec Bohm\u2019s big day helps Phillies rally to sweep Twins",
+      "description": "Alec Bohm's strong second half continued in the Phillies' win over the Twins on Sunday.",
+      "link": "https://philliesnation.com/2026/08/philadelphia-phillies-alec-bohm-bryan-de-la-cruz-luis-arraez-major-league-baseball/",
+      "pubDate": "Sun, 16 Aug 2026 21:20:20 +0000",
+      "author": "Bailey Digh",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
     },
     {
       "title": "Eagles 53-man roster projection, after the first preseason game",
@@ -1173,16 +1193,6 @@
       "source": "Phillies Nation"
     },
     {
-      "title": "How to watch this week\u2019s Phillies vs. Cardinals series in St. Louis",
-      "description": "The Phillies are hitting the road again for a three-game set against 2026 Home Run Derby champion Jordan Walker and the St. Louis Cardinals at Busch Stadium. All three games will be broadcasted locally. Tom McCarthy and Rub\u00e9n Amaro Jr. are on the cal",
-      "link": "https://philliesnation.com/2026/08/how-to-watch-this-weeks-phillies-vs-cardinals-series-in-st-louis/",
-      "pubDate": "Mon, 10 Aug 2026 20:54:08 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
       "title": "Heroes and zeroes from Day 9 of Eagles training camp: Darius Cooper, Elijah Moore earning their spots on the first-team offense",
       "description": "Jalen Hurts keeps finding receivers Darius Cooper and Elijah Moore for some big plays as training camp continues on.",
       "link": "https://www.phillyvoice.com/eagles-training-camp-heroes-zeroes-day-9-darius-cooper-elijah-moore-quinyon-mitchell/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -1491,16 +1501,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-28T024309Z_844654288_MT1USATODAY28827485_RTRMADP_3_NHL-STANLEY-CUP.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Report: Phillies will call up reliever Alex McFarlane straight from Double-A",
-      "description": "The Phillies are adding Alex McFarlane's 100-plus mph pitches to their bullpen, at least for a night.",
-      "link": "https://www.phillyvoice.com/phillies-alex-mcfarlane-call-up-reliever-bullpen-double-a-sinker-velocity-dodgers/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 20 Jul 2026 18:20:39 +0000",
-      "author": "Nick Tricome",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-02-19T172006Z_72406777_MT1USATODAY28280782_RTRMADP_3_MLB-PHILADELPHIA.JPG",
-      "team": "phillies",
-      "source": "PhillyVoice"
     },
     {
       "title": "Flyers get Jamie Drysdale's extension done, for four years at $6.5 million per",
