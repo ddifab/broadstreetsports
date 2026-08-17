@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-17T13:29:58.920056+00:00",
+  "updated": "2026-08-17T14:14:58.398351+00:00",
   "count": 174,
   "articles": [
+    {
+      "title": "Report: Sixers hire Tommy Balcetis to front office",
+      "description": "Philadelphia made a huge change to the front office this offseason, parting ways with Daryl Morey and hiring Mike Gansey as the new President of Basketball Operations. So far, so very good on that front, as Gansey\u2019s tenure has begun with the trade fo",
+      "link": "",
+      "pubDate": "2026-08-16T22:29:48-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
     {
       "title": "2 trades the Flyers can make with the Wild next season",
       "description": "The Philadelphia Flyers are trying to be a team that regularly contends for the playoffs and once their young players grow into their primes, they can potentially challenge for the Stanley Cup. Thats the plan but right now, were still in the first of",
@@ -413,7 +423,17 @@
       "source": "SportsTalk Philly"
     },
     {
-      "title": "Flyers\u2019 Dan Vladar cracks NHL Network\u2019s Top 10 list of goaltenders",
+      "title": "Flyers Top 25 Under 25, No. 10: Jett Luchanko",
+      "description": "As soon as the Philadelphia Flyers selected center Jett Luchanko with the 13th overall pick at the 2024 NHL Draft, it was a controversial decision. Instead of going with the online consensus of defenseman Zeev Buium or Finnish center Konsta Helenius,",
+      "link": "https://www.broadstreethockey.com/post/flyers-top-25-under-25-no-10-jett-luchanko/",
+      "pubDate": "Mon, 17 Aug 2026 13:30:00 +0000",
+      "author": "Thomas Williams",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Flyers\u2019 Dan Vladar named one of the NHL\u2019s best goaltenders",
       "description": "With a great first impression, a strong playoff run, and a new five-year extension in his back pocket, Flyers goaltender Dan Vladar is having a good 2026. And it seems the NHL Network has given the netminder some kudos in his direction, putting him e",
       "link": "https://www.broadstreethockey.com/post/flyers-dan-vladar-cracks-nhl-networks-top-10-list-of-goaltenders/",
       "pubDate": "Mon, 17 Aug 2026 13:12:55 +0000",
@@ -421,6 +441,16 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Playoff race watch: Phillies can land two knockout blows this week",
+      "description": "Thanks to their first series sweep since June, the Phillies went to sleep holding an NL postseason slot Sunday night.",
+      "link": "https://www.phillyvoice.com/playoff-race-watch-phillies-schedule-standings-postseason-wild-card-cubs-marlins-cardinals-diamondbacks/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Mon, 17 Aug 2026 12:58:41 +0000",
+      "author": "Evan Macy",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-08-16T214115Z_1379842529_MT1USATODAY29598706_RTRMADP_3_MLB-PHILADELPH.JPG",
+      "team": "phillies",
+      "source": "PhillyVoice"
     },
     {
       "title": "Game ball, three stars, and snap count analysis: Preseason Week 1, Eagles at Ravens",
@@ -1163,16 +1193,6 @@
       "source": "Philly Sports Wire"
     },
     {
-      "title": "Editor-in-chief mailbag: MSG for the opener, Tinseltown for Christmas",
-      "description": "Ahead of the full 2026-27 NBA schedule release Thursday, we now know a few of the marquee games for the Sixers this season. The Sixers begin the season at MSG against the defending champion New York Knicks. They\u2019ll also take on two of LeBron James\u2019 f",
-      "link": "",
-      "pubDate": "2026-08-11T11:27:11-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Darius Cooper is flipping the Eagles' WR depth chart on its head",
       "description": "With DeVonta Smith and Makai Lemon sidelined in camp, Darius Cooper keeps making himself an option for Jalen Hurts.",
       "link": "https://www.phillyvoice.com/eagles-training-camp-darius-cooper-wide-receiver-depth-chart-stock-up-jalen-hurts/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -1181,16 +1201,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-08-09T200053Z_1616489439_MT1USATODAY26814145_RTRMADP_3_NFL-CINCINNATI.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Sixers to open regular season against Knicks, play Lakers on Christmas Day",
-      "description": "With Jaylen Brown and LeBron James joining a talented Philadelphia 76ers core that now has legitimate championship aspirations, attention around this Sixers season is going to be ratcheted up to the maximum. We already heard they\u2019ll be slated for the",
-      "link": "",
-      "pubDate": "2026-08-11T08:18:59-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Sixers mailbag: Value of LeBron James' dunking and ranking reserves' minutes",
@@ -1431,16 +1441,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-19T005237Z_952258215_MT1USATODAY28763057_RTRMADP_3_NHL-STANLEY-CUP.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Little mistakes lead to big Phillies disappointment in lost series vs. Dodgers",
-      "description": "Fielding errors, base running blunders against the defending World Series champs did the Phillies in for the series.",
-      "link": "https://www.phillyvoice.com/phillies-dodgers-recap-errors-blunders-jt-realmuto-justin-crawford-trea-turner-national-league-trade-deadline/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Thu, 23 Jul 2026 02:07:19 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-07-22T031000Z_1268352099_MT1USATODAY29426551_RTRMADP_3_MLB-LOS-ANGELE.JPG",
-      "team": "phillies",
-      "source": "PhillyVoice"
     },
     {
       "title": "The Phillies are a big-time club, but they just can't do the little things right",
