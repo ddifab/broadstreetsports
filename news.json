@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T13:33:14.708165+00:00",
-  "count": 163,
+  "updated": "2026-08-18T14:19:55.035410+00:00",
+  "count": 164,
   "articles": [
     {
       "title": "Report: Sixers hire Tommy Balcetis to front office",
@@ -273,16 +273,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "Bonus Sixers mailbag: Trade targets following LeBron James deal and more",
-      "description": "Answering more Sixers questions in the wake of the LeBron James signing, from trade options to the role of newcomer Kentavious Caldwell-Pope.",
-      "link": "https://www.phillyvoice.com/sixers-roster-news-analysis-lebron-james-signing-kentavious-caldwell-pope-kcp-draft-picks-nba-trade-rumors/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 29 Jul 2026 09:00:00 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-01-16T055921Z_764528214_MT1USATODAY25197836_RTRMADP_3_NBA-MIAMI-HEAT-.JPG",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
       "title": "MLB trade rumors: The latest buzz connects Phillies to Robbie Ray, Jo Adell, Foster Griffin",
       "description": "Here's a quick look at some of the latest names being connected to the Phillies a week from the MLB Trade Deadline.",
       "link": "https://www.phillyvoice.com/mlb-trade-rumors-latest-buzz-connects-phillies-robbie-ray-jo-adell-foster-griffin-deadline/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -363,6 +353,26 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "A long-term look at the Eagles' offensive line",
+      "description": "Over the last decade, the Philadelphia Eagles have probably have the best offensive line in the NFL. From 2016 to 2025, they sent eight different offensive linemen \u2014 Jason Peters, Jason Kelce, Lane Johnson, Brandon Brooks, Jordan Mailata, Landon Dick",
+      "link": "https://www.phillyvoice.com/long-term-look-eagles-offensive-line-lane-johnson-landon-dickerson-cam-jurgens-jordan-mailata-tyler-steen/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 18 Aug 2026 13:51:41 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-10T185632Z_994807342_MT1USATODAY29167722_RTRMADP_3_NFL-PHILADELPHI.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles-Ravens Film Review: Thoughts on Eli Stowers, Markel Bell, Willie Lampkin, and much more",
+      "description": "IMPORTANT DISCLAIMER: It\u2019s preseason! We are back! Sort of. The Eagles\u2019 preseason opener was hardly an inspiring return to watching the Eagles. I am not interested in using a preseason game featuring almost no established starters to make sweeping de",
+      "link": "",
+      "pubDate": "2026-08-18T09:34:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
       "title": "Za\u2019Darius Smith returns to the NFL after retiring while on the Eagles last year",
       "description": "Here\u2019s a curious thing: Za\u2019Darius Smith is returning to the NFL to sign a one-year deal with the Atlanta Falcons, according to an official team announcement. Smith, who turns 34 next month, previously retired from football after spending five games w",
       "link": "",
@@ -371,6 +381,26 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Scouting the Sixers' competition: Orlando Magic looking for better health and a coaching spark",
+      "description": "The Orlando Magic became one of the disappointments of the 2025-26 NBA season. Is a leap coming?",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-nba-eastern-conference-power-rankings-odds-standings-orlando-magic/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 18 Aug 2026 12:44:49 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-10-28T002831Z_1740546098_MT1USATODAY27433075_RTRMADP_3_NBA-ORLANDO-MA.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Sixers mailbag: How should Nick Nurse stagger his stars?",
+      "description": "The most important in-game task for Sixers head coach Nick Nurse in 2026-27: using the right combinations of his stars at all times.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-nick-nurse-rotation-depth-chart-joel-embiid-jaylen-brown-lebron-james-tyrese-maxey-vj-edgecombe/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 18 Aug 2026 12:40:01 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/022626_SixersHeat_ColleenClaggett-9739.jpg",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
     },
     {
       "title": "Flyers 2026 Top 25 Under 25, No. 9: Jack Berglund",
@@ -627,16 +657,6 @@
       "description": "Let\u2019s get to the Philadelphia Eagles news and links \u2026 Eagles preseason: Backup QB race goes backward, Uar Bernard and Joshua Weru debut The AthleticInternational players steal the show. When I remember this game a decade from now \u2014 what does it say a",
       "link": "",
       "pubDate": "2026-08-16T08:58:56-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Eagles vs. Ravens Preseason: The good, the bad, and the ugly",
-      "description": "The first dress rehearsal did not go well. The Eagles\u2019 24-7 loss to the Baltimore Ravens on Saturday at MT Bank Stadium night honestly means nothing. What does is a new offense still under wraps. Who was playing to win and who wasn\u2019t. So, let\u2019s take ",
-      "link": "",
-      "pubDate": "2026-08-16T08:18:10-04:00",
       "author": "",
       "thumbnail": null,
       "team": "eagles",
@@ -1073,16 +1093,6 @@
       "source": "Philly Sports Wire"
     },
     {
-      "title": "Heroes and zeroes from Day 10 of Eagles training camp: Jeremiah Trotter Jr. has a day",
-      "description": "The Eagles had the pads on and ran a bevy of plays with the offense in the shadow of its own goal post.",
-      "link": "https://www.phillyvoice.com/heroes-zeroes-eagles-training-camp-practice-day-10-jeremiah-trotter-eli-stowers-roster-news/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 11 Aug 2026 18:53:55 +0000",
-      "author": "Evan Macy",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/080426_EaglesTrainingCamp_ColleenClaggett-6934_ItZnstk.jpg",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
       "title": "Tickets to Lakers vs. 76ers Christmas Day 2026: How to buy, prices, game time to see LeBron James",
       "description": "The Lakers host the 76ers on a Christmas Day matchup. Here's how to get tickets to the meeting in Los Angeles.",
       "link": "https://www.sportingnews.com/us/tickets/news/tickets-lakers-vs-76ers-christmas-day-2026-buy-prices-time/2005060b48a404e91b8087c9",
@@ -1148,6 +1158,16 @@
       "link": "https://www.espn.com/nfl/story/_/id/49574464/2026-nfl-training-camp-updates-buzz-notes-news-fantasy-football",
       "pubDate": "Tue, 11 Aug 2026 16:32:12 +0000",
       "author": "ESPN",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Heroes and zeroes from Day 10 of Eagles training camp: Jeremiah Trotter Jr. has a day",
+      "description": "The Eagles had the pads on and ran a bevy of plays with the offense in the shadow of its own goal post.",
+      "link": "https://www.phillyvoice.com/heroes-zeroes-eagles-training-camp-practice-day-10-jeremiah-trotter-eli-stowers-roster-news/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 11 Aug 2026 16:24:37 +0000",
+      "author": "PhillyVoice",
       "thumbnail": null,
       "team": "eagles",
       "source": "Philly Sports Wire"
@@ -1289,16 +1309,6 @@
       "pubDate": "Fri, 31 Jul 2026 20:33:15 +0000",
       "author": "Adam Aaronson",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-02-03T061742Z_187751590_MT1USATODAY28145460_RTRMADP_3_NBA-PHILADELPHI.JPG",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "On top of star-studded lineup, Sixers finally valuing back-end roster spots",
-      "description": "In recent years, too many Sixers roster spots have been used on non-contributors. Heading into 2026-27, all 14 players have potential roles.",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-lineup-depth-chart-roster-mike-gansey-daryl-morey-lebron-james-highlights-kcp-stats-nba/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Thu, 30 Jul 2026 17:00:51 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/060826_051_MikeGanseyPressConference_KevinBarrett.jpg",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
     },
