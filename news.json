@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T19:16:17.292942+00:00",
+  "updated": "2026-08-19T20:11:59.563436+00:00",
   "count": 174,
   "articles": [
     {
@@ -31,6 +31,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_22618886.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "4 Flyers ranked on Corey Pronman\u2019s top NHL players under 23",
+      "description": "Were in the dog days of August, and we have yet another ranking that is generating some discussion. Corey Pronman, the senior NHL prospects writer for The Athletic, released his list of the top NHL players and prospects aged 22 or under as of Sept. 1",
+      "link": "https://www.broadstreethockey.com/post/four-flyers-ranked-on-corey-pronmans-top-nhl-players-under-23/",
+      "pubDate": "Wed, 19 Aug 2026 19:17:42 +0000",
+      "author": "Ryan Gilbert",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Flyers 2026 Top 25 Under 25, No. 8: Yegor Zavragin",
@@ -179,16 +189,6 @@
       "pubDate": "Thu, 13 Aug 2026 19:14:44 +0000",
       "author": "Jimmy Kempski",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/080426_EaglesTrainingCamp_ColleenClaggett-6343.jpg",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Eagles release first depth chart of the 2026 season",
-      "description": "The Philadelphia Eagles released their first depth chart of the 2026 season, because, well, they had to in advance of their first preseason game against the Baltimore Ravens. Otherwise, they wouldn't. Typically it's one of their PR guys \u2014 certainly n",
-      "link": "https://www.phillyvoice.com/eagles-release-first-depth-chart-2026-season/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Thu, 13 Aug 2026 12:10:17 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/Photo_May_01_2026_2_36_10_PM.jpg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
     },
@@ -381,6 +381,26 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "SportsTalk Philly"
+    },
+    {
+      "title": "Eagles 2026 training camp notes, Day 13: Eagles-Patriots joint practices, Part I",
+      "description": "Day 13 of Philadelphia Eagles training camp was also the first of two joint practices with A.J. Brown and the New England Patriots. Fun day! Let's just get right to the notes.",
+      "link": "https://www.phillyvoice.com/eagles-2026-training-camp-practice-notes-day-13-eagles-patriots-joit-part-i/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 19 Aug 2026 20:02:38 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-08-19T183146Z_139082925_MT1USATODAY29618739_RTRMADP_3_NFL-NEW-ENGLAND.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "A.J. Brown keeps diplomatic on Eagles exit: 'I'm not looking in the past'",
+      "description": "A.J. Brown and his former Eagles teammates knew he was going to be the focal point of this week's joint practices in New England.",
+      "link": "https://www.phillyvoice.com/aj-brown-speaks-eagles-patriots-joint-practices-jalen-hurts-devonta-smith-reactions-nfl/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 19 Aug 2026 19:21:02 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-07-28T230631Z_1070384705_MT1USATODAY29467355_RTRMADP_3_NFL-NEW-ENGLAN.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Phillies to sign former Yankees starting pitcher to big-league deal, report says",
@@ -763,16 +783,6 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "Flyers\u2019 Dan Vladar named one of the NHL\u2019s best goaltenders",
-      "description": "With a great first impression, a strong playoff run, and a new five-year extension in his back pocket, Flyers goaltender Dan Vladar is having a good 2026. And it seems the NHL Network has given the netminder some kudos in his direction, putting him e",
-      "link": "https://www.broadstreethockey.com/post/flyers-dan-vladar-cracks-nhl-networks-top-10-list-of-goaltenders/",
-      "pubDate": "Mon, 17 Aug 2026 13:12:55 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "Playoff race watch: Phillies can land two knockout blows this week",
       "description": "Thanks to their first series sweep since June, the Phillies went to sleep holding an NL postseason slot Sunday night.",
       "link": "https://www.phillyvoice.com/playoff-race-watch-phillies-schedule-standings-postseason-wild-card-cubs-marlins-cardinals-diamondbacks/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -1001,16 +1011,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Heroes and zeroes from Day 11 of Eagles training camp: Nick Sirianni didn't take control",
-      "description": "A look at some of the standouts \u2013 for good and bad reasons \u2013 after the 11th practice of Eagles training camp.",
-      "link": "https://www.phillyvoice.com/heroes-zeroes-eagles-training-camp-fight-brawl-nick-sirianni-highlights-stock-up-down/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Thu, 13 Aug 2026 16:32:18 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_27664361_1.jpg",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Winners and losers from the Phillies lackluster trip to St. Louis",
