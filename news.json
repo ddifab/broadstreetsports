@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T22:11:52.185769+00:00",
-  "count": 164,
+  "updated": "2026-08-19T23:11:42.257878+00:00",
+  "count": 160,
   "articles": [
     {
       "title": "New Phillies reliever records first save in three years with closer Jhoan Duran unavailable out of bullpen",
@@ -43,6 +43,16 @@
       "source": "Broad Street Hockey"
     },
     {
+      "title": "Four Flyers ranked on Corey Pronman\u2019s top NHL players under 23",
+      "description": "We\u2019re in the dog days of August, and we have yet another ranking that is generating some discussion. Corey Pronman, the senior NHL prospects writer for The Athletic, released his list of the top...",
+      "link": "https://www.broadstreethockey.com/post/four-flyers-ranked-on-corey-pronmans-top-nhl-players-under-23/",
+      "pubDate": "Wed, 19 Aug 2026 19:17:42 +0000",
+      "author": "Broad Street Hockey",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Philly Sports Wire"
+    },
+    {
       "title": "A.J. Brown didn\u2019t speak with Jalen Hurts or DeVonta Smith during Eagles-Patriots practice",
       "description": "There were (predictably) no fireworks from the Eagles-Patriots joint practice on Wednesday, and A.J. Brown for the most part stayed clear of his former team. The WR took the practice field with a short Big Dom interaction, and then ignored nearly eve",
       "link": "",
@@ -51,6 +61,16 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "A.J. Brown reveals he has not talked with Jalen Hurts since Eagles-Patriots trade",
+      "description": "The former Eagles teammates have yet to talk since the blockbuster trade.",
+      "link": "https://www.sportingnews.com/us/nfl/philadelphia-eagles/news/aj-brown-has-not-talked-jalen-hurts-eagles-patriots-trade/86859b5b2257725f70160d46",
+      "pubDate": "Wed, 19 Aug 2026 17:11:17 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Flyers 2026 Top 25 Under 25, No. 8: Yegor Zavragin",
@@ -171,16 +191,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/080426_EaglesTrainingCamp_ColleenClaggett-6343.jpg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Ben Simmons landing spots: 76ers, Warriors among top options for former No. 1 pick amid comeback rumors",
-      "description": "If Ben Simmons returns to the NBA, these could be the top options to land him.",
-      "link": "https://www.sportingnews.com/us/nba/news/ben-simmons-landing-spots-76ers-warriors/aac00da041f17e9598847cd5",
-      "pubDate": "Tue, 11 Aug 2026 17:38:44 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
     },
     {
       "title": "LeBron James, Jaylen Brown to make Sixers home debuts vs. Cleveland Cavaliers",
@@ -363,6 +373,16 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Eagles-Patriots Joint Training Camp Practice Notes: Day 1",
+      "description": "Today marked the thirteenth Philadelphia Eagles training camp practice ahead of the 2026 NFL season. It was an action-packed joint training camp session against the New England Patriots. Here\u2019s what I observed up at the New Balance Athletics Center i",
+      "link": "",
+      "pubDate": "2026-08-19T18:52:51-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
       "title": "Phillies notes: \u2018Nasty Nestor,\u2019 a rookie reliever and Don Mattingly\u2019s thoughts on a potential six-man rotation",
       "description": "PHILADELPHIA The reports swirled on Wednesday morning that the Phillies had an agreement with left-hander Nestor Cortes, a former All-Star with the Yankees who has not pitched this season after undergoing arm surgery last October. It will be a big-le",
       "link": "https://philliesnation.com/2026/08/phillies-notes-nasty-nestor-cortes-alex-mcfarlane-a-rookie-reliever-and-don-mattinglys-thoughts-on-a-potential-six-man-rotation/",
@@ -371,6 +391,16 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
+    },
+    {
+      "title": "A.J. Brown hasn't spoken to Jalen Hurts, but sends message with dominant showing vs. Eagles in joint practice",
+      "description": "Brown already looks comfortable with Drake Maye after his relationship with Hurts became strained in Philadelphia",
+      "link": "https://www.cbssports.com/nfl/news/aj-brown-jalen-hurts-eagles-patriots-joint-practice/",
+      "pubDate": "Wed, 19 Aug 2026 20:54:37 +0000",
+      "author": "CBS Sports",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Introducing the NFC East Mixtape Feed",
@@ -393,6 +423,36 @@
       "source": "PhillyVoice Eagles"
     },
     {
+      "title": "Patriots' Brown professes 'love' for Hurts, Eagles",
+      "description": "Patriots receiver A.J. Brown said he has nothing but \"love\" for the Eagles and former teammate Jalen Hurts following the two teams' joint practice.",
+      "link": "https://www.espn.com/nfl/story/_/id/49661851/patriots-brown-professes-love-hurts-eagles-practice",
+      "pubDate": "Wed, 19 Aug 2026 20:00:14 +0000",
+      "author": "ESPN",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Practice Notes: Saquon Barkley, rushing attack set the tone in New England",
+      "description": "Quarterback Jalen Hurts showcased perfect touch on a couple of deep throws, while cornerback Riq Woolen used his size and speed to make life tough for the Patriots\u2019 offense.",
+      "link": "https://www.philadelphiaeagles.com/news/practice-notes-saquon-barkley-rushing-attack-set-the-tone-in-new-england",
+      "pubDate": "Wed, 19 Aug 2026 20:00:00 +0000",
+      "author": "Eagles.com",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Spadaro: Quinyon Mitchell lets his play on the field do the talking",
+      "description": "The Eagles All-Pro cornerback knows it\u2019s \"iron sharpens iron\" at joint practices with the Patriots.",
+      "link": "https://www.philadelphiaeagles.com/news/spadaro-quinyon-mitchell-lets-his-play-on-the-field-do-the-talking",
+      "pubDate": "Wed, 19 Aug 2026 19:35:39 +0000",
+      "author": "Eagles.com",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
       "title": "A.J. Brown keeps diplomatic on Eagles exit: 'I'm not looking in the past'",
       "description": "A.J. Brown and his former Eagles teammates knew he was going to be the focal point of this week's joint practices in New England.",
       "link": "https://www.phillyvoice.com/aj-brown-speaks-eagles-patriots-joint-practices-jalen-hurts-devonta-smith-reactions-nfl/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -401,6 +461,76 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-07-28T230631Z_1070384705_MT1USATODAY29467355_RTRMADP_3_NFL-NEW-ENGLAN.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles might have Jalen Hurts concern amid 3-INT practice vs. Patriots",
+      "description": "This was a rough performance for Jalen Hurts at the Eagles vs. Patriots joint practice.",
+      "link": "https://www.sportingnews.com/us/nfl/philadelphia-eagles/news/eagles-might-jalen-hurts-concern-3-int-practice-vs-patriots/6fb5e8f3309bececcb746e40",
+      "pubDate": "Wed, 19 Aug 2026 18:38:41 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Phillies' Bryson Stott makes MLB history not seen since Albert Pujols 18 years ago",
+      "description": "This is some impressive company and history for Stott to join.",
+      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-bryson-stott-mlb-history-not-seen-albert-pujols/b968ada8f5869f9d58e60abc",
+      "pubDate": "Wed, 19 Aug 2026 18:21:59 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Reports: Phillies sign free agent LHP Nestor Cortes",
+      "description": "Free-agent left-hander Nestor Cortes has signed with the Philadelphia Phillies, multiple outlets reported Wednesday.,Terms of the deal were not disclo",
+      "link": "https://deadspin.com/reports-phillies-sign-free-agent-lhp-nestor-cortes/",
+      "pubDate": "Wed, 19 Aug 2026 17:37:54 +0000",
+      "author": "Deadspin",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Eagles OLB Jonathan Greenard To Miss Start Of Season?",
+      "description": "There appears to be a growing possibility the Eagles will open 2026 without injured outside linebacker Jonathan Greenard, their marquee offseason acquisition. Defensive coordinator Vic Fangio...",
+      "link": "https://www.profootballrumors.com/2026/08/eagles-olb-jonathan-greenard-to-miss-start-of-season",
+      "pubDate": "Wed, 19 Aug 2026 17:22:53 +0000",
+      "author": "Pro Football Rumors",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Crafty lefty Cortes agrees to Major League deal with Phillies (source)",
+      "description": "",
+      "link": "https://www.mlb.com/phillies/news/nestor-cortes-phillies-deal",
+      "pubDate": "Wed, 19 Aug 2026 16:59:49 +0000",
+      "author": "MLB.com",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "MLB insider's Phillies rotation reunion could've been a surer thing than Nestor Cortes",
+      "description": "MLB Insider Robert Murray suggests a reunion between Michael Lorenzen and the Philadelphia Phillies, but would that be enough to solve the team's rotation woes?",
+      "link": "https://thatballsouttahere.com/mlb-insider-s-phillies-rotation-reunion-could-ve-been-a-surer-thing-than-nestor-cortes?utm_source=RSS",
+      "pubDate": "Wed, 19 Aug 2026 16:48:00 +0000",
+      "author": "That Ball's Outta Here",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Flyers sign Nolan Foote to one-year, two-way contract",
+      "description": "Foote spent 2025-26 with the Florida Panthers and their AHL affiliate, the Charlotte Checkers.",
+      "link": "https://www.dailyfaceoff.com/news/nolan-foote-philadelphia-flyers-one-year-contract-nhl-offseason-news",
+      "pubDate": "Wed, 19 Aug 2026 16:27:45 +0000",
+      "author": "Daily Faceoff",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Phillies to sign former Yankees starting pitcher to big-league deal, report says",
@@ -651,16 +781,6 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Eagles rookie report card: Ravens preseason game",
-      "description": "The Eagles lost their first preseason game. Not the biggest deal in the world, as it mostly matters that they go into the season healthy and confident in their roster. What Saturday\u2019s game gave us some insight into, however, was where some young play",
-      "link": "",
-      "pubDate": "2026-08-17T18:20:46-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Sixers announce 2026-27 preseason schedule",
@@ -1033,66 +1153,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Phillies\u2019 comparisons to 2022 team aren't accurate, but their fate isn't sealed yet",
-      "description": "The 2026 Phillies are lightyears behind their 2022 counterparts, but they do still have a ray of hope.",
-      "link": "https://thatballsouttahere.com/phillies-comparisons-to-2022-team-arent-accurate-but-their-fate-isnt-sealed-yet?utm_source=RSS",
-      "pubDate": "Tue, 11 Aug 2026 22:30:00 +0000",
-      "author": "That Ball's Outta Here",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Eagles Training Camp Notes: Highlights ahead of the first preseason game",
-      "description": "Contested catches stole the spotlight during Tuesday\u2019s last full-pads practice before the Eagles\u2019 first preseason contest.",
-      "link": "https://www.philadelphiaeagles.com/news/eagles-training-camp-notes-highlights-ahead-of-the-first-preseason-game",
-      "pubDate": "Tue, 11 Aug 2026 22:29:53 +0000",
-      "author": "Eagles.com",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Phillies finally heed fans' calls for top relief prospect after Alan Rangel sacrifice",
-      "description": "In a long-awaited move, the Philadelphia Phillies have recalled Alex McFarlane, and their top relief prospect should finally have a genuine chance to make his mark in the bullpen.",
-      "link": "https://thatballsouttahere.com/phillies-finally-heed-fans-calls-for-top-relief-prospect-after-alan-rangel-sacrifice?utm_source=RSS",
-      "pubDate": "Tue, 11 Aug 2026 21:32:35 +0000",
-      "author": "That Ball's Outta Here",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Phillies finally promote exciting reliever prospect with 1.83 ERA back to MLB",
-      "description": "This roster move has been a long-time coming for the Phillies.",
-      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-promote-exciting-reliever-prospect-183-era-back-mlb/337e041e8fc9d87b8af3a9b1",
-      "pubDate": "Tue, 11 Aug 2026 20:27:50 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Carter on Hurts' increased speed: 'Like a movie'",
-      "description": "Jalen Hurts is drawing rave reviews in training camp by using his legs more, with players and coaches commenting how much faster he looks now.",
-      "link": "https://www.espn.com/nfl/story/_/id/49584056/eagles-qb-jalen-hurts-speed-camp-drawing-rave-reviews",
-      "pubDate": "Tue, 11 Aug 2026 19:37:41 +0000",
-      "author": "ESPN",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Eagles 2026 training camp practice notes, Day 10: Depth in the trenches is looking good",
-      "description": "Day 10 of Philadelphia Eagles training camp is in the books, and we have a lot of observations about the Eagles' blockers, whether that's linemen, tight ends, or running backs. Let's just get to...",
-      "link": "https://www.phillyvoice.com/eagles-2026-training-camp-practice-notes-day-10-depth-in-trenches-looking-good/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 11 Aug 2026 19:22:08 +0000",
-      "author": "PhillyVoice",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Philly Sports Wire"
-    },
-    {
       "title": "Flyers summer roundup: Jack Berglund to play one more year in Sweden",
       "description": "On Jack Berglund going back to Sweden, Nikita Grebenkin's new contract, and support for Jason Myrtetus in his cancer battle.",
       "link": "https://www.phillyvoice.com/flyers-news-roundup-jack-berglund-shl-loan-nikita-grebenkin-tommy-alva-jason-myrtetus-nhl/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -1101,106 +1161,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-01-02T200003Z_408598815_MT1USATODAY27919558_RTRMADP_3_HOCKEY-2026-IIH.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "76ers' LeBron James and Lakers' Bronny James set to make NBA history on Christmas Day",
-      "description": "The Philadelphia 76ers and Los Angeles Lakers meet on Christmas Day. Bronny James and LeBron James will once again make NBA history together.",
-      "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/76ers-lebron-james-and-lakers-bronny-james-set-make-nba-history-christmas-day/1933e1069d5deee5c3f189e6",
-      "pubDate": "Tue, 11 Aug 2026 18:58:00 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Tickets to Lakers vs. 76ers Christmas Day 2026: How to buy, prices, game time to see LeBron James",
-      "description": "The Lakers host the 76ers on a Christmas Day matchup. Here's how to get tickets to the meeting in Los Angeles.",
-      "link": "https://www.sportingnews.com/us/tickets/news/tickets-lakers-vs-76ers-christmas-day-2026-buy-prices-time/2005060b48a404e91b8087c9",
-      "pubDate": "Tue, 11 Aug 2026 18:37:16 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Saquon Barkley shares one wish for Eagles' offense that might come true this season",
-      "description": "This one wish from Saquon Barkley could come true this season.",
-      "link": "https://www.sportingnews.com/us/nfl/philadelphia-eagles/news/saquon-barkley-wish-eagles-offense-might-come-true-season/d681c44d48ddfe901653a6b5",
-      "pubDate": "Tue, 11 Aug 2026 18:28:17 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Eagles WR Dontayvion Wicks might be major factor for passing game in 2026",
-      "description": "This update is a very interesting one for the Eagles and their new WR.",
-      "link": "https://www.sportingnews.com/us/nfl/philadelphia-eagles/news/eagles-dontayvion-wicks-might-major-factor-passing-game-2026/2aedefe2a6ecd65ca721a0ca",
-      "pubDate": "Tue, 11 Aug 2026 18:16:07 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Eagles fans will love Jalen Hurts update amid 'quicker and faster' report",
-      "description": "This update for the Eagles quarterback is an exciting one.",
-      "link": "https://www.sportingnews.com/us/nfl/philadelphia-eagles/news/eagles-fans-love-jalen-hurts-update-quicker-faster-report/594fce9466fa2576db2926aa",
-      "pubDate": "Tue, 11 Aug 2026 18:02:36 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "5 young players the Flyers could steal off waivers before next season",
-      "description": "The beginning of the NHL season involves all 32 teams jumping through different hoops as they get ready for actual games to be played and for their roster to be finalized. First, it\u2019s rookie camp...",
-      "link": "https://www.broadstreethockey.com/post/5-young-players-the-flyers-could-steal-off-waivers-before-next-season/",
-      "pubDate": "Tue, 11 Aug 2026 17:58:49 +0000",
-      "author": "Broad Street Hockey",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Can you Guess the Eagle?",
-      "description": "You get up to four clues each to figure out four of the current Eagles.",
-      "link": "https://www.philadelphiaeagles.com/news/can-you-guess-the-eagle-training-camp-version-2",
-      "pubDate": "Tue, 11 Aug 2026 17:25:05 +0000",
-      "author": "Eagles.com",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "NFL training camp buzz notebook: Updates on Caleb Downs, Denzel Boston, Jalen Hurts, more",
-      "description": "Here's what we heard on the road at training camp for the 49ers, Bengals, Bills, Browns, Cowboys, Eagles, Jets, Raiders, Ravens, Seahawks and Steelers.",
-      "link": "https://www.espn.com/nfl/story/_/id/49574464/2026-nfl-training-camp-updates-buzz-notes-news-fantasy-football",
-      "pubDate": "Tue, 11 Aug 2026 16:32:12 +0000",
-      "author": "ESPN",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Heroes and zeroes from Day 10 of Eagles training camp: Jeremiah Trotter Jr. has a day",
-      "description": "The Eagles had the pads on and ran a bevy of plays with the offense in the shadow of its own goal post.",
-      "link": "https://www.phillyvoice.com/heroes-zeroes-eagles-training-camp-practice-day-10-jeremiah-trotter-eli-stowers-roster-news/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 11 Aug 2026 16:24:37 +0000",
-      "author": "PhillyVoice",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Eagles' Greenard out another couple of weeks",
-      "description": "Eagles defensive coordinator Vic Fangio expects OLB Jonathan Greenard to miss at least another couple of weeks as he continues to recover from a pectoral injury.",
-      "link": "https://www.espn.com/nfl/story/_/id/49582563/eagles-olb-greenard-another-couple-weeks-pec-injury",
-      "pubDate": "Tue, 11 Aug 2026 15:41:28 +0000",
-      "author": "ESPN",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Philly Sports Wire"
     },
     {
       "title": "Sixers mailbag: Value of LeBron James' dunking and ranking reserves' minutes",
