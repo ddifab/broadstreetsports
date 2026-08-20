@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T00:29:46.869297+00:00",
-  "count": 156,
+  "updated": "2026-08-20T02:08:35.657885+00:00",
+  "count": 169,
   "articles": [
     {
       "title": "New Phillies reliever records first save in three years with closer Jhoan Duran unavailable out of bullpen",
@@ -43,6 +43,16 @@
       "source": "Broad Street Hockey"
     },
     {
+      "title": "Four Flyers ranked on Corey Pronman\u2019s top NHL players under 23",
+      "description": "We\u2019re in the dog days of August, and we have yet another ranking that is generating some discussion. Corey Pronman, the senior NHL prospects writer for The Athletic, released his list of the top...",
+      "link": "https://www.broadstreethockey.com/post/four-flyers-ranked-on-corey-pronmans-top-nhl-players-under-23/",
+      "pubDate": "Wed, 19 Aug 2026 19:17:42 +0000",
+      "author": "Broad Street Hockey",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Philly Sports Wire"
+    },
+    {
       "title": "A.J. Brown didn\u2019t speak with Jalen Hurts or DeVonta Smith during Eagles-Patriots practice",
       "description": "There were (predictably) no fireworks from the Eagles-Patriots joint practice on Wednesday, and A.J. Brown for the most part stayed clear of his former team. The WR took the practice field with a short Big Dom interaction, and then ignored nearly eve",
       "link": "",
@@ -51,6 +61,16 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "A.J. Brown reveals he has not talked with Jalen Hurts since Eagles-Patriots trade",
+      "description": "The former Eagles teammates have yet to talk since the blockbuster trade.",
+      "link": "https://www.sportingnews.com/us/nfl/philadelphia-eagles/news/aj-brown-has-not-talked-jalen-hurts-eagles-patriots-trade/86859b5b2257725f70160d46",
+      "pubDate": "Wed, 19 Aug 2026 17:11:17 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Flyers 2026 Top 25 Under 25, No. 8: Yegor Zavragin",
@@ -373,6 +393,16 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Bryson Stott, Alec Bohn stay hot vs. Marlins, and so does Aaron Nola as Phillies score another sweep",
+      "description": "Alec Bohm and Bryson Stott stayed hot, the bullpen got some key outs, an umpire helped out and the surging Phillies swept the Marlins for their second straight sweep.",
+      "link": "https://www.phillyvoice.com/phillies-marlins-recap-sweep-national-league-wild-card-cris-sanchez-bryson-stott/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Thu, 20 Aug 2026 01:00:05 +0000",
+      "author": "Geoff Mosher",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-08-18T021249Z_1422762519_MT1USATODAY29607543_RTRMADP_3_MLB-MIAMI-MARL.JPG",
+      "team": "phillies",
+      "source": "PhillyVoice"
+    },
+    {
       "title": "Eagles-Patriots Joint Training Camp Practice Notes: Day 1",
       "description": "Today marked the thirteenth Philadelphia Eagles training camp practice ahead of the 2026 NFL season. It was an action-packed joint training camp session against the New England Patriots. Here\u2019s what I observed up at the New Balance Athletics Center i",
       "link": "",
@@ -391,6 +421,16 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
+    },
+    {
+      "title": "A.J. Brown hasn't spoken to Jalen Hurts, but sends message with dominant showing vs. Eagles in joint practice",
+      "description": "Brown already looks comfortable with Drake Maye after his relationship with Hurts became strained in Philadelphia",
+      "link": "https://www.cbssports.com/nfl/news/aj-brown-jalen-hurts-eagles-patriots-joint-practice/",
+      "pubDate": "Wed, 19 Aug 2026 20:54:37 +0000",
+      "author": "CBS Sports",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Introducing the NFC East Mixtape Feed",
@@ -413,6 +453,36 @@
       "source": "PhillyVoice Eagles"
     },
     {
+      "title": "Patriots' Brown professes 'love' for Hurts, Eagles",
+      "description": "Patriots receiver A.J. Brown said he has nothing but \"love\" for the Eagles and former teammate Jalen Hurts following the two teams' joint practice.",
+      "link": "https://www.espn.com/nfl/story/_/id/49661851/patriots-brown-professes-love-hurts-eagles-practice",
+      "pubDate": "Wed, 19 Aug 2026 20:00:14 +0000",
+      "author": "ESPN",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Practice Notes: Saquon Barkley, rushing attack set the tone in New England",
+      "description": "Quarterback Jalen Hurts showcased perfect touch on a couple of deep throws, while cornerback Riq Woolen used his size and speed to make life tough for the Patriots\u2019 offense.",
+      "link": "https://www.philadelphiaeagles.com/news/practice-notes-saquon-barkley-rushing-attack-set-the-tone-in-new-england",
+      "pubDate": "Wed, 19 Aug 2026 20:00:00 +0000",
+      "author": "Eagles.com",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Spadaro: Quinyon Mitchell lets his play on the field do the talking",
+      "description": "The Eagles All-Pro cornerback knows it\u2019s \"iron sharpens iron\" at joint practices with the Patriots.",
+      "link": "https://www.philadelphiaeagles.com/news/spadaro-quinyon-mitchell-lets-his-play-on-the-field-do-the-talking",
+      "pubDate": "Wed, 19 Aug 2026 19:35:39 +0000",
+      "author": "Eagles.com",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
       "title": "A.J. Brown keeps diplomatic on Eagles exit: 'I'm not looking in the past'",
       "description": "A.J. Brown and his former Eagles teammates knew he was going to be the focal point of this week's joint practices in New England.",
       "link": "https://www.phillyvoice.com/aj-brown-speaks-eagles-patriots-joint-practices-jalen-hurts-devonta-smith-reactions-nfl/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -421,6 +491,76 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-07-28T230631Z_1070384705_MT1USATODAY29467355_RTRMADP_3_NFL-NEW-ENGLAN.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles might have Jalen Hurts concern amid 3-INT practice vs. Patriots",
+      "description": "This was a rough performance for Jalen Hurts at the Eagles vs. Patriots joint practice.",
+      "link": "https://www.sportingnews.com/us/nfl/philadelphia-eagles/news/eagles-might-jalen-hurts-concern-3-int-practice-vs-patriots/6fb5e8f3309bececcb746e40",
+      "pubDate": "Wed, 19 Aug 2026 18:38:41 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Phillies' Bryson Stott makes MLB history not seen since Albert Pujols 18 years ago",
+      "description": "This is some impressive company and history for Stott to join.",
+      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-bryson-stott-mlb-history-not-seen-albert-pujols/b968ada8f5869f9d58e60abc",
+      "pubDate": "Wed, 19 Aug 2026 18:21:59 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Reports: Phillies sign free agent LHP Nestor Cortes",
+      "description": "Free-agent left-hander Nestor Cortes has signed with the Philadelphia Phillies, multiple outlets reported Wednesday.,Terms of the deal were not disclo",
+      "link": "https://deadspin.com/reports-phillies-sign-free-agent-lhp-nestor-cortes/",
+      "pubDate": "Wed, 19 Aug 2026 17:37:54 +0000",
+      "author": "Deadspin",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Eagles OLB Jonathan Greenard To Miss Start Of Season?",
+      "description": "There appears to be a growing possibility the Eagles will open 2026 without injured outside linebacker Jonathan Greenard, their marquee offseason acquisition. Defensive coordinator Vic Fangio...",
+      "link": "https://www.profootballrumors.com/2026/08/eagles-olb-jonathan-greenard-to-miss-start-of-season",
+      "pubDate": "Wed, 19 Aug 2026 17:22:53 +0000",
+      "author": "Pro Football Rumors",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Crafty lefty Cortes agrees to Major League deal with Phillies (source)",
+      "description": "",
+      "link": "https://www.mlb.com/phillies/news/nestor-cortes-phillies-deal",
+      "pubDate": "Wed, 19 Aug 2026 16:59:49 +0000",
+      "author": "MLB.com",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "MLB insider's Phillies rotation reunion could've been a surer thing than Nestor Cortes",
+      "description": "MLB Insider Robert Murray suggests a reunion between Michael Lorenzen and the Philadelphia Phillies, but would that be enough to solve the team's rotation woes?",
+      "link": "https://thatballsouttahere.com/mlb-insider-s-phillies-rotation-reunion-could-ve-been-a-surer-thing-than-nestor-cortes?utm_source=RSS",
+      "pubDate": "Wed, 19 Aug 2026 16:48:00 +0000",
+      "author": "That Ball's Outta Here",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Flyers sign Nolan Foote to one-year, two-way contract",
+      "description": "Foote spent 2025-26 with the Florida Panthers and their AHL affiliate, the Charlotte Checkers.",
+      "link": "https://www.dailyfaceoff.com/news/nolan-foote-philadelphia-flyers-one-year-contract-nhl-offseason-news",
+      "pubDate": "Wed, 19 Aug 2026 16:27:45 +0000",
+      "author": "Daily Faceoff",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Phillies to sign former Yankees starting pitcher to big-league deal, report says",
@@ -1279,16 +1419,6 @@
       "pubDate": "Wed, 22 Jul 2026 16:25:24 +0000",
       "author": "Nick Tricome",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-07-22T031006Z_1543086375_MT1USATODAY29426553_RTRMADP_3_MLB-LOS-ANGELE.JPG",
-      "team": "phillies",
-      "source": "PhillyVoice"
-    },
-    {
-      "title": "Can Zack Wheeler really win NL Cy Young award this season?",
-      "description": "Sort of under the radar over the last few weeks, 36-year-old veteran Zack Wheeler has reclaimed his spot as the Phillies best starting pitcher. And he might be the best one in the National League.",
-      "link": "https://www.phillyvoice.com/zack-wheeler-stats-analysis-rumors-news-nl-cy-young-award-season-cris-sanchez-innings-qualify/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 22 Jul 2026 13:41:32 +0000",
-      "author": "Evan Macy",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-07-22T025504Z_936007305_MT1USATODAY29426525_RTRMADP_3_MLB-LOS-ANGELES.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
     },
