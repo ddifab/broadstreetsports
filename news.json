@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T22:08:29.227689+00:00",
+  "updated": "2026-08-22T23:08:50.257590+00:00",
   "count": 166,
   "articles": [
     {
@@ -41,6 +41,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2019-05-13T142349Z_760376707_NOCID_RTRMADP_3_NBA-PLAYOFFS-PHILADELPHIA-76E.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Jalen Hurts, A.J. Brown share a moment after Eagles-Patriots practice",
+      "description": "On Wednesday, A.J. Brown was asked if he\u2019s talked to Jalen Hurts since being traded from the Philadelphia Eagles to the New England Patriots. Brown\u2019s one word answer: \u201cNo.\u201d On Thursday, the two caught up for a brief moment following Thursday\u2019s joint ",
+      "link": "",
+      "pubDate": "2026-08-20T15:31:55-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Phillies Nation Top 15 Phillies Prospects: Post-Trade Deadline 2026",
@@ -303,14 +313,14 @@
       "source": "SportsTalk Philly"
     },
     {
-      "title": "Eagles vs. Patriots preseason game updates",
-      "description": "The Philadelphia Eagles continue the 2026 NFL preseason on Saturday evening with a road game against the New England Patriots. (Click here for ways to watch!) The teams faced off at two joint practices earlier in the week, and the starters got a lot ",
-      "link": "",
-      "pubDate": "2026-08-22T18:00:00-04:00",
-      "author": "",
-      "thumbnail": null,
+      "title": "Live updates / open thread: Eagles at Patriots, preseason game No. 2",
+      "description": "Chat Eagles-Patriots in the preseason as it happens.",
+      "link": "https://www.phillyvoice.com/live-updates-open-thread-eagles-patriots-preseason-game-no-2-2026/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sat, 22 Aug 2026 22:28:56 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2022-12-04T213126Z_1120428029_MT1USATODAY19563297_RTRMADP_3_NFL-TENNESSEE-.JPG",
       "team": "eagles",
-      "source": "Bleeding Green Nation"
+      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Phillies notes: Why Bryson Stott is out of lineup vs. Cardinals, an injury update and more",
@@ -649,16 +659,6 @@
       "pubDate": "Thu, 20 Aug 2026 12:52:16 +0000",
       "author": "Jimmy Kempski",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/IMG_4125.jpeg",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Eagles 2026 training camp battle tracker",
-      "description": "At the start of Eagles training camp, there are a half dozen battles to be won or lost over the next month or so. Here we'll keep track of each of those battles and add analysis after each practice.",
-      "link": "https://www.phillyvoice.com/eagles-2026-training-camp-battle-tracker-wide-receiver-tight-end-safety-edge-qb2/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Thu, 20 Aug 2026 12:19:35 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-05-01T195858Z_89307492_MT1USATODAY28854522_RTRMADP_3_NFL-PHILADELPHIA.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
     },
