@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T12:21:18.479169+00:00",
+  "updated": "2026-08-25T13:38:28.133118+00:00",
   "count": 169,
   "articles": [
     {
@@ -21,6 +21,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_22618886.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "Six Eagles players land on NFL's 'Top 100' list",
+      "description": "Each year the NFL releases its Top 100 list, \"voted on by the players themselves.\" Six Philadelphia Eagles players made the cut. A year ago, 10 Eagles players made it following their Super Bowl winning season.",
+      "link": "https://www.phillyvoice.com/six-eagles-players-nfl-top-100-list-jalen-hurts-saquon-barkley-quinyon-mitchell-cooper-dejean-zack-baun-jalen-carter/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 25 Aug 2026 12:26:33 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-07-24T163700Z_964853722_MT1USATODAY26699685_RTRMADP_3_NFL-PHILADELPHI.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Porter Martone to be central to Flyers 2026-27 power play",
@@ -213,16 +223,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "After 'crazy transition,' Jaylen Brown ready to win with Sixers: 'I want to earn everybody's respect and trust'",
-      "description": "At his introductory press conference on Thursday, Jaylen Brown discussed being traded to the Sixers, playing alongside LeBron James and much more.",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-jaylen-brown-press-conference-interview-trade-reaction-celtics-lebron-james-joel-embiid-nba/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Thu, 06 Aug 2026 21:41:55 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/080626_JaylenBrownPresser_ColleenClaggett-7712.jpg",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
       "title": "Report: Phillies trade for lefty reliever Brooks Raley",
       "description": "The Phillies have their lefty specialist.",
       "link": "https://www.phillyvoice.com/report-phillies-trade-for-lefty-reliever-brooks-raley-news-analysis-rumors-mets-deadline/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -351,6 +351,16 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "SportsTalk Philly"
+    },
+    {
+      "title": "Scouting the Sixers' competition: Welcome back, Indiana Pacers",
+      "description": "Can the Indiana Pacers return to the NBA Finals? Old friend Kelly Oubre Jr. will help them try.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-nba-eastern-conference-power-rankings-odds-standings-indiana-pacers/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 25 Aug 2026 12:38:24 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2024-12-14T030519Z_1736287847_MT1USATODAY24982020_RTRMADP_3_NBA-INDIANA-PA.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
     },
     {
       "title": "Eagles News: Makai Lemon talks about being \u201cmore professional off the field\u201d",
@@ -1141,16 +1151,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/111725_SixersvCeltics_ColleenClaggett-9155.jpg",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Heroes and zeroes from Day 12 of Eagles training camp: Sloppy offense bows to opportunistic defense",
-      "description": "A look at some of the standouts \u2013 for good and bad reasons \u2013 after the 12th practice of Eagles training camp.",
-      "link": "https://www.phillyvoice.com/eagles-training-camp-heroes-zeroes-practice-jalen-hurts-interception-quinyon-mitchell/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 17 Aug 2026 19:35:41 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-07-30T160911Z_100646820_MT1USATODAY29479542_RTRMADP_3_NFL-PHILADELPHI.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "5 Sixers thoughts: Plans for open two-way slot, new face in front office and more",
