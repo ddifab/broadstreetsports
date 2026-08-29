@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-28T19:40:40.721411+00:00",
-  "count": 170,
+  "updated": "2026-08-29T02:31:01.178635+00:00",
+  "count": 166,
   "articles": [
     {
       "title": "Phillies pull off stunning comeback in ninth against Cardinals",
@@ -8,6 +8,16 @@
       "link": "https://philliesnation.com/2026/08/philadelphia-phillies-comeback-kyle-schwarber-august-23-2026-bryan-de-la-cruz-edmundo-sosa/",
       "pubDate": "Sun, 23 Aug 2026 20:33:32 +0000",
       "author": "Destiny Lugardo",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
+    },
+    {
+      "title": "Phillies release former organizational minor-league pitcher of the year amid disaster season",
+      "description": "The Phillies released a former organizational minor-league pitcher of the year amid a disaster season from the starter. Right-hander Jean Cabrera, named a Paul Owens Award winner by the club in 2021, was released on Friday, the Double-A Reading Fight",
+      "link": "https://philliesnation.com/2026/08/philadelphia-phillies-news-former-minor-league-pitcher-of-the-year-jean-cabrera-released-amid-disaster-season-2021-paul-owens-award/",
+      "pubDate": "Fri, 28 Aug 2026 23:04:12 +0000",
+      "author": "Ty Daubert",
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
@@ -41,6 +51,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_22618886.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "Charting the Phillies' path to home field advantage as playoff fate hangs in the balance",
+      "description": "Atlanta leads the NL East but currently sits without a bye, since Milwaukee and the Dodgers both have better records. Here's exactly what the Phillies would need to do to actually host October...",
+      "link": "https://thatballsouttahere.com/charting-the-phillies-path-to-home-field-advantage-as-playoff-fate-hangs-in-the-balance?utm_source=RSS",
+      "pubDate": "Fri, 28 Aug 2026 21:00:02 +0000",
+      "author": "That Ball's Outta Here",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Flyers 2026 Top 25 Under 25, No. 1: Porter Martone",
@@ -81,26 +101,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-09-14T201356Z_2116530778_MT1USATODAY27083593_RTRMADP_3_NFL-PHILADELPH.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Blue Jays quietly sign ex-Phillies All-Star pitcher recently released by Rockies",
-      "description": "Toronto has apparently signed an All-Star starting pitcher.",
-      "link": "https://www.sportingnews.com/us/mlb/toronto-blue-jays/news/blue-jays-ex-phillies-all-star-pitcher-released-rockies/b1023f6b814fa79e7ab7fe8d",
-      "pubDate": "Thu, 27 Aug 2026 20:22:21 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Kevin Durant breaks down why LeBron James\u2019 76ers decision makes Philadelphia scary",
-      "description": "Kevin Durant explains how LeBron James joining Joel Embiid, Tyrese Maxey, and Jaylen Brown on a veteran minimum contract creates a scary 76ers superteam.",
-      "link": "https://www.sportingnews.com/us/nba/houston-rockets/news/kevin-durant-explains-lebron-james-76ers-superteam/4304fc51e09735210a7bc1fc",
-      "pubDate": "Thu, 27 Aug 2026 17:07:18 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
     },
     {
       "title": "Scouting the Sixers' competition: Will the Boston Celtics contend after making the Jaylen Brown trade?",
@@ -333,6 +333,66 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Live updates / open thread: Bengals at Eagles, preseason game No. 3",
+      "description": "Follow along and chat Eagles-Bengals to close out the 2026 preseason.",
+      "link": "https://www.phillyvoice.com/live-updates-open-thread-bengals-eagles-preseason-game-no-3-2026/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sat, 29 Aug 2026 02:07:19 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-09T205221Z_240466601_MT1USATODAY29160337_RTRMADP_3_NFL-PHILADELPHI.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Larry Christenson Passes Away",
+      "description": "Former Phillies right-hander Larry Christenson passed away unexpectedly on Friday, the team announced. Christenson was 72 years old. \u201cIt is with great sadness that we just learned of the passing...",
+      "link": "https://www.mlbtraderumors.com/2026/08/larry-christenson-passes-away.html",
+      "pubDate": "Sat, 29 Aug 2026 01:48:58 +0000",
+      "author": "MLB Trade Rumors",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Former Phillies pitcher and 1980 World Series champion Larry Christenson passes away",
+      "description": "Former Phillies pitcher and 1980 World Series champion Larry Christenson died unexpectedly on Friday morning, the club announced. The Washington native was spending time with family and friends on a fishing trip in his home state. He was 72 years old",
+      "link": "https://philliesnation.com/2026/08/former-phillies-pitcher-and-1980-world-series-champion-larry-christenson-passes-away/",
+      "pubDate": "Sat, 29 Aug 2026 01:23:59 +0000",
+      "author": "Ty Daubert",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
+    },
+    {
+      "title": "Larry Christenson, former Phillie and 1980 world champion, dies at 72",
+      "description": "Christenson debuted in 1973 at just 19 years old, and spent all 11 years of his career in Philadelphia.",
+      "link": "https://www.phillyvoice.com/larry-christenson-phillies-pitcher-1980-world-series-team-dies/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sat, 29 Aug 2026 01:22:45 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2022-08-19T013000Z_1005166812_MT1USATODAY18889753_RTRMADP_3_MLB-WASHINGTON.JPG",
+      "team": "phillies",
+      "source": "PhillyVoice"
+    },
+    {
+      "title": "Phillies pitcher Larry Christenson dies at age 72",
+      "description": "",
+      "link": "https://www.mlb.com/phillies/news/phillies-pitcher-larry-christenson-dies-at-age-72",
+      "pubDate": "Sat, 29 Aug 2026 00:53:00 +0000",
+      "author": "MLB.com",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Live Updates: Bengals vs. Eagles",
+      "description": "The Eagles host the Bengals at Lincoln Financial Field to close preseason action.",
+      "link": "https://www.philadelphiaeagles.com/news/game-recap-bengals-vs-eagles-2026-preseason-week-3",
+      "pubDate": "Fri, 28 Aug 2026 23:54:25 +0000",
+      "author": "Eagles.com",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
       "title": "The Flyers took key steps to raise their floor this offseason",
       "description": "It ended up being a lackluster offseason for the Philadelphia Flyers, all things considered. The Leo Carlsson offer sheet ended up being a swing and a miss by Danny Briere and the Flyers, and while perhaps fans can take some joy in forcing the Anahei",
       "link": "https://www.broadstreethockey.com/post/the-flyers-took-key-steps-to-raise-their-floor-this-offseason/",
@@ -353,14 +413,24 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "10 fascinating Eagles questions as training camp ends",
-      "description": "Fantasy football drafts have been set. The preseason games are almost over. Training camp is done. Yep, the 2026 NFL season is nearly here, and your Philadelphia Eagles are once again a contender. Are they the favorites to get back to the Super Bowl ",
-      "link": "",
-      "pubDate": "2026-08-28T11:55:00-04:00",
-      "author": "",
+      "title": "76ers star could return to FIBA World Cup qualifiers",
+      "description": "Despite not appearing on Thursday night, there's hope that Sixers star VJ Edgecombe will be present on Monday night.",
+      "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/76ers-star-could-return-fiba-world-cup-qualifiers/d635eccfa89766d722a96738",
+      "pubDate": "Fri, 28 Aug 2026 16:50:46 +0000",
+      "author": "Sporting News",
       "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
+      "team": "sixers",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Former 76ers sharpshooter goes off in FIBA World Cup qualifier",
+      "description": "Former Sixer Buddy Hield had himself a night against Uruguay.",
+      "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/former-76ers-sharpshooter-goes-fiba-world-cup-qualifier/ec2738a9aba7bedd5c2cd276",
+      "pubDate": "Fri, 28 Aug 2026 15:52:23 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "How to watch Phillies vs. Angels west-coast series",
@@ -393,14 +463,14 @@
       "source": "Bleeding Green Nation"
     },
     {
-      "title": "Joel Embiid\u2019s best playoff games, Part I: Game 3 vs. Raptors in 2019",
-      "description": "With the NBA calendar in its normal quiet period, now felt like a good time to talk about some of Joel Embiid\u2019s best playoff performances with the Sixers entering yet another season in which a deep playoff run will be the expectation. We\u2019ve made a li",
-      "link": "",
-      "pubDate": "2026-08-28T11:00:00-04:00",
-      "author": "",
+      "title": "Warriors reportedly land $15M former first-rounder who was waived by 76ers for LeBron James",
+      "description": "The Golden State Warriors may have finished their roster off by agreeing to terms with a recent first round draft pick. The Warriors continue building their roster as best as they can.",
+      "link": "https://www.sportingnews.com/us/nba/golden-state-warriors/news/warriors-reportedly-land-15m-former-first-rounder-who-was-waived-76ers-lebron-james/d052e25d09579b53073e8f4e",
+      "pubDate": "Fri, 28 Aug 2026 15:13:35 +0000",
+      "author": "Sporting News",
       "thumbnail": null,
       "team": "sixers",
-      "source": "Liberty Ballers"
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Brandon Graham joins PHLY Eagles gameday coverage",
@@ -421,6 +491,16 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Phillies' recent international success goes far deeper than Francisco Renteria breakout",
+      "description": "Francisco Renteria is drawing Konnor Griffin comparisons in a monster DSL season, and Juan Parra's 48 walks against 37 strikeouts stand out for an 18-year-old in year one. Two more names \u2014...",
+      "link": "https://thatballsouttahere.com/phillies-recent-international-success-goes-far-deeper-than-francisco-renteria-breakout?utm_source=RSS",
+      "pubDate": "Fri, 28 Aug 2026 14:00:01 +0000",
+      "author": "That Ball's Outta Here",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Eagles News: Time to bring Zach Ertz back?",
@@ -463,16 +543,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Schedule Preview, Part II: The longest road trip, a couple tough tests at home",
-      "description": "If there\u2019s one thing everyone loves doing at the end of August, it\u2019s figuring out their plans for January. In this series, we are breaking down the Sixers 2026-27 schedule into chunks to try to preview how each stretch of the season will go. Part 1 i",
-      "link": "",
-      "pubDate": "2026-08-28T09:00:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Ranking every Flyers move from the 2026 offseason",
       "description": "With training camp getting closer, and the season opener a little over one month away, its probably a good time to take stock regarding what Philadelphia Flyers general manager Danny Briere did (and did not do in one circumstance) regarding the roste",
       "link": "https://www.broadstreethockey.com/post/ranking-every-flyers-move-from-the-2026-offseason/",
@@ -493,36 +563,6 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "What channel is Eagles vs. Bengals on today? Time, TV schedule, live stream to watch NFL Week 3 preseason game",
-      "description": "Philadelphia and Cincinnati close out their preseason schedules Friday. Here's when and where to watch.",
-      "link": "https://www.sportingnews.com/us/nfl/news/eagles-bengals-channel-time-schedule-stream-nfl-preseason-game/364e90cb50853a0d34165756",
-      "pubDate": "Fri, 28 Aug 2026 06:00:02 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Phillies Announce Front Office Promotions",
-      "description": "The Phillies made a few front office promotions on Thursday afternoon. The most notable are bumps for Dan Aucoin and Luke Murton to assistant general manager roles. Aucion is an AGM of...",
-      "link": "https://www.mlbtraderumors.com/2026/08/phillies-announce-front-office-promotions.html",
-      "pubDate": "Fri, 28 Aug 2026 04:07:03 +0000",
-      "author": "MLB Trade Rumors",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Andrew Painter seeks continued success as Phillies face Angels",
-      "description": "The last time Reid Detmers made a start at Angel Stadium, he picked up his first home victory as a starter since April 12, 2024.,The 27-year-old left-",
-      "link": "https://deadspin.com/andrew-painter-seeks-continued-success-as-phillies-face-angels/",
-      "pubDate": "Fri, 28 Aug 2026 02:46:53 +0000",
-      "author": "Deadspin",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
       "title": "Phillies announce multiple changes to baseball operations personnel",
       "description": "Phillies president of baseball operations Dave Dombrowski on Thursday announced a slew of front office personnel moves. Among them, Dan Aucoin was promoted from senior director of baseball solutions to assistant general manager, research and informat",
       "link": "https://philliesnation.com/2026/08/philadelphia-phillies-front-office-personnel-dave-dombrowski-luke-murton-august-27-2026-mlb/",
@@ -533,26 +573,6 @@
       "source": "Phillies Nation"
     },
     {
-      "title": "Phillies could promote top pitching prospect to MLB with risky role change in mind",
-      "description": "This Phillies prospect promotion could come with a lot of risk.",
-      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-could-promote-top-prospect-risky-role-change-mind/2d6dfe948724977c94675400",
-      "pubDate": "Thu, 27 Aug 2026 19:45:54 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Phillies rightly passed on unexpected too little, too late Eugenio Su\u00e1rez temptation",
-      "description": "Cincinnati Reds' slugger Eugenio Su\u00e1rez was placed on waivers Thursday and could be a roster option for the Phillies. Although tempting based on what he did the year before, Su\u00e1rez is a shell of...",
-      "link": "https://thatballsouttahere.com/phillies-rightly-passed-on-unexpected-too-little-too-late-eugenio-suarez-temptation?utm_source=RSS",
-      "pubDate": "Thu, 27 Aug 2026 19:21:50 +0000",
-      "author": "That Ball's Outta Here",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
       "title": "V.J. Edgecombe Could Be X-Factor for 76ers\u2019 Championship Aspirations",
       "description": "The Philadelphia 76ers will have plenty of star power going into the 2026-27 campaign. LeBron James and Jaylen Brown have [] The post V.J. Edgecombe Could Be X-Factor for 76ers\u2019 Championship Aspirations appeared first on Philadelphia Sports Nation.",
       "link": "https://phlsportsnation.com/2026/08/27/vj-edgecombe-could-be-the-x-factor-for-the-76ers-championship-run/",
@@ -561,16 +581,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Phillies predicted to see Zack Wheeler win an MLB award, but not NL Cy Young",
-      "description": "This prediction would be a much-deserved honor for Wheeler.",
-      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-predicted-zack-wheeler-win-mlb-award-not-cy-young/5d5b65870e9cc598b7cddf0b",
-      "pubDate": "Thu, 27 Aug 2026 18:10:18 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
     },
     {
       "title": "Bob Myers to Jaylen Brown: \u201cDon\u2019t ever underestimate that you are a champion\u201d",
@@ -591,26 +601,6 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Luis Arraez has chance to do something Phillies have not seen in 12 years",
-      "description": "The Phillies' new addition has a chance to make some cool history.",
-      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/luis-arraez-chance-something-phillies-have-not-seen-12-years/b8620d484ccc082709f8733c",
-      "pubDate": "Thu, 27 Aug 2026 16:52:15 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Raptors to retire Kyle Lowry's No. 7 jersey vs. 76ers",
-      "description": "The Toronto Raptors will retire point guard Kyle Lowry's No. 7 jersey following their Jan. 10 game against the visiting Philadelphia 76ers.,Lowry will",
-      "link": "https://deadspin.com/raptors-to-retire-kyle-lowrys-no-7-jersey-vs-76ers/",
-      "pubDate": "Thu, 27 Aug 2026 16:37:31 +0000",
-      "author": "Deadspin",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
     },
     {
       "title": "Eagles Training Camp Practice Notes: Some hints for the final preseason game?",
@@ -641,26 +631,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Kyle Schwarber's 40th HR joins Ryan Howard in rare Phillies history",
-      "description": "This is an impressive and rare piece of Phillies history for Schwarber to join.",
-      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/kyle-schwarbers-40th-hr-ryan-howard-rare-phillies-history/41db84144aae05053aa6d2fc",
-      "pubDate": "Thu, 27 Aug 2026 15:02:35 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "'Built by the gods:' Uar Bernard, from Nigeria, has captivated the Eagles",
-      "description": "There were so many hands in the defensive tackle's journey to make it possible for him to get drafted this past April.",
-      "link": "https://www.espn.com/nfl/story/_/id/49733543/philadelphia-eagles-uar-bernard-2026-rookie",
-      "pubDate": "Thu, 27 Aug 2026 14:54:19 +0000",
-      "author": "ESPN",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Philly Sports Wire"
     },
     {
       "title": "Eagles make wide receiver swap prior to final preseason game",
@@ -731,6 +701,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/072926_EaglesTrainingCamp_ColleenClaggett-5693.jpg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Jeffrey Lurie to be inducted into the Eagles\u2019 Hall of Fame",
+      "description": "Philadelphia Eagles owner Jeffrey Lurie (official title: \u201cChairman and CEO\u201d) is being inducted into the Eagles Hall of Fame this season, according to a team announcement. Lurie will be formally honored at halftime of the Eagles\u2019 Week 7 home game agai",
+      "link": "",
+      "pubDate": "2026-08-26T13:02:24-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Nick Sirianni has a 'process' to Eagles preseason, and the Week 1 results make it hard to argue with",
@@ -1053,16 +1033,6 @@
       "source": "Phillies Nation"
     },
     {
-      "title": "Phillies to host watch party at Citizens Bank Park for upcoming road game",
-      "description": "PHILADELPHIA The Phillies are giving fans a chance to watch a game at Citizens Bank Park next weekend, despite the fact that the club will be on to the West Coast. The team is hosting a watch party and open house next Sunday, Aug. 30, when the Philli",
-      "link": "https://philliesnation.com/2026/08/philadelphia-phillies-watch-party-open-house-angels-game-weekend-hall-of-fame-club-scoreboard-phanavision-fans-road-citizens-bank-park/",
-      "pubDate": "Sun, 23 Aug 2026 17:31:20 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
       "title": "Handing out 10 awards from the Eagles-Patriots preseason game",
       "description": "It's getting hard to reconcile why Andy Dalton is ahead of Tanner McKee on the QB depth chart.",
       "link": "https://www.phillyvoice.com/handing-out-10-awards-eagles-patriots-preseason-game-2026/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -1071,16 +1041,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-08-23T005755Z_758048983_MT1USATODAY29646354_RTRMADP_3_NFL-PHILADELPHI.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Phillies rookie Andrew Painter shows confidence in stellar outing; Kyle Schwarber \u2018finally\u2019 comes through against position player",
-      "description": "PHILADELPHIA Phillies rookie Andrew Painter has a new look. After struggling to start his major-league career and being sent down to the minor leagues to regroup, hes emerged with a different energy, a resurgent fastball and better results. Painter h",
-      "link": "https://philliesnation.com/2026/08/philadelphia-phillies-andrew-painter-kyle-schwarber-home-run-position-player-august-22-2026-mlb/",
-      "pubDate": "Sun, 23 Aug 2026 06:05:18 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
     },
     {
       "title": "Willie Lampkin, Eagles' O-line backups pushed the Patriots' reserves around",
@@ -1093,14 +1053,14 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "It's been a long time since the Eagles had this many good ILBs",
-      "description": "Jeremiah Trotter Jr. keeps playing like a stud, and did again in Saturday's preseason game against the Patriots. But he's still firmly a backup.",
-      "link": "https://www.phillyvoice.com/eagles-patriots-preseason-jeremiah-trotter-jr-sack-stats-linebacker-depth-chart/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sun, 23 Aug 2026 02:30:09 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/080426_EaglesTrainingCamp_ColleenClaggett-6934_ItZnstk.jpg",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
+      "title": "Report: Phil Handy to join Sixers staff as assistant coach",
+      "description": "ESPN\u2019s Marc Spears has reported a coaching addition in Philadelphia. Phil Handy will be leaving the Dallas Mavericks and join the Sixers under Nick Nurse. Handy is familiar with a couple key members of the Sixers, he was an assistant in Nurse\u2019s first",
+      "link": "",
+      "pubDate": "2026-08-21T16:18:15-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Report: Sixers hiring Phil Handy as assistant coach on Nick Nurse's staff",
@@ -1121,6 +1081,16 @@
       "thumbnail": null,
       "team": "general",
       "source": "PHL Sports Nation"
+    },
+    {
+      "title": "Young Sixers, led by VJ Edgecombe and Labaron Philon, star in Rico Hines Run",
+      "description": "Young Sixers are doing their best to get you a basketball fix while we wait through the summer for this team to make its return. VJ Edgecombe, Labaron Philon and Dominick Barlow are playing in Rico Hines Runs and putting together their fair share of ",
+      "link": "",
+      "pubDate": "2026-08-21T09:29:53-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "RECAP \u2013 Preseason: What to Start, Stop & Continue After Loss to Ravens, 24-7",
@@ -1409,16 +1379,6 @@
       "pubDate": "Mon, 03 Aug 2026 15:54:30 +0000",
       "author": "Evan Macy",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-08-02T211737Z_2131950024_MT1USATODAY29500214_RTRMADP_3_MLB-SAN-FRANCI.JPG",
-      "team": "phillies",
-      "source": "PhillyVoice"
-    },
-    {
-      "title": "Phillies finally bust from slump, but only after dropping first two games vs. Yankees",
-      "description": "Punchless against the Yankees for the first two games of the series, the Phillies' bats finally woke up Sunday to salvage one game.",
-      "link": "https://www.phillyvoice.com/phillies-yankees-series-recap-slump-mlb-trade-deadline-bryce-harper-kyle-schwarber/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 27 Jul 2026 02:26:11 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-07-27T012309Z_2101623829_MT1USATODAY29456485_RTRMADP_3_MLB-NEW-YORK-Y.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
     },
