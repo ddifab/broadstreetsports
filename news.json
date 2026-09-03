@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T11:47:25.037321+00:00",
-  "count": 170,
+  "updated": "2026-09-03T15:20:21.026202+00:00",
+  "count": 171,
   "articles": [
     {
       "title": "Eagles worked out an intriguing edge defender; Cowboys made a weird trade",
@@ -31,6 +31,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_22618886.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "5 Flyers who could be gone by the end of the season",
+      "description": "Transactions are the lifeblood of being a sports fan. Sure, we love watching the games and thinking about cool players and other stuff, but conjuring up some moves that your favorite team can make at the trade deadline, or what potential free agent t",
+      "link": "https://www.broadstreethockey.com/post/5-flyers-who-could-be-gone-by-the-end-of-the-season/",
+      "pubDate": "Thu, 03 Sep 2026 13:30:00 +0000",
+      "author": "Thomas Williams",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Flyers overhaul Hockey Operations staff with several hirings",
@@ -121,16 +131,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
-    },
-    {
-      "title": "Former Eagles roster cuts and practice squad tracker",
-      "description": "NFL teams have until Sunday, August 30 at 6 pm ET to get their final roster down to 53 players, and then they\u2019ll spend the next few days adding guys to their practice squads and moving those with injuries around. There are plenty of former Eagles sti",
-      "link": "",
-      "pubDate": "2026-08-31T20:35:14-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Phillies reportedly trade Tommy Pham to AL Central team",
@@ -353,6 +353,46 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Philadelphia Eagles live chat: Ask me anything",
+      "description": "The 2026 NFL season begins in less than a week (!) with the NFL Kickoff Game between the Seattle Seahawks and A.J. Brown\u2019s New England Patriots set for Wednesday, September 9. This upcoming weekend will be the last without NFL football until February",
+      "link": "",
+      "pubDate": "2026-09-03T10:21:29-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Eagles mailbag: Lots of offensive line talk, present and future",
+      "description": "A future without Lane Johnson and Landon Dickerson is close, but what would it look like?",
+      "link": "https://www.phillyvoice.com/eagles-mailbag-lots-offensive-line-talk-present-future-landon-dickerson-drew-kendall-micah-morris-willie-lampkin/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Thu, 03 Sep 2026 14:00:36 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-10T001731Z_37736299_MT1USATODAY29162162_RTRMADP_3_NFL-PHILADELPH_DVBILRr.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles News: Howie Roseman disagrees that Jalen Hurts is entering a make-or-break year",
+      "description": "Let\u2019s get to the Philadelphia Eagles news and links \u2026 Howie Roseman: The bottom line is winning, Jalen Hurts and Nick Sirianni do that PFTRoseman said on WIP that he doesn\u2019t agree with the perception that quarterback Jalen Hurts is \u201con the clock\u201d and",
+      "link": "",
+      "pubDate": "2026-09-03T09:10:11-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Schedule Preview, Part IV: The home stretch",
+      "description": "You got to hand it to baseball on this one, the dog days of August sounds a lot better than the dog days of March. This is the conclusion to our 2026-27 schedule preview; previous installments can be found here, here, and here. The Sixers\u2019 final 20 g",
+      "link": "",
+      "pubDate": "2026-09-03T08:00:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
       "title": "Thursday Morning Fly By: Organizational shuffle",
       "description": "*Its still another week or so before things start to really pick up around here, but we did get a small bit of news to tide us over until before the big happenings start coming. Well, its actually a whole lot of small bits of news, as the Flyers anno",
       "link": "https://www.broadstreethockey.com/post/thursday-morning-fly-by-organizational-shuffle/",
@@ -453,6 +493,16 @@
       "source": "PhillyVoice Eagles"
     },
     {
+      "title": "Howie Roseman explains why the Eagles kept 4 quarterbacks",
+      "description": "The Eagles GM filled the 53-man roster on Sunday and then worked on bringing guys back on the practice squad for most of Monday. He spoke with reporters several hours after the waiver wire results were revealed, and he talked about some of his decisi",
+      "link": "",
+      "pubDate": "2026-09-02T13:00:22-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
       "title": "For Jalen Hurts, it's more than just fulfilling a wish",
       "description": "Five children from the Make-A-Wish Foundation played mini-golf with Jalen Hurts on Thursday. The quarterback opens up candidly about the impact the event had on him.",
       "link": "https://www.philadelphiaeagles.com/news/for-jalen-hurts-it-s-more-than-just-fulfilling-a-wish",
@@ -461,6 +511,16 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Philly Sports Wire"
+    },
+    {
+      "title": "NFC East training camp recap",
+      "description": "For the first time in over two decades, the NFC East had back to back winners. Can the Philadelphia Eagles three peat? The rest of the division seems to be trying their best to help them. Washington Commanders Football Team It is basically impossible",
+      "link": "",
+      "pubDate": "2026-09-02T12:56:13-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Eagles' defense receives bold 'best in NFL' prediction that can really come true",
@@ -733,16 +793,6 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "Get the best of Bleeding Green Nation on the new SB Nation app",
-      "description": "It\u2019s a big day for Bleeding Green Nation. Today, the SB Nation app is live, and it\u2019s the best way to follow the Eagles. You can download it by searching SB Nation for iOS or Android. A year ago we made some big changes to our community, including off",
-      "link": "",
-      "pubDate": "2026-09-01T08:00:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Phillies prospect looking strong so far after \u2018surprising\u2019 Double-A promotion: \u2018He\u2019s showing a lot of confidence on the mound\u2019",
       "description": "READING, Pa. Cody Bowker was in New York with his High-A teammates two weeks ago, finishing a six-game series between the BlueClaws and the Brooklyn Cyclones. He had already risen up a level this season after beginning the year at Single-A Clearwater",
       "link": "https://philliesnation.com/2026/09/philadelphia-phillies-minor-league-prospect-news-cody-bowker-reading-fightin-phils-promotion-double-a-playoff-race/",
@@ -771,36 +821,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
-    },
-    {
-      "title": "Flyers prospect Jack Berglund is learning through the long road",
-      "description": "This season has been, if nothing else, a busy one for Flyers center prospect Jack Berglund. The last calendar year has seen him play at the SHL and U20 levels in Sweden, working hard to carve out a role for himself with his top team, take a spin thro",
-      "link": "https://www.broadstreethockey.com/post/flyers-prospect-jack-berglund-is-learning-through-the-long-road/",
-      "pubDate": "Tue, 01 Sep 2026 00:50:56 +0000",
-      "author": "Madeline Campbell",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Eagles sign former Cowboys running back to practice squad",
-      "description": "The Eagles kept three running backs on the 53-man roster \u2014 Saquon Barkley, Tank Bigsby, and Will Shipley \u2014, and also brought back Dameon Pierce and Carson Steele on the practice squad. Five RBs just isn\u2019t enough, apparently, because the team is repor",
-      "link": "",
-      "pubDate": "2026-08-31T20:22:26-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Eagles practice squad news: Uar Bernard and Joshua Weru among 13 official signings",
-      "description": "The Philadelphia Eagles signed 13 players to their practice squad on Monday afternoon, according to an official team announcement. Here\u2019s a last name alphabetical order overview with analysis to follow. EAGLES PRACTICE SQUAD DT Uar Bernard LB Chance ",
-      "link": "",
-      "pubDate": "2026-08-31T16:37:08-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "September will show us who the Phillies really are",
@@ -1021,16 +1041,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-12-20T025809Z_1179536166_MT1USATODAY27855330_RTRMADP_3_NBA-PHILADELPH.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Schedule Preview, Part II: The longest road trip, a couple tough tests at home",
-      "description": "If there\u2019s one thing everyone loves doing at the end of August, it\u2019s figuring out their plans for January. In this series, we are breaking down the Sixers 2026-27 schedule into chunks to try to preview how each stretch of the season will go. Part 1 i",
-      "link": "",
-      "pubDate": "2026-08-28T09:00:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "V.J. Edgecombe Could Be X-Factor for 76ers\u2019 Championship Aspirations",
