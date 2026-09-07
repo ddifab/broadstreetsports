@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07T20:13:03.313470+00:00",
-  "count": 166,
+  "updated": "2026-09-07T23:05:30.640520+00:00",
+  "count": 158,
   "articles": [
     {
       "title": "Rookie reliever Alex McFarlane gives up home run in big spot for Phillies: \u2018I feel good about the way he\u2019s going to respond\u2019",
@@ -21,6 +21,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2024-12-18T053525Z_1510755816_MT1USATODAY25014038_RTRMADP_3_NFL-PITTSBURGH.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Phillies' Kyle Schwarber predicted to accomplish major HR feat for first time in MLB career",
+      "description": "This would be quite the feat for Schwarber in his 12th MLB season.",
+      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-kyle-schwarber-predicted-hr-feat-first-time-career/bb437c336ebb0085241c6f31",
+      "pubDate": "Mon, 07 Sep 2026 19:28:49 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Why Jaylen Browns infamous favorite season quote could bode well for the Sixers",
@@ -63,16 +73,6 @@
       "source": "Phillies Nation"
     },
     {
-      "title": "76ers executive departs team for WNBA Front Office role",
-      "description": "76ers' executive Ariana Andonian is making her move to the WNBA.",
-      "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/76ers-executive-departs-team-wnba-front-office-role/d7b8b1ad66644ffaa2a52620",
-      "pubDate": "Sat, 05 Sep 2026 11:35:17 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
       "title": "Report: Sixers executive Ariana Andonian becoming new Los Angeles Sparks general manager",
       "description": "The Philadelphia 76ers have seen major shakeups in their executive ranks this offseason. Daryl Morey was let go back in May, setting the stage for Mike Gansey to arrive as the new President of Basketball Operations and the promotion of Jameer Nelson ",
       "link": "",
@@ -81,26 +81,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "5 Flyers who could be gone by the end of the season",
-      "description": "Transactions are the lifeblood of being a sports fan. Sure, we love watching the games and thinking about cool players and other stuff, but conjuring up some moves that your favorite team can make at the trade deadline, or what potential free agent t",
-      "link": "https://www.broadstreethockey.com/post/5-flyers-who-could-be-gone-by-the-end-of-the-season/",
-      "pubDate": "Thu, 03 Sep 2026 13:30:00 +0000",
-      "author": "Thomas Williams",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "How August ranks among the Phillies\u2019 best months this century",
-      "description": "The Phillies\u2019 August was a month for the ages. Sporting a 21-7 record across 28 games played, they swept four series in a month for the first time since 1991. They won 20 games in a month for only the fifth time this century, and with Monday\u2019s 2-1 de",
-      "link": "https://philliesnation.com/2026/09/philadelphia-phillies-history-august-month-bryson-stott-cristopher-sanchez-jesus-luzardo-alec-bohm-bryce-harper-chase-utley-ryan-howard-jimmy-rollins-mlb-september-1-2026/",
-      "pubDate": "Tue, 01 Sep 2026 19:29:22 +0000",
-      "author": "Tyler Brown",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
     },
     {
       "title": "Four Eagles cuts claimed by other teams",
@@ -273,14 +253,64 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "NFL Week 1 odds: Eagles favored to beat Commanders",
+      "description": "Can you believe it? The first game of the 2026 Philadelphia Eagles season is just days away! And there\u2019s reason to believe the Birds are going to begin this year\u2019s campaign with a win. The Eagles are 5.5-point home favorites against the Washington Co",
+      "link": "",
+      "pubDate": "2026-09-07T18:10:14-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Phillies\u2019 Jes\u00fas Luzardo \u2018is one of the best things you can watch\u2019 with shutout, ace-level dominance in second half",
+      "description": "PHILADELPHIA The ball jumped off Kyle Schwarbers bat, leaving Jes\u00fas Luzardo in the first-base dugout at Citizens Bank Park with only one more thought. The high-octane left-hander, in the midst of perhaps the best stretch of his career, had cruised th",
+      "link": "https://philliesnation.com/2026/09/philadelphia-phillies-jesus-luzardo-shutout-luis-arraez-atlanta-braves-mlb-september-7-2026-update/",
+      "pubDate": "Mon, 07 Sep 2026 21:17:18 +0000",
+      "author": "Ty Daubert",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
+    },
+    {
+      "title": "How fast was Jes\u00fas Luzardo\u2019s first-career complete-game shutout?",
+      "description": "PHILADELPHIA Blink and you may have missed Jes\u00fas Luzardos first-career complete-game shutout. The left-hander struck out 12 over nine innings to deliver a huge 1-0 Phillies win over the Atlanta Braves on Monday afternoon at Citizens Bank Park. The Ph",
+      "link": "https://philliesnation.com/2026/09/philadelphia-phillies-jesus-luzardo-complete-game-shutout-time-of-game-mlb-kyle-schwarber-don-mattingly-september-7-2026/",
+      "pubDate": "Mon, 07 Sep 2026 20:59:21 +0000",
+      "author": "Destiny Lugardo",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
+    },
+    {
       "title": "10 awards from Phillies' epic four-game split with Braves",
       "description": "It was the biggest regular season series of the year in South Philly, and it didn't disappoint.",
       "link": "https://www.phillyvoice.com/10-awards-phillies-braves-series-nl-east-wild-card-race-news-analysis-jesus-luzardo-kyle-schwarber-standings/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 07 Sep 2026 19:12:04 +0000",
+      "pubDate": "Mon, 07 Sep 2026 20:54:52 +0000",
       "author": "Evan Macy",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-07T174747Z_616510012_MT1USATODAY29761010_RTRMADP_3_MLB-ATLANTA-BRA.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "Luzardo blanks Braves as Phillies salvage split",
+      "description": "Jesus Luzardo struck out 12 and tossed two-hit ball in his first career shutout in 150 starts to lead the Phillies to a 1-0 victory over the Braves.",
+      "link": "https://www.espn.com/mlb/story/_/id/49861707/jesus-luzardo-pitches-1st-career-shutout-phillies-beat-braves",
+      "pubDate": "Mon, 07 Sep 2026 20:38:31 +0000",
+      "author": "ESPN",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Jesus Luzardo's gem vs. Braves proves Phillies should consider him as Game 1 starter",
+      "description": "Jesus Luzardo has been the best pitcher in MLB for more than a month. Will it affect the Phillies' playoff rotation?",
+      "link": "https://thatballsouttahere.com/jesus-luzardo-s-gem-vs-braves-proves-phillies-should-consider-him-as-game-1-starter?utm_source=RSS",
+      "pubDate": "Mon, 07 Sep 2026 20:36:24 +0000",
+      "author": "That Ball's Outta Here",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Injury updates: Phillies building up reliever as \u2018length option\u2019 during rehab assignment",
@@ -293,14 +323,44 @@
       "source": "Phillies Nation"
     },
     {
+      "title": "Eagles' $100M edge rusher gets bold career-year prediction from ESPN analyst",
+      "description": "This prediction would be a dream-come-true for the Eagles.",
+      "link": "https://www.sportingnews.com/us/nfl/philadelphia-eagles/news/eagles-100m-edge-rusher-bold-career-prediction-espn-analyst/bbd593807873d1da60ec6502",
+      "pubDate": "Mon, 07 Sep 2026 17:26:08 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Why Eagles offense could be 'boom or bust' to start 2026 season",
+      "description": "This Eagles offense might have plenty of ups and downs to begin the season.",
+      "link": "https://www.sportingnews.com/us/nfl/philadelphia-eagles/news/why-eagles-offense-could-be-boom-or-bust-start-2026-season/00f9e40281b1aaeccc4277da",
+      "pubDate": "Mon, 07 Sep 2026 17:14:43 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
       "title": "A Travis Konecny lineup demotion could benefit Flyers",
-      "description": "Travis Konecny led the Flyers last season with 68 point in 77 games. He had 14 power play points, two game-winning goals, a short-handed tally, and averaged just over 19 minutes per game. He just edged Trevor Zegras in points as Zegras had 67. But Ko",
+      "description": "Travis Konecny led the Flyers last season with 68 point in 77 games. He had 14 power play points, two game-winning goals, a short-handed tally, and averaged just over 19 minutes per game. He just...",
       "link": "https://www.broadstreethockey.com/post/a-travis-konecny-lineup-demotion-could-benefit-flyers/",
       "pubDate": "Mon, 07 Sep 2026 17:06:47 +0000",
-      "author": "Jason MacNeil",
+      "author": "Broad Street Hockey",
       "thumbnail": null,
       "team": "flyers",
-      "source": "Broad Street Hockey"
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Braves' Ronald Acuna Jr. sends strong message to the Phillies after playing villain once again",
+      "description": "Ronald Acuna Jr. is playing the role of a villain this weekend and it is going according to plan. On Sunday, Acuna had a frenzy of fun with the Philadelphia Phillies.",
+      "link": "https://www.sportingnews.com/us/mlb/atlanta-braves/news/braves-ronald-acuna-jr-sends-strong-message-phillies-after-playing-villain-once-again/f3af8c9a626c6943322c528d",
+      "pubDate": "Mon, 07 Sep 2026 17:04:09 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Win this throwback mini cooler!",
@@ -313,6 +373,26 @@
       "source": "Phillies Nation"
     },
     {
+      "title": "Lakers' Bronny James gets brutal news on future with LA after 76ers' LeBron James departure",
+      "description": "In his first season without his dad, Bronny James is hoping to make a name for himself in LA. However, it doesn't seem like a future with much to look forward to.",
+      "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lakers-bronny-james-gets-brutal-news-future-la-after-76ers-lebron-james-departure/2f8c1c3b24da338eda0da81d",
+      "pubDate": "Mon, 07 Sep 2026 16:07:18 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Spadaro: Welcome to the 2026 Eagles season!",
+      "description": "If you hibernated from Eagles football during the spring and summer, here are the 6 biggest storylines from the offseason to get caught up on as the regular season opens Sunday at home against...",
+      "link": "https://www.philadelphiaeagles.com/news/spadaro-welcome-to-the-2026-eagles-season",
+      "pubDate": "Mon, 07 Sep 2026 16:00:00 +0000",
+      "author": "Eagles.com",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
       "title": "Eagles News: NFL secondary rankings have Philadelphia in the top four",
       "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! Though there might be some volatility with Riq Woolen, the Eagles could very well have the NFL\u2019s top cornerback trio. The depth at corner is a bit of a questio",
       "link": "",
@@ -321,6 +401,16 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Phillies shouldn\u2019t be tricked into running it back with Alec Bohm, even after latest checkpoint",
+      "description": "Alec Bohm showed some resilience in dragging his season-long OPS back up to .700 on Friday night, but that shouldn\u2019t trick the Phils into running it back with him in 2027.",
+      "link": "https://thatballsouttahere.com/phillies-shouldn-t-be-tricked-into-running-it-back-with-alec-bohm-even-after-latest-checkpoint?utm_source=RSS",
+      "pubDate": "Mon, 07 Sep 2026 14:00:02 +0000",
+      "author": "That Ball's Outta Here",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "5 Sixers thoughts: Over/under 50.5 wins, plus predicting other NBA win totals",
@@ -393,56 +483,6 @@
       "source": "Bleeding Green Nation"
     },
     {
-      "title": "76ers' LeBron James makes major career announcement before 24th NBA season officially begins",
-      "description": "The Philadelphia 76ers made the decision to sign LeBron James this offseason. Before he starts his season, he just made a pretty big business decision, announcing it on Saturday morning.",
-      "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/76ers-lebron-james-makes-major-career-announcement-24th-nba-season-officially-begins/58ea4b274c69a031120f64e1",
-      "pubDate": "Sat, 05 Sep 2026 16:13:09 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Kings reportedly outbid Knicks, Warriors for $203M ex-76ers former first overall pick",
-      "description": "The Sacramento Kings got a good addition on Friday morning with a former highly touted NBA player. The Kings were able to sign him over some playoff contenders.",
-      "link": "https://www.sportingnews.com/us/nba/sacramento-kings/news/kings-reportedly-outbid-knicks-warriors-203m-ex-76ers-former-first-overall-pick/a5b0da765489b67bf6315eb5",
-      "pubDate": "Sat, 05 Sep 2026 15:12:26 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Warriors reportedly passed on $203M ex-76ers former first overall pick, Rookie of the Year",
-      "description": "The Golden State Warriors have made some interesting choice this offseason. They had interest and the chance to sign a veteran, but decided to go another direction.",
-      "link": "https://www.sportingnews.com/us/nba/golden-state-warriors/news/warriors-reportedly-passed-203m-ex-76ers-former-first-overall-pick-rookie-year/153513fed70c058d6dadd220",
-      "pubDate": "Sat, 05 Sep 2026 14:56:04 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Phillies prospect Gabriel Barbosa's health crisis elicits support from MLB world",
-      "description": "The MLB world rallies around Philadelphia Phillies prospect Gabriel Barbosa, who was diagnosed with Stage 3 colon cancer and has a baby on the way.",
-      "link": "https://thatballsouttahere.com/phillies-prospect-gabriel-barbosa-s-health-crisis-elicits-support-from-mlb-world?utm_source=RSS",
-      "pubDate": "Sat, 05 Sep 2026 14:30:00 +0000",
-      "author": "That Ball's Outta Here",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Spadaro: For Eagles secondary, compliments are nice, but winning is what matters",
-      "description": "Joe Kasper and Mike Pellegrino team up to coach a defensive backfield containing All-Pro talent and on-the-rise players.",
-      "link": "https://www.philadelphiaeagles.com/news/compliments-are-nice-but-winning-is-what-matters-cooper-dejean-quinyon-mitchell-riq-woolen",
-      "pubDate": "Sat, 05 Sep 2026 13:30:00 +0000",
-      "author": "Eagles.com",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Philly Sports Wire"
-    },
-    {
       "title": "Five college prospects who could interest the Eagles in the 2027 NFL Draft",
       "description": "During the college football season each year, as long as you're watching the games, we point out five players each week to keep an eye on who make logical sense for the Philadelphia Eagles in the following year's NFL Draft.",
       "link": "https://www.phillyvoice.com/five-college-prospects-eagles-2027-nfl-draft-bray-hubbard-byrum-brown-amauri-washington-peter-clarke-ian-strong/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -451,46 +491,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-11-08T023914Z_681316021_MT1USATODAY27529431_RTRMADP_3_OREGON-DEFENSIV.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Surging Braves bid to extend NL East lead over Phillies",
-      "description": "The Atlanta Braves' four-game set with the Philadelphia Phillies got off a rousing start on Friday.,The Braves hope to gain additional ground on the s",
-      "link": "https://deadspin.com/surging-braves-bid-to-extend-nl-east-lead-over-phillies/",
-      "pubDate": "Sat, 05 Sep 2026 12:02:45 +0000",
-      "author": "Deadspin",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Andrew Painter just further proved he belongs on Phillies\u2019 playoff roster",
-      "description": "Phillies rookie Andrew Painter been strong on seven starts since returning from Lehigh Valley (Triple-A), but can he find a spot on the postseason roster?",
-      "link": "https://thatballsouttahere.com/andrew-painter-just-further-proved-he-belongs-on-phillies-playoff-roster?utm_source=RSS",
-      "pubDate": "Sat, 05 Sep 2026 12:00:00 +0000",
-      "author": "That Ball's Outta Here",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Phillies' second-ranked prospect to make return from injury",
-      "description": "The Philadelphia Phillies' second-ranked prospect is expected to return to the diamond on Saturday evening.",
-      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-second-ranked-prospect-make-return-injury/b514703f7187c5dcff7ff407",
-      "pubDate": "Sat, 05 Sep 2026 11:18:29 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Phillies 2026 first-rounder Spangler swats first pro homer at Single-A",
-      "description": "",
-      "link": "https://www.mlb.com/phillies/news/phillies-tyler-spangler-first-pro-home-run-single-a",
-      "pubDate": "Sat, 05 Sep 2026 04:32:00 +0000",
-      "author": "MLB.com",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
     },
     {
       "title": "Phillies drop \u2018really important game\u2019 against Atlanta during crucial stretch run: \u2018Every one of them is pressure now\u2019",
@@ -511,16 +511,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
-    },
-    {
-      "title": "Chris Sale, Braves top Cristopher Sanchez, Phils, boost NL East lead",
-      "description": "Chris Sale outdueled Cristopher Sanchez in a battle of aces and Mauricio Dubon hit a late two-run homer as the visiting Atlanta Braves topped the Phil",
-      "link": "https://deadspin.com/chris-sale-braves-top-cristopher-sanchez-phils-boost-nl-east-lead/",
-      "pubDate": "Sat, 05 Sep 2026 01:41:26 +0000",
-      "author": "Deadspin",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
     },
     {
       "title": "How to watch Phillies vs. Braves this Labor Day weekend",
@@ -603,16 +593,6 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "Predicting whether every Flyer will be better or worse in 2026-27",
-      "description": "The Philadelphia Flyers are in a weird place right now. Without much evidence of anything for how next season will go, we have a wide array of possibilities going through our head. Could they suddenly put everything together, with all the young playe",
-      "link": "https://www.broadstreethockey.com/post/predicting-whether-every-flyer-will-be-better-or-worse-in-2026-27/",
-      "pubDate": "Fri, 04 Sep 2026 12:00:00 +0000",
-      "author": "Thomas Williams",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "Former Phillies outfielder Max Kepler opens up about PED suspension: \u2018I take full responsibility\u2019",
       "description": "PHOENIX \u2013 Days after the Phillies were eliminated from the playoffs by the Dodgers in the National League Division Series, Max Kepler got a phone call. Fresh off of a sudden end to his team\u2019s World Series hopes, he was about to be dealt a career-alte",
       "link": "https://philliesnation.com/2026/09/philadelphia-phillies-arizona-diamondbacks-max-kepler-ped-suspension-september-3-2026-mlb-update/",
@@ -621,16 +601,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
-    },
-    {
-      "title": "Friday Morning Fly By: Main character energy",
-      "description": "*The Flyers beat over at The Failing New York Times sat down with coach Rick Tocchet in Rittenhouse Square! Very important that you know this detail and we learned some stuff. Nothing earth-shattering was revealed, but definitely some interesting tid",
-      "link": "https://www.broadstreethockey.com/post/friday-morning-fly-by-main-character-energy/",
-      "pubDate": "Fri, 04 Sep 2026 10:00:00 +0000",
-      "author": "Kelly Hinkle",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "The Flyers are coming back, and for the first time in forever, with expectations",
@@ -673,26 +643,6 @@
       "source": "PHL Sports Nation"
     },
     {
-      "title": "Flyers release Rookie Camp roster and schedule",
-      "description": "The Flyers announced the players who will be attending next weeks training camp, as well as the schedule which runs from Sept. 11 through to Sept. 16, including the two games against the New York Rangers next weekend. The next generation is going cam",
-      "link": "https://www.broadstreethockey.com/post/flyers-release-rookie-camp-roster-and-schedule/",
-      "pubDate": "Thu, 03 Sep 2026 16:25:11 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Tyson Foerster\u2019s new contract looks even more like a steal now",
-      "description": "When Philadelphia Flyers general manager Danny Briere finished negotiating an eight-year, $56.8 million deal with Tyson Foerster days prior to the Leo Carlsson offer sheet, many were surprised. With Jamie Drysdale and Trevor Zegras still without deal",
-      "link": "https://www.broadstreethockey.com/post/why-tyson-foersters-new-contract-could-quickly-become-a-steal/",
-      "pubDate": "Thu, 03 Sep 2026 16:00:00 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "Phillies shortstop prospect puts together breakout season at Double-A with confidence, surprising power: \u2018I\u2019m finally seeing the results\u2019",
       "description": "READING, Pa. The Phillies invited 22-year-old Bryan Rincon to major-league spring training this year, providing the shortstop with an opportunity to be around big-league players and coaches following his 2025 season at High-A. The switch-hitting infi",
       "link": "https://philliesnation.com/2026/09/philadelphia-phillies-news-top-prospect-breakout-season-bryan-rincon-feature-interview-power-home-runs-shortstop-minor-leagues/",
@@ -731,16 +681,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Thursday Morning Fly By: Organizational shuffle",
-      "description": "*Its still another week or so before things start to really pick up around here, but we did get a small bit of news to tide us over until before the big happenings start coming. Well, its actually a whole lot of small bits of news, as the Flyers anno",
-      "link": "https://www.broadstreethockey.com/post/thursday-morning-fly-by-organizational-shuffle/",
-      "pubDate": "Thu, 03 Sep 2026 10:00:00 +0000",
-      "author": "Madeline Campbell",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "A Complete Squad \u2014 Ready for Practice",
@@ -813,16 +753,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Howie Roseman explains why the Eagles kept 4 quarterbacks",
-      "description": "The Eagles GM filled the 53-man roster on Sunday and then worked on bringing guys back on the practice squad for most of Monday. He spoke with reporters several hours after the waiver wire results were revealed, and he talked about some of his decisi",
-      "link": "",
-      "pubDate": "2026-09-02T13:00:22-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "30 Eagles training camp questions, answered",
       "description": "Each year before the start of training camp, I publish a list of 25-30 things to watch. Now that camp is over (or at least the parts that the media is allowed to watch), let's republish the list of things I was looking for (30 this year), and I'll pr",
       "link": "https://www.phillyvoice.com/30-eagles-training-camp-questions-answered-2026/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -861,16 +791,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-01-04T183409Z_372397755_MT1USATODAY27930831_RTRMADP_3_NFL-DALLAS-COWB.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Phillies make September call-ups as rosters expand to 28 players",
-      "description": "With MLB rosters expanding from 26 to 28 for September, the Phillies have added two players in the midst of their playoff push in the last month of the regular season.. Joining the team for the month of September are catcher Rafael March\u00e1n and right-",
-      "link": "https://philliesnation.com/2026/09/philadelphia-phillies-september-call-ups-rosters-expand-transaction-news-rafael-marchan-grant-holman-catcher-pitcher/",
-      "pubDate": "Tue, 01 Sep 2026 19:27:08 +0000",
-      "author": "Tyler Brown",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
     },
     {
       "title": "Source: Sixers sign Tacko Fall, Jameer Nelson Jr. and Saint Thomas to Exhibit 10 contracts",
