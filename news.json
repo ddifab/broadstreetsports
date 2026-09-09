@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T05:26:49.694896+00:00",
+  "updated": "2026-09-09T10:13:49.099135+00:00",
   "count": 153,
   "articles": [
     {
@@ -41,16 +41,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Sixers sign Dillon Jones to Exhibit 10 contract",
-      "description": "The Sixers have signed Dillon Jones to an Exhibit 10 contract. Jones was the 26th overall pick back in 2024, selected by the Washington Wizards before being traded to the Oklahoma City Thunder on draft night. He made 54 appearances for the Thunder in",
-      "link": "",
-      "pubDate": "2026-09-08T14:36:39-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Flyers\u2019 2011 Offseason Has Caused Years of Misfortune",
@@ -273,6 +263,16 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Wednesday Morning Fly By: Three weeks to go",
+      "description": "*Today marks 21 days until Game 1 of the 2026-27 season. Boy is that going to fly by. GET IT? Okay anyway, big news yesterday was the unveiling of a rendering of what the future home of the Flyers (and Sixers) is going to look like. If you were hopin",
+      "link": "https://www.broadstreethockey.com/post/wednesday-morning-fly-by-three-weeks-to-go/",
+      "pubDate": "Wed, 09 Sep 2026 10:00:00 +0000",
+      "author": "Kelly Hinkle",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
       "title": "Don Mattingly, Brandon Marsh address Phillies\u2019 \u2018unacceptable\u2019 baserunning mistakes: \u2018Small things cost you runs\u2019",
       "description": "PHILADELPHIA The Phillies had the go-ahead run at the plate in a two-run game against the Houston Astros in the bottom of the seventh. J.T. Realmuto hit a line drive that had a chance to get through and tie the game. Instead, the ball landed in short",
       "link": "https://philliesnation.com/2026/09/philadelphia-phillies-houston-astros-baserunning-don-mattingly-edmundo-sosa-brandon-marsh-september-8-2026/",
@@ -310,6 +310,16 @@
       "author": "That Ball's Outta Here",
       "thumbnail": null,
       "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Sixers Sign Dillon Jones To Exhibit 10 Contract",
+      "description": "2:03 pm: The deal is official, the Sixers confirmed in a press release. 1:15 pm: Former first-round pick Dillon Jones is signing with the Sixers on an Exhibit 10 deal, reports Kyle Neubeck of PHLY...",
+      "link": "https://www.hoopsrumors.com/2026/09/sixers-signing-dillon-jones-to-exhibit-10-contract.html",
+      "pubDate": "Tue, 08 Sep 2026 19:03:03 +0000",
+      "author": "Hoops Rumors",
+      "thumbnail": null,
+      "team": "sixers",
       "source": "Philly Sports Wire"
     },
     {
@@ -691,16 +701,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-02T201454Z_535055767_MT1USATODAY29721427_RTRMADP_3_MLB-PHILADELPHI.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Flyers release Rookie Camp roster and schedule",
-      "description": "The Flyers announced the players who will be attending next weeks training camp, as well as the schedule which runs from Sept. 11 through to Sept. 16, including the two games against the New York Rangers next weekend. The next generation is going cam",
-      "link": "https://www.broadstreethockey.com/post/flyers-release-rookie-camp-roster-and-schedule/",
-      "pubDate": "Thu, 03 Sep 2026 16:25:11 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Phillies shortstop prospect puts together breakout season at Double-A with confidence, surprising power: \u2018I\u2019m finally seeing the results\u2019",
