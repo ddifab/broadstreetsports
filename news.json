@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T01:43:28.216894+00:00",
-  "count": 151,
+  "updated": "2026-09-10T06:43:39.702504+00:00",
+  "count": 146,
   "articles": [
     {
       "title": "Jes\u00fas Luzardo and the Phillies' rotation are pitching to a historic degree",
@@ -18,6 +18,16 @@
       "link": "https://philliesnation.com/2026/09/philadelphia-phillies-alex-mcfarlane-bullpen-ronald-acuna-jr-mlb-september-6-2026/",
       "pubDate": "Mon, 07 Sep 2026 01:29:31 +0000",
       "author": "Ty Daubert",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
+    },
+    {
+      "title": "Schwarber grand slam highlights thrilling Phillies comeback victory against Astros",
+      "description": "PHILADELPHIA With one bases-loaded walk already in the inning, Astros reliever AJ Blubaugh gave in. With the count 3-2 and the Phillies up by a run, Kyle Schwarber crushed a sweeper in the middle of the plate for the third Phillies grand slam of the ",
+      "link": "https://philliesnation.com/2026/09/philadelphia-phillies-houston-astros-game-story-kyle-schwarber-cristopher-sanchez-september-9-2026/",
+      "pubDate": "Thu, 10 Sep 2026 02:49:07 +0000",
+      "author": "Destiny Lugardo",
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
@@ -93,16 +103,6 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "Flyers unveil first look at new arena coming in 2030",
-      "description": "The Philadelphia Flyers released new information and sketches about their new arena that they plan to move into sometime in 2030. And on first impression, it has a very familiar look to it. In a release this morning, the first sketches or renderings ",
-      "link": "https://www.broadstreethockey.com/post/flyers-unveil-first-look-at-new-arena-coming-in-2030/",
-      "pubDate": "Tue, 08 Sep 2026 13:16:23 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "Why Jaylen Browns infamous favorite season quote could bode well for the Sixers",
       "description": "In May, Jaylen Brown was down bad. The Sixers had just pulled off their first-ever 3-1 series comeback in franchise history to beat Browns Celtics in the playoffs for the first time in more than 40 years. That also marked the Celtics first blown 3-1 ",
       "link": "",
@@ -141,16 +141,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Four Eagles cuts claimed by other teams",
-      "description": "The Philadelphia Eagles were not awarded any waiver claims following 53-man cutdowns. However, four of their waived players were claimed by other teams.",
-      "link": "https://www.phillyvoice.com/four-eagles-cuts-claimed-other-teams-cameron-williams-myles-hinton-kapena-gushiken-cameron-latu/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 31 Aug 2026 18:15:27 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/080426_EaglesTrainingCamp_ColleenClaggett-6143.jpg",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Scouting the Sixers' competition: Will the Boston Celtics contend after making the Jaylen Brown trade?",
@@ -243,14 +233,34 @@
       "source": "SportsTalk Philly"
     },
     {
-      "title": "Flyers release 2026 training camp roster, schedule",
-      "description": "After releasing their roster and schedule for Rookie Camp a few days ago, the Philadelphia Flyers announced their 46-man training camp roster and schedule which kicks off on Sept. 17, days prior to their first exhibition game. Lets play some hockey. ",
-      "link": "https://www.broadstreethockey.com/post/flyers-release-2026-training-camp-roster-schedule/",
-      "pubDate": "Thu, 10 Sep 2026 01:42:18 +0000",
-      "author": "Jason MacNeil",
+      "title": "A.J. Brown, Sam Darnold suffer potentially significant injuries in NFL opener",
+      "description": "The reigning Super Bowl champion Seattle Seahawks were dealt a potentially massive blow on the fifth snap of the first game of their title defense when QB1 Sam Darnold injured his hip while being sacked.",
+      "link": "https://www.phillyvoice.com/aj-brown-sam-darnold-suffer-potentially-significant-injuries-nfl-opener-eagles-seahawks-patriots/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Thu, 10 Sep 2026 03:51:07 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-10T020409Z_697830638_MT1USATODAY29776702_RTRMADP_3_NFL-NEW-ENGLAND.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles-Commanders Week 1 injury report, with analysis",
+      "description": "The Philadelphia Eagles are healthy heading into their Week 1 matchup with the Washington Commanders. The Commanders will be without their starting LT, their top CB, and several other notable players. Here's the Eagles-Commanders injury report, with ",
+      "link": "https://www.phillyvoice.com/eagles-commanders-week-1-injury-report-analysis-2026-jonathan-greenard-laremy-tunsil/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Thu, 10 Sep 2026 03:45:51 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/651A3227.jpg",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Relevant to the Eagles: Two injuries from the Seahawks-Patriots game",
+      "description": "The Philadelphia Eagles were featured in last year\u2019s NFL Kickoff Game as the reigning Super Bowl LIX champions in a win over the Dallas Cowboys. They were not featured in this year\u2019s NFL Kickoff Game as the reigning Super Bowl LX champions in a win o",
+      "link": "",
+      "pubDate": "2026-09-09T23:39:42-04:00",
+      "author": "",
       "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Week 1 non-Eagles rooting guide",
@@ -291,16 +301,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Chris Kreider unfortunately makes no sense for the Flyers",
-      "description": "A new top free agent is available on the NHL open market and unfortunately, there is no way the Philadelphia Flyers are a landing spot for him. Chris Kreider is agreeing to a mutual termination of his contract with the Anaheim Ducks. First reported b",
-      "link": "https://www.broadstreethockey.com/post/chris-kreider-unfortunately-makes-no-sense-for-the-flyers/",
-      "pubDate": "Wed, 09 Sep 2026 19:39:15 +0000",
-      "author": "Thomas Williams",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Nick Sirianni says Sean Mannion is likely to call plays from the booth",
@@ -361,16 +361,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Wednesday Morning Fly By: Three weeks to go",
-      "description": "*Today marks 21 days until Game 1 of the 2026-27 season. Boy is that going to fly by. GET IT? Okay anyway, big news yesterday was the unveiling of a rendering of what the future home of the Flyers (and Sixers) is going to look like. If you were hopin",
-      "link": "https://www.broadstreethockey.com/post/wednesday-morning-fly-by-three-weeks-to-go/",
-      "pubDate": "Wed, 09 Sep 2026 10:00:00 +0000",
-      "author": "Kelly Hinkle",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Don Mattingly, Brandon Marsh address Phillies\u2019 \u2018unacceptable\u2019 baserunning mistakes: \u2018Small things cost you runs\u2019",
@@ -457,16 +447,6 @@
       "description": "The Philadelphia Eagles\u2019 first team-issued 2026 regular season depth chart is here ahead of Week 1! Since it\u2019s compiled by the team\u2019s media relations department, it\u2019s not necessarily the most accurate representation of how the front office and coachi",
       "link": "",
       "pubDate": "2026-09-08T12:58:36-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Brandon Graham officially retires, again [UPDATE]",
-      "description": "Brandon Graham will not be returning to the Philadelphia Eagles to suit up for a 17th NFL season. The two-time Super Bowl champion reportedly stated as much during an event in Philly on Tuesday morning. UPDATE: Here\u2019s Graham making the announcement. ",
-      "link": "",
-      "pubDate": "2026-09-08T12:00:16-04:00",
       "author": "",
       "thumbnail": null,
       "team": "eagles",
@@ -561,16 +541,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
-    },
-    {
-      "title": "A Travis Konecny lineup demotion could benefit Flyers",
-      "description": "Travis Konecny led the Flyers last season with 68 point in 77 games. He had 14 power play points, two game-winning goals, a short-handed tally, and averaged just over 19 minutes per game. He just edged Trevor Zegras in points as Zegras had 67. But Ko",
-      "link": "https://www.broadstreethockey.com/post/a-travis-konecny-lineup-demotion-could-benefit-flyers/",
-      "pubDate": "Mon, 07 Sep 2026 17:06:47 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Win this throwback mini cooler!",
@@ -691,16 +661,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Former Phillies outfielder Max Kepler opens up about PED suspension: \u2018I take full responsibility\u2019",
-      "description": "PHOENIX \u2013 Days after the Phillies were eliminated from the playoffs by the Dodgers in the National League Division Series, Max Kepler got a phone call. Fresh off of a sudden end to his team\u2019s World Series hopes, he was about to be dealt a career-alte",
-      "link": "https://philliesnation.com/2026/09/philadelphia-phillies-arizona-diamondbacks-max-kepler-ped-suspension-september-3-2026-mlb-update/",
-      "pubDate": "Fri, 04 Sep 2026 10:14:00 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
     },
     {
       "title": "The Flyers are coming back, and for the first time in forever, with expectations",
@@ -881,16 +841,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-12-20T030357Z_29973116_MT1USATODAY27855448_RTRMADP_3_NBA-PHILADELPHIA.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Eagles' Week 1 opponent will be missing several important players; waived players who make sense",
-      "description": "The Eagles' Week 1 opponent is the Washington Commanders, who will be without a whole slew of their most important players for the opener.",
-      "link": "https://www.phillyvoice.com/eagles-week-1-opponent-commanders-will-be-missing-several-important-players-and-waived-players-who-make-sense/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 31 Aug 2026 12:59:45 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2024-09-09T001422Z_45755344_MT1USATODAY24190426_RTRMADP_3_NFL-WASHINGTON-C.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Phillies rebound from minor stumble against Seattle, sweep the Angels",
