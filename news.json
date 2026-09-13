@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-13T19:01:51.303782+00:00",
-  "count": 163,
+  "updated": "2026-09-13T21:51:51.498260+00:00",
+  "count": 155,
   "articles": [
     {
       "title": "Jes\u00fas Luzardo and the Phillies' rotation are pitching to a historic degree",
@@ -11,6 +11,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-07T193252Z_1200231542_MT1USATODAY29761287_RTRMADP_3_MLB-ATLANTA-BR.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "Eagles vs. Commanders, Week 1: Live updates and open thread",
+      "description": "The Philadelphia Eagles will kick off their 2026 season at 4:25 p.m. EST at Lincoln Financial Field, against the Washington Commanders. The Birds will be looking to bounce back from a disappointing 2025 season, when they were one-and-done in the play",
+      "link": "https://www.phillyvoice.com/eagles-vs-commanders-week-1-live-updates-open-thread-comment-news-analysis/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sun, 13 Sep 2026 21:43:51 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-12-21T015122Z_618541213_MT1USATODAY27861389_RTRMADP_3_NFL-PHILADELPHI.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
     },
     {
       "title": "10 Eagles predictions heading into the 2026 NFL season",
@@ -51,16 +61,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
-    },
-    {
-      "title": "Coincidence or a Sign? The Week 1 Pattern Behind the Eagles\u2019 Best Seasons",
-      "description": "Philadelphia enters Week One against Washington carrying one of the NFL\u2019s strongest opening-day trends: a perfect record under Nick Sirianni and a history that links every Eagles Super Bowl run to a 1-0 start. The post Coincidence or a Sign? The Week",
-      "link": "https://phlsportsnation.com/2026/09/11/eagles-week-one-best-seasons/",
-      "pubDate": "Fri, 11 Sep 2026 17:11:44 +0000",
-      "author": "Fede Carballo",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
     },
     {
       "title": "Know your enemy: Commanders' Jayden Daniels, Eagles' Jalen Hurts are students in the same class",
@@ -157,10 +157,10 @@
       "description": "Brandon Graham revealed Tuesday morning that he's retired for good, but added that the Eagles \"are in great hands.\"",
       "link": "https://www.phillyvoice.com/eagles-brandon-graham-retires-for-real-jordan-davis-jalen-hurts/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
       "pubDate": "Tue, 08 Sep 2026 16:40:00 +0000",
-      "author": "Nick Tricome",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-12-21T013839Z_301220992_MT1USATODAY27861269_RTRMADP_3_NFL-PHILADELPHI.JPG",
+      "author": "PhillyVoice",
+      "thumbnail": null,
       "team": "eagles",
-      "source": "PhillyVoice Eagles"
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Sixers reveal first exterior renderings of future arena slated for 2030",
@@ -191,16 +191,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Recap: William & Mary 35-Villanova 32",
-      "description": "After nearly eight months since a disappointing home loss in the 2025 Division 1 FCS College Football Playoffs to Illinois [] The post Recap: William & Mary 35-Villanova 32 appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/08/30/recap-william-mary-35-villanova-32/",
-      "pubDate": "Mon, 31 Aug 2026 03:47:57 +0000",
-      "author": "Michael Thomas Leibrandt",
-      "thumbnail": null,
-      "team": "general",
-      "source": "PHL Sports Nation"
     },
     {
       "title": "Scouting the Sixers' competition: Will the Boston Celtics contend after making the Jaylen Brown trade?",
@@ -281,6 +271,66 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "SportsTalk Philly"
+    },
+    {
+      "title": "Eagles vs. Commanders Week 1: Scores, updates, and discussion",
+      "description": "The Philadelphia Eagles kick off their 2026 NFL season in an NFC East matchup against the Washington Commanders at Lincoln Financial Field. It has been the norm under head coach Nick Sirianni not to play starters in the preseason, and that trend cont",
+      "link": "",
+      "pubDate": "2026-09-13T17:47:39-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Phillies offense comes alive late to salvage series finale against Braves",
+      "description": "The Phillies had a big eighth inning on Sunday that powered their win over the Braves.",
+      "link": "https://philliesnation.com/2026/09/philadelphia-phillies-alec-bohm-kyle-schwarber-bryce-harper/",
+      "pubDate": "Sun, 13 Sep 2026 20:34:25 +0000",
+      "author": "Bailey Digh",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
+    },
+    {
+      "title": "Winners and losers as Phillies series loss to Braves all but ends NL East chase",
+      "description": "The Phillies offense came to life late to win the finale of their three game series against the NL East leading Braves, but the damage had already been done.",
+      "link": "https://www.phillyvoice.com/winners-losers-phillies-braves-nl-east-standings-wild-card-cubs-news-analysis-bryce-harper-bullpen-blown-saves/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sun, 13 Sep 2026 20:32:21 +0000",
+      "author": "Evan Macy",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-12T040213Z_254741442_MT1USATODAY29796214_RTRMADP_3_MLB-PHILADELPHI.JPG",
+      "team": "phillies",
+      "source": "PhillyVoice"
+    },
+    {
+      "title": "Eagles vs. Commanders: Live score updates, highlights, injury news",
+      "description": "The Philadelphia Eagles are kicking off their 2026 NFL season with a home game against the Washington Commanders! It\u2019s an NFC East battle at Lincoln Financial Field. Nick Sirianni and Jalen Hurts are look to stay perfect in Week 1 games dating back t",
+      "link": "",
+      "pubDate": "2026-09-13T16:12:50-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Eagles-Commanders Week 1 inactives, with analysis",
+      "description": "The Philadelphia Eagles are mostly healthy heading into their Week 1 matchup with the Washington Commanders. The Commanders will be without their starting LT, their top CB, and several other notable players.",
+      "link": "https://www.phillyvoice.com/eagles-commanders-week-1-inactives-analysis-2026-jonathan-greenard-laremy-tunsil/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sun, 13 Sep 2026 19:12:06 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-08-22T224242Z_1363652974_MT1USATODAY29645646_RTRMADP_3_NFL-PHILADELPH.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "EAGLES BACKUP QUARTERBACK REVEALED",
+      "description": "The Philadelphia Eagles officially announced the inactives list for their Week 1 game against the Washington Commanders. The following Eagles players WILL NOT PLAY: Tanner McKee, Jonathan Greenard, Elijah Moore, Micah Morris, and Cole Payton. Well, t",
+      "link": "",
+      "pubDate": "2026-09-13T15:05:49-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Report: Rams DE Myles Garrett headed to IR",
@@ -421,36 +471,6 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Eagles vs. Commanders preview: 9 things to watch",
-      "description": "The Philadelphia Eagles are opening their 2026 season at home with an NFC East battle against the Washington Commanders. Are you feeling excited?! Let\u2019s run through some of the more important things to watch out for this in Week 1 game. 1 The matchup",
-      "link": "",
-      "pubDate": "2026-09-12T13:46:51-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "It\u2019s\u2026 not our year? Everything That Could Go Wrong for the Eagles in 2026",
-      "description": "Philadelphia sports fans know very well that a Super Bowl season has to be perfect. In this case, perfect does [] The post Its not our year? Everything That Could Go Wrong for the Eagles in 2026 appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/09/12/its-not-our-year-everything-that-could-go-wrong-for-the-eagles-in-2026/",
-      "pubDate": "Sat, 12 Sep 2026 15:55:57 +0000",
-      "author": "Jonah Casel",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Eagles News: Sean Mannion is focused on running the ball",
-      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! The Eagles have an offensive coordinator who really wants to focus on the run game? That\u2019s music to the ears of Birds fans. While I\u2019m feeling unsure about Phil",
-      "link": "",
-      "pubDate": "2026-09-12T11:47:22-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Sixers player preview: Labaron Philon Jr. aims to provide a spark in rookie season",
@@ -623,16 +643,6 @@
       "source": "Phillies Nation"
     },
     {
-      "title": "Nick Nurse Faces His Biggest Challenge Yet With the 76ers",
-      "description": "A Championship Roster Comes With Championship Expectations The Philadelphia 76ers assembled a roster that appears ready to contend for an [] The post Nick Nurse Faces His Biggest Challenge Yet With the 76ers appeared first on Philadelphia Sports Nati",
-      "link": "https://phlsportsnation.com/2026/09/10/nick-nurse-faces-his-biggest-challenge-yet-with-the-76ers/",
-      "pubDate": "Thu, 10 Sep 2026 16:11:03 +0000",
-      "author": "Cooper Hubbard",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "PHL Sports Nation"
-    },
-    {
       "title": "A.J. Brown, Sam Darnold suffer potentially significant injuries in NFL opener",
       "description": "The reigning Super Bowl champion Seattle Seahawks were dealt a potentially massive blow on the fifth snap of the first game of their title defense when QB1 Sam Darnold injured his hip while being sacked.",
       "link": "https://www.phillyvoice.com/aj-brown-sam-darnold-suffer-potentially-significant-injuries-nfl-opener-eagles-seahawks-patriots/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -763,16 +773,6 @@
       "source": "Philly Sports Wire"
     },
     {
-      "title": "New to Football or the Eagles? Here\u2019s a Quick Cheatsheet to Sound like a Pro",
-      "description": "The Eagles regular season is upon us finally. This Sunday we get to watch our Philadelphia Eagles start their pursuit [] The post New to Football or the Eagles? Here\u2019s a Quick Cheatsheet to Sound like a Pro appeared first on Philadelphia Sports Natio",
-      "link": "https://phlsportsnation.com/2026/09/08/new-to-football-or-the-eagles-heres-a-quick-cheatsheet-to-sound-like-a-pro/",
-      "pubDate": "Tue, 08 Sep 2026 19:59:43 +0000",
-      "author": "Kyle Lavin",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
-    },
-    {
       "title": "Eagles power ranking roundup: Week 1",
       "description": "Are power rankings completely dumb and meaningless? Yes. Yes, they are. However, personally speaking, whenever I see them, I click. And now that I've sucked you in with promises of many power rankings, you'll read it and like it.",
       "link": "https://www.phillyvoice.com/eagles-power-ranking-roundup-week-1-2026/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -823,16 +823,6 @@
       "source": "Philly Sports Wire"
     },
     {
-      "title": "5 Eagles thoughts: Some new wrinkles this year for Vic Fangio's defense",
-      "description": "With the season opener on Sunday, some thoughts about the Eagles' defense, size at wide receiver, and flying under the radar for once.",
-      "link": "https://www.phillyvoice.com/5-eagles-thoughts-week-1-washington-commanders-vic-fangio-jonathan-greenard-jalen-hurts/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 08 Sep 2026 15:41:43 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/651A2239.jpg",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
       "title": "Sixers mailbag: Is this a make-or-break season for Nick Nurse?",
       "description": "How much pressure is Sixers head coach Nick Nurse facing in his fourth season in Philadelphia? Plus, how I am preparing to cover LeBron James.",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-nick-nurse-interview-press-conference-stats-lebron-james-highlights-nba/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -873,16 +863,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "Injury updates: Phillies building up reliever as \u2018length option\u2019 during rehab assignment",
-      "description": "PHILADELPHIA Left-hander Tanner Banks (forearm strain) became eligible to come off the 60-day injured list on Monday. Hell remain on his minor-league rehab assignment for at least a bit longer. The Phillies want Banks, who began his rehab assignment ",
-      "link": "https://philliesnation.com/2026/09/injury-updates-phillies-building-up-reliever-as-length-option-on-rehab-assignment-tanner-banks-nestor-cortes-caleb-kilian-news/",
-      "pubDate": "Mon, 07 Sep 2026 17:44:57 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
       "title": "5 Sixers thoughts: Over/under 50.5 wins, plus predicting other NBA win totals",
       "description": "How many regular-season games will the 2026-27 Sixers win? How much does it matter?",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-nba-over-unders-win-totals-lebron-james-joel-embiid-tyrese-maxey-jaylen-brown-vj-edgecombe/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -891,26 +871,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/080626_JaylenBrownPresser_ColleenClaggett-9599.jpg",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "We\u2019re Back! And Once Again Philly Is Having An Impact",
-      "description": "Manheim High School graduate and Michigan Wolverine Deyvid Palepale had his Saturday night turn from near sadness and disappointment at [] The post We\u2019re Back! And Once Again Philly Is Having An Impact appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/09/07/were-back-and-once-again-philly-is-having-an-impact/",
-      "pubDate": "Mon, 07 Sep 2026 11:27:01 +0000",
-      "author": "Michael Thomas Leibrandt",
-      "thumbnail": null,
-      "team": "general",
-      "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Inside the Eagles\u2019 $357 Million Roster Bet",
-      "description": "Philadelphia\u2019s roster strategy goes beyond big contracts. The front office is investing heavily in its core while using short-term deals, young talent, and future draft capital to keep the championship window open. The post Inside the Eagles\u2019 $357 Mi",
-      "link": "https://phlsportsnation.com/2026/09/04/eagles-roster-spending/",
-      "pubDate": "Fri, 04 Sep 2026 13:19:13 +0000",
-      "author": "Fede Carballo",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
     },
     {
       "title": "The Flyers are coming back, and for the first time in forever, with expectations",
@@ -931,26 +891,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-02T201454Z_535055767_MT1USATODAY29721427_RTRMADP_3_MLB-PHILADELPHI.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "The 76ers Have No More Excuses, It\u2019s Championship or Bust",
-      "description": "The Expectations Have Changed The Philadelphia 76ers have faced the same question at the start of every season for the [] The post The 76ers Have No More Excuses, It\u2019s Championship or Bust appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/09/03/the-76ers-have-no-more-excuses-its-championship-or-bust/",
-      "pubDate": "Thu, 03 Sep 2026 16:41:46 +0000",
-      "author": "Cooper Hubbard",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "PHL Sports Nation"
-    },
-    {
-      "title": "A Complete Squad \u2014 Ready for Practice",
-      "description": "In case you haven\u2019t heard \u2014 the Eagles have a complete squad. And I\u2019m not talking about the fifty-three man unstoppable force [] The post A Complete Squad \u2014 Ready for Practice appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/09/02/a-complete-squad-ready-for-practice/",
-      "pubDate": "Thu, 03 Sep 2026 01:28:37 +0000",
-      "author": "Michael Thomas Leibrandt",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
     },
     {
       "title": "Winners and losers: Red hot Bryce Harper, Phils starters shine in Arizona desert",
@@ -1031,16 +971,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-12-20T030357Z_29973116_MT1USATODAY27855448_RTRMADP_3_NBA-PHILADELPHIA.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "A Bit of Eagles Sideline Insurance",
-      "description": "NFL Teams need a solid backup quarterback to ensure continuity during a grueling seventeen-game NFL season. It\u2019s an insurance policy [] The post A Bit of Eagles Sideline Insurance appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/08/30/a-bit-of-eagles-sideline-insurance/",
-      "pubDate": "Mon, 31 Aug 2026 03:40:11 +0000",
-      "author": "Michael Thomas Leibrandt",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
     },
     {
       "title": "Phillies rebound from minor stumble against Seattle, sweep the Angels",
@@ -1349,16 +1279,6 @@
       "pubDate": "Wed, 05 Aug 2026 17:12:17 +0000",
       "author": "Nick Tricome",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-08-05T012950Z_1314261327_MT1USATODAY29515671_RTRMADP_3_MLB-WASHINGTON.JPG",
-      "team": "phillies",
-      "source": "PhillyVoice"
-    },
-    {
-      "title": "The Phillies, finally, shook up their lineup. But this feels like sink or swim.",
-      "description": "The Phillies are shuffling four positions to make way for Luis Arr\u00e1ez. It's drastic, and maybe a bit desperate, but they're running with it.",
-      "link": "https://www.phillyvoice.com/phillies-trade-deadline-reactions-luis-arraez-bryce-harper-bryson-stott-lineup-switches-postseason-odds/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 05 Aug 2026 13:10:12 +0000",
-      "author": "Nick Tricome",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-08-04T014327Z_502285054_MT1USATODAY29508620_RTRMADP_3_MLB-WASHINGTON-.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
     },
