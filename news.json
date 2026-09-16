@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-16T17:20:31.268868+00:00",
-  "count": 166,
+  "updated": "2026-09-16T20:31:05.913578+00:00",
+  "count": 167,
   "articles": [
     {
       "title": "Checking in on recent former Eagles: Nakobe Dean, Jaelan Phillips make solid debuts",
@@ -47,16 +47,6 @@
       "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! In case you forgot, Zack Baun is really, really good at football. Wild that the Eagles have a linebacker this good after years of them struggling to merely fin",
       "link": "",
       "pubDate": "2026-09-16T11:36:10-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Jordan Mailata says the Eagles\u2019 offensive line needs to be more \u201cstout\u201d",
-      "description": "Stout (adjective): Strong, thick Stout (noun): Legendary former Eagles offensive line coach Jeff Stoutland The Eagles\u2019 offensive line struggled against the Commanders in Week 1, and after the game, Jordan Mailata was talking to reporters and might ha",
-      "link": "",
-      "pubDate": "2026-09-15T10:57:08-04:00",
       "author": "",
       "thumbnail": null,
       "team": "eagles",
@@ -138,16 +128,6 @@
       "link": "https://philliesnation.com/2026/09/philadelphia-phillies-houston-astros-game-story-kyle-schwarber-cristopher-sanchez-september-9-2026/",
       "pubDate": "Thu, 10 Sep 2026 02:49:07 +0000",
       "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
-      "title": "Don Mattingly holds conversations with Phillies players about costly baserunning blunders: \u2018Make sure we\u2019re thinking correctly\u2019",
-      "description": "PHILADELPHIA Following a pair of late baserunning blunders that might have hurt the Phillies chance to complete a comeback in a one-run loss on Tuesday, interim manager Don Mattingly felt the need to hold one-on-one conversations with two of his play",
-      "link": "https://philliesnation.com/2026/09/don-mattingly-holds-conversations-with-phillies-players-about-costly-baserunning-blunders-make-sure-were-thinking-correctly/",
-      "pubDate": "Wed, 09 Sep 2026 21:44:05 +0000",
-      "author": "Ty Daubert",
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
@@ -263,6 +243,36 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Maksim Sokolovskii has a big opportunity at Flyers training camp",
+      "description": "Training camps around the NHL are used for a variety of reasons. Sometimes its just a formality for some veterans to get on the ice in more organized fashion with their teammates, as they enter their 12th season in the league and feel the familiar rh",
+      "link": "https://www.broadstreethockey.com/post/maksim-sokolovskii-has-a-big-opportunity-at-flyers-training-camp/",
+      "pubDate": "Wed, 16 Sep 2026 19:04:57 +0000",
+      "author": "Thomas Williams",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Phillies\u2019 diminished home-run power could be an issue in the postseason",
+      "description": "The Phillies are hitting fewer home runs, and that wouldn't be ideal once the playoffs begin.",
+      "link": "https://philliesnation.com/2026/09/philadelphia-phillies-home-runs-kyle-schwarber-bryce-harper-jesus-luzardo/",
+      "pubDate": "Wed, 16 Sep 2026 18:58:27 +0000",
+      "author": "Bailey Digh",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
+    },
+    {
+      "title": "Eagles vs. Commanders: 14 winners, 5 losers, 5 IDKs",
+      "description": "The Philadelphia Eagles are 1-0 after beating the Washington Commanders to begin the 2026 season. It was a narrow win, yes, but it was an important one to avoid dropping a division game right off the bat. Time to hand out winners, losers, and I don\u2019t",
+      "link": "",
+      "pubDate": "2026-09-16T14:33:12-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
       "title": "Eagles in the community: Jalen Hurts, Jalyx Hunt make huge impacts",
       "description": "The NFL is filled with players who are deeply committed to the communities in which they play, and the Eagles have a whole lot of guys like that on the roster. After their Week 1 game, QB Jalen Hurts and EDGE Jalyx Hunt both announced some hugely imp",
       "link": "",
@@ -331,16 +341,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-03-16T010455Z_1170184829_MT1USATODAY28510557_RTRMADP_3_NBA-PORTLAND-T.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Matt Cord forgoes retirement to return as Sixers PA announcer for 29th season",
-      "description": "You just knew this was too big of a Sixers season to not have Matt Cord on the mic. After initially retiring following the conclusion of the 2025-26 campaign, Cord will instead return as public address announcer at Xfinity Mobile Arena for Philadelph",
-      "link": "",
-      "pubDate": "2026-09-16T08:31:44-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Eagles-Titans preview: 5 things to watch",
@@ -914,7 +914,7 @@
     },
     {
       "title": "Nick Nurse Faces His Biggest Challenge Yet With the 76ers",
-      "description": "A Championship Roster Comes With Championship Expectations The Philadelphia 76ers assembled a roster that appears ready to contend for an [] The post Nick Nurse Faces His Biggest Challenge Yet With the 76ers appeared first on Philadelphia Sports Nati",
+      "description": "The Philadelphia 76ers assembled a roster that looks ready to contend for an NBA title this offseason. Although Joel Embiid [] The post Nick Nurse Faces His Biggest Challenge Yet With the 76ers appeared first on Philadelphia Sports Nation.",
       "link": "https://phlsportsnation.com/2026/09/10/nick-nurse-faces-his-biggest-challenge-yet-with-the-76ers/",
       "pubDate": "Thu, 10 Sep 2026 16:11:03 +0000",
       "author": "Cooper Hubbard",
@@ -927,6 +927,16 @@
       "description": "When Nick Nurse took over as the Sixers head coach ahead of the 2023-24 season, players were buzzing with excitement about his energy and creativity. But with Joel Embiid and Paul George cycling in and out of the lineup over the past two seasons, Nur",
       "link": "",
       "pubDate": "2026-09-10T09:55:44-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Editor-in-chief mailbag: I\u2019m back, baby",
+      "description": "I\u2019m back this week and ready to answer your Sixers-related questions. It\u2019s been relatively quiet, but the Sixers did make a series of Exhibit 10 signings. For those unfamiliar, an Exhibit 10 deal is essentially a training camp contract with an added ",
+      "link": "",
+      "pubDate": "2026-09-09T13:00:00-04:00",
       "author": "",
       "thumbnail": null,
       "team": "sixers",
@@ -973,8 +983,8 @@
       "source": "Philly Sports Wire"
     },
     {
-      "title": "New to Football or the Eagles? Here\u2019s a Quick Cheatsheet to Sound like a Pro",
-      "description": "The Eagles regular season is upon us finally. This Sunday we get to watch our Philadelphia Eagles start their pursuit [] The post New to Football or the Eagles? Here\u2019s a Quick Cheatsheet to Sound like a Pro appeared first on Philadelphia Sports Natio",
+      "title": "New to Football or the Eagles? Here\u2019s a Quick Cheatsheet to Sound Like a Pro",
+      "description": "The Eagles regular season is finally upon us. This Sunday we get to watch our Philadelphia Eagles start their pursuit [] The post New to Football or the Eagles? Here\u2019s a Quick Cheatsheet to Sound Like a Pro appeared first on Philadelphia Sports Natio",
       "link": "https://phlsportsnation.com/2026/09/08/new-to-football-or-the-eagles-heres-a-quick-cheatsheet-to-sound-like-a-pro/",
       "pubDate": "Tue, 08 Sep 2026 19:59:43 +0000",
       "author": "Kyle Lavin",
