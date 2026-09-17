@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T20:38:16.682396+00:00",
-  "count": 166,
+  "updated": "2026-09-17T23:10:39.087900+00:00",
+  "count": 155,
   "articles": [
     {
       "title": "Phillies panic meter: Split with Nationals raises reasons for worry",
@@ -33,6 +33,16 @@
       "source": "PhillyVoice"
     },
     {
+      "title": "Phillies notes: Updates on Luzardo, bullpen game and why a trade deadline acquisition is likely done for the season",
+      "description": "NEW YORK The Phillies on Thursday claimed right-handed pitcher Jos\u00e9 Urquidy off waivers from the Chicago White Sox. Urquidy will travel to New York tonight and be activated on Friday. He will factor into the Phillies bullpen game, which is officially",
+      "link": "https://philliesnation.com/2026/09/philadelphia-phillies-news-updates-rotation-bullpen-game-jesus-luzardo-september-17-2026/",
+      "pubDate": "Thu, 17 Sep 2026 22:53:55 +0000",
+      "author": "Destiny Lugardo",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
+    },
+    {
       "title": "How to watch Phillies vs. Mets this weekend with 2 national TV games",
       "description": "With just 10 games left to play, the Phillies on Thursday will begin their final road series of the 2026 regular season, a four-game set against the New York Mets at Citi Field. The Mets (69-83) have had a disappointing year, finding themselves in th",
       "link": "https://philliesnation.com/2026/09/philadelphia-phillies-how-to-watch-mets-national-tv-media-news-mlb-september-17-2026/",
@@ -41,6 +51,16 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
+    },
+    {
+      "title": "Sixers go soaring up ESPNs latest Future Power Rankings",
+      "description": "Every year, ESPN rolls out Future Power Rankings, which are its projection of the on-court success expected for each team over the next three seasons. After one of the greatest offseasons in franchise history (if not the best), the Sixers unsurprisin",
+      "link": "",
+      "pubDate": "2026-09-17T09:54:01-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Getting to know all 26 forwards at Flyers training camp",
@@ -133,16 +153,6 @@
       "source": "Phillies Nation"
     },
     {
-      "title": "Coincidence or a Sign? The Week 1 Pattern Behind the Eagles\u2019 Best Seasons",
-      "description": "Philadelphia enters Week One against Washington carrying one of the NFL\u2019s strongest opening-day trends: a perfect record under Nick Sirianni and a history that links every Eagles Super Bowl run to a 1-0 start. The post Coincidence or a Sign? The Week",
-      "link": "https://phlsportsnation.com/2026/09/11/eagles-week-one-best-seasons/",
-      "pubDate": "Fri, 11 Sep 2026 17:11:44 +0000",
-      "author": "Fede Carballo",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
-    },
-    {
       "title": "Jes\u00fas Luzardo's latest Phillies statement tied directly to Roy Halladay's perfect game",
       "description": "The Phillies' left-hander Jes\u00fas Luzardo took over Monday's 1-0 win over the Atlanta Braves. He threw his first complete-game shutout and gave shades to Roy Halladay, another legendary moment in...",
       "link": "https://thatballsouttahere.com/jesus-luzardo-s-latest-phillies-statement-tied-directly-to-roy-halladay-s-perfect-game?utm_source=RSS",
@@ -171,16 +181,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Recapping a Historic Opening Weekend for Philly College Football",
-      "description": "Manheim High School graduate and Michigan Wolverine Deyvid Palepale had his Saturday night turn from near sadness and disappointment at [] The post Recapping a Historic Opening Weekend for Philly College Football appeared first on Philadelphia Sports",
-      "link": "https://phlsportsnation.com/2026/09/07/were-back-and-once-again-philly-is-having-an-impact/",
-      "pubDate": "Mon, 07 Sep 2026 11:27:01 +0000",
-      "author": "Michael Thomas Leibrandt",
-      "thumbnail": null,
-      "team": "general",
-      "source": "PHL Sports Nation"
     },
     {
       "title": "Scouting the Sixers' competition: Will the Boston Celtics contend after making the Jaylen Brown trade?",
@@ -241,6 +241,16 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "SportsTalk Philly"
+    },
+    {
+      "title": "Eagles-Titans Week 2 injury report, with analysis",
+      "description": "The Philadelphia Eagles had a couple of big names in Jalen Carter and Cooper DeJean pop up on their injury report ahead of their Week 2 matchup with the Tennessee Titans, in addition to placing starting LG Landon Dickerson on injured reserve. The Tit",
+      "link": "https://www.phillyvoice.com/eagles-titans-week-2-injury-report-analysis-jonathan-greenard-landon-dickerson-cooper-dejean-jalen-carter/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Thu, 17 Sep 2026 22:01:26 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/072926_EaglesTrainingCamp_ColleenClaggett-4902.jpg",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Flyers impressed by Matvei Michkov after his first day of training camp",
@@ -373,16 +383,6 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "Eagles-Titans Week 2 injury report, with analysis",
-      "description": "The Philadelphia Eagles had a couple of big names in Jalen Carter and Cooper DeJean pop up on their injury report ahead of their Week 2 matchup with the Tennessee Titans, in addition to placing starting LG Landon Dickerson on injured reserve. The Tit",
-      "link": "https://www.phillyvoice.com/eagles-titans-week-2-injury-report-analysis-jonathan-greenard-landon-dickerson-cooper-dejean-jalen-carter/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 16 Sep 2026 23:16:59 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/072926_EaglesTrainingCamp_ColleenClaggett-4902.jpg",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
       "title": "Eagles Injury Report: Cooper DeJean and Jalen Carter miss practice",
       "description": "The Philadelphia Eagles issued their first official injury report of the week on Wednesday in advance of their Week 2 game against the Tennessee Titans. The Eagles listed two players under DID NOT PARTICIPATE: Cooper DeJean and Jalen Carter. DeJean r",
       "link": "",
@@ -463,6 +463,16 @@
       "source": "PhillyVoice Flyers"
     },
     {
+      "title": "Dominick Barlow could do even more for Sixers in 2026-27",
+      "description": "Dominick Barlow went above and beyond what youd ever expect for a player on a two-way contract last season. He started 59 games for the Sixers and averaged 23.8 minutes per game, as well as 10.8 minutes across nine games in the playoffs. High motor, ",
+      "link": "",
+      "pubDate": "2026-09-16T11:00:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
       "title": "Danny Bri\u00e8re, Flyers have much bigger and better expectations for Tyson Foerster",
       "description": "Tyson Foerster has the contract extension to keep him as a Flyer, and an increasingly important one, for a good while.",
       "link": "https://www.phillyvoice.com/flyers-tyson-foerster-bigger-expectations-goals-stats-projections-contract-danny-briere/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -491,6 +501,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-03-16T010455Z_1170184829_MT1USATODAY28510557_RTRMADP_3_NBA-PORTLAND-T.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Matt Cord forgoes retirement to return as Sixers PA announcer for 29th season",
+      "description": "You just knew this was too big of a Sixers season to not have Matt Cord on the mic. After initially retiring following the conclusion of the 2025-26 campaign, Cord will instead return as public address announcer at Xfinity Mobile Arena for Philadelph",
+      "link": "",
+      "pubDate": "2026-09-16T08:31:44-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Eagles-Titans preview: 5 things to watch",
@@ -561,16 +581,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-03-29T012230Z_53393372_MT1USATODAY28612886_RTRMADP_3_NHL-PHILADELPHIA.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "RECAP: Breaking Down the Ups and Downs of the Eagles\u2019 First Game vs. Washington",
-      "description": "First game of the season is in the books. Let\u2019s break down the good and bad from players, units, and to the future The post RECAP: Breaking Down the Ups and Downs of the Eagles\u2019 First Game vs. Washington appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/09/15/ups-and-downs-of-the-eagles-first-game-a-breakdown/",
-      "pubDate": "Tue, 15 Sep 2026 17:51:11 +0000",
-      "author": "Kyle Lavin",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
     },
     {
       "title": "Editor-in-chief mailbag: We\u2019re getting close \u2026",
@@ -723,26 +733,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "It\u2019s an Early September Sensation, Philly! Can You Feel It?!",
-      "description": "It starts slowly as the waning days of July carry themselves into August, growing slowly in intensity. For thousands of [] The post It\u2019s an Early September Sensation, Philly! Can You Feel It?! appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/09/14/its-early-september-sensation-philly-can-you-feel-it/",
-      "pubDate": "Mon, 14 Sep 2026 04:50:47 +0000",
-      "author": "Michael Thomas Leibrandt",
-      "thumbnail": null,
-      "team": "general",
-      "source": "PHL Sports Nation"
-    },
-    {
-      "title": "RECAP: Back in the Saddle Again \u2014 Eagles Open Season With a 24\u201322 Win vs. Washington",
-      "description": "Over 69,000 fans attended the Commanders-Eagles game at Lincoln Financial Field on Sunday afternoon, after nearly seven months without an NFL [] The post RECAP: Back in the Saddle Again \u2014 Eagles Open Season With a 24\u201322 Win vs. Washington appeared fi",
-      "link": "https://phlsportsnation.com/2026/09/14/recap-back-in-the-saddle-again-eagles-open-the-season-against-the-commanders-with-a-24-22-win/",
-      "pubDate": "Mon, 14 Sep 2026 04:41:08 +0000",
-      "author": "Michael Thomas Leibrandt",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
-    },
-    {
       "title": "Handing out 10 awards from the Eagles-Commanders game",
       "description": "Jalen Hurts, Dallas Goedert, and Moro Ojomo were the stars of an opening Week 1 win that came down to the wire.",
       "link": "https://www.phillyvoice.com/handing-out-10-awards-eagles-commanders-game/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -843,16 +833,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "It\u2019s\u2026 Not Our Year? Everything That Could Go Wrong for the Eagles in 2026",
-      "description": "Philadelphia sports fans know very well that a Super Bowl season has to be perfect. In this case, perfect doesnt [] The post It\u2019s Not Our Year? Everything That Could Go Wrong for the Eagles in 2026 appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/09/12/its-not-our-year-everything-that-could-go-wrong-for-the-eagles-in-2026/",
-      "pubDate": "Sat, 12 Sep 2026 15:55:57 +0000",
-      "author": "Jonah Casel",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
-    },
-    {
       "title": "Sixers player preview: Labaron Philon Jr. aims to provide a spark in rookie season",
       "description": "When the Sixers selected LaBaron Philon Jr. at No. 22 overall in the 2026 NBA Draft, he seemed to have a clear path to a rotation role as a rookie. It is not as clear now.",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-labaron-philon-jr-stats-contract-interview-highlights-career-nba-rumors-roster-press-conference/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -873,16 +853,6 @@
       "source": "Phillies Nation"
     },
     {
-      "title": "Joel Embiid\u2019s Best Playoff Games, Part III: Game 3 vs. Raptors in 2022",
-      "description": "Final Score: Sixers 104, Raptors 101 (OT) Series score after result: Philadelphia leads 3-0 Embiid\u2019s stat line: 33 points, 13 rebounds, 2 assists, 12-of-20 FGs, 3-of-8 3PTs, 1 block, +8 rating For the second time in our five-part series, we have a pe",
-      "link": "",
-      "pubDate": "2026-09-11T13:42:51-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Sixers player preview: Does Joel Embiid need to change his game to win a ring?",
       "description": "Joel Embiid has a golden opportunity to be part of a title-winning Sixers team. How can he make the most of his star-studded supporting cast?",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-joel-embiid-stats-contract-interview-highlights-career-nba-rumors-roster-press-conference/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -893,16 +863,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Ranking the Exhibit 10 players by level of intrigue",
-      "description": "The Sixers are bringing in four players on Exhibit 10 contracts: Dillon Jones, Saint Thomas, Jameer Nelson, Jr. and, easily the most recognizable of all, Tacko Fall. As a refresher, an Exhibit 10 contract is essentially a camp invite where the signee",
-      "link": "",
-      "pubDate": "2026-09-11T09:00:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Phillies stumble against Astros, can't bridge gap vs. NL East-leading Braves",
       "description": "The mistake-prone Phillies fumbled an opportunity to gain ground on the NL East-leading Braves by losing two to the Astros in South Philly.",
       "link": "https://www.phillyvoice.com/phillies-astros-recap-errors-base-running-national-league-east-mlb-postseason-analysis/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -911,46 +871,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-10T015515Z_746898412_MT1USATODAY29776690_RTRMADP_3_MLB-HOUSTON-AST.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Brandon Marsh leaves game early after taking foul ball off his foot",
-      "description": "PHILADELPHIA Phillies outfielder Brandon Marsh left Thursdays 2-1 loss against the Astros early after fouling a ball off his foot. With an 0-1 count against right-handed reliever Bryan Abreu in the eighth inning, Marsh fouled a pitch hard off his rig",
-      "link": "https://philliesnation.com/2026/09/philadelphia-phillies-brandon-marsh-injury-houston-astros-jhoan-duran-zack-wheeler-september-10-2026/",
-      "pubDate": "Thu, 10 Sep 2026 19:41:46 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
-      "title": "Nick Nurse Faces His Biggest Challenge Yet With the 76ers",
-      "description": "The Philadelphia 76ers assembled a roster that looks ready to contend for an NBA title this offseason. Although Joel Embiid [] The post Nick Nurse Faces His Biggest Challenge Yet With the 76ers appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/09/10/nick-nurse-faces-his-biggest-challenge-yet-with-the-76ers/",
-      "pubDate": "Thu, 10 Sep 2026 16:11:03 +0000",
-      "author": "Cooper Hubbard",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Will the new-look Sixers bring out the \u2018mad scientist\u2019 Nick Nurse?",
-      "description": "When Nick Nurse took over as the Sixers head coach ahead of the 2023-24 season, players were buzzing with excitement about his energy and creativity. But with Joel Embiid and Paul George cycling in and out of the lineup over the past two seasons, Nur",
-      "link": "",
-      "pubDate": "2026-09-10T09:55:44-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
-      "title": "Editor-in-chief mailbag: I\u2019m back, baby",
-      "description": "I\u2019m back this week and ready to answer your Sixers-related questions. It\u2019s been relatively quiet, but the Sixers did make a series of Exhibit 10 signings. For those unfamiliar, an Exhibit 10 deal is essentially a training camp contract with an added ",
-      "link": "",
-      "pubDate": "2026-09-09T13:00:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Don Mattingly, Brandon Marsh address Phillies\u2019 \u2018unacceptable\u2019 baserunning mistakes: \u2018Small things cost you runs\u2019",
@@ -991,16 +911,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Philly Sports Wire"
-    },
-    {
-      "title": "New to Football or the Eagles? Here\u2019s a Quick Cheatsheet to Sound Like a Pro",
-      "description": "The Eagles regular season is finally upon us. This Sunday we get to watch our Philadelphia Eagles start their pursuit [] The post New to Football or the Eagles? Here\u2019s a Quick Cheatsheet to Sound Like a Pro appeared first on Philadelphia Sports Natio",
-      "link": "https://phlsportsnation.com/2026/09/08/new-to-football-or-the-eagles-heres-a-quick-cheatsheet-to-sound-like-a-pro/",
-      "pubDate": "Tue, 08 Sep 2026 19:59:43 +0000",
-      "author": "Kyle Lavin",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
     },
     {
       "title": "Sixers Sign Dillon Jones To Exhibit 10 Contract",
@@ -1093,16 +1003,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Inside the Eagles\u2019 $357 Million Roster Bet",
-      "description": "Philadelphia\u2019s roster strategy goes beyond big contracts. The front office is investing heavily in its core while using short-term deals, young talent, and future draft capital to keep the championship window open. The post Inside the Eagles\u2019 $357 Mi",
-      "link": "https://phlsportsnation.com/2026/09/04/eagles-roster-spending/",
-      "pubDate": "Fri, 04 Sep 2026 13:19:13 +0000",
-      "author": "Fede Carballo",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
-    },
-    {
       "title": "The Flyers are coming back, and for the first time in forever, with expectations",
       "description": "The Flyers clicked and made a playoff breakthrough that captured Philadelphia's belief again. Now comes the hard part: sustaining it, and pushing it further.",
       "link": "https://www.phillyvoice.com/flyers-2026-2027-expectations-playoffs-matvei-michkov/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -1121,16 +1021,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-02T201454Z_535055767_MT1USATODAY29721427_RTRMADP_3_MLB-PHILADELPHI.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "The 76ers Have No More Excuses; It\u2019s Championship or Bust",
-      "description": "The Philadelphia 76ers have faced the same question at the start of every season for the majority of the Process [] The post The 76ers Have No More Excuses; It\u2019s Championship or Bust appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/09/03/the-76ers-have-no-more-excuses-its-championship-or-bust/",
-      "pubDate": "Thu, 03 Sep 2026 16:41:46 +0000",
-      "author": "Cooper Hubbard",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "PHL Sports Nation"
     },
     {
       "title": "Winners and losers: Red hot Bryce Harper, Phils starters shine in Arizona desert",
