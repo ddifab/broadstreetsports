@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T12:41:16.627667+00:00",
+  "updated": "2026-09-20T16:34:00.238555+00:00",
   "count": 155,
   "articles": [
     {
@@ -31,16 +31,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-07T193252Z_1200231542_MT1USATODAY29761287_RTRMADP_3_MLB-ATLANTA-BR.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Eagles News: Makai Lemon \u201cjust doesn\u2019t look ready\u201d",
-      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! The Eagles aren\u2019t being fair to Makai Lemon by putting him on the field before he\u2019s fully ready. There should be more of a timeshare when it comes to the third",
-      "link": "",
-      "pubDate": "2026-09-19T14:00:30-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Flyers training camp already has everyone fighting for their spot",
@@ -111,16 +101,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/080626_JaylenBrownPresser_ColleenClaggett-7630.jpg",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "In a messy Eagles opener, Braden Mann's punts were clutch",
-      "description": "The Eagles were sloppy, but Braden Mann always gave them a lifeline to begin the year 1-0.",
-      "link": "https://www.phillyvoice.com/eagles-commanders-braden-mann-week-1-mvp-special-teams-punting/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sun, 13 Sep 2026 23:47:19 +0000",
-      "author": "Nick Tricome",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-01T081701Z_1851367666_MT1USATODAY29707908_RTRMADP_3_NFL-PHILADELPH.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Jes\u00fas Luzardo's latest Phillies statement tied directly to Roy Halladay's perfect game",
@@ -213,6 +193,76 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Eagles vs. Titans Week 2 game thread",
+      "description": "The Philadelphia Eagles are in Nashville for what could be a very hot Week 2 matchup against the Tennessee Titans. The team may be sweaty, but at least they\u2019ll be playing in an environment that more closely resembles a home game \u2014 at least based on h",
+      "link": "",
+      "pubDate": "2026-09-20T12:00:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Andrew Mukuba is ACTIVE for Eagles vs. Titans",
+      "description": "The Philadelphia Eagles officially announced the inactives list for their Week 2 game against the Tennessee Titans. The big news is that starting safety Andrew Mukuba is ACTIVE after being ruled questionable to play due to the knee injury he suffered",
+      "link": "",
+      "pubDate": "2026-09-20T11:40:24-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Eagles-Titans Week 2 inactives, with analysis",
+      "description": "The Philadelphia Eagles had a few starters in Jalen Carter, Cooper DeJean, and Andrew Mukuba pop up on their injury report ahead of their Week 2 matchup with the Tennessee Titans, in addition to starting LG Landon Dickerson landing on injured reserve",
+      "link": "https://www.phillyvoice.com/eagles-titans-week-2-inactives-analysis-andrew-mukuba-cor-dale-flott/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sun, 20 Sep 2026 15:39:38 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-05-29T134131Z_115881641_MT1USATODAY26315307_RTRMADP_3_NFL-PHILADELPHI.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles-Titans Week 2 prediction",
+      "description": "The energy going into the Philadelphia Eagles\u2019 Week 2 game against the Tennessee Titans is a little weird. The Eagles are making a somewhat surprising choice on the offensive line by changing two starters. Cam Jurgens will shift to left guard to repl",
+      "link": "",
+      "pubDate": "2026-09-20T11:10:47-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Sixers player preview: How many quality minutes does Kentavious Caldwell-Pope have left in the tank?",
+      "description": "Kentavious Caldwell-Pope has won a championship as a starter on two different teams. Can he serve as a valuable bench piece for a title-winning Sixers team?",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-kentavious-caldwell-pope-kcp-stats-contract-interview-highlights-career-nba-rumors-roster-press-conference/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sun, 20 Sep 2026 14:28:47 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-01-11T215418Z_921303390_MT1USATODAY27985335_RTRMADP_3_NBA-BROOKLYN-NE.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Report: Eagles will start Cam Jurgens at LG, Drew Kendall at C vs. Titans",
+      "description": "After losing Landon Dickerson to injured reserve, the Philadelphia Eagles had a decision to make on their offensive line configuration going forward. According to a report from NFL Network, their decision is to move C Cam Jurgens to LG, and for secon",
+      "link": "https://www.phillyvoice.com/report-eagles-will-start-cam-jurgens-lg-drew-kendall-c-vs-titans/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sun, 20 Sep 2026 14:17:55 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-10T185723Z_1127895306_MT1USATODAY29167730_RTRMADP_3_NFL-PHILADELPH.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles reportedly change two spots on the starting offensive line",
+      "description": "The Eagles are in Nashville this weekend to face the Titans in extremely hot conditions for their Week 2 matchup. There were a few unknowns heading into the game, including how the team would handle the offensive line after having to put Landon Dicke",
+      "link": "",
+      "pubDate": "2026-09-20T09:59:32-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
       "title": "Week 2 non-Eagles rooting guide",
       "description": "The Philadelphia Eagles will take on the Tennessee Titans at 1:00 on Sunday. That matchup aside, here we'll lay out a rooting guide for non-Eagles games on the NFL schedule for those of you on the fence while watching the other action around the leag",
       "link": "https://www.phillyvoice.com/week-2-non-eagles-rooting-guide-cowboys-giants-commanders-rams/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -221,6 +271,26 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-10-19T225615Z_2060361413_MT1USATODAY27371590_RTRMADP_3_NFL-WASHINGTON.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles News: Philly fans are taking over Tennessee",
+      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! No surprise here since we all know Eagles fans travel very well in general. But it seems like there\u2019s an especially large presence in Tennessee given the desti",
+      "link": "",
+      "pubDate": "2026-09-20T07:42:57-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Eagles vs. Titans Week 2 game information",
+      "description": "The Philadelphia Eagles are 1-0 heading into their Week 2 matchup on the road against the Tennessee Titans. Thanks to Jalen Hurts, the Eagles were able to do enough offensively to get a win in the team\u2019s season opener, and the defense learned a lesso",
+      "link": "",
+      "pubDate": "2026-09-20T06:58:11-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Phillies reportedly option Orion Kerkering after bad outings in New York: \u2018Pretty high degree of worry\u2019",
@@ -293,16 +363,6 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "The Titans are already in trouble",
-      "description": "The Titans looked really good last week. I am referring to their Houston Oilers quasi-throwback jerseys. Those are great. Their football was disgusting. The Titans offense: definitely offensive If you thought the Eagles offense was a chore to watch l",
-      "link": "",
-      "pubDate": "2026-09-19T14:50:31-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Takeaways: Matvei Michkov pops in Flyers training camp scrimmage",
       "description": "The Flyers Training Center in Voorhees, New Jersey was brimming with people Saturday morning for the teams first scrimmage of the season. And while there wasnt a whole lot to take from an intersquad matchup, Team Orange rallied to defeat Team Black 4",
       "link": "https://www.broadstreethockey.com/post/takeaways-michkov-pops-in-flyers-training-camp-scrimmage/",
@@ -343,26 +403,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Eagles rookie storylines for the Titans game",
-      "description": "The Eagles are 1-0 and headed to Nashville for a Week 2showdown with the Titans. Tennessee looked pretty listless against the Jets last week, but will be motivated to avoid 0-2 on their home turf. For the Eagles, they don\u2019t have a lot of rookies who ",
-      "link": "",
-      "pubDate": "2026-09-19T06:00:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Film Preview: Eagles should have success against this Titans defense",
-      "description": "Each week, I\u2019ll publish two film-room previews: one focusing on the offense and one on the defense. These are primarily film-based, focusing on the schemes, tendencies, and matchups that could shape Sunday\u2019s game, with all statistics coming from the ",
-      "link": "",
-      "pubDate": "2026-09-18T19:34:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Why the Phillies are not placing Jonathan Bowlan on the IL, the latest on Jes\u00fas Luzardo",
       "description": "NEW YORK The Phillies, at least for the next few days, will operate a man short in the bullpen. Jonathan Bowlan, who left Thursdays game in the eighth inning with right groin tightness, is not going on the 15-day injured list. Instead, the Phillies w",
       "link": "https://philliesnation.com/2026/09/philadelphia-phillies-jonathan-bowlan-jesus-luzardo-injury-updates-september-18-2026-mlb/",
@@ -371,16 +411,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
-    },
-    {
-      "title": "Eagles-Titans Final Injury Report: Jonathan Greenard OUT, Andrew Mukuba questionable",
-      "description": "The Philadelphia Eagles issued their third and final official injury report of the week on Friday in advance of their Week 2 game against the Tennessee Titans. Neither Cooper DeJean nor Jalen Carter are listed with a game status. This means they\u2019re s",
-      "link": "",
-      "pubDate": "2026-09-18T16:12:52-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "The biggest mystery at Flyers training camp",
@@ -401,16 +431,6 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Eagles Film Preview: Titans offense off to a slow start",
-      "description": "Each week, I\u2019ll publish two film-room previews: one focusing on the offense and one on the defense. These are primarily film-based, focusing on the schemes, tendencies, and matchups that could shape Sunday\u2019s game, with all statistics coming from the ",
-      "link": "",
-      "pubDate": "2026-09-18T14:21:11-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Is this the year the Sixers climb atop the Philly sports hierarchy?",
@@ -843,16 +863,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Handing out 10 awards from the Eagles-Commanders game",
-      "description": "Jalen Hurts, Dallas Goedert, and Moro Ojomo were the stars of an opening Week 1 win that came down to the wire.",
-      "link": "https://www.phillyvoice.com/handing-out-10-awards-eagles-commanders-game/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 14 Sep 2026 02:12:29 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/091326_EaglesCommanders_ColleenClaggett-9788.jpg",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
       "title": "Winners and losers as Phillies series loss to Braves all but ends NL East chase",
       "description": "The Phillies offense came to life late to win the finale of their three game series against the NL East leading Braves, but the damage had already been done.",
       "link": "https://www.phillyvoice.com/winners-losers-phillies-braves-nl-east-standings-wild-card-cubs-news-analysis-bryce-harper-bullpen-blown-saves/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -1241,16 +1251,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-08-23T010101Z_796106809_MT1USATODAY29646439_RTRMADP_3_MLB-ST-LOUIS-CA.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Scouting the Sixers' competition: Can the Cleveland Cavaliers get over the hump?",
-      "description": "Among the pieces lost by the Cleveland Cavaliers this offseason: new Sixers President of Basketball Operations Mike Gansey and forward Dean Wade.",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-nba-eastern-conference-power-rankings-odds-standings-cleveland-cavaliers-mike-gansey/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 24 Aug 2026 13:11:50 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-01-29T025525Z_208392972_MT1USATODAY28108158_RTRMADP_3_NBA-LOS-ANGELES.JPG",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
     },
     {
       "title": "5 Phillies thoughts: Good times, lots of walks and Alec Bohm shine in South Philly",
