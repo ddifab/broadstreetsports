@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T19:07:22.753335+00:00",
-  "count": 157,
+  "updated": "2026-09-20T21:58:10.617586+00:00",
+  "count": 167,
   "articles": [
     {
       "title": "Phillies panic meter: Split with Nationals raises reasons for worry",
@@ -33,6 +33,26 @@
       "source": "PhillyVoice"
     },
     {
+      "title": "Eagles-Titans Week 2 report card: Titans made Jalen Hurts be a QB, and he schooled them",
+      "description": "Grading the Eagles in their 24-20 comeback win over the Titans in Week 2.",
+      "link": "https://www.phillyvoice.com/eagles-titans-report-card-recap-grades-jalen-hurts-saquon-barkley-cam-ward/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sun, 20 Sep 2026 20:26:15 +0000",
+      "author": "Geoff Mosher",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-20T183019Z_168160316_MT1USATODAY29872579_RTRMADP_3_NFL-PHILADELPHI.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles Week 2 stock watch: Jalen Hurts overcomes mediocre defense, inconsistent offense",
+      "description": "Whatever the explanation is, the result Sunday was remarkable, as the Eagles drove 65 yards to score with nine seconds to go, en route to an epic comeback win, 24-20, to move to 2-0.",
+      "link": "https://www.phillyvoice.com/eagles-stock-watch-titans-nfc-east-jalen-hurts-devonta-smith-comeback-defense-news-analysis/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sun, 20 Sep 2026 20:21:30 +0000",
+      "author": "Evan Macy",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-20T200206Z_715619426_MT1USATODAY29874105_RTRMADP_3_NFL-PHILADELPHI.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
       "title": "Flyers training camp already has everyone fighting for their spot",
       "description": "The Philadelphia Flyers are officially back to work as training camp started this week. Most of the players had been skating together in an unofficial capacity over the last few weeks in an effort to knock some rust off before the season, and now the",
       "link": "https://www.broadstreethockey.com/post/flyers-training-camp-already-has-everyone-fighting-for-their-spot/",
@@ -51,6 +71,16 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
+    },
+    {
+      "title": "How the Eagles\u2019 New Offense Can Maximize Jalen Hurts\u2019 Impact",
+      "description": "Philadelphia\u2019s new offense showed explosive potential in Week 1, spreading the ball among several playmakers and creating room for Jalen Hurts. Against Tennessee, the next step is turning that versatility into sustained drives. The post How the Eagle",
+      "link": "https://phlsportsnation.com/2026/09/18/eagles-new-offense-jalen-hurts/",
+      "pubDate": "Fri, 18 Sep 2026 14:10:40 +0000",
+      "author": "Fede Carballo",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "Phillies notes: Updates on Luzardo, bullpen game and why a trade deadline acquisition is likely done for the season",
@@ -103,6 +133,16 @@
       "source": "PhillyVoice Sixers"
     },
     {
+      "title": "Coincidence or a Sign? The Week 1 Pattern Behind the Eagles\u2019 Best Seasons",
+      "description": "Philadelphia enters Week One against Washington carrying one of the NFL\u2019s strongest opening-day trends: a perfect record under Nick Sirianni and a history that links every Eagles Super Bowl run to a 1-0 start. The post Coincidence or a Sign? The Week",
+      "link": "https://phlsportsnation.com/2026/09/11/eagles-week-one-best-seasons/",
+      "pubDate": "Fri, 11 Sep 2026 17:11:44 +0000",
+      "author": "Fede Carballo",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "Jes\u00fas Luzardo's latest Phillies statement tied directly to Roy Halladay's perfect game",
       "description": "The Phillies' left-hander Jes\u00fas Luzardo took over Monday's 1-0 win over the Atlanta Braves. He threw his first complete-game shutout and gave shades to Roy Halladay, another legendary moment in...",
       "link": "https://thatballsouttahere.com/jesus-luzardo-s-latest-phillies-statement-tied-directly-to-roy-halladay-s-perfect-game?utm_source=RSS",
@@ -131,6 +171,16 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Recapping a Historic Opening Weekend for Philly College Football",
+      "description": "Manheim High School graduate and Michigan Wolverine Deyvid Palepale had his Saturday night turn from near sadness and disappointment at [] The post Recapping a Historic Opening Weekend for Philly College Football appeared first on Philadelphia Sports",
+      "link": "https://phlsportsnation.com/2026/09/07/were-back-and-once-again-philly-is-having-an-impact/",
+      "pubDate": "Mon, 07 Sep 2026 11:27:01 +0000",
+      "author": "Michael Thomas Leibrandt",
+      "thumbnail": null,
+      "team": "general",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "Scouting the Sixers' competition: Will the Boston Celtics contend after making the Jaylen Brown trade?",
@@ -193,20 +243,30 @@
       "source": "SportsTalk Philly"
     },
     {
-      "title": "Eagles vs. Titans Week 2 game thread",
-      "description": "The Philadelphia Eagles are in Nashville for what could be a very hot Week 2 matchup against the Tennessee Titans. The team may be sweaty, but at least they\u2019ll be playing in an environment that more closely resembles a home game \u2014 at least based on h",
+      "title": "10 awards for the Phillies as they continue to fall backwards into October",
+      "description": "There's a good chance that after watching a few minutes of the Phillies this weekend, you're ready to read our other 10 awards today.",
+      "link": "https://www.phillyvoice.com/phillies-mets-mlb-playoff-race-nl-wild-card-padres-cubs-orion-kerkering-demotion-news-analysis-latest/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sun, 20 Sep 2026 20:34:30 +0000",
+      "author": "Evan Macy",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-18T013254Z_1800315666_MT1USATODAY29844156_RTRMADP_3_MLB-PHILADELPH.JPG",
+      "team": "phillies",
+      "source": "PhillyVoice"
+    },
+    {
+      "title": "Saquon Barkley injury: Eagles running back returns to Titans game",
+      "description": "On the very first play of the Eagles\u2019 first offensive drive against the Titans on Sunday, Saquon Barkley was tackled for a loss, and subsequently suffered a stinger. The running back promptly went to the medical tent on the sideline, where he stayed ",
       "link": "",
-      "pubDate": "2026-09-20T15:00:47-04:00",
+      "pubDate": "2026-09-20T15:35:27-04:00",
       "author": "",
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
     },
     {
-      "title": "Saquon Barkley injury: Eagles running back returns to Titans game",
-      "description": "On the very first play of the Eagles\u2019 first offensive drive against the Titans on Sunday, Saquon Barkley was tackled for a loss, and subsequently suffered a stinger. The running back promptly went to the medical tent on the sideline, where he stayed ",
+      "title": "Eagles vs. Titans Week 2 game thread",
+      "description": "The Philadelphia Eagles are in Nashville for what could be a very hot Week 2 matchup against the Tennessee Titans. The team may be sweaty, but at least they\u2019ll be playing in an environment that more closely resembles a home game \u2014 at least based on h",
       "link": "",
-      "pubDate": "2026-09-20T14:40:02-04:00",
+      "pubDate": "2026-09-20T15:00:47-04:00",
       "author": "",
       "thumbnail": null,
       "team": "eagles",
@@ -773,6 +833,16 @@
       "source": "PhillyVoice Flyers"
     },
     {
+      "title": "RECAP: Breaking Down the Ups and Downs of the Eagles\u2019 First Game vs. Washington",
+      "description": "First game of the season is in the books. Let\u2019s break down the good and bad from players, units, and to the future The post RECAP: Breaking Down the Ups and Downs of the Eagles\u2019 First Game vs. Washington appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/09/15/ups-and-downs-of-the-eagles-first-game-a-breakdown/",
+      "pubDate": "Tue, 15 Sep 2026 17:51:11 +0000",
+      "author": "Kyle Lavin",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "Editor-in-chief mailbag: We\u2019re getting close \u2026",
       "description": "Sixers media day will take place on Sept. 28. That will be our first chance to hear from LeBron James (who is a Sixer now, by the way). Training camp starts the next day. So, what\u2019s on your mind as we inch closer to the start of the season? Anything ",
       "link": "",
@@ -843,26 +913,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Eagles LB Zack Baun was everywhere, as usual, against Commanders",
-      "description": "Zack Baun did a little bit of everything for the Eagles' defense Sunday, and a lot of disrupting the Washington Commanders offense.",
-      "link": "https://www.phillyvoice.com/eagles-zack-baun-commanders-week-1-tackles-analysis-linebackers-nfl/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 14 Sep 2026 14:42:56 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/091326_EaglesCommanders_ColleenClaggett-0347.jpg",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Game ball, three stars, and snap count analysis: Week 1, Eagles vs. Commanders",
-      "description": "In their Week 1 win over the Washington Commanders, the Philadelphia Eagles played 55 snaps on offense and 70 on defense. Let's just get right to the snap counts, some notes, and some special recognition.",
-      "link": "https://www.phillyvoice.com/game-ball-three-stars-and-snap-count-analysis-week-1-eagles-vs-commanders/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 14 Sep 2026 13:53:34 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/091326_EaglesCommanders_ColleenClaggett-2155.jpg",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
       "title": "Sixers player preview: Can Dominick Barlow make another significant leap?",
       "description": "\"I think there's a lot of things that I'm working on this summer that might have been weaknesses in the past that are going to become strengths,\" Dominick Barlow told PhillyVoice in July.",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-dominick-barlow-stats-contract-interview-highlights-career-nba-rumors-roster-press-conference/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -883,6 +933,26 @@
       "source": "PhillyVoice Sixers"
     },
     {
+      "title": "It\u2019s an Early September Sensation, Philly! Can You Feel It?!",
+      "description": "It starts slowly as the waning days of July carry themselves into August, growing slowly in intensity. For thousands of [] The post It\u2019s an Early September Sensation, Philly! Can You Feel It?! appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/09/14/its-early-september-sensation-philly-can-you-feel-it/",
+      "pubDate": "Mon, 14 Sep 2026 04:50:47 +0000",
+      "author": "Michael Thomas Leibrandt",
+      "thumbnail": null,
+      "team": "general",
+      "source": "PHL Sports Nation"
+    },
+    {
+      "title": "RECAP: Back in the Saddle Again \u2014 Eagles Open Season With a 24\u201322 Win vs. Washington",
+      "description": "Over 69,000 fans attended the Commanders-Eagles game at Lincoln Financial Field on Sunday afternoon, after nearly seven months without an NFL [] The post RECAP: Back in the Saddle Again \u2014 Eagles Open Season With a 24\u201322 Win vs. Washington appeared fi",
+      "link": "https://phlsportsnation.com/2026/09/14/recap-back-in-the-saddle-again-eagles-open-the-season-against-the-commanders-with-a-24-22-win/",
+      "pubDate": "Mon, 14 Sep 2026 04:41:08 +0000",
+      "author": "Michael Thomas Leibrandt",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "Winners and losers as Phillies series loss to Braves all but ends NL East chase",
       "description": "The Phillies offense came to life late to win the finale of their three game series against the NL East leading Braves, but the damage had already been done.",
       "link": "https://www.phillyvoice.com/winners-losers-phillies-braves-nl-east-standings-wild-card-cubs-news-analysis-bryce-harper-bullpen-blown-saves/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -901,6 +971,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-12-04T024613Z_1699500904_MT1USATODAY27734097_RTRMADP_3_NBA-PORTLAND-T.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "It\u2019s\u2026 Not Our Year? Everything That Could Go Wrong for the Eagles in 2026",
+      "description": "Philadelphia sports fans know very well that a Super Bowl season has to be perfect. In this case, perfect doesnt [] The post It\u2019s Not Our Year? Everything That Could Go Wrong for the Eagles in 2026 appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/09/12/its-not-our-year-everything-that-could-go-wrong-for-the-eagles-in-2026/",
+      "pubDate": "Sat, 12 Sep 2026 15:55:57 +0000",
+      "author": "Jonah Casel",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "Sixers player preview: Labaron Philon Jr. aims to provide a spark in rookie season",
@@ -931,6 +1011,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-10T015515Z_746898412_MT1USATODAY29776690_RTRMADP_3_MLB-HOUSTON-AST.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "Nick Nurse Faces His Biggest Challenge Yet With the 76ers",
+      "description": "The Philadelphia 76ers assembled a roster that looks ready to contend for an NBA title this offseason. Although Joel Embiid [] The post Nick Nurse Faces His Biggest Challenge Yet With the 76ers appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/09/10/nick-nurse-faces-his-biggest-challenge-yet-with-the-76ers/",
+      "pubDate": "Thu, 10 Sep 2026 16:11:03 +0000",
+      "author": "Cooper Hubbard",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "Don Mattingly, Brandon Marsh address Phillies\u2019 \u2018unacceptable\u2019 baserunning mistakes: \u2018Small things cost you runs\u2019",
@@ -971,6 +1061,16 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Philly Sports Wire"
+    },
+    {
+      "title": "New to Football or the Eagles? Here\u2019s a Quick Cheatsheet to Sound Like a Pro",
+      "description": "The Eagles regular season is finally upon us. This Sunday we get to watch our Philadelphia Eagles start their pursuit [] The post New to Football or the Eagles? Here\u2019s a Quick Cheatsheet to Sound Like a Pro appeared first on Philadelphia Sports Natio",
+      "link": "https://phlsportsnation.com/2026/09/08/new-to-football-or-the-eagles-heres-a-quick-cheatsheet-to-sound-like-a-pro/",
+      "pubDate": "Tue, 08 Sep 2026 19:59:43 +0000",
+      "author": "Kyle Lavin",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "Sixers Sign Dillon Jones To Exhibit 10 Contract",
@@ -1061,6 +1161,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/080626_JaylenBrownPresser_ColleenClaggett-9599.jpg",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Inside the Eagles\u2019 $357 Million Roster Bet",
+      "description": "Philadelphia\u2019s roster strategy goes beyond big contracts. The front office is investing heavily in its core while using short-term deals, young talent, and future draft capital to keep the championship window open. The post Inside the Eagles\u2019 $357 Mi",
+      "link": "https://phlsportsnation.com/2026/09/04/eagles-roster-spending/",
+      "pubDate": "Fri, 04 Sep 2026 13:19:13 +0000",
+      "author": "Fede Carballo",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "The Flyers are coming back, and for the first time in forever, with expectations",
@@ -1341,16 +1451,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-01-02T200003Z_408598815_MT1USATODAY27919558_RTRMADP_3_HOCKEY-2026-IIH.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Don't expect Phillies bullpen to get better, this is who they are",
-      "description": "It only feels like the Phillies bullpen has been worse since the All-Star break.",
-      "link": "https://www.phillyvoice.com/phillies-bullpen-stats-analysis-rumors-blown-saves-alex-mcfarlane-jhoan-duran-orion-kerkering/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 10 Aug 2026 14:43:05 +0000",
-      "author": "Evan Macy",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-08-07T010658Z_2060522372_MT1USATODAY29532394_RTRMADP_3_MLB-WASHINGTON.JPG",
-      "team": "phillies",
-      "source": "PhillyVoice"
     },
     {
       "title": "Flyers 2026-27 lineup projection 1.0: Slow part of summer edition",
