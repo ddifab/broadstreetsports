@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T23:48:31.305786+00:00",
-  "count": 167,
+  "updated": "2026-09-21T01:57:32.234326+00:00",
+  "count": 168,
   "articles": [
     {
       "title": "Phillies panic meter: Split with Nationals raises reasons for worry",
@@ -33,6 +33,16 @@
       "source": "PhillyVoice"
     },
     {
+      "title": "Eagles Week 2 stock watch: Jalen Hurts overcomes mediocre defense, inconsistent offense",
+      "description": "Whatever the explanation is, the result Sunday was remarkable, as the Eagles drove 65 yards to score with nine seconds to go, en route to an epic comeback win, 24-20, to move to 2-0.",
+      "link": "https://www.phillyvoice.com/eagles-stock-watch-titans-nfc-east-jalen-hurts-devonta-smith-comeback-defense-news-analysis/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Mon, 21 Sep 2026 00:57:43 +0000",
+      "author": "Evan Macy",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-20T200206Z_715619426_MT1USATODAY29874105_RTRMADP_3_NFL-PHILADELPHI.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
       "title": "Handing out 10 awards from the Eagles-Titans game",
       "description": "In Week 2, the Philadelphia Eagles faced an opponent in the Tennessee Titans that had a 3-14 record in 2025 with a point differential of -194, that was also dominated in Week 1 by, uh, the New York Jets. The Eagles eked out a win, but as usual, there",
       "link": "https://www.phillyvoice.com/handing-out-10-awards-eagles-titans-game-2026/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -49,16 +59,6 @@
       "pubDate": "Sun, 20 Sep 2026 20:26:15 +0000",
       "author": "Geoff Mosher",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-20T183019Z_168160316_MT1USATODAY29872579_RTRMADP_3_NFL-PHILADELPHI.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Eagles Week 2 stock watch: Jalen Hurts overcomes mediocre defense, inconsistent offense",
-      "description": "Whatever the explanation is, the result Sunday was remarkable, as the Eagles drove 65 yards to score with nine seconds to go, en route to an epic comeback win, 24-20, to move to 2-0.",
-      "link": "https://www.phillyvoice.com/eagles-stock-watch-titans-nfc-east-jalen-hurts-devonta-smith-comeback-defense-news-analysis/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sun, 20 Sep 2026 20:21:30 +0000",
-      "author": "Evan Macy",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-20T200206Z_715619426_MT1USATODAY29874105_RTRMADP_3_NFL-PHILADELPHI.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
     },
@@ -253,6 +253,46 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Jalen Hurts to Jeffery Simmons: \u201cYou started that sh*t, I had to finish it\u201d",
+      "description": "Early last week, Titans star defensive tackle Jeffery Simmons made comments about forcing Jalen Hurts to be a quarterback in their Week 2 matchup, insinuating they could beat the Eagles if they made the offense rely on the passing game. Jordan Mailat",
+      "link": "",
+      "pubDate": "2026-09-20T21:53:27-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "NFL Week 3 odds: Eagles open as road favorites against Bears",
+      "description": "The Philadelphia Eagles are 2-0 after narrowly beating the Washington Commanders and Tennessee Titans. But now the Birds will face their toughest test of the 2026 season in Week 3. Or will they? It\u2019s hard to know what to make of the Chicago Bears rig",
+      "link": "",
+      "pubDate": "2026-09-20T21:37:06-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Eagles vs. Titans: The good, the bad, and the ugly",
+      "description": "Jalen Hurts won again. The Eagles should have smoked the lowly Tennessee Titans on Sunday, but they did not. What they did do, however, was win, 24-20 at Nissan Stadium, in Nashville, Tennessee\u2014thanks again to Hurts\u2019 will power. He completed 26 of 37",
+      "link": "",
+      "pubDate": "2026-09-20T20:34:49-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Jalen Hurts is always prepared for the moment. The Titans became the latest to find out.",
+      "description": "A cool, calm, poised Jalen Hurts led another game-winning TD drive over a Titans team that asked for it.",
+      "link": "https://www.phillyvoice.com/jalen-hurts-eagles-comeback-win-titans-touchdown-darius-cooper/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sun, 20 Sep 2026 23:32:47 +0000",
+      "author": "Geoff Mosher",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-20T212124Z_1264912114_MT1USATODAY29875813_RTRMADP_3_TENNESSEE-TITA.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
       "title": "Saquon Barkley injury: Eagles running back returns to Titans game",
       "description": "On the very first play of the Eagles\u2019 first offensive drive against the Titans on Sunday, Saquon Barkley was tackled for a loss, and subsequently suffered a stinger. The running back promptly went to the medical tent on the sideline, where he stayed ",
       "link": "",
@@ -353,16 +393,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Eagles-Titans Week 2 prediction",
-      "description": "The energy going into the Philadelphia Eagles\u2019 Week 2 game against the Tennessee Titans is a little weird. The Eagles are making a somewhat surprising choice on the offensive line by changing two starters. Cam Jurgens will shift to left guard to repl",
-      "link": "",
-      "pubDate": "2026-09-20T11:10:47-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Sixers player preview: How many quality minutes does Kentavious Caldwell-Pope have left in the tank?",
       "description": "Kentavious Caldwell-Pope has won a championship as a starter on two different teams. Can he serve as a valuable bench piece for a title-winning Sixers team?",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-kentavious-caldwell-pope-kcp-stats-contract-interview-highlights-career-nba-rumors-roster-press-conference/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -383,16 +413,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Eagles reportedly change two spots on the starting offensive line",
-      "description": "The Eagles are in Nashville this weekend to face the Titans in extremely hot conditions for their Week 2 matchup. There were a few unknowns heading into the game, including how the team would handle the offensive line after having to put Landon Dicke",
-      "link": "",
-      "pubDate": "2026-09-20T09:59:32-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Week 2 non-Eagles rooting guide",
       "description": "The Philadelphia Eagles will take on the Tennessee Titans at 1:00 on Sunday. That matchup aside, here we'll lay out a rooting guide for non-Eagles games on the NFL schedule for those of you on the fence while watching the other action around the leag",
       "link": "https://www.phillyvoice.com/week-2-non-eagles-rooting-guide-cowboys-giants-commanders-rams/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -401,16 +421,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-10-19T225615Z_2060361413_MT1USATODAY27371590_RTRMADP_3_NFL-WASHINGTON.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Eagles News: Philly fans are taking over Tennessee",
-      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! No surprise here since we all know Eagles fans travel very well in general. But it seems like there\u2019s an especially large presence in Tennessee given the desti",
-      "link": "",
-      "pubDate": "2026-09-20T07:42:57-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Phillies reportedly option Orion Kerkering after bad outings in New York: \u2018Pretty high degree of worry\u2019",
