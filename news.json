@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24T10:36:54.202773+00:00",
-  "count": 147,
+  "updated": "2026-09-24T15:32:51.050081+00:00",
+  "count": 154,
   "articles": [
     {
       "title": "Phillies panic meter: Split with Nationals raises reasons for worry",
@@ -19,6 +19,36 @@
       "pubDate": "Tue, 08 Sep 2026 18:46:14 +0000",
       "author": "Nick Tricome",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-07T193252Z_1200231542_MT1USATODAY29761287_RTRMADP_3_MLB-ATLANTA-BR.JPG",
+      "team": "phillies",
+      "source": "PhillyVoice"
+    },
+    {
+      "title": "Can VJ Edgecombe take a leap in year two?",
+      "description": "This feeling surrounding this upcoming Sixers\u2019 season is one of great anticipation. Sure, most of that has to do with the monumental additions of LeBron James and Jaylen Brown, but I\u2019d argue that no small part of that excitement should be for the sec",
+      "link": "",
+      "pubDate": "2026-09-24T10:04:52-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Sixers player preview: Can Justin Edwards break through?",
+      "description": "Justin Edwards has done enough in two seasons for the Sixers to remain invested in him, but not enough to establish himself as a surefire rotation wing.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-justin-edwards-stats-contract-interview-highlights-career-nba-rumors-roster-press-conference/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Thu, 24 Sep 2026 12:16:23 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/1Z1A0395_5X6dZTO.jpg",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Which team offers best matchup for Phillies in Wild Card round?",
+      "description": "There's still some work to do. You can be sure, at least officially, the Phillies have two focuses and two focuses only right now \u2014 locking up a playoff berth and getting their rotation and bullpen ready for a best of three-game Wild Card series.",
+      "link": "https://www.phillyvoice.com/mlb-playoff-postseason-standings-oddsbest-matchup-phillies-wild-card-round-padres-cubs-braves/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Thu, 24 Sep 2026 11:10:49 +0000",
+      "author": "Evan Macy",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-28T045854Z_146323376_MT1USATODAY28828216_RTRMADP_3_MLB-CHICAGO-CUB.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
     },
@@ -78,16 +108,6 @@
       "link": "https://www.broadstreethockey.com/post/in-loss-to-bruins-flyers-learning-to-play-through-fatigue/",
       "pubDate": "Wed, 23 Sep 2026 11:44:48 +0000",
       "author": "Madeline Campbell",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "3 ways the Flyers could replace Dan Vladar if he misses significant time",
-      "description": "The Philadelphia Flyers were dealt a significant blow on Tuesday night. Maybe the worst news they could possibly get. Goaltender Dan Vladar suffered an injury and its unknown just how long he might be out for. During what seemed like an everyday coll",
-      "link": "https://www.broadstreethockey.com/post/3-ways-the-flyers-could-replace-dan-vladar-if-he-misses-significant-time/",
-      "pubDate": "Wed, 23 Sep 2026 04:09:45 +0000",
-      "author": "Thomas Williams",
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
@@ -173,6 +193,26 @@
       "source": "PhillyVoice Eagles"
     },
     {
+      "title": "How the Eagles\u2019 New Offense Can Maximize Jalen Hurts\u2019 Impact",
+      "description": "Philadelphia\u2019s new offense showed explosive potential in Week 1, spreading the ball among several playmakers and creating room for Jalen Hurts. Against Tennessee, the next step is turning that versatility into sustained drives. The post How the Eagle",
+      "link": "https://phlsportsnation.com/2026/09/18/eagles-new-offense-jalen-hurts/",
+      "pubDate": "Fri, 18 Sep 2026 14:10:40 +0000",
+      "author": "Fede Carballo",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
+    },
+    {
+      "title": "How the Jaylen Brown Trade Reshaped the 76ers\u2013Knicks Championship Race",
+      "description": "Philadelphia\u2019s acquisition of Jaylen Brown did far more than move an All-NBA wing from one Atlantic Division rival to another. [] The post How the Jaylen Brown Trade Reshaped the 76ers\u2013Knicks Championship Race appeared first on Philadelphia Sports Na",
+      "link": "https://phlsportsnation.com/2026/09/15/how-the-jaylen-brown-trade-reshaped-the-76ers-knicks-championship-race/",
+      "pubDate": "Wed, 16 Sep 2026 02:00:00 +0000",
+      "author": "PHLSportsNation",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "Sixers mailbag: Do the Sixers need to have a defined hierarchy on offense?",
       "description": "The penultimate Sixers mailbag of the 2026 offseason focuses on the team's offensive hierarchy \u2013 or lack thereof.",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-jaylen-brown-lebron-james-tyrese-maxey-joel-embiid-vj-edgecombe-nick-nurse-depth-chart-nba/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -253,6 +293,36 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Flyers officially announce their EBUG for next season",
+      "description": "The Philadelphia Flyers announced additional personnel to the organization, including naming Daniel Spencer the teams Emergency Backup Goaltender (EBUG). Under the new CBA, every single NHL team has to name an EBUG to travel with the team. Prior to t",
+      "link": "https://www.broadstreethockey.com/post/flyers-officially-announce-their-ebug-for-next-season/",
+      "pubDate": "Thu, 24 Sep 2026 15:22:48 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "The Flyers' power play might actually, finally pose some 'threats'",
+      "description": "The Flyers' power play has been miserable forever. But now they might finally have the talent, and the structure, to change that.",
+      "link": "https://www.phillyvoice.com/flyers-power-play-threats-improvement-matvei-michkov-porter-martone-jamie-drysdale/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Thu, 24 Sep 2026 12:26:40 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-19T033503Z_1721332796_MT1USATODAY28764555_RTRMADP_3_NHL-STANLEY-CU.JPG",
+      "team": "flyers",
+      "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "The Five Biggest Questions Facing the 76ers Entering Training Camp",
+      "description": "The Questions Begin Now The Philadelphia 76ers assembled one of the NBAs most intriguing rosters during the offseason. Making it [] The post The Five Biggest Questions Facing the 76ers Entering Training Camp appeared first on Philadelphia Sports Nati",
+      "link": "https://phlsportsnation.com/2026/09/24/the-five-biggest-questions-facing-the-76ers-entering-training-camp/",
+      "pubDate": "Thu, 24 Sep 2026 07:26:17 +0000",
+      "author": "Cooper Hubbard",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "Eagles practice squad safety poached by the Rams",
       "description": "The Philadelphia Eagles are losing another practice squad player via poaching. One day after the Atlanta Falcons signed cornerback Robert Longerbeam away from Philly, the Los Angeles Rams are adding Eagles undrafted rookie free agent safety Maximus P",
       "link": "",
@@ -281,6 +351,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-23T000125Z_1882213111_MT1USATODAY29889056_RTRMADP_3_NHL-PRESEASON-.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "What ESPNs NBA Rank 2026 got right\u2014and wrong\u2014about the Sixers",
+      "description": "With NBA training camps right around the corner, ESPN is rolling out the latest edition of its annual NBA Rank exercise, which ranks players based on predicted contributions\u2014quality and quantity\u2014for the 2026-27 regular season.\u201c Unsurprisingly, the Si",
+      "link": "",
+      "pubDate": "2026-09-23T15:24:05-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "6 thoughts on Zach Ertz\u2019s return to the Eagles",
@@ -423,6 +503,16 @@
       "source": "Bleeding Green Nation"
     },
     {
+      "title": "Eagles Week 2 Recap: Jalen Hurts Is Your Team MVP",
+      "description": "The Eagles beat the Titans, just like most of us thought. It took some late-game heroics, unlike what most of [] The post Eagles Week 2 Recap: Jalen Hurts Is Your Team MVP appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/09/22/week-2-recap-jalen-hurts-is-your-team-mvp/",
+      "pubDate": "Tue, 22 Sep 2026 21:21:35 +0000",
+      "author": "Kyle Lavin",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "Can Adem Bona finally establish himself as backup center for Philly?",
       "description": "It feels like a make-or-break year for Adem Bona. With all the excitement and anticipation around the 2026-27 Sixers squad on top of the fact that he is entering his third year as an NBA center, there is going to be a lot of pressure on Bona\u2019s should",
       "link": "",
@@ -543,6 +633,16 @@
       "source": "PhillyVoice Eagles"
     },
     {
+      "title": "Why Does the NFL Think Jalen Hurts Can\u2019t Throw?",
+      "description": "\u201cWe need to just make Jalen Hurts be a QB,\u201d Titans\u2019 star defensive tackle Jeffery Simmons said about Philadelphia\u2019s signal-caller [] The post Why Does the NFL Think Jalen Hurts Can\u2019t Throw? appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/09/21/why-does-the-nfl-think-jalen-hurts-cant-throw/",
+      "pubDate": "Mon, 21 Sep 2026 17:25:40 +0000",
+      "author": "Jonah Casel",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "Film review: Eagles' toe-drag sideline catches are a combination of talent and persistent fundamentals",
       "description": "The Eagles' catch fundamentals were probably the difference between a win and a loss on Sunday in Tennessee.",
       "link": "https://www.phillyvoice.com/film-review-eagles-toe-drag-sideline-catches-are-combination-talent-and-persistent-fundamentals-devonta-smith/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -591,6 +691,26 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/020225_SixersCeltics_ColleenClaggett-5586_iSIiBMY.jpg",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "RECAP: The Eagles Survive Week Two in the Heat of Tennessee, 24-20",
+      "description": "The Eagles Week 2 matchup against the Tennessee Titans was supposed to be an easy game against two former foes [] The post RECAP: The Eagles Survive Week Two in the Heat of Tennessee, 24-20 appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/09/21/recap-the-eagles-survive-week-two-in-the-heat-of-tennessee/",
+      "pubDate": "Mon, 21 Sep 2026 04:06:44 +0000",
+      "author": "Michael Thomas Leibrandt",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
+    },
+    {
+      "title": "RECAP: Villanova Football Gets Back on the Winning Track, Wins 20-16 Over LIU",
+      "description": "The Eagles weren\u2019t the only Philadelphia football team that won this weekend in the last two minutes. After losing the [] The post RECAP: Villanova Football Gets Back on the Winning Track, Wins 20-16 Over LIU appeared first on Philadelphia Sports Nat",
+      "link": "https://phlsportsnation.com/2026/09/20/recap-villanova-football-gets-back-on-the-winning-track-wins-20-16-over-liu/",
+      "pubDate": "Mon, 21 Sep 2026 03:44:53 +0000",
+      "author": "Michael Thomas Leibrandt",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "Jalen Hurts is always prepared for the moment. The Titans became the latest to find out.",
@@ -671,36 +791,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-14T051147Z_250443949_MT1USATODAY29195441_RTRMADP_3_NBA-FINALS-NEW-.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Five college prospects who could interest the Eagles in the 2027 NFL Draft",
-      "description": "During the college football season each year, as long as you're watching the games, we point out five players each week to keep an eye on who make logical sense for the Philadelphia Eagles in the following year's NFL Draft.",
-      "link": "https://www.phillyvoice.com/five-college-prospects-eagles-2027-nfl-draft-will-echoles-anthonie-knapp-quincy-rhodes-treydez-green-omarion-miller/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sat, 19 Sep 2026 11:45:18 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2024-10-03T180728Z_658974324_MT1USATODAY24390951_RTRMADP_3_NOTRE-DAME-OFFE.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Is this the year the Sixers climb atop the Philly sports hierarchy?",
-      "description": "Philadelphia is undeniably a huge sports town and certain fans preen about their \u201c4 for 4\u201d status. Still, there exists a hierarchy, and who sits atop it is a certain combination of what part of the season we\u2019re in, current competitiveness of each clu",
-      "link": "",
-      "pubDate": "2026-09-18T13:15:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
-      "title": "Joel Embiid\u2019s Best Playoff Games, Part IV: Game 3 vs. New York in 2024",
-      "description": "Final Score:Sixers 125 Knicks 114 Series Score after result:New York lead 2-1 Embiid\u2019s stat line:50 points, 8 rebounds, 4 assists, 13-of-19 FGs, 5-of-7 3PTs, 1 block, +16 rating It was a game the Sixers had to have. After a couple of hard-fought loss",
-      "link": "",
-      "pubDate": "2026-09-18T11:27:09-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Danny Bri\u00e8re, Flyers do have another big swing in them, but they're waiting for the right turn again",
@@ -811,6 +901,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-03-29T012230Z_53393372_MT1USATODAY28612886_RTRMADP_3_NHL-PHILADELPHIA.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "RECAP: Breaking Down the Ups and Downs of the Eagles\u2019 First Game vs. Washington",
+      "description": "First game of the season is in the books. Let\u2019s break down the good and bad from players, units, and to the future The post RECAP: Breaking Down the Ups and Downs of the Eagles\u2019 First Game vs. Washington appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/09/15/ups-and-downs-of-the-eagles-first-game-a-breakdown/",
+      "pubDate": "Tue, 15 Sep 2026 17:51:11 +0000",
+      "author": "Kyle Lavin",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "Sixers player preview: Going into year three, pressure mounting for Adem Bona",
@@ -1163,16 +1263,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Scouting the Sixers' competition: New York Knicks have their eyes on a repeat",
-      "description": "After swapping Mitchell Robinson for the Sixers' old friend Andre Drummond \u2013 and bringing the rest of their title-winning crew back \u2013 can the New York Knicks win it all again?",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-nba-eastern-conference-power-rankings-odds-standings-new-york-knicks/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Fri, 28 Aug 2026 13:07:25 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-12-20T025809Z_1179536166_MT1USATODAY27855330_RTRMADP_3_NBA-PHILADELPH.JPG",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
       "title": "It's not just nostalgia. Claude Giroux can still help the Flyers.",
       "description": "The door seems open to Claude Giroux returning to Philly, but any potential reunion would be more than a career victory lap.",
       "link": "https://www.phillyvoice.com/flyers-claude-giroux-nhl-free-agency-rumors-reunion-lineup-fit/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -1241,16 +1331,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-15T010547Z_1150073942_MT1USATODAY28729024_RTRMADP_3_NHL-MONTREAL-C.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Playoff race watch: Phillies can land two knockout blows this week",
-      "description": "Thanks to their first series sweep since June, the Phillies went to sleep holding an NL postseason slot Sunday night.",
-      "link": "https://www.phillyvoice.com/playoff-race-watch-phillies-schedule-standings-postseason-wild-card-cubs-marlins-cardinals-diamondbacks/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 17 Aug 2026 12:58:41 +0000",
-      "author": "Evan Macy",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-08-16T214115Z_1379842529_MT1USATODAY29598706_RTRMADP_3_MLB-PHILADELPH.JPG",
-      "team": "phillies",
-      "source": "PhillyVoice"
     },
     {
       "title": "Flyers summer roundup: Jack Berglund to play one more year in Sweden",
@@ -1389,16 +1469,6 @@
       "pubDate": "Fri, 03 Jul 2026 12:32:52 +0000",
       "author": "Nick Tricome",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-22T032050Z_1687514233_MT1USATODAY28782022_RTRMADP_3_NHL-MONTREAL-C.JPG",
-      "team": "flyers",
-      "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Flyers sign veteran C Noel Acciari, add bottom-six grit",
-      "description": "Noel Acciari is a heavy-checking and right-shot center who will replace Garnet Hathaway and (likely) Luke Glendening on the Philadelphia bottom line.",
-      "link": "https://www.phillyvoice.com/flyers-free-agency-noel-acciari-signs-2-year-deal-center-grit-nhl-rumors/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Fri, 03 Jul 2026 02:29:57 +0000",
-      "author": "Nick Tricome",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-30T012241Z_1955347327_MT1USATODAY28842035_RTRMADP_3_NHL-STANLEY-CU.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
     },
