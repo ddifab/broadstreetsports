@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T18:56:33.548337+00:00",
-  "count": 170,
+  "updated": "2026-09-29T22:45:58.735360+00:00",
+  "count": 171,
   "articles": [
     {
       "title": "Phillies secure fifth-consecutive postseason berth, avoid collapse in win against Rays",
@@ -21,6 +21,16 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
+    },
+    {
+      "title": "Eagles-Bears takeaway: Lackluster play catches up with the Birds in Chicago",
+      "description": "You could feel this game coming. In Week 1, the Eagles struggled to beat the Commanders in Washington 24-22. They followed it up with a last-second, 24-20 victory on the road against the Titans, who finished with the NFL\u2019s second-worst record a seaso",
+      "link": "",
+      "pubDate": "2026-09-29T10:44:05-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Don Mattingly explains roster decisions as Phillies prepare for Wild Card Series without cleanup hitter Luis Arraez",
@@ -61,6 +71,26 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-07T193252Z_1200231542_MT1USATODAY29761287_RTRMADP_3_MLB-ATLANTA-BR.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "Eagles Film Review: This team looks like they are running two separate offenses",
+      "description": "This was a deeply disappointing offensive performance. There were positives on film, and I do not want to ignore them. However, those positives existed within an offense that still doesnt fit together. Right now, the Eagles look like they are running",
+      "link": "",
+      "pubDate": "2026-09-29T17:12:05-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Phillies\u2019 Jhoan Duran gamble doesn\u2019t pay off in Game 1 against Braves",
+      "description": "Don Mattingly turned to Jhoan Duran way earlier than expected in Game 1 of the Phillies-Braves Wild Card Series.",
+      "link": "https://www.philliesnation.com/2026/09/philadelphia-phillies-jhoan-duran-austin-riley-don-mattingly-atlanta-braves-wild-card-series/",
+      "pubDate": "Tue, 29 Sep 2026 20:59:04 +0000",
+      "author": "Bailey Digh",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
     },
     {
       "title": "NFC Hierarchy/Obituary: Week 4 edition",
@@ -353,6 +383,76 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Week 3 Recap: Eagles 7, Bears 27. What Went Wrong?",
+      "description": "Well the Eagles lost in brutal fashion to the Bears 27-7. Turns out that Ben Johnson busted out the anarchist\u2019s [] The post Week 3 Recap: Eagles 7, Bears 27. What Went Wrong? appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/09/29/week-3-recap-eagles-7-bears-27-what-went-wrong/",
+      "pubDate": "Tue, 29 Sep 2026 21:45:31 +0000",
+      "author": "Kyle Lavin",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
+    },
+    {
+      "title": "Eagles sign Kenny Moore to the active roster",
+      "description": "A week after signing former Indianapolis Colts defensive back Kenny Moore to the practice squad, the Eagles are promoting the veteran to the active roster. The secondary had a really rough night against the Chicago Bears on Monday. The team is lookin",
+      "link": "",
+      "pubDate": "2026-09-29T17:05:09-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Eagles rookie report card from the Bears game",
+      "description": "The Eagles dropped to 2-1 after a flat showing on Monday Night Football against the Bears. It was a depressing loss to say the least, and there\u2019s blame to go around for the Eagles lack of juice. The team only had one rookie make any meaningful contri",
+      "link": "",
+      "pubDate": "2026-09-29T17:02:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Instant observations: Mismanaged Phillies blow late lead to start playoff campaign",
+      "description": "The Phillies tried to sew together a rusty Jes\u00fas Luzardo start and a ridiculous three-inning save from Jhoan Duran, but it didn't work as the Phils faltered 5-3 to put their season on the brink.",
+      "link": "https://www.phillyvoice.com/instant-observations-phillies-braves-nl-wild-card-jesus-luzardo-jhoan-duran-blown-save-chris-sale/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 29 Sep 2026 21:01:19 +0000",
+      "author": "Evan Macy",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-29T203222Z_1511675588_MT1USATODAY29951593_RTRMADP_3_MLB-WILDCARD-P.JPG",
+      "team": "phillies",
+      "source": "PhillyVoice"
+    },
+    {
+      "title": "Sixers training camp: VJ Edgecombe is expecting fun, not pressure; details of LeBron James' first practice",
+      "description": "LeBron James and Jaylen Brown partook in their first Sixers practice on Tuesday morning. Head coach Nick Nurse and his players acknowledged how much work is ahead of them.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-training-camp-practice-video-full-interview-nick-nurse-vj-edgecombe-anfernee-simons-lebron-james-nba/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 29 Sep 2026 20:53:34 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/092826_SixersMediaDay_ColleenClaggett-5932.jpg",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Game ball, three stars, and snap count analysis: Week 3, Eagles at Bears",
+      "description": "What the snap counts say about an ugly Monday night for the Eagles.",
+      "link": "https://www.phillyvoice.com/game-ball-three-stars-and-snap-count-analysis-week-3-eagles-bears/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 29 Sep 2026 20:14:09 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-29T013136Z_1040940470_MT1USATODAY29946718_RTRMADP_3_NFL-PHILADELPH.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "NFL Week 4 odds: Eagles open as home underdogs to the Rams",
+      "description": "The Philadelphia Eagles suffered their first loss of the 2026 NFL season on Monday night. Was it just one bad game or a sign of more struggles to come? We\u2019ll see how the Birds respond to getting beat up by the Chicago Bears when they return to Lincol",
+      "link": "",
+      "pubDate": "2026-09-29T14:53:40-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
       "title": "Flyers shake up forward lines at final practice before season opener",
       "description": "The Philadelphia Flyers open the regular season on Wednesday night against the Pittsburgh Penguins. Due to the shortened training camp and only four preseason games, the Flyers dont have their lineup set in stone as of yet. Add in an injury to Denver",
       "link": "https://www.broadstreethockey.com/post/flyers-shake-up-forward-lines-at-final-practice-before-season-opener/",
@@ -373,6 +473,16 @@
       "source": "PhillyVoice Flyers"
     },
     {
+      "title": "Jalen Hurts talks concussion evaluation from Eagles-Bears game",
+      "description": "The Eagles struggled on Monday night against the Bears \u2014 on offense and on defense \u2014 and quarterback Jalen Hurts took responsibility post-game for not playing up to his standard. He said, all-in-all, there was a theme of negative plays and they need ",
+      "link": "",
+      "pubDate": "2026-09-29T13:46:06-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
       "title": "Flyperblog: Trevor Zegras is putting his Flyers housemates to work",
       "description": "(NOTE: Nothing in this post is serious or real except for the fact that a bunch of dudes are living with Trevor Zegras) Philadelphia Flyers forward Trevor Zegras has been a uniting force in the team&#x2019;s locker room since they acquired him last y",
       "link": "https://www.broadstreethockey.com/post/flyperblog-trevor-zegras-is-putting-his-flyers-housemates-to-work/",
@@ -381,6 +491,16 @@
       "thumbnail": "https://www.broadstreethockey.com/wp-content/uploads/sites/12/2026/09/Dvorak-stache-1-240x300.jpg",
       "team": "flyers",
       "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Eagles News: Outcoached by the Bears",
+      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! Ben Johnson is obviously more accomplished than Nick Sirianni. But, be honest, did you find yourself jealous of how the Bears\u2019 head coach gave his team an edge",
+      "link": "",
+      "pubDate": "2026-09-29T13:31:20-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Phillies playoff notes: The latest on Luzardo, Arraez and if shadows will impact the game",
@@ -573,16 +693,6 @@
       "source": "Bleeding Green Nation"
     },
     {
-      "title": "Jalen Hurts evaluated for a concussion, cleared to return against Bears",
-      "description": "The Eagles were finally close to scoring in the second quarter on Monday night against the Bears when quarterback Jalen Hurts took a late hit by D\u2019Marco Jackson. Hurts went flying (further) out of bounds and despite bouncing up and heading back to th",
-      "link": "",
-      "pubDate": "2026-09-28T21:53:21-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Eagles-Bears Week 3 inactives, with analysis",
       "description": "As expected, no Dallas Goedert for the Eagles, and no Caleb Williams for the Bears.",
       "link": "https://www.phillyvoice.com/eagles-bears-week-3-inactives-analysis-dallas-goedert-caleb-williams/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -591,16 +701,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2024-11-17T174455Z_1285929883_MT1USATODAY24784951_RTRMADP_3_NFL-GREEN-BAY-.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Jonathan Greenard ACTIVE for Eagles vs. Bears",
-      "description": "The Philadelphia Eagles officially announced the inactives list for their Week 3 game against the Chicago Bears. The big news is that veteran edge rusher Jonathan Greenard is ACTIVE despite being ruled questionable to play. On Saturday, Greenard full",
-      "link": "",
-      "pubDate": "2026-09-28T18:50:36-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Don\u2019t let LeBron James distract you from how crazy it is that Jaylen Brown is a Sixer",
@@ -651,46 +751,6 @@
       "thumbnail": null,
       "team": "general",
       "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Eagles roster news: Zach Ertz elevated for Bears game",
-      "description": "The Philadelphia Eagles officially announced two roster moves ahead of the team\u2019s Week 3 Monday night game against the Chicago Bears. Here\u2019s an overview: Note: teams are permitted to temporarily elevate up to two practice squad players per game. A pl",
-      "link": "",
-      "pubDate": "2026-09-28T16:20:10-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Eagles-Bears Week 3 prediction",
-      "description": "One of the top questions entering this week\u2019s Philadelphia Eagles game was: \u201cWho\u2019s going to start at quarterback for the Chicago Bears?\u201d With Caleb Williams ruled out and Tyson Bagent reportedly set to be a backup tonight after missing practice time ",
-      "link": "",
-      "pubDate": "2026-09-28T16:08:44-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Eagles rookie storylines for the Bears game",
-      "description": "The 2-0 Eagles head into a Monday night showdown against the Bears. Chicago is down their starting quarterback and the hope is the Birds can cruise to a third straight victory. But these things are rarely that easy. Here is how a certain Eagles rooki",
-      "link": "",
-      "pubDate": "2026-09-28T16:05:51-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Rams unlikely to have Puka Nacua back against Eagles",
-      "description": "The Rams had a really ugly loss against the Broncos on Sunday night in Week 3, and the offense struggled without WR Puka Nacua in the fold. They\u2019ll likely be without Nacua for a little while longer as he rehabs a hip and groin injury, and it is incre",
-      "link": "",
-      "pubDate": "2026-09-28T16:02:40-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "5 Sixers thoughts: Star-studded starting lineup unveiled at Media Day",
@@ -1013,16 +1073,6 @@
       "source": "Phillies Nation"
     },
     {
-      "title": "Phillies\u2019 latest update on Luis Arraez\u2019s ankle is \u2018kind of not a great one\u2019",
-      "description": "PHILADELPHIA \u2014 The Phillies got an update on second baseman Luis Arraez on Friday. It was \u201ckind of not a great one,\u201d according to interim manager Don Mattingly. The three-time batting champion Arraez sprained his left ankle on Thursday night at Citiz",
-      "link": "https://www.philliesnation.com/2026/09/phillies-latest-update-on-luis-arraezs-ankle-is-kind-of-not-a-great-one/",
-      "pubDate": "Fri, 25 Sep 2026 20:51:48 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
       "title": "Phillies cleanup hitter Luis Arr\u00e1ez isn't going on the injured list, yet",
       "description": "The Phillies will be without Luis Arr\u00e1ez, who injured his ankle Thursday night, but they haven't put him on the injured list.",
       "link": "https://www.phillyvoice.com/phillies-cleanup-hitter-luis-arraez-not-going-on-injured-list-second-base/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -1203,16 +1253,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Eagles power ranking roundup: Week 3",
-      "description": "Are power rankings completely dumb and meaningless? Yes. Yes, they are. However, personally speaking, whenever I see them, I click. And now that I've sucked you in with promises of many power rankings, you'll read it and like it. Here's where people ",
-      "link": "https://www.phillyvoice.com/eagles-power-ranking-roundup-week-3-2026/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 22 Sep 2026 15:46:27 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-22T091819Z_1374411333_MT1USATODAY29885086_RTRMADP_3_NFL-PHILADELPH.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
       "title": "Phillies playoff rooting guide: Who to boo, who to pull for in final week",
       "description": "The Phillies have six games left to play, and by far the hardest slate of games in all of Major League Baseball \u2014 hosting the best team in the NL and then the best team in the AL to end the regular season.",
       "link": "https://www.phillyvoice.com/phillies-playoff-rooting-guide-nl-east-wild-card-schedule-standings-postseason-odds-brewers-padres-cubs/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -1247,16 +1287,6 @@
       "description": "The Eagles Week 2 matchup against the Tennessee Titans was supposed to be an easy game against two former foes [] The post RECAP: The Eagles Survive Week Two in the Heat of Tennessee, 24-20 appeared first on Philadelphia Sports Nation.",
       "link": "https://phlsportsnation.com/2026/09/21/recap-the-eagles-survive-week-two-in-the-heat-of-tennessee/",
       "pubDate": "Mon, 21 Sep 2026 04:06:44 +0000",
-      "author": "Michael Thomas Leibrandt",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
-    },
-    {
-      "title": "RECAP: Villanova Football Gets Back on the Winning Track, Wins 20-16 Over LIU",
-      "description": "The Eagles weren\u2019t the only Philadelphia football team that won this weekend in the last two minutes. After losing the [] The post RECAP: Villanova Football Gets Back on the Winning Track, Wins 20-16 Over LIU appeared first on Philadelphia Sports Nat",
-      "link": "https://phlsportsnation.com/2026/09/20/recap-villanova-football-gets-back-on-the-winning-track-wins-20-16-over-liu/",
-      "pubDate": "Mon, 21 Sep 2026 03:44:53 +0000",
       "author": "Michael Thomas Leibrandt",
       "thumbnail": null,
       "team": "eagles",
@@ -1433,16 +1463,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "5 Sixers thoughts: Which players are rotation locks?",
-      "description": "Two weeks away from Media Day, taking stock of the 2026-27 Sixers roster.",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-roster-depth-chart-nick-nurse-mike-gansey-nba-power-rankings/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 14 Sep 2026 12:28:15 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-12-01T004035Z_117918470_MT1USATODAY27712977_RTRMADP_3_NBA-BOSTON-CELT.JPG",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
       "title": "Winners and losers as Phillies series loss to Braves all but ends NL East chase",
       "description": "The Phillies offense came to life late to win the finale of their three game series against the NL East leading Braves, but the damage had already been done.",
       "link": "https://www.phillyvoice.com/winners-losers-phillies-braves-nl-east-standings-wild-card-cubs-news-analysis-bryce-harper-bullpen-blown-saves/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -1509,16 +1529,6 @@
       "pubDate": "Tue, 01 Sep 2026 17:45:32 +0000",
       "author": "Geoff Mosher",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-01T034128Z_1597783220_MT1USATODAY29707485_RTRMADP_3_MLB-PHILADELPH.JPG",
-      "team": "phillies",
-      "source": "PhillyVoice"
-    },
-    {
-      "title": "September will show us who the Phillies really are",
-      "description": "The Phillies tore through August with a reinvented approach at the plate. The playoff push coming up will prove whether they can actually stick with it.",
-      "link": "https://www.phillyvoice.com/phillies-mlb-postseason-race-wild-card-odds-september-schedule-hitting-stats/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 31 Aug 2026 17:41:05 +0000",
-      "author": "Nick Tricome",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-08-29T044018Z_1658342251_MT1USATODAY29687568_RTRMADP_3_MLB-PHILADEL_g6qsuxJ.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
     },
