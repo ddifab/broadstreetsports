@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T13:28:38.824552+00:00",
-  "count": 169,
+  "updated": "2026-09-29T18:56:33.548337+00:00",
+  "count": 170,
   "articles": [
     {
       "title": "Phillies secure fifth-consecutive postseason berth, avoid collapse in win against Rays",
@@ -8,6 +8,16 @@
       "link": "https://www.philliesnation.com/2026/09/philadelphia-phillies-playoffs-clinch-zack-wheeler-mlb-national-league-wild-card-series/",
       "pubDate": "Sun, 27 Sep 2026 21:21:54 +0000",
       "author": "Destiny Lugardo",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
+    },
+    {
+      "title": "Phillies won\u2019t roster a single trade-deadline addition for Wild Card Series after not including Brooks Raley",
+      "description": "ATLANTA The Phillies will take on the Atlanta Braves in Game 1 of a Wild Card Series between National League East rivals on Tuesday afternoon at Truist Park. They wont have the help of any of their trade-deadline acquisitions. Philadelphia made three",
+      "link": "https://www.philliesnation.com/2026/09/philadelphia-phillies-trade-deadline-acquisitions-will-not-make-wild-card-series-roster-brooks-raley-luis-arraez-caleb-kilian-tanner-banks-update-news/",
+      "pubDate": "Tue, 29 Sep 2026 16:35:53 +0000",
+      "author": "Ty Daubert",
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
@@ -33,16 +43,6 @@
       "source": "Phillies Nation"
     },
     {
-      "title": "Tyrese Maxey always finds ways to improve. 2026-27 should be no different",
-      "description": "It\u2019s exciting to think what\u2019s in store for Tyrese Maxey next season. Fresh off making an All-NBA team for the first time, and recording career-highs in points (28.3), rebounds (4.1), assists (6.6), steals (1.9) and blocks (0.8) per game, he found way",
-      "link": "",
-      "pubDate": "2026-09-25T11:26:01-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Phillies panic meter: Split with Nationals raises reasons for worry",
       "description": "Philly is fighting tooth and nail in a crowded NL Wild Card hunt and every win inches them closer to clinching \u2014 and perhaps to leapfrogging the Cubs for a home series to start their postseason run.",
       "link": "https://www.phillyvoice.com/phillies-nationals-jonathan-bowlan-home-run-playoff-standings-wild-card-bryce-harper-cris-sanchez-news/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -61,6 +61,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-07T193252Z_1200231542_MT1USATODAY29761287_RTRMADP_3_MLB-ATLANTA-BR.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "NFC Hierarchy/Obituary: Week 4 edition",
+      "description": "Week 3 of the 2026 NFL season is in the books, and it was wild, with the Cowboys and Rams suffering brutal late-game losses, and the Eagles looking very much like a team on the decline in front of a national audience. We have no new obituaries yet, b",
+      "link": "https://www.phillyvoice.com/nfc-hierarchy-obituary-week-4-edition-2026/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 29 Sep 2026 14:51:55 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-29T034434Z_1857822975_MT1USATODAY29947505_RTRMADP_3_NFL-PHILADELPH.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Who will be in the broadcast booth for Phillies vs. Braves playoff series?",
@@ -283,16 +293,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Report: Eagles are signing TE Zach Ertz to their practice squad",
-      "description": "The Eagles are presently extremely thin at tight end, with Dallas Goedert out \"a few weeks\" with an MCL sprain; as well as a pair of backups in rookie Eli Stowers and Grant Calcaterra on injured reserve.",
-      "link": "https://www.phillyvoice.com/report-eagles-are-signing-te-zach-ertz-their-practice-squad/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 21 Sep 2026 22:50:10 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2024-11-14T234908Z_2082042658_MT1USATODAY24761581_RTRMADP_3_NFL-WASHINGTON.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
       "title": "5 Phillies thoughts: The state of the Wild Card race, some postseason bullpen ideas",
       "description": "A lot is up in the air and this week the final six games of the regular season offer a ton for the Phillies to play for.",
       "link": "https://www.phillyvoice.com/5-phillies-thoughts-bullpen-starters-andrew-painter-jesus-luzardo-nl-wild-card-standings-odds-clinch-magic-number/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -353,14 +353,104 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Flyers shake up forward lines at final practice before season opener",
+      "description": "The Philadelphia Flyers open the regular season on Wednesday night against the Pittsburgh Penguins. Due to the shortened training camp and only four preseason games, the Flyers dont have their lineup set in stone as of yet. Add in an injury to Denver",
+      "link": "https://www.broadstreethockey.com/post/flyers-shake-up-forward-lines-at-final-practice-before-season-opener/",
+      "pubDate": "Tue, 29 Sep 2026 18:30:16 +0000",
+      "author": "Ryan Gilbert",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Flyers projected lineup 2.0: Opening Night edition",
+      "description": "A breakdown of how the 2026-27 Philadelphia Flyers are expected to line up for their season opener against the Penguins.",
+      "link": "https://www.phillyvoice.com/flyers-lineup-projection-2026-27-opening-night-trevor-zegras-porter-martone-nhl/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 29 Sep 2026 18:03:42 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-25T005450Z_763624589_MT1USATODAY29904276_RTRMADP_3_NHL-PRESEASON-B.JPG",
+      "team": "flyers",
+      "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "Flyperblog: Trevor Zegras is putting his Flyers housemates to work",
+      "description": "(NOTE: Nothing in this post is serious or real except for the fact that a bunch of dudes are living with Trevor Zegras) Philadelphia Flyers forward Trevor Zegras has been a uniting force in the team&#x2019;s locker room since they acquired him last y",
+      "link": "https://www.broadstreethockey.com/post/flyperblog-trevor-zegras-is-putting-his-flyers-housemates-to-work/",
+      "pubDate": "Tue, 29 Sep 2026 17:39:32 +0000",
+      "author": "Steve J",
+      "thumbnail": "https://www.broadstreethockey.com/wp-content/uploads/sites/12/2026/09/Dvorak-stache-1-240x300.jpg",
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Phillies playoff notes: The latest on Luzardo, Arraez and if shadows will impact the game",
+      "description": "ATLANTA \u2013 Atlanta Braves manager Walt Weiss is assuming his lineup will see the best version of Jes\u00fas Luzardo. The Phillies insist that they \u201cdon\u2019t know what to expect\u201d out of Luzardo. Some of it may be gamesmanship. There is at least some truth to i",
+      "link": "https://www.philliesnation.com/2026/09/philadelphia-phillies-postseason-mlb-notes-news-jesus-luzardo-walt-weiss-don-mattingly-luis-arraez-kyle-schwarber-september-29-2026/",
+      "pubDate": "Tue, 29 Sep 2026 17:28:42 +0000",
+      "author": "Destiny Lugardo",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
+    },
+    {
+      "title": "Sixers announce official 2026 training camp details",
+      "description": "Media Day is behind us for the Philadelphia 76ers, and it was a more eventful one than usual given the new high-profile names arriving on the roster. Now it\u2019s time to put the work in to get 1 percent better every day, as Tyrese Maxey (and now LeBron ",
+      "link": "",
+      "pubDate": "2026-09-29T12:27:02-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "NHL experts make their predictions for the Flyers\u2019 2026-27 season",
+      "description": "The Philadelphia Flyers surprised a lot of people last year with their playoff spot and a first-round victory. This year, some are expecting them to match those expectations, but a few others are expecting them to fall backwards. Or off a cliff in so",
+      "link": "https://www.broadstreethockey.com/post/nhl-experts-make-their-predictions-for-the-flyers-2026-27-season/",
+      "pubDate": "Tue, 29 Sep 2026 16:00:00 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "This new Eagles offense will require time and patience \u2013 does anyone have that?",
+      "description": "Growing pains were to be expected for the new Eagles offense, but how long can it continue to be erratic?",
+      "link": "https://www.phillyvoice.com/new-eagles-offense-time-patience-jalen-hurts-sean-mannion-bears-blowout/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 29 Sep 2026 15:54:53 +0000",
+      "author": "Geoff Mosher",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-29T032046Z_1956415701_MT1USATODAY29947452_RTRMADP_3_NFL-PHILADEL_UZOpSt1.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "5 bold predictions for Flyers\u2019 2026-27 season",
+      "description": "The leaves are changing colors. The morning air has shifted from balmy to slightly chilly. That coffee shop down the street has officially begun serving pumpkin spice lattes. That can all mean one thing and one thing only &#x2014; hockey season is so",
+      "link": "https://www.broadstreethockey.com/post/5-bold-predictions-for-flyers-2026-27-season/",
+      "pubDate": "Tue, 29 Sep 2026 14:00:00 +0000",
+      "author": "Ryan Quigley",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
       "title": "Eagles Week 3 stock watch: Quinyon Mitchell makes a few plays, everyone else looks bad in Bears loss",
       "description": "The Eagles were out-played by a better team in Week 3 \u2014 a team with a 38-year-old third-string quarterback who looked like a Pro Bowler.",
       "link": "https://www.phillyvoice.com/eagles-week-3-stock-watch-bears-jalen-hurts-saquon-barkley-case-keenum-quinyon-mitchell-penalties-loss/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 29 Sep 2026 13:13:48 +0000",
+      "pubDate": "Tue, 29 Sep 2026 13:28:52 +0000",
       "author": "Evan Macy",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-29T022343Z_166722893_MT1USATODAY29947089_RTRMADP_3_NFL-PHILADELPHI.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Sixers mailbag: Welcome to the 2026-27 season!",
+      "description": "The first mailbag of the 2026-27 Sixers season unpacks the lack of consensus around a new-look roster's place within the NBA and more.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-media-day-full-video-depth-chart-lebron-james-joel-embiid-nick-nurse-justin-edwards-kcp/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 29 Sep 2026 13:07:20 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/092826_SixersMediaDay_ColleenClaggett-5942.jpg",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
     },
     {
       "title": "Predicting every Flyers player\u2019s goal total this season",
@@ -733,46 +823,6 @@
       "source": "PHL Sports Nation"
     },
     {
-      "title": "Monday Morning Fly By: Winding down",
-      "description": "*Its been a busy few days around here, thats for sure! The Flyers played their penultimate game of the preseason on Thursday, and picked up a tidy little win over the Bruins. There sure was a whole lot to like in that win, with the first look at most",
-      "link": "https://www.broadstreethockey.com/post/monday-morning-fly-by-winding-down-2/",
-      "pubDate": "Mon, 28 Sep 2026 10:00:00 +0000",
-      "author": "Madeline Campbell",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "David Jiricek has lost his grip on a spot in the Flyers\u2019 opening night lineup",
-      "description": "The Philadelphia Flyers have whittled down their roster during this shortened training camp ahead of their season opener this week. While rosters arent officially due until Monday, the Flyers more or less have the group of 23 players that theyll be o",
-      "link": "https://www.broadstreethockey.com/post/david-jiricek-has-lost-his-grip-on-a-spot-in-the-flyers-opening-night-lineup/",
-      "pubDate": "Sun, 27 Sep 2026 22:28:15 +0000",
-      "author": "Ryan Gilbert",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Flyers \u2018very hopeful\u2019 Dan Vladar ready for season opener, Denver Barkey nearing return",
-      "description": "The Philadelphia Flyers are just a few days away from opening their 2026-27 season, with their first matchup against the Pittsburgh Penguins on Wednesday night. The shortened preseason slate is over, but the Flyers didnt get out of it unscathed. Rost",
-      "link": "https://www.broadstreethockey.com/post/flyers-very-hopeful-dan-vladar-ready-for-season-opener-denver-barkey-nearing-return/",
-      "pubDate": "Sun, 27 Sep 2026 20:20:00 +0000",
-      "author": "Ryan Gilbert",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Flyers assign goaltender Aleksei Kolosov to AHL",
-      "description": "The Flyers have been chipping away at their remaining bits of business to allow their final roster to take shape, and after announcing a signing of veteran forward Garrett Wilson to a one-year deal on Sunday afternoon, they followed that up with the ",
-      "link": "https://www.broadstreethockey.com/post/flyers-assign-goaltender-aleksei-kolosov-to-ahl/",
-      "pubDate": "Sun, 27 Sep 2026 20:03:10 +0000",
-      "author": "Madeline Campbell",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "Joel Embiid has both never mattered less and more to the Sixers\u2019 success",
       "description": "For the first time in his NBA career, Joel Embiid is far down in the pecking order in terms of interesting narratives for this Sixers franchise. You have LeBron James taking a minimum deal to seek a ring in Philadelphia of all places, where we haven\u2019",
       "link": "",
@@ -983,16 +1033,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "Former Phillies owner Bill Giles passes away",
-      "description": "PHILADELPHIA \u2013 Former Phillies owner Bill Giles passed away on Friday afternoon at his home in Gladwyne, PA. at the age of 92, the team announced. Giles, the Phillies\u2019 chairman emeritus, began his career with the Phillies in 1969 as vice president of",
-      "link": "https://www.philliesnation.com/2026/09/former-phillies-owner-bill-giles-passes-away/",
-      "pubDate": "Fri, 25 Sep 2026 20:04:00 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
       "title": "Cole Knuble is 'definitely pushing some people' as he keeps building Flyers roster case",
       "description": "Knuble scored again in Thursday night's Flyers preseason win over the Bruins. The forward prospect's play has been near impossible to ignore.",
       "link": "https://www.phillyvoice.com/flyers-cole-knuble-roster-case-preaseason-goal-lineup-fit-denver-barkey-injury-nhl/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -1071,16 +1111,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-22T091638Z_1708958114_MT1USATODAY29885068_RTRMADP_3_NFL-PHILADELPH.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Luis Arraez leaves game early with ankle injury",
-      "description": "PHILADELPHIA \u2013 Phillies second baseman Luis Arraez left the game in the bottom of the sixth inning with a left ankle sprain. Arraez grounded a ball to shortstop. With a high throw to first, Arraez slid around the bag to avoid the tag. He appeared to ",
-      "link": "https://www.philliesnation.com/2026/09/philadelphia-phillies-luis-arraez-injury/",
-      "pubDate": "Fri, 25 Sep 2026 00:14:45 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
     },
     {
       "title": "The Flyers' power play might actually, finally pose some 'threats'",
@@ -1423,16 +1453,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "Sixers player preview: Is Dean Wade a championship-caliber glue guy?",
-      "description": "Every star-laden roster needs players with additive two-way skillsets that are not reliant on touching the ball. For the 2026-27 Sixers, that can be Dean Wade.",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-dean-wade-stats-contract-interview-highlights-career-nba-rumors-roster-press-conference/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sun, 13 Sep 2026 15:53:01 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-12-04T024613Z_1699500904_MT1USATODAY27734097_RTRMADP_3_NBA-PORTLAND-T.JPG",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
       "title": "Phillies stumble against Astros, can't bridge gap vs. NL East-leading Braves",
       "description": "The mistake-prone Phillies fumbled an opportunity to gain ground on the NL East-leading Braves by losing two to the Astros in South Philly.",
       "link": "https://www.phillyvoice.com/phillies-astros-recap-errors-base-running-national-league-east-mlb-postseason-analysis/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -1609,16 +1629,6 @@
       "pubDate": "Tue, 07 Jul 2026 13:13:28 +0000",
       "author": "Geoff Mosher",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-03-12T015554Z_509675487_MT1USATODAY25643939_RTRMADP_3_NHL-OTTAWA-SENA.JPG",
-      "team": "flyers",
-      "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Flyers thoughts: Leo Carlsson is worth it",
-      "description": "Leo Carlsson is the star center the Flyers need. The cost is steep, but the Flyers can afford it, while the Ducks might not be able to.",
-      "link": "https://www.phillyvoice.com/flyers-news-rumors-free-agency-thoughts-leo-carlsson-offer-sheet-breakdown-cap-space-ducks-decision/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 06 Jul 2026 21:43:04 +0000",
-      "author": "Nick Tricome",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-04T040746Z_2087091191_MT1USATODAY28656020_RTRMADP_3_NHL-ST-LOUIS-B.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
     },
