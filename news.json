@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T07:35:23.940912+00:00",
+  "updated": "2026-09-30T14:19:51.060022+00:00",
   "count": 171,
   "articles": [
     {
@@ -71,6 +71,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-07T193252Z_1200231542_MT1USATODAY29761287_RTRMADP_3_MLB-ATLANTA-BR.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "Eagles News: An undesirable new franchise record",
+      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! Zero takeaways through three games. Not great! In fairness, the Birds have forced a couple fumbles that were recovered by the offense. So, some bad luck there.",
+      "link": "",
+      "pubDate": "2026-09-30T08:20:21-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Flyers reportedly tried to land Kirill Marchenko before Leafs trade",
@@ -151,16 +161,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_29387122.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Flyers reportedly hunting for defensive help on the trade market",
-      "description": "Just because this week marks the start of the 2026-27 season does not mean teams are content with their current rosters. According to one report, the Philadelphia Flyers are one of those teams looking to potentially make a move in the near future. Or",
-      "link": "https://www.broadstreethockey.com/post/flyers-reportedly-hunting-for-defensive-help-on-the-trade-market/",
-      "pubDate": "Mon, 28 Sep 2026 18:35:07 +0000",
-      "author": "Thomas Williams",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Eagles vs. Bears \u2014 Historically When the Stakes Couldn\u2019t Be Higher",
@@ -393,6 +393,76 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Player Preview: Matvei Michkov can have the bounceback season we\u2019re dreaming of",
+      "description": "As we wrap up our season preview series, it&#x2019;s time to talk about the most polarizing, most talented, and most important player on the Flyers roster, Matvei Michkov. The 21-year old Russian enters his third full NHL season with something to pro",
+      "link": "https://www.broadstreethockey.com/post/player-preview-matvei-michkov-can-have-the-bounceback-season-were-dreaming-of/",
+      "pubDate": "Wed, 30 Sep 2026 14:08:39 +0000",
+      "author": "Jacob Russell",
+      "thumbnail": "https://www.broadstreethockey.com/wp-content/uploads/sites/12/2026/09/IMG_5339-1024x839.jpeg",
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Eagles-Rams Week 4 odds preview: The Birds have no break after Monday's wakeup call",
+      "description": "The Rams are favored in Philly after the Eagles got crushed in Chicago on Monday night.",
+      "link": "https://www.phillyvoice.com/eagles-rams-week-4-betting-odds-money-lines-points-spread-jalen-hurts-matthew-stafford-aaron-donald/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 30 Sep 2026 12:52:22 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-09-25T043055Z_728041030_MT1USATODAY27161899_RTRMADP_3_NFL-LOS-ANGELES.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles power ranking roundup: Week 4",
+      "description": "Are power rankings completely dumb and meaningless? Yes. Yes, they are. However, personally speaking, whenever I see them, I click. And now that I've sucked you in with promises of many power rankings, you'll read it and like it. Here's where people ",
+      "link": "https://www.phillyvoice.com/eagles-power-ranking-roundup-week-4-2026/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 30 Sep 2026 12:43:05 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-29T020009Z_2137999730_MT1USATODAY29946954_RTRMADP_3_NFL-PHILADEL_hhAb1Ko.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Is Christian Dvorak good enough to help the Flyers succeed?",
+      "description": "The Philadelphia Flyers veteran center had a career year last year, but there was some of the good, bad, and ugly to his game. Is he really good enough to be a pivotal piece on a team wanting to make the playoffs?",
+      "link": "https://www.broadstreethockey.com/post/is-christian-dvorak-good-enough-to-help-the-flyers-succeed/",
+      "pubDate": "Wed, 30 Sep 2026 12:00:00 +0000",
+      "author": "Evan Watson",
+      "thumbnail": "https://www.broadstreethockey.com/wp-content/uploads/sites/12/2026/09/20251002_nyi_vs_phi-28-300x200.jpg",
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "We finally learned what makes Jalen Hurts really mad",
+      "description": "It was scary when Jalen Hurts took a late hit out of bounds on Monday night against the Bears, and the Eagles QB was forced to undergo a concussion evaluation as a result. He left the field annoyed, but with urgency to get it over with, and Hurts was",
+      "link": "",
+      "pubDate": "2026-09-30T07:32:05-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Eagles-Bears snap counts",
+      "description": "The official snap counts from the Philadelphia Eagles\u2019 Week 3 loss to the Chicago Bears are in. Let\u2019s take a look and run through some analysis. OFFENSE DEFENSE SPECIAL TEAMS DID NOT PLAY ACTIVE: Mac McWilliams INACTIVE: Hollywood Brown, Tanner McKee",
+      "link": "",
+      "pubDate": "2026-09-30T06:18:09-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Wednesday Morning Fly By: And we\u2019re off",
+      "description": "*Its finally here folks! Its the first day of the regular season for the Flyers! Well be getting underway later this evening, but ahead of that, the Flyers made some tweaks to their lineup in practice yesterday, giving us a bit of a hint about what w",
+      "link": "https://www.broadstreethockey.com/post/wednesday-morning-fly-by-and-were-off/",
+      "pubDate": "Wed, 30 Sep 2026 10:00:00 +0000",
+      "author": "Madeline Campbell",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
       "title": "Jes\u00fas Luzardo left it all out on the mound in first start back from injury",
       "description": "ATLANTA \u2013 The Phillies could not capitalize on yet another heroic effort from Jes\u00fas Luzardo. He came out firing out of the bullpen in extra innings in his last playoff appearance in Game 4 of the 2025 National League Division Series against the Los A",
       "link": "https://www.philliesnation.com/2026/09/philadelphia-phillies-atlanta-braves-mlb-wild-card-round-jesus-luzardo-start-jt-realmuto-jhoan-duran-don-mattingly-trea-turner/",
@@ -514,7 +584,7 @@
     },
     {
       "title": "Eagles News: Outcoached by the Bears",
-      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! Ben Johnson is obviously more accomplished than Nick Sirianni. But, be honest, did you find yourself jealous of how the Bears\u2019 head coach gave his team an edge",
+      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! Nick Sirianni is obviously more accomplished than Ben Johnson But, be honest, did you find yourself jealous of how the Bears\u2019 head coach gave his team an edge ",
       "link": "",
       "pubDate": "2026-09-29T13:31:20-04:00",
       "author": "",
@@ -653,16 +723,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Eagles vs. Bears: The good, the bad, and the ugly",
-      "description": "Halloween is a little over a month away, but the Eagles certainly put on a good show in their version of Black Monday as Chicago Bears\u2019 38-year-old backup quarterback Case Keenum resurrected the ghosts of Eagles\u2019 past like Joe Webb and Taylor Heinick",
-      "link": "",
-      "pubDate": "2026-09-29T01:07:59-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Jalen Hurts accidentally became important at work and it's ruining his life",
       "description": "Jalen Hurts was the reason the Eagles started 2-0, but he couldn't cover for the whole team again in Monday's loss to the Bears.",
       "link": "https://www.phillyvoice.com/eagles-bears-jalen-hurts-performance-titans-commanders-week-3-analysis-news-comeback-case-keenum/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -683,16 +743,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Eagles-Bears final score: Philadelphia bullied by Chicago again",
-      "description": "The Philadelphia Eagles are 2-1 after losing to the Chicago Bears at Soldier Field on Sunday. Final score: 27 to 7. After getting bullied by the Bears in Philly last year, all eyes were on this Eagles defense to be better this time around. They were ",
-      "link": "",
-      "pubDate": "2026-09-28T23:14:18-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Eagles at Bears, Week 3: Live updates and open thread",
       "description": "Follow along and chat Eagles-Bears on Monday Night Football.",
       "link": "https://www.phillyvoice.com/eagles-bears-week-3-live-updates-and-open-thread/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -701,16 +751,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2022-12-18T195356Z_2137405988_MT1USATODAY19647184_RTRMADP_3_NFL-PHILADELPH.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Eagles vs. Bears Week 3 game thread",
-      "description": "The Philadelphia Eagles are on the road again in Week 3 for a Monday Night Football matchup against the Chicago Bears. All eyes will be on how well the Eagles defense can stop Chicago\u2019s run game, not only because that\u2019s the part they failed to stop i",
-      "link": "",
-      "pubDate": "2026-09-28T22:54:30-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Eagles-Bears Week 3 inactives, with analysis",
@@ -741,16 +781,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-25T015448Z_1449322755_MT1USATODAY29904751_RTRMADP_3_NHL-PRESEASON-.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Flyers officially announce 2026-27 opening night roster",
-      "description": "The 2026-27 NHL season is here. The Philadelphia Flyers officially announced their 2026-27 opening night active roster on Monday afternoon. The deadline for teams to submit their opening rosters was at 5 p.m. ET, and the Flyers got just ahead of that",
-      "link": "https://www.broadstreethockey.com/post/flyers-officially-announce-2026-27-opening-night-roster/",
-      "pubDate": "Mon, 28 Sep 2026 21:15:07 +0000",
-      "author": "Ryan Gilbert",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "On first day with Sixers, LeBron James says he envisioned signing with New York Knicks before their championship",
@@ -821,16 +851,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-27T220701Z_1718200469_MT1USATODAY29936177_RTRMADP_3_MLB-TAMPA-BAY-.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Player Preview: Porter Martone set to make his mark in 2026-27",
-      "description": "The skys the limit for Flyers winger Porter Martone. Thankfully, he avoided a wrist injury after a minor scrum during Saturdays scrimmage. This despite getting into a tussle with defenseman Spencer Gill late in the scrimmage. Cooler heads prevailed, ",
-      "link": "https://www.broadstreethockey.com/post/player-preview-porter-martone-set-to-make-his-mark-in-2026-27/",
-      "pubDate": "Mon, 28 Sep 2026 14:30:31 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "More good Sixers news \u2014 the 2001 black jerseys are back for 2026-27",
@@ -1203,16 +1223,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "5 Eagles thoughts: Are the Birds really good, really lucky, or both?",
-      "description": "The Eagles are living on the edge by thriving in so many third-and-long scenarios, but so far it's working. Can Zack Ertz really help this immediately?",
-      "link": "https://www.phillyvoice.com/5-eagles-thoughts-offense-jalen-hurts-third-down-zack-ertz-pressure-rate/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 23 Sep 2026 15:32:04 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-22T091542Z_1646517373_MT1USATODAY29885058_RTRMADP_3_NFL-PHILADELPH.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
       "title": "Rounding up the NFL's Week 2 injuries, and how they affect the Eagles",
       "description": "There were a lot of notable injuries during Week 2 of the NFL season, many of which will directly affect the Philadelphia Eagles. So let's round them all up here, yeah?",
       "link": "https://www.phillyvoice.com/rounding-nfl-week-2-injuries-and-how-they-affect-eagles-jaxson-dart-caleb-williams-jayden-daniels-tyson-bagent/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -1241,16 +1251,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Report: Eagles signing former Pro Bowl cornerback",
-      "description": "Former Colts CB Kenny Moore II, a Pro Bowler in 2021, will reportedly sign to the Eagles' practice squad.",
-      "link": "https://www.phillyvoice.com/report-eagles-signing-former-pro-bowl-cornerback-kenny-moore-interceptions-safety-nickelback/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 22 Sep 2026 18:07:19 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-10-26T210355Z_743149_MT1USATODAY27426160_RTRMADP_3_NFL-TENNESSEE-TITA.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Phillies playoff rooting guide: Who to boo, who to pull for in final week",
