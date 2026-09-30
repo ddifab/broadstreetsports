@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T19:41:32.363736+00:00",
-  "count": 171,
+  "updated": "2026-09-30T23:15:53.791635+00:00",
+  "count": 170,
   "articles": [
     {
       "title": "Phillies secure fifth-consecutive postseason berth, avoid collapse in win against Rays",
@@ -21,16 +21,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
-    },
-    {
-      "title": "Eagles-Bears takeaway: Lackluster play catches up with the Birds in Chicago",
-      "description": "You could feel this game coming. In Week 1, the Eagles struggled to beat the Commanders in Washington 24-22. They followed it up with a last-second, 24-20 victory on the road against the Titans, who finished with the NFL\u2019s second-worst record a seaso",
-      "link": "",
-      "pubDate": "2026-09-29T10:44:05-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Don Mattingly explains roster decisions as Phillies prepare for Wild Card Series without cleanup hitter Luis Arraez",
@@ -71,6 +61,26 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-07T193252Z_1200231542_MT1USATODAY29761287_RTRMADP_3_MLB-ATLANTA-BR.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "Instant observations: Trio of late solo shots revive Phillies season, force Game 3 vs. Braves",
+      "description": "After what looked like another managerial screw up of epic proportions, the Phillies clawed back to a win, 4-3, over the Braves in Atlanta Wednesday afternoon \u2014 keeping them alive and setting up a winner-take-all Game 3 Thursday in the NL Wild Card S",
+      "link": "https://www.phillyvoice.com/instant-observations-phillies-braves-game-2-wild-card-cris-sanchez-news-analysis-game-3-bryce-harper/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 30 Sep 2026 21:44:35 +0000",
+      "author": "Evan Macy",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-30T204908Z_1828098515_MT1USATODAY29960922_RTRMADP_3_MLB-WILDCARD-P.JPG",
+      "team": "phillies",
+      "source": "PhillyVoice"
+    },
+    {
+      "title": "Alec Bohm, Andrew Painter help Phillies force winner-take-all Game 3",
+      "description": "The Phillies got huge contributions from Alec Bohm and Andrew Painter in Game 2 of the Wild Card Series against the Braves.",
+      "link": "https://www.philliesnation.com/2026/09/philadelphia-phillies-alec-bohm-andrew-painter-atlanta-braves-wild-card-series/",
+      "pubDate": "Wed, 30 Sep 2026 21:36:42 +0000",
+      "author": "Bailey Digh",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
     },
     {
       "title": "Eagles News: An undesirable new franchise record",
@@ -223,16 +233,6 @@
       "source": "Philly Sports Wire"
     },
     {
-      "title": "Sixers announce Blue X White Scrimmage date, new location",
-      "description": "The Sixers\u2019 Blue X White Scrimmage has become a fun annual tradition for fans. While the intimacy of the Chase Fieldhouse in Delaware, the home of the G League affiliate Blue Coats, was a nice treat, the obvious demand with the new-look Sixers has fo",
-      "link": "",
-      "pubDate": "2026-09-25T13:24:29-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Sixers player preview: Can LeBron James win fifth championship in Philadelphia?",
       "description": "LeBron James has played for three NBA organizations and won a championship with each of them. Can he cap off his legendary career by winning a title with the Sixers?",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-lebron-james-stats-contract-interview-highlights-career-nba-rumors-roster-press-conference/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -383,6 +383,66 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "3 centers the Flyers could target after the Leo Carlsson saga",
+      "description": "For six days in July, Danny Briere held the league hostage. On July 3, the Flyers tendered Leo Carlsson a five-year, $90 million offer sheet whose $18 million cap hit edged past Kirill Kaprizovs $17 million as the richest in NHL history, with roughly",
+      "link": "https://www.broadstreethockey.com/post/3-centers-the-flyers-could-target-after-the-leo-carlsson-saga/",
+      "pubDate": "Wed, 30 Sep 2026 23:00:00 +0000",
+      "author": "BSH Staff",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Eagles-Bears Film Review: Rough game for Vic Fangio",
+      "description": "The Eagles\u2019 defense had a rough night against the Bears. Ben Johnson had an excellent read on what Vic Fangio wanted to do, and he kept finding ways to turn the Eagles\u2019 aggression against them. The result was a 27-7 loss in which Case Keenum complete",
+      "link": "",
+      "pubDate": "2026-09-30T18:59:45-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Flyers vs. Penguins: How to watch, lineups, and gamethread",
+      "description": "And were off! After an abbreviated, but still somehow too long, run through the preseason, the regular season is finally set to kick off tonight for the Flyers. Its a big matchup on deck, a playoff rematch against the Penguins, and its sure to be an ",
+      "link": "https://www.broadstreethockey.com/post/flyers-vs-penguins-how-to-watch-lineups-and-gamethread-3/",
+      "pubDate": "Wed, 30 Sep 2026 20:30:00 +0000",
+      "author": "Madeline Campbell",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "'Everything's zeroes again' for the Flyers as new season begins",
+      "description": "Last year's playoff run has to be left behind now. It's a new chapter for the Philadelphia Flyers.",
+      "link": "https://www.phillyvoice.com/flyers-penguins-season-opener-everythings-zeroes-rick-tocchet-cam-york-porter-martone/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 30 Sep 2026 20:09:59 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/IMG_5737.jpeg",
+      "team": "flyers",
+      "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "Sixers training camp: Nick Nurse thinks starters will play in preseason; Tyrese Maxey, Dean Wade talk opening practices",
+      "description": "Sixers head coach Nick Nurse was not willing make any commitments, but after his team's second official practice he said he hopes all five of his starters see preseason action.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-training-camp-practice-full-interview-nick-nurse-tyrese-maxey-lebron-james-dean-wade-nba/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 30 Sep 2026 20:00:52 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/092826_SixersMediaDay_ColleenClaggett-5769.jpg",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Tyrese Maxey named to Time100 Next 2026 list",
+      "description": "Tyrese Maxey is no stranger to accumulating NBA honors, having made two All-Star game appearances thus far during his professional career and All-NBA Third Team last season. Now he is being recognized by a publication outside the NBA sphere, being na",
+      "link": "",
+      "pubDate": "2026-09-30T15:22:34-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
       "title": "Oddsmakers expect breakout seasons from the Flyers\u2019 young stars",
       "description": "The Philadelphia Flyers 2026-27 season gets underway on Wednesday night, and the spotlight is going to be on Matvei Michkov and Porter Martone. Michkov is looking to bounce back from an admittedly down sophomore years, while Martone is hoping to pick",
       "link": "https://www.broadstreethockey.com/post/oddsmakers-expect-breakout-seasons-from-the-flyers-young-stars/",
@@ -421,6 +481,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-09T183331Z_1605465128_MT1USATODAY29159186_RTRMADP_3_NFL-PHILADELPH.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "There\u2019s finally a silver lining to the Knicks\u2019 championship for the Sixers",
+      "description": "The New York Knicks annihilated the Sixers in the second round of the playoffs en route to snapping their 53-year championship drought last season. The vibes around Philly were Decidedly Bad after that humiliation, particularly since Knicks fans over",
+      "link": "",
+      "pubDate": "2026-09-30T10:10:56-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Player Preview: Matvei Michkov can have the bounceback season we\u2019re dreaming of",
@@ -503,8 +573,8 @@
       "source": "Phillies Nation"
     },
     {
-      "title": "Week 3 Recap: Eagles 7, Bears 27. What Went Wrong?",
-      "description": "Well the Eagles lost in brutal fashion to the Bears 27-7. Turns out that Ben Johnson busted out the anarchist\u2019s [] The post Week 3 Recap: Eagles 7, Bears 27. What Went Wrong? appeared first on Philadelphia Sports Nation.",
+      "title": "RECAP \u2013 Week 3: Eagles 7, Bears 27; What Went Wrong?",
+      "description": "The Eagles lost in brutal fashion to the Bears, 27-7. Turns out that Ben Johnson busted out the anarchist\u2019s cookbook [] The post RECAP Week 3: Eagles 7, Bears 27; What Went Wrong? appeared first on Philadelphia Sports Nation.",
       "link": "https://phlsportsnation.com/2026/09/29/week-3-recap-eagles-7-bears-27-what-went-wrong/",
       "pubDate": "Tue, 29 Sep 2026 21:45:31 +0000",
       "author": "Kyle Lavin",
@@ -613,16 +683,6 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "Eagles News: Outcoached by the Bears",
-      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! Nick Sirianni is obviously more accomplished than Ben Johnson But, be honest, did you find yourself jealous of how the Bears\u2019 head coach gave his team an edge ",
-      "link": "",
-      "pubDate": "2026-09-29T13:31:20-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Phillies playoff notes: The latest on Luzardo, Arraez and if shadows will impact the game",
       "description": "ATLANTA \u2013 Atlanta Braves manager Walt Weiss is assuming his lineup will see the best version of Jes\u00fas Luzardo. The Phillies insist that they \u201cdon\u2019t know what to expect\u201d out of Luzardo. Some of it may be gamesmanship. There is at least some truth to i",
       "link": "https://www.philliesnation.com/2026/09/philadelphia-phillies-postseason-mlb-notes-news-jesus-luzardo-walt-weiss-don-mattingly-luis-arraez-kyle-schwarber-september-29-2026/",
@@ -643,16 +703,6 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "NHL experts make their predictions for the Flyers\u2019 2026-27 season",
-      "description": "The Philadelphia Flyers surprised a lot of people last year with their playoff spot and a first-round victory. This year, some are expecting them to match those expectations, but a few others are expecting them to fall backwards. Or off a cliff in so",
-      "link": "https://www.broadstreethockey.com/post/nhl-experts-make-their-predictions-for-the-flyers-2026-27-season/",
-      "pubDate": "Tue, 29 Sep 2026 16:00:00 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "This new Eagles offense will require time and patience \u2013 does anyone have that?",
       "description": "Growing pains were to be expected for the new Eagles offense, but how long can it continue to be erratic?",
       "link": "https://www.phillyvoice.com/new-eagles-offense-time-patience-jalen-hurts-sean-mannion-bears-blowout/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -661,16 +711,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-29T032046Z_1956415701_MT1USATODAY29947452_RTRMADP_3_NFL-PHILADEL_UZOpSt1.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "5 bold predictions for Flyers\u2019 2026-27 season",
-      "description": "The leaves are changing colors. The morning air has shifted from balmy to slightly chilly. That coffee shop down the street has officially begun serving pumpkin spice lattes. That can all mean one thing and one thing only &#x2014; hockey season is so",
-      "link": "https://www.broadstreethockey.com/post/5-bold-predictions-for-flyers-2026-27-season/",
-      "pubDate": "Tue, 29 Sep 2026 14:00:00 +0000",
-      "author": "Ryan Quigley",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Eagles Week 3 stock watch: Quinyon Mitchell makes a few plays, everyone else looks bad in Bears loss",
@@ -1063,16 +1103,6 @@
       "source": "Phillies Nation"
     },
     {
-      "title": "Free-falling Phillies still alive, control their own destiny despite another ugly loss: \u2018Just win a game\u2019",
-      "description": "PHILADELPHIA \u2014 On December 20, 2018, former Phillies general manager Matt Klentak opened the door at Citizens Bank Park to greet star third baseman Manny Machado. He was a big-name, big-money target for a star-hunting Phillies team. Ultimately, it wa",
-      "link": "https://www.philliesnation.com/2026/09/philadelphia-phillies-mlb-postseason-national-league-wild-card-jt-realmuto-zack-wheeler-don-mattingly-arizona-diamondbacks/",
-      "pubDate": "Sun, 27 Sep 2026 04:52:53 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
       "title": "Eagles-Bears Week 3 injury report, with analysis",
       "description": "The Eagles are going to be hurting without Dallas Goedert, but the Bears might be in worse shape without Caleb Williams.",
       "link": "https://www.phillyvoice.com/eagles-bears-week-3-injury-report-analysis-2026-caleb-williams-tyson-bagent-devonta-smith/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -1121,16 +1151,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-25T015808Z_832024691_MT1USATODAY29904788_RTRMADP_3_NHL-PRESEASON-B.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "LeBron James finally reveals why he chose to sign with the Sixers",
-      "description": "LeBron James will officially speak for the first time as a Sixer on Monday at media day. But on Friday, he sat down with Steve Nash for the season premiere of his Mind the Game podcast to discuss what caused him to sign with the Sixers this summer. T",
-      "link": "",
-      "pubDate": "2026-09-25T14:00:41-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Sixers' annual Blue x White Scrimmage will take place at Xfinity Mobile Arena on October 3",
@@ -1453,16 +1473,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "Sixers player preview: Can Dominick Barlow make another significant leap?",
-      "description": "\"I think there's a lot of things that I'm working on this summer that might have been weaknesses in the past that are going to become strengths,\" Dominick Barlow told PhillyVoice in July.",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-dominick-barlow-stats-contract-interview-highlights-career-nba-rumors-roster-press-conference/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 14 Sep 2026 12:35:25 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-10T025931Z_1365796384_MT1USATODAY28696829_RTRMADP_3_NBA-PHILADELPH.JPG",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
       "title": "Winners and losers as Phillies series loss to Braves all but ends NL East chase",
       "description": "The Phillies offense came to life late to win the finale of their three game series against the NL East leading Braves, but the damage had already been done.",
       "link": "https://www.phillyvoice.com/winners-losers-phillies-braves-nl-east-standings-wild-card-cubs-news-analysis-bryce-harper-bullpen-blown-saves/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -1519,16 +1529,6 @@
       "pubDate": "Wed, 02 Sep 2026 21:51:33 +0000",
       "author": "Evan Macy",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-01T031749Z_1134070515_MT1USATODAY29707409_RTRMADP_3_MLB-PHILADELPH.JPG",
-      "team": "phillies",
-      "source": "PhillyVoice"
-    },
-    {
-      "title": "Phillies bullpen confidence meter: Who's the most dependable setup man to Jhoan Duran?",
-      "description": "After months-long struggles, the Phillies' bullpen has been much better, though still sometimes shaky. Who can Don Mattingly most rely on for September's pennant chase?",
-      "link": "https://www.phillyvoice.com/phillies-bullpen-confidence-meter-pennant-chase-jonathan-bowlan-jhoan-duran/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 01 Sep 2026 17:45:32 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-01T034128Z_1597783220_MT1USATODAY29707485_RTRMADP_3_MLB-PHILADELPH.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
     },
@@ -1629,16 +1629,6 @@
       "pubDate": "Thu, 09 Jul 2026 17:23:40 +0000",
       "author": "Nick Tricome",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-03-16T010220Z_1129895188_MT1USATODAY28510532_RTRMADP_3_NHL-ANAHEIM-DU.JPG",
-      "team": "flyers",
-      "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "No reunion between Flyers, Claude Giroux as he reportedly will sign back with Senators",
-      "description": "Despite rumblings that he might return to Philadelphia, former Flyers captain Claude Giroux is going back to Ottawa.",
-      "link": "https://www.phillyvoice.com/flyers-claude-giroux-captain-report-ottawa-senators-resign-nhl-rumors-contracts-free-agency/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 07 Jul 2026 13:13:28 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-03-12T015554Z_509675487_MT1USATODAY25643939_RTRMADP_3_NHL-OTTAWA-SENA.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
     },
