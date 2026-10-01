@@ -1,21 +1,229 @@
 {
-  "updated": "2026-10-01T09:30:16.941552+00:00",
+  "updated": "2026-10-01T16:44:17.188371+00:00",
   "scores": {
     "phillies": {
       "recent": [],
-      "upcoming": []
+      "upcoming": [
+        {
+          "date": "10/2",
+          "home": "ATL",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "MLB",
+          "name": "Philadelphia Phillies at Atlanta Braves",
+          "shortName": "PHI @ ATL",
+          "time": "8:00 PM ET",
+          "status": "scheduled"
+        }
+      ]
     },
     "eagles": {
       "recent": [],
-      "upcoming": []
+      "upcoming": [
+        {
+          "date": "10/4",
+          "home": "PHI",
+          "away": "LAR",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NFL",
+          "name": "Los Angeles Rams at Philadelphia Eagles",
+          "shortName": "LAR @ PHI",
+          "time": "1:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/11",
+          "home": "JAX",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NFL",
+          "name": "Philadelphia Eagles at Jacksonville Jaguars",
+          "shortName": "PHI VS JAX",
+          "time": "9:30 AM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/18",
+          "home": "PHI",
+          "away": "CAR",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NFL",
+          "name": "Carolina Panthers at Philadelphia Eagles",
+          "shortName": "CAR @ PHI",
+          "time": "1:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/27",
+          "home": "PHI",
+          "away": "DAL",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NFL",
+          "name": "Dallas Cowboys at Philadelphia Eagles",
+          "shortName": "DAL @ PHI",
+          "time": "8:15 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "11/2",
+          "home": "WSH",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NFL",
+          "name": "Philadelphia Eagles at Washington Commanders",
+          "shortName": "PHI @ WSH",
+          "time": "9:20 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "11/8",
+          "home": "PHI",
+          "away": "NYG",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NFL",
+          "name": "New York Giants at Philadelphia Eagles",
+          "shortName": "NYG @ PHI",
+          "time": "2:00 PM ET",
+          "status": "scheduled"
+        }
+      ]
     },
     "sixers": {
       "recent": [],
-      "upcoming": []
+      "upcoming": [
+        {
+          "date": "10/5",
+          "home": "PHI",
+          "away": "NY",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "New York Knicks at Philadelphia 76ers",
+          "shortName": "NY @ PHI",
+          "time": "7:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/8",
+          "home": "BKN",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "Philadelphia 76ers at Brooklyn Nets",
+          "shortName": "PHI @ BKN",
+          "time": "7:30 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/11",
+          "home": "BOS",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "Philadelphia 76ers at Boston Celtics",
+          "shortName": "PHI @ BOS",
+          "time": "8:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/16",
+          "home": "PHI",
+          "away": "BOS",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "Boston Celtics at Philadelphia 76ers",
+          "shortName": "BOS @ PHI",
+          "time": "7:00 PM ET",
+          "status": "scheduled"
+        }
+      ]
     },
     "flyers": {
       "recent": [],
-      "upcoming": []
+      "upcoming": [
+        {
+          "date": "10/2",
+          "home": "UTA",
+          "away": "CHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NHL",
+          "name": "Chicago Blackhawks at Utah Mammoth",
+          "shortName": "CHI @ UTA",
+          "time": "9:30 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/3",
+          "home": "BUF",
+          "away": "CHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NHL",
+          "name": "Chicago Blackhawks at Buffalo Sabres",
+          "shortName": "CHI @ BUF",
+          "time": "7:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/7",
+          "home": "CHI",
+          "away": "STL",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NHL",
+          "name": "St. Louis Blues at Chicago Blackhawks",
+          "shortName": "STL @ CHI",
+          "time": "8:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/8",
+          "home": "NYI",
+          "away": "CHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NHL",
+          "name": "Chicago Blackhawks at New York Islanders",
+          "shortName": "CHI @ NYI",
+          "time": "7:30 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/10",
+          "home": "CHI",
+          "away": "CAR",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NHL",
+          "name": "Carolina Hurricanes at Chicago Blackhawks",
+          "shortName": "CAR @ CHI",
+          "time": "7:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/14",
+          "home": "CHI",
+          "away": "PIT",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NHL",
+          "name": "Pittsburgh Penguins at Chicago Blackhawks",
+          "shortName": "PIT @ CHI",
+          "time": "8:00 PM ET",
+          "status": "scheduled"
+        }
+      ]
     }
   }
 }

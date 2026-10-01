@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01T09:30:16.941552+00:00",
-  "count": 146,
+  "updated": "2026-10-01T16:44:17.188371+00:00",
+  "count": 136,
   "articles": [
     {
       "title": "Phillies panic meter: Split with Nationals raises reasons for worry",
@@ -23,6 +23,16 @@
       "source": "PhillyVoice"
     },
     {
+      "title": "5 thoughts about the Phillies: Aaron Nola's start, Alec Bohm's bomb and making history",
+      "description": "It feels sort of unexpected, that the Phillies are not only alive, but have some momentum with the third and final game of the NL Wild Card Series in Atlanta set for Thursday night.",
+      "link": "https://www.phillyvoice.com/5-thoughts-phillies-aaron-nola-alec-bohm-game-3-wild-card-braves-start-time-news-analysis/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Thu, 01 Oct 2026 14:26:56 +0000",
+      "author": "Evan Macy",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-30T213339Z_1259586072_MT1USATODAY29961343_RTRMADP_3_MLB-WILDCARD-P.JPG",
+      "team": "phillies",
+      "source": "PhillyVoice"
+    },
+    {
       "title": "Instant observations: Trio of late solo shots revive Phillies season, force Game 3 vs. Braves",
       "description": "After what looked like another managerial screw up of epic proportions, the Phillies clawed back to a win, 4-3, over the Braves in Atlanta Wednesday afternoon \u2014 keeping them alive and setting up a winner-take-all Game 3 Thursday in the NL Wild Card S",
       "link": "https://www.phillyvoice.com/instant-observations-phillies-braves-game-2-wild-card-cris-sanchez-news-analysis-game-3-bryce-harper/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -41,16 +51,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Flyers reportedly tried to land Kirill Marchenko before Leafs trade",
-      "description": "The Toronto Maple Leafs and Columbus Blue Jackets pulled off a sizeable blockbuster deal right before the first puck dropped for the 2026-27 NHL season, swapping star wingers Kirill Marchenko and Matthew Knies for each other. And while we never heard",
-      "link": "https://www.broadstreethockey.com/post/flyers-reportedly-tried-to-land-kirill-marchenko-before-leafs-trade/",
-      "pubDate": "Wed, 30 Sep 2026 01:38:07 +0000",
-      "author": "Thomas Williams",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Eagles Film Review: This team looks like they are running two separate offenses",
@@ -293,6 +293,56 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Eagles make some practice squad moves",
+      "description": "The Eagles are still tinkering with their roster, and as we head into October, the team made some practice squad moves. Here\u2019s an overview: Hall\u2019s return gives the Eagles more defensive tackle depth. The Eagles have been going five DTs deep during ga",
+      "link": "",
+      "pubDate": "2026-10-01T12:23:49-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Eagles News: Jalen Carter is playing through a hairline fracture in his wrist",
+      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! Jalen Carter playing through this injury doesn\u2019t really seem tenable? Shutting him down sure wouldn\u2019t be ideal, especially in the short-term. But they really n",
+      "link": "",
+      "pubDate": "2026-10-01T11:19:54-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Fantasy football start/sit advice: For now, Jalen Hurts isn't a great option",
+      "description": "Looking at each fantasy football position and a player you should either start or sit.",
+      "link": "https://www.phillyvoice.com/fantasy-football-start-sit-week-4-injuries-jalen-hurts-bucky-irving-bo-nix-jameson-williams-tips-help-advice/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Thu, 01 Oct 2026 14:28:00 +0000",
+      "author": "Geoff Mosher",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-22T092251Z_143910475_MT1USATODAY29885135_RTRMADP_3_NFL-PHILADELPHI.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Could concerns about the Sixers defense be vastly overstated?",
+      "description": "During Nick Nurses first three years in Philadelphia, the Sixers defense has mostly been\u2026 fine? They were 11th leaguewide in defensive rating in 2023-24, fell to 26th during their injury-ravaged 2024-25 campaign and bounced back up to 17th last year.",
+      "link": "",
+      "pubDate": "2026-10-01T09:39:38-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Eagles-Rams preview: 5 things to watch",
+      "description": "The Philadelphia Eagles are 2-1, with a pair of wins over lesser opponents in the Washington Commanders and Tennessee Titans, and an embarrassing performance Week 3 against the Case Keenum-led Chicago Bears. In Week 4, they're facing the talented and",
+      "link": "https://www.phillyvoice.com/eagles-rams-preview-5-things-watch-2026-saquon-barkley-davante-adams-puka-nacua-kyren-williams/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Thu, 01 Oct 2026 13:18:00 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-09-21T175238Z_87533710_MT1USATODAY27138089_RTRMADP_3_NFL-LOS-ANGELES-.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
       "title": "Flyers blown out by Penguins in dud of a season opener",
       "description": "With the most hype behind the Flyers in years, they fell completely flat to open the new season in a 7-0 pummeling from the rival Pens.",
       "link": "https://www.phillyvoice.com/flyers-season-opener-dud-penguins-trevor-zegras-noel-acciari-score-highlights-nhl/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -301,26 +351,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-01T012613Z_1303580887_MT1USATODAY29962783_RTRMADP_3_NHL-PITTSBURGH.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Rick Tocchet calls out Flyers after disastrous season opener",
-      "description": "The Philadelphia Flyers were hoping to start their season off with a bang, to prove to everyone that last year wasnt an anomaly and they could very well be destined for back-to-back playoff appearances. Unfortunately, they came out with a whimper of ",
-      "link": "https://www.broadstreethockey.com/post/rick-tocchet-calls-out-flyers-after-disastrous-season-opener/",
-      "pubDate": "Thu, 01 Oct 2026 04:36:10 +0000",
-      "author": "Thomas Williams",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Takeaways: Flyers sleepwalk through season opener, trounced by Penguins 7-0",
-      "description": "If Philadelphia read too much of their own press over the summer, and the hype that was to begin 2026-27, the Pittsburgh Penguins brought them back down to earth. In a hurry. The Pens dominated the Flyers, resulting in an ugly, almost tedious 7-0 los",
-      "link": "https://www.broadstreethockey.com/post/takeaways-flyers-sleepwalk-through-season-opener-trounced-by-penguins-7-0/",
-      "pubDate": "Thu, 01 Oct 2026 02:22:21 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Eagles-Rams Week 4 injury report, with analysis",
@@ -343,16 +373,6 @@
       "source": "Bleeding Green Nation"
     },
     {
-      "title": "3 centers the Flyers could target after the Leo Carlsson saga",
-      "description": "For six days in July, Danny Briere held the league hostage. On July 3, the Flyers tendered Leo Carlsson a five-year, $90 million offer sheet whose $18 million cap hit edged past Kirill Kaprizovs $17 million as the richest in NHL history, with roughly",
-      "link": "https://www.broadstreethockey.com/post/3-centers-the-flyers-could-target-after-the-leo-carlsson-saga/",
-      "pubDate": "Wed, 30 Sep 2026 23:00:00 +0000",
-      "author": "BSH Staff",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "Eagles-Bears Film Review: Rough game for Vic Fangio",
       "description": "The Eagles\u2019 defense had a rough night against the Bears. Ben Johnson had an excellent read on what Vic Fangio wanted to do, and he kept finding ways to turn the Eagles\u2019 aggression against them. The result was a 27-7 loss in which Case Keenum complete",
       "link": "",
@@ -361,16 +381,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Flyers vs. Penguins: How to watch, lineups, and gamethread",
-      "description": "And were off! After an abbreviated, but still somehow too long, run through the preseason, the regular season is finally set to kick off tonight for the Flyers. Its a big matchup on deck, a playoff rematch against the Penguins, and its sure to be an ",
-      "link": "https://www.broadstreethockey.com/post/flyers-vs-penguins-how-to-watch-lineups-and-gamethread-3/",
-      "pubDate": "Wed, 30 Sep 2026 20:30:00 +0000",
-      "author": "Madeline Campbell",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "'Everything's zeroes again' for the Flyers as new season begins",
@@ -403,26 +413,6 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "Oddsmakers expect breakout seasons from the Flyers\u2019 young stars",
-      "description": "The Philadelphia Flyers 2026-27 season gets underway on Wednesday night, and the spotlight is going to be on Matvei Michkov and Porter Martone. Michkov is looking to bounce back from an admittedly down sophomore years, while Martone is hoping to pick",
-      "link": "https://www.broadstreethockey.com/post/oddsmakers-expect-breakout-seasons-from-the-flyers-young-stars/",
-      "pubDate": "Wed, 30 Sep 2026 18:59:49 +0000",
-      "author": "Ryan Gilbert",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "The 3 best season openers in Flyers history",
-      "description": "The Flyers are about to embark on another season, this one 84 games long but sure to be as interesting as last year was. Over their franchise history, Philadelphia has lost some opening games, won some opening games, and tied a few (yes, in ancient f",
-      "link": "https://www.broadstreethockey.com/post/the-3-best-season-openers-in-flyers-history/",
-      "pubDate": "Wed, 30 Sep 2026 16:32:59 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "A look at the biggest issue the Eagles must resolve",
       "description": "The Eagles can simply play better than they have through three weeks, but to be great they have a big issue they need to resolve.",
       "link": "https://www.phillyvoice.com/eagles-biggest-issues-resolve-offense-nick-sirianni-sean-mannion-saquon-barkley/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -441,16 +431,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Player Preview: Matvei Michkov can have the bounceback season we\u2019re dreaming of",
-      "description": "As we wrap up our season preview series, it&#x2019;s time to talk about the most polarizing, most talented, and most important player on the Flyers roster, Matvei Michkov. The 21-year old Russian enters his third full NHL season with something to pro",
-      "link": "https://www.broadstreethockey.com/post/player-preview-matvei-michkov-can-have-the-bounceback-season-were-dreaming-of/",
-      "pubDate": "Wed, 30 Sep 2026 14:08:39 +0000",
-      "author": "Jacob Russell",
-      "thumbnail": "https://www.broadstreethockey.com/wp-content/uploads/sites/12/2026/09/IMG_5339-1024x839.jpeg",
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Eagles-Rams Week 4 odds preview: The Birds have no break after Monday's wakeup call",
@@ -473,16 +453,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Is Christian Dvorak good enough to help the Flyers succeed?",
-      "description": "The Philadelphia Flyers veteran center had a career year last year, but there was some of the good, bad, and ugly to his game. Is he really good enough to be a pivotal piece on a team wanting to make the playoffs?",
-      "link": "https://www.broadstreethockey.com/post/is-christian-dvorak-good-enough-to-help-the-flyers-succeed/",
-      "pubDate": "Wed, 30 Sep 2026 12:00:00 +0000",
-      "author": "Evan Watson",
-      "thumbnail": "https://www.broadstreethockey.com/wp-content/uploads/sites/12/2026/09/20251002_nyi_vs_phi-28-300x200.jpg",
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "We finally learned what makes Jalen Hurts really mad",
       "description": "It was scary when Jalen Hurts took a late hit out of bounds on Monday night against the Bears, and the Eagles QB was forced to undergo a concussion evaluation as a result. He left the field annoyed, but with urgency to get it over with, and Hurts was",
       "link": "",
@@ -497,36 +467,6 @@
       "description": "The official snap counts from the Philadelphia Eagles\u2019 Week 3 loss to the Chicago Bears are in. Let\u2019s take a look and run through some analysis. OFFENSE DEFENSE SPECIAL TEAMS DID NOT PLAY ACTIVE: Mac McWilliams INACTIVE: Hollywood Brown, Tanner McKee",
       "link": "",
       "pubDate": "2026-09-30T06:18:09-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Wednesday Morning Fly By: And we\u2019re off",
-      "description": "*Its finally here folks! Its the first day of the regular season for the Flyers! Well be getting underway later this evening, but ahead of that, the Flyers made some tweaks to their lineup in practice yesterday, giving us a bit of a hint about what w",
-      "link": "https://www.broadstreethockey.com/post/wednesday-morning-fly-by-and-were-off/",
-      "pubDate": "Wed, 30 Sep 2026 10:00:00 +0000",
-      "author": "Madeline Campbell",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Eagles sign Kenny Moore to the active roster",
-      "description": "A week after signing former Indianapolis Colts defensive back Kenny Moore to the practice squad, the Eagles are promoting the veteran to the active roster. The secondary had a really rough night against the Chicago Bears on Monday. The team is lookin",
-      "link": "",
-      "pubDate": "2026-09-29T17:05:09-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Eagles rookie report card from the Bears game",
-      "description": "The Eagles dropped to 2-1 after a flat showing on Monday Night Football against the Bears. It was a depressing loss to say the least, and there\u2019s blame to go around for the Eagles lack of juice. The team only had one rookie make any meaningful contri",
-      "link": "",
-      "pubDate": "2026-09-29T17:02:00-04:00",
       "author": "",
       "thumbnail": null,
       "team": "eagles",
@@ -561,16 +501,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-29T013136Z_1040940470_MT1USATODAY29946718_RTRMADP_3_NFL-PHILADELPH.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "NFL Week 4 odds: Eagles open as home underdogs to the Rams",
-      "description": "The Philadelphia Eagles suffered their first loss of the 2026 NFL season on Monday night. Was it just one bad game or a sign of more struggles to come? We\u2019ll see how the Birds respond to getting beat up by the Chicago Bears when they return to Lincol",
-      "link": "",
-      "pubDate": "2026-09-29T14:53:40-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Flyers projected lineup 2.0: Opening Night edition",
@@ -903,16 +833,6 @@
       "source": "Philly Sports Wire"
     },
     {
-      "title": "Joel Embiid\u2019s Best Playoff Games, Part V: Game 7 vs Boston in 2026",
-      "description": "Final Score: Sixers 109, Celtics 100 Series Score after result: Sixers win series, 4-3 Embiid\u2019s stat line: 34 points, 12 rebounds, 6 assists, 12-of-26 FGs, 1-of-4 3PTs, 1 block, +11 rating Is it a bit much to say Sixers fans were confident heading in",
-      "link": "",
-      "pubDate": "2026-09-27T09:32:54-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Week 3 non-Eagles rooting guide",
       "description": "The main event for Philadelphia Eagles fans Week 3 will be on Monday night, when the Birds will take on the Bears in Chicago. But for now, we'll lay out a rooting guide for non-Eagles games on the NFL schedule for those of you on the fence while watc",
       "link": "https://www.phillyvoice.com/week-3-non-eagles-rooting-guide-2026-cowboys-giants-commanders/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -1051,16 +971,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-23T000125Z_1882213111_MT1USATODAY29889056_RTRMADP_3_NHL-PRESEASON-.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Eagles-Bears preview: 5 things to watch",
-      "description": "The Philadelphia Eagles are 2-0, with a pair of wins over lesser opponents in the Washington Commanders and Tennessee Titans. In Week 3, they'll face their hardest opponent to date in the Chicago Bears, who beat the Eagles last season.",
-      "link": "https://www.phillyvoice.com/eagles-bears-preview-5-things-watch-2026-case-keenum-devonta-smith/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 23 Sep 2026 16:24:59 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-11-28T205519Z_1783655556_MT1USATODAY27694587_RTRMADP_3_NFL-CHICAGO-BE.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Phillies playoff rooting guide: Who to boo, who to pull for in final week",
@@ -1289,16 +1199,6 @@
       "pubDate": "Thu, 03 Sep 2026 17:32:04 +0000",
       "author": "Nick Tricome",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-02T201454Z_535055767_MT1USATODAY29721427_RTRMADP_3_MLB-PHILADELPHI.JPG",
-      "team": "phillies",
-      "source": "PhillyVoice"
-    },
-    {
-      "title": "Winners and losers: Red hot Bryce Harper, Phils starters shine in Arizona desert",
-      "description": "The biggest takeaway from this one, in addition to another argument to support their contending status, is how some of the big names performed in the series in Arizona.",
-      "link": "https://www.phillyvoice.com/winners-losers-phillies-sweephandle-diamondbacks-bryce-harper-wild-card-standings-news-analysis/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 02 Sep 2026 21:51:33 +0000",
-      "author": "Evan Macy",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-01T031749Z_1134070515_MT1USATODAY29707409_RTRMADP_3_MLB-PHILADELPH.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
     },
