@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-02T19:36:23.885473+00:00",
+  "updated": "2026-10-02T23:21:17.560559+00:00",
   "count": 171,
   "articles": [
+    {
+      "title": "Don\u2019t forget about Labaron Philon",
+      "description": "When Daryl Morey sent Jared McCain to the Oklahoma City Thunder for a draft pick package at last season\u2019s trade deadline, it was not a widely praised move. Quite the opposite, actually \u2014 amongst fans, media members and McCain\u2019s former teammates alike",
+      "link": "",
+      "pubDate": "2026-10-02T17:25:19-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
     {
       "title": "Phillies won\u2019t roster a single trade-deadline addition for Wild Card Series after not including Brooks Raley",
       "description": "ATLANTA The Phillies will take on the Atlanta Braves in Game 1 of a Wild Card Series between National League East rivals on Tuesday afternoon at Truist Park. They wont have the help of any of their trade-deadline acquisitions. Philadelphia made three",
@@ -31,16 +41,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-07T193252Z_1200231542_MT1USATODAY29761287_RTRMADP_3_MLB-ATLANTA-BR.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Aaron Donald officially OUT for Eagles-Rams in Week 4",
-      "description": "The Philadelphia Eagles offense can breathe a little easier heading into to Sundays matchup against the Rams. We learned on Friday that the Rams will be without legendary defender Aaron Donald, who will be sidelined with a back injury. Donald is some",
-      "link": "",
-      "pubDate": "2026-10-02T14:40:21-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Phillies eliminated in Wild Card Game 3 whimper",
@@ -353,6 +353,26 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "This era of the Phillies feels like it's over",
+      "description": "Sometimes the end stares you straight in the face. In 2011, it was Ryan Howard crumpled over. In 2026, it was Bryce Harper never even noticing a dropped third strike.",
+      "link": "https://www.phillyvoice.com/phillies-nl-wild-card-loss-braves-bryce-harper-ryan-howard-eras-ending-2011-2026/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 02 Oct 2026 21:46:53 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-02T021054Z_387825364_MT1USATODAY29969949_RTRMADP_3_MLB-WILDCARD-PH.JPG",
+      "team": "phillies",
+      "source": "PhillyVoice"
+    },
+    {
+      "title": "Eagles-Rams Week 4 injury report, with analysis",
+      "description": "The Philadelphia Eagles lost Dallas Goedert and Saquon Barkley during their Week 2 matchup against the Tennessee Titans, but were still able to pick up their second win of the season. Goedert will miss some time, but Barkley is practicing already.",
+      "link": "https://www.phillyvoice.com/eagles-rams-week-4-injury-report-analysis-myles-garrett-puka-nacua/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 02 Oct 2026 20:47:57 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-01-19T205940Z_515475535_MT1USATODAY25227425_RTRMADP_3_NFL-NFC-DIVISIO.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
       "title": "Rick Tocchet has \u2018no idea\u2019 why the Flyers are off to a sloppy start",
       "description": "The Philadelphia Flyers managed to get a point in the second half of a back-to-back on Thursday night in New Jersey. They were lucky to have Joseph Woll in net, as the goalie helped the Flyers steal a point on the road. It was a better effort on Thur",
       "link": "https://www.broadstreethockey.com/post/rick-tocchet-has-no-idea-why-the-flyers-are-off-to-a-sloppy-start/",
@@ -361,6 +381,16 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Sixers training camp: Nick Nurse wants to move Joel Embiid 'around the floor,' rookie Labaron Philon Jr. standing out",
+      "description": "Adding more variety to Joel Embiid's offensive approach could make life easier for new teammates LeBron James and Jaylen Brown, Sixers head coach Nick Nurse acknowledged on Friday.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-training-camp-joel-embiid-interview-press-conference-full-nba-lebron-james-jaylen-brown/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 02 Oct 2026 19:34:46 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/092826_SixersMediaDay_ColleenClaggett-5558.jpg",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
     },
     {
       "title": "It's a long season, but the Flyers already have reasons to worry",
@@ -459,16 +489,6 @@
       "pubDate": "Fri, 02 Oct 2026 11:18:29 +0000",
       "author": "Jimmy Kempski",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-09-21T175238Z_87533710_MT1USATODAY27138089_RTRMADP_3_NFL-LOS-ANGELES-.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Eagles-Rams Week 4 injury report, with analysis",
-      "description": "The Philadelphia Eagles lost Dallas Goedert and Saquon Barkley during their Week 2 matchup against the Tennessee Titans, but were still able to pick up their second win of the season. Goedert will miss some time, but Barkley is practicing already.",
-      "link": "https://www.phillyvoice.com/eagles-rams-week-4-injury-report-analysis-myles-garrett-puka-nacua/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Fri, 02 Oct 2026 10:45:37 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-01-19T205940Z_515475535_MT1USATODAY25227425_RTRMADP_3_NFL-NFC-DIVISIO.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
     },
@@ -651,6 +671,16 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "PHL Sports Nation"
+    },
+    {
+      "title": "Eagles News: Jalen Carter is playing through a hairline fracture in his wrist",
+      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! Jalen Carter playing through this injury doesn\u2019t really seem tenable? Shutting him down sure wouldn\u2019t be ideal, especially in the short-term. But they really n",
+      "link": "",
+      "pubDate": "2026-10-01T11:19:54-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Fantasy football start/sit advice: For now, Jalen Hurts isn't a great option",
@@ -1061,16 +1091,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-27T220701Z_1718200469_MT1USATODAY29936177_RTRMADP_3_MLB-TAMPA-BAY-.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "More good Sixers news \u2014 the 2001 black jerseys are back for 2026-27",
-      "description": "In what can only be described as a no-brainer, the Sixers will bring back their Allen Iverson era black jerseys for the 2026-27 season. According to Nike/the NBA\u2019s uniform rules, the Sixers technically could not wear the black jerseys this season. Yo",
-      "link": "",
-      "pubDate": "2026-09-28T10:00:48-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Sixers' black \"Hardwood Classic\" uniforms returning for 2026-27 season",
@@ -1503,16 +1523,6 @@
       "source": "PhillyVoice Flyers"
     },
     {
-      "title": "Sixers player preview: Going into year three, pressure mounting for Adem Bona",
-      "description": "For two years, Adem Bona has displayed flashes of promise and made dumbfounding miscues. Now, the picture must start to come together.",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-adem-bona-stats-contract-interview-highlights-career-nba-rumors-roster-press-conference/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 15 Sep 2026 12:57:22 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/111725_SixersvCeltics_ColleenClaggett-8846.jpg",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
       "title": "As Phillies chase Cubs, is home field advantage all that important?",
       "description": "It's conventional wisdom \u2014 you want to play at home. Especially in the postseason.",
       "link": "https://www.phillyvoice.com/phillies-cubs-home-field-advantage-wild-card-road-games-stats-analysis-playoff-race-standings/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -1539,16 +1549,6 @@
       "pubDate": "Thu, 10 Sep 2026 20:10:40 +0000",
       "author": "Geoff Mosher",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-10T015515Z_746898412_MT1USATODAY29776690_RTRMADP_3_MLB-HOUSTON-AST.JPG",
-      "team": "phillies",
-      "source": "PhillyVoice"
-    },
-    {
-      "title": "10 awards from Phillies' epic four-game split with Braves",
-      "description": "It was the biggest regular season series of the year in South Philly, and it didn't disappoint.",
-      "link": "https://www.phillyvoice.com/10-awards-phillies-braves-series-nl-east-wild-card-race-news-analysis-jesus-luzardo-kyle-schwarber-standings/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 07 Sep 2026 20:54:52 +0000",
-      "author": "Evan Macy",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-07T174747Z_616510012_MT1USATODAY29761010_RTRMADP_3_MLB-ATLANTA-BRA.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
     },
