@@ -1,22 +1,9 @@
 {
-  "updated": "2026-10-01T21:27:23.762921+00:00",
+  "updated": "2026-10-02T01:08:37.130326+00:00",
   "scores": {
     "phillies": {
       "recent": [],
-      "upcoming": [
-        {
-          "date": "10/2",
-          "home": "ATL",
-          "away": "PHI",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "MLB",
-          "name": "Philadelphia Phillies at Atlanta Braves",
-          "shortName": "PHI @ ATL",
-          "time": "8:00 PM ET",
-          "status": "scheduled"
-        }
-      ]
+      "upcoming": []
     },
     "eagles": {
       "recent": [],
