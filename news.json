@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-02T01:08:37.130326+00:00",
-  "count": 136,
+  "updated": "2026-10-02T07:37:46.526586+00:00",
+  "count": 146,
   "articles": [
     {
       "title": "Phillies panic meter: Split with Nationals raises reasons for worry",
@@ -21,6 +21,26 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-07T193252Z_1200231542_MT1USATODAY29761287_RTRMADP_3_MLB-ATLANTA-BR.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "Flyers swap forward prospects in trade with the Kraken",
+      "description": "To all of the fans yelling at the Flyers to do something at Wednesday nights game, Danny Briere heard you. Well, maybe. The Philadelphia Flyers announced a swap of two AHL forwards on Thursday afternoon, sending Devin Kaplan to the Seattle Kraken for",
+      "link": "https://www.broadstreethockey.com/post/flyers-swap-forward-prospects-in-trade-with-the-kraken/",
+      "pubDate": "Thu, 01 Oct 2026 20:57:22 +0000",
+      "author": "Ryan Gilbert",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "The Flyers just got a brutal reminder that last season means nothing now",
+      "description": "The Philadelphia Flyers started off with a bang last night. Sadly, the only fireworks were during the player introductions before the opening faceoff. After looking marginally okay in the opening shifts, and a heavy hit from Rasmus Ristolainen on Sid",
+      "link": "https://www.broadstreethockey.com/post/the-flyers-just-got-a-brutal-reminder-that-last-season-means-nothing-now/",
+      "pubDate": "Thu, 01 Oct 2026 17:16:56 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "5 thoughts about the Phillies: Aaron Nola's start, Alec Bohm's bomb and making history",
@@ -101,16 +121,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Why Jaylen Brown is the perfect fit for Philly",
-      "description": "Since being traded to the Philadelphia 76ers in July, Jaylen Brown has embarked on a global series of side quests. In August, Brown faced his fear of heights by skydiving over the Pyramids of Giza in Egypt. In early September, Brown stepped in the ri",
-      "link": "",
-      "pubDate": "2026-09-27T12:00:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Breakout Phillies prospect Bryan Rincon receives high praise that'll make Mets fans nervous",
@@ -263,6 +273,26 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Instant observations: Phillies pitching staff a total mess in season-ending Game 3 loss",
+      "description": "It was said by many this season that the Phillies were a team built for the postseason. We now have definitive proof: they're not.",
+      "link": "https://www.phillyvoice.com/instant-observations-phillies-braves-game-3-aaron-nola-zack-wheeler-end-season-don-mattingly/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 02 Oct 2026 03:09:18 +0000",
+      "author": "Evan Macy",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-02T004741Z_124123100_MT1USATODAY29969126_RTRMADP_3_MLB-WILDCARD-PH.JPG",
+      "team": "phillies",
+      "source": "PhillyVoice"
+    },
+    {
+      "title": "Takeaways: Flyers close out back-to-back with 3-2 overtime loss to Devils",
+      "description": "The Flyers closed out their season opening back-to-back on the road against the Devils, and while they were hoping to find a productive response to a gutting loss to the Penguins to open the season, the Flyers couldnt push their game enough to claw t",
+      "link": "https://www.broadstreethockey.com/post/takeaways-flyers-close-out-back-to-back-with-3-2-overtime-loss-to-devils/",
+      "pubDate": "Fri, 02 Oct 2026 02:29:26 +0000",
+      "author": "Madeline Campbell",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
       "title": "DeVonta Smith injury: Eagles wide receiver could miss multiple games [UPDATES]",
       "description": "The Philadelphia Eagles lost in Week 3 and now they\u2019re dealing with some not so great injury news ahead of their Week 4 game. Leading receiver DeVonta Smith is \u201clegitimately questionable\u201d to play against the Los Angeles Rams this weekend due to his h",
       "link": "",
@@ -283,6 +313,16 @@
       "source": "Bleeding Green Nation"
     },
     {
+      "title": "\u2018Sacrifice\u2019 is a good thing, actually",
+      "description": "Jabari Walker is unlikely to be in the Sixers\u2019 rotation to start the 2026-27 season. As a guy who had to work his way up from a two-way spot to a standard deal last season, he understands his role is simply to be ready, no matter what the team asks o",
+      "link": "",
+      "pubDate": "2026-10-01T16:38:46-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
       "title": "Sixers training camp: Jaylen Brown leaning on Tyrese Maxey; LeBron James' role coming into focus",
       "description": "As Jaylen Brown transitions, he is both instructing and listening to new teammates. Meanwhile, Sixers head coach Nick Nurse shed some light on LeBron James' potential role Thursday.",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-practice-training-camp-jaylen-brown-lebron-james-tyrese-maxey-nick-nurse-ariel-hukporti-nba/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -291,6 +331,36 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/092826_SixersMediaDay_ColleenClaggett-5781.jpg",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Flyers @ Devils: How to watch, lineups, and gamethread",
+      "description": "The Philadelphia Flyers are playing hockey again (threatening). Just 24 hours after getting embarrassed so badly that you almost have to laugh about it, they are traveling up to New Jersey to face the Devils in a season-opening back-to-back. It is th",
+      "link": "https://www.broadstreethockey.com/post/flyers-devils-how-to-watch-lineups-and-gamethread-3/",
+      "pubDate": "Thu, 01 Oct 2026 20:00:00 +0000",
+      "author": "Thomas Williams",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Tacko Fall to be re-evaluated in two weeks with hip strain",
+      "description": "Injuries at the center position are nothing new for the Philadelphia 76ers and the team is already dealing with a couple with the 2026 preseason right around the corner. Adem Bona is currently out with a foot sprain suffered while with Turkey for FIB",
+      "link": "",
+      "pubDate": "2026-10-01T14:56:02-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "The Flyers proved their biggest fear was justified on opening night",
+      "description": "Complacency (noun): a calm sense of well-being and security: the quality or state of being satisfied. That was one of the buzzwords used time and time again by the Philadelphia Flyers in the offseason and training camp. From the top down, general man",
+      "link": "https://www.broadstreethockey.com/post/the-flyers-proved-their-biggest-fear-was-justified-on-opening-night/",
+      "pubDate": "Thu, 01 Oct 2026 18:36:09 +0000",
+      "author": "Ryan Gilbert",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Eagles-Rams Game Preview: 5 questions and answers with the Week 4 enemy",
@@ -363,6 +433,16 @@
       "source": "PhillyVoice Eagles"
     },
     {
+      "title": "Thursday Morning Fly By: Welp",
+      "description": "*Hey, so there was this Philadelphia Flyers season opener that happened last night. Oh, how did it go? Well, the thing about that is that you really shouldnt even pay attention to what happened in the season opener. Because it doesnt really matter, r",
+      "link": "https://www.broadstreethockey.com/post/thursday-morning-fly-by-welp-2/",
+      "pubDate": "Thu, 01 Oct 2026 10:00:00 +0000",
+      "author": "Thomas Williams",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
       "title": "Flyers blown out by Penguins in dud of a season opener",
       "description": "With the most hype behind the Flyers in years, they fell completely flat to open the new season in a 7-0 pummeling from the rival Pens.",
       "link": "https://www.phillyvoice.com/flyers-season-opener-dud-penguins-trevor-zegras-noel-acciari-score-highlights-nhl/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -371,6 +451,26 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-01T012613Z_1303580887_MT1USATODAY29962783_RTRMADP_3_NHL-PITTSBURGH.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "Rick Tocchet calls out Flyers after disastrous season opener",
+      "description": "The Philadelphia Flyers were hoping to start their season off with a bang, to prove to everyone that last year wasnt an anomaly and they could very well be destined for back-to-back playoff appearances. Unfortunately, they came out with a whimper of ",
+      "link": "https://www.broadstreethockey.com/post/rick-tocchet-calls-out-flyers-after-disastrous-season-opener/",
+      "pubDate": "Thu, 01 Oct 2026 04:36:10 +0000",
+      "author": "Thomas Williams",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Takeaways: Flyers sleepwalk through season opener, trounced by Penguins 7-0",
+      "description": "If Philadelphia read too much of their own press over the summer, and the hype that was to begin 2026-27, the Pittsburgh Penguins brought them back down to earth. In a hurry. The Pens dominated the Flyers, resulting in an ugly, almost tedious 7-0 los",
+      "link": "https://www.broadstreethockey.com/post/takeaways-flyers-sleepwalk-through-season-opener-trounced-by-penguins-7-0/",
+      "pubDate": "Thu, 01 Oct 2026 02:22:21 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Eagles-Rams Week 4 injury report, with analysis",
@@ -393,6 +493,16 @@
       "source": "Bleeding Green Nation"
     },
     {
+      "title": "3 centers the Flyers could target after the Leo Carlsson saga",
+      "description": "For six days in July, Danny Briere held the league hostage. On July 3, the Flyers tendered Leo Carlsson a five-year, $90 million offer sheet whose $18 million cap hit edged past Kirill Kaprizovs $17 million as the richest in NHL history, with roughly",
+      "link": "https://www.broadstreethockey.com/post/3-centers-the-flyers-could-target-after-the-leo-carlsson-saga/",
+      "pubDate": "Wed, 30 Sep 2026 23:00:00 +0000",
+      "author": "BSH Staff",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
       "title": "Eagles-Bears Film Review: Rough game for Vic Fangio",
       "description": "The Eagles\u2019 defense had a rough night against the Bears. Ben Johnson had an excellent read on what Vic Fangio wanted to do, and he kept finding ways to turn the Eagles\u2019 aggression against them. The result was a 27-7 loss in which Case Keenum complete",
       "link": "",
@@ -401,6 +511,16 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Flyers vs. Penguins: How to watch, lineups, and gamethread",
+      "description": "And were off! After an abbreviated, but still somehow too long, run through the preseason, the regular season is finally set to kick off tonight for the Flyers. Its a big matchup on deck, a playoff rematch against the Penguins, and its sure to be an ",
+      "link": "https://www.broadstreethockey.com/post/flyers-vs-penguins-how-to-watch-lineups-and-gamethread-3/",
+      "pubDate": "Wed, 30 Sep 2026 20:30:00 +0000",
+      "author": "Madeline Campbell",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "'Everything's zeroes again' for the Flyers as new season begins",
@@ -741,16 +861,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/091326_EaglesCommanders_ColleenClaggett-8905.jpg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Joel Embiid has both never mattered less and more to the Sixers\u2019 success",
-      "description": "For the first time in his NBA career, Joel Embiid is far down in the pecking order in terms of interesting narratives for this Sixers franchise. You have LeBron James taking a minimum deal to seek a ring in Philadelphia of all places, where we haven\u2019",
-      "link": "",
-      "pubDate": "2026-09-27T15:00:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Rick Tocchet explains why the Flyers sent down Cole Knuble and Jett Luchanko",
@@ -1191,16 +1301,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-25T235944Z_815811748_MT1USATODAY28813692_RTRMADP_3_NHL-STANLEY-CUP.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Andrew Painter finally arrives, and just in time for the Phillies",
-      "description": "Painter tossed seven shutout innings in Arizona on Wednesday. Finally, he's looking like the future ace many hoped he would be.",
-      "link": "https://www.phillyvoice.com/phillies-andrew-painter-arrives-shutout-innings-mlb-postseason-race/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Thu, 03 Sep 2026 17:32:04 +0000",
-      "author": "Nick Tricome",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-02T201454Z_535055767_MT1USATODAY29721427_RTRMADP_3_MLB-PHILADELPHI.JPG",
-      "team": "phillies",
-      "source": "PhillyVoice"
     },
     {
       "title": "Flyers sign Hunter McDonald to two-year deal, clear RFA deck for the summer",
