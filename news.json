@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-03T08:37:50.452425+00:00",
-  "count": 147,
+  "updated": "2026-10-03T14:00:21.125821+00:00",
+  "count": 146,
   "articles": [
+    {
+      "title": "4 Flyers who could reach major career milestones this season",
+      "description": "The season is two games in, and already has had more than enough drama. First there was Denver Barkey leaving the opening exhibition game against Washington, only to return to practice in a non-contact yellow jersey a few days later. Hes on injured r",
+      "link": "https://www.broadstreethockey.com/post/4-flyers-who-could-reach-major-career-milestones-this-season/",
+      "pubDate": "Sat, 03 Oct 2026 12:00:00 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
     {
       "title": "Don\u2019t forget about Labaron Philon",
       "description": "When Daryl Morey sent Jared McCain to the Oklahoma City Thunder for a draft pick package at last season\u2019s trade deadline, it was not a widely praised move. Quite the opposite, actually \u2014 amongst fans, media members and McCain\u2019s former teammates alike",
@@ -281,6 +291,16 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "SportsTalk Philly"
+    },
+    {
+      "title": "Five college prospects who could interest the Eagles in the 2027 NFL Draft",
+      "description": "During the college football season each year, as long as you're watching the games, we point out five players each week to keep an eye on who make logical sense for the Philadelphia Eagles in the following year's NFL Draft.",
+      "link": "https://www.phillyvoice.com/five-college-prospects-eagles-2027-nfl-draft-kade-pieper-tae-johnson-duke-scott-kenyatta-jackson-ashton-hampton/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sat, 03 Oct 2026 12:42:53 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-18T012446Z_1581910328_MT1USATODAY29844064_RTRMADP_3_OHIO-STATE-BUC.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
     },
     {
       "title": "This era of the Phillies feels like it's over",
@@ -581,16 +601,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Thursday Morning Fly By: Welp",
-      "description": "*Hey, so there was this Philadelphia Flyers season opener that happened last night. Oh, how did it go? Well, the thing about that is that you really shouldnt even pay attention to what happened in the season opener. Because it doesnt really matter, r",
-      "link": "https://www.broadstreethockey.com/post/thursday-morning-fly-by-welp-2/",
-      "pubDate": "Thu, 01 Oct 2026 10:00:00 +0000",
-      "author": "Thomas Williams",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Flyers blown out by Penguins in dud of a season opener",
@@ -1023,16 +1033,6 @@
       "source": "Philly Sports Wire"
     },
     {
-      "title": "Five college prospects who could interest the Eagles in the 2027 NFL Draft",
-      "description": "During the college football season each year, as long as you're watching the games, we point out five players each week to keep an eye on who make logical sense for the Philadelphia Eagles in the following year's NFL Draft.",
-      "link": "https://www.phillyvoice.com/five-college-prospects-eagles-2027-nfl-draft-cam-coleman-yhonzae-pierre-lanorris-sellers-iapani-laloulu-ty-benefield/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sat, 26 Sep 2026 14:47:29 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-05T195746Z_1956228981_MT1USATODAY29748872_RTRMADP_3_NCAA-FOOTBALL-.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
       "title": "Bill Giles, former Phillies owner and CEO, dies at 92",
       "description": "After starting off in the team's business department, Bill Giles became Phillies vice president and later CEO.",
       "link": "https://www.phillyvoice.com/bill-giles-former-phillies-owner-and-ceo-dies/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -1071,16 +1071,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-29T002558Z_1977152444_MT1USATODAY28833365_RTRMADP_3_NBA-PLAYOFFS-P.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Know your enemy: Bears run game is masterful blend of scheme, personnel usage, athleticism and math advantages",
-      "description": "As the Eagles found out last year, the Bears are a prolific run team \u2013 and their ground game has an added feature this season.",
-      "link": "https://www.phillyvoice.com/know-your-enemy-bears-eagles-run-game-dandre-swift-ben-johnson-matchup-nfl-leaders/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Fri, 25 Sep 2026 16:20:28 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-11-28T233226Z_279122592_MT1USATODAY27695905_RTRMADP_3_NFL-CHICAGO-BEA.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "LeBron James explains decision to join Sixers, outlines goals for season ahead on 'Mind the Game' podcast",
