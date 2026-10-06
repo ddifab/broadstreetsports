@@ -1,17 +1,7 @@
 {
-  "updated": "2026-10-06T06:56:43.905122+00:00",
-  "count": 176,
+  "updated": "2026-10-06T13:48:31.863085+00:00",
+  "count": 150,
   "articles": [
-    {
-      "title": "Don\u2019t forget about Labaron Philon",
-      "description": "When Daryl Morey sent Jared McCain to the Oklahoma City Thunder for a draft pick package at last season\u2019s trade deadline, it was not a widely praised move. Quite the opposite, actually \u2014 amongst fans, media members and McCain\u2019s former teammates alike",
-      "link": "",
-      "pubDate": "2026-10-02T17:25:19-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
     {
       "title": "Phillies panic meter: Split with Nationals raises reasons for worry",
       "description": "Philly is fighting tooth and nail in a crowded NL Wild Card hunt and every win inches them closer to clinching \u2014 and perhaps to leapfrogging the Cubs for a home series to start their postseason run.",
@@ -21,6 +11,26 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-16T014114Z_158173804_MT1USATODAY29829106_RTRMADP_3_MLB-PHILADELPHI.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
+    },
+    {
+      "title": "Eagles-Rams Film Review: Nick Sirianni and Sean Mannion need to change something substantial",
+      "description": "I\u2019ve gotta be honest with everyone: I\u2019m angry this week. I try to stay calm and see the bigger picture, but I\u2019m struggling. Mostly because I feel like I\u2019m writing the same article again. Last week, I wrote that the Eagles couldn\u2019t keep running an und",
+      "link": "",
+      "pubDate": "2026-10-06T08:52:40-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Sixers mailbag: Will Labaron Philon Jr. be traded before deadline?",
+      "description": "How likely is Labaron Philon Jr. to be traded during his rookie season? Can the Sixers find a backup center upgrade without a trade? Addressing your latest questions in this week's mailbag.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-labaron-philon-jr-nba-trade-rumors-buyout-brook-lopez-eastern-conference/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 06 Oct 2026 12:51:45 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/092826_SixersMediaDay_ColleenClaggett-6222.jpg",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
     },
     {
       "title": "Elliotte Friedman links the Flyers to a potential Simon Edvinsson trade",
@@ -63,16 +73,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Eagles News: \u201cThe Nick Sirianni hot seat is real, or at least it should be\u201d",
-      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! There\u2019s plenty of blame to share but the head coach is lacking answers and that\u2019s a pretty big problem. The team isn\u2019t that far off from 0-4; they narrowly won",
-      "link": "",
-      "pubDate": "2026-10-05T09:43:40-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "The Eagles blew it on 4th-and-goal, but not because they went for it",
       "description": "Running a play instead of taking the points in the fourth quarter wasn't the backfire for the Eagles on Sunday against the Rams. Not punching it in was.",
       "link": "https://www.phillyvoice.com/eagles-rams-fourth-down-play-call-field-goal-nick-sirianni-jalen-hurts-comeback-nfl/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -103,46 +103,6 @@
       "source": "Philly Sports Wire"
     },
     {
-      "title": "There\u2019s \u2018no question\u2019 that Phillies\u2019 late-season struggles hurt their chances in Wild Card Series",
-      "description": "ATLANTA Four days before Zack Wheeler trotted out of the left-field bullpen at Truist Park, he toed the rubber on a rainy Sunday afternoon at Citizens Bank Park. The Phillies, struggling late, had lost four straight. Somehow, they had not yet sealed ",
-      "link": "https://www.philliesnation.com/2026/10/theres-no-question-that-phillies-late-season-struggles-hurt-their-chances-in-wild-card-series/",
-      "pubDate": "Sat, 03 Oct 2026 10:30:00 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
-      "title": "Phillies eliminated in Wild Card Game 3 whimper",
-      "description": "For about 27 hours, the Phillies magical Game 2 win over the Braves in the National League Wild Card Series, forcing a decisive Game 3, seemed like a spark. And then that decisive game got under way. The Phillies, who tabbed Aaron Nola as the starter",
-      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-mlb-postseason-nl-wild-card-series-atlanta-braves-game-3-2026-aaron-nola-zack-wheeler-michael-harris-ii/",
-      "pubDate": "Fri, 02 Oct 2026 03:02:43 +0000",
-      "author": "Nathan Ackerman",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
-      "title": "Who could pitch for the Phillies in Game 3?",
-      "description": "ATLANTA \u2013 In a winner-take-all Game 3 of the National League wild card series against the Atlanta Braves, the Phillies have announced Aaron Nola as their starting pitcher. After that, it\u2019s \u201call hands on deck,\u201d per interim manager Don Mattingly. You c",
-      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-zack-wheeler-aaron-nola-game-3-pitching-bullpen-jesus-luzardo-october-1-2026/",
-      "pubDate": "Thu, 01 Oct 2026 22:35:06 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
-      "title": "Edmundo Sosa returns to Phillies lineup for must-win Game 3 following injury scare: \u2018It means a lot to us\u2019",
-      "description": "ATLANTA Phillies infielder Edmundo Sosa will be back in the lineup for a must-win Game 3 of the National League Wild Card Series on Thursday night at Truist Park following an injury scare in Game 2. The right-handed hitter, who tweaked his thigh in t",
-      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-injury-news-edmundo-sosa-update-returns-to-lineup-scare-thigh-third-base-wild-card-series-game-3-atlanta-braves-mlb-postseason/",
-      "pubDate": "Thu, 01 Oct 2026 22:30:59 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
       "title": "5 thoughts about the Phillies: Aaron Nola's start, Alec Bohm's bomb and making history",
       "description": "It feels sort of unexpected, that the Phillies are not only alive, but have some momentum with the third and final game of the NL Wild Card Series in Atlanta set for Thursday night.",
       "link": "https://www.phillyvoice.com/5-thoughts-phillies-aaron-nola-alec-bohm-game-3-wild-card-braves-start-time-news-analysis/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -153,16 +113,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "Phillies\u2019 Game 3 in Atlanta flexed to nighttime as standalone Wild Card Series matchup",
-      "description": "ATLANTA Game 3 of the National League Wild Card Series between the Phillies and Braves will take place under the lights at Truist Park. The do-or-die matchup, which had been tentatively scheduled for 2 p.m., will be flexed to 8 p.m. Eastern on Thursd",
-      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-wild-card-game-3-schedule-atlanta-braves-8-pm-night-time-first-pitch-schedule-news-mlb-postseason-playoffs/",
-      "pubDate": "Thu, 01 Oct 2026 05:04:35 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
       "title": "Instant observations: Trio of late solo shots revive Phillies season, force Game 3 vs. Braves",
       "description": "After what looked like another managerial screw up of epic proportions, the Phillies clawed back to a win, 4-3, over the Braves in Atlanta Wednesday afternoon \u2014 keeping them alive and setting up a winner-take-all Game 3 Thursday in the NL Wild Card S",
       "link": "https://www.phillyvoice.com/instant-observations-phillies-braves-game-2-wild-card-cris-sanchez-news-analysis-game-3-bryce-harper/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -171,36 +121,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-30T204908Z_1828098515_MT1USATODAY29960922_RTRMADP_3_MLB-WILDCARD-P.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Alec Bohm, Andrew Painter help Phillies force winner-take-all Game 3",
-      "description": "The Phillies got huge contributions from Alec Bohm and Andrew Painter in Game 2 of the Wild Card Series against the Braves.",
-      "link": "https://www.philliesnation.com/2026/09/philadelphia-phillies-alec-bohm-andrew-painter-atlanta-braves-wild-card-series/",
-      "pubDate": "Wed, 30 Sep 2026 21:36:42 +0000",
-      "author": "Bailey Digh",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
-      "title": "With options scarce, Phillies chose to sink or swim with Jhoan Duran in Game 1: \u2018You live with this one\u2019",
-      "description": "ATLANTA The Phillies bullpen is the Phillies bullpen, which means the club has to make some decisions and sacrifices in the postseason. So with a one-run lead in the seventh in Game 1 of the National League Wild Card Series, interim manager Don Matti",
-      "link": "https://www.philliesnation.com/2026/09/philadelphia-phillies-mlb-postseason-nl-wild-card-series-game-1-atlanta-braves-jhoan-duran-don-mattingly-austin-riley-home-run-bullpen/",
-      "pubDate": "Wed, 30 Sep 2026 00:10:38 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
-      "title": "Phillies\u2019 Jhoan Duran gamble doesn\u2019t pay off in Game 1 against Braves",
-      "description": "Don Mattingly turned to Jhoan Duran way earlier than expected in Game 1 of the Phillies-Braves Wild Card Series.",
-      "link": "https://www.philliesnation.com/2026/09/philadelphia-phillies-jhoan-duran-austin-riley-don-mattingly-atlanta-braves-wild-card-series/",
-      "pubDate": "Tue, 29 Sep 2026 20:59:04 +0000",
-      "author": "Bailey Digh",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
     },
     {
       "title": "Luis Arr\u00e1ez is not on the Phillies' NL Wild Card roster",
@@ -303,16 +223,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Sixers player preview: Will Anfernee Simons become an elite bench guard?",
-      "description": "For several years, Anfernee Simons has been one of the NBA's elite three-point shooters. What else can he bring to the Sixers?",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-anfernee-simons-stats-contract-interview-highlights-career-nba-rumors-roster-press-conference/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 22 Sep 2026 12:51:19 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-01-11T033712Z_504907691_MT1USATODAY27981746_RTRMADP_3_NBA-SAN-ANTONIO.JPG",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
       "title": "5 Phillies thoughts: The state of the Wild Card race, some postseason bullpen ideas",
       "description": "A lot is up in the air and this week the final six games of the regular season offer a ton for the Phillies to play for.",
       "link": "https://www.phillyvoice.com/5-phillies-thoughts-bullpen-starters-andrew-painter-jesus-luzardo-nl-wild-card-standings-odds-clinch-magic-number/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -361,6 +271,66 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "SportsTalk Philly"
+    },
+    {
+      "title": "Eagles-Jaguars Week 5 odds preview: London won't make life any easier for the Birds",
+      "description": "The Eagles are steep betting underdogs against the Jaguars by as many as six points, which is something they haven't been in a long, long time.",
+      "link": "https://www.phillyvoice.com/eagles-jaguars-week-5-betting-odds-money-lines-points-spread-jalen-hurts-trevor-lawrence-london/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 06 Oct 2026 13:01:12 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-04T115027Z_1692207669_MT1USATODAY29995256_RTRMADP_3_NFL-LONDON-GAM.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Jaylen Brown\u2019s scoring burst was a much needed positive moment",
+      "description": "The Sixers\u2019 season started like way too many have in the past, with an injury to a big man. Five minutes into their first preseason game of 2026-27, Ariel Hukporti went down with a non-contact leg injury, putting both backup centers on this roster on",
+      "link": "",
+      "pubDate": "2026-10-06T09:00:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "After one exhibition, Sixers could lose Ariel Hukporti to season-ending injury",
+      "description": "Sixers head coach Nick Nurse said he gave Ariel Hukporti \"a big hug\" on Monday night. \"He's been a joy to coach in the short time he's been here,\" Nurse said.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-ariel-hukporti-season-ending-injury-achilles-video-jabari-walker-jaylen-brown-nick-nurse-nba/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 06 Oct 2026 12:51:18 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-05T234129Z_1206733898_MT1USATODAY30007669_RTRMADP_3_NBA-PRESEASON-.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Eagles News: Ben Solak says Philadelphia\u2019s offense is \u201cunrecoverable\u201d",
+      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! Do you have hope the Eagles can turn things around on offense? Or do you think they might just be bad? Getting healthy down the line will help. But it seems li",
+      "link": "",
+      "pubDate": "2026-10-06T08:37:03-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Brown, Edgecombe, Walker shine in highlights from the Sixers\u2019 preseason opener",
+      "description": "The new-look Philadelphia 76ers kicked off their preseason Monday night hosting the New York Knicks. Well\u2026 sort of the new-look Sixers. As there tends to be for preseason, there were a number of absences, some more major than others. Joel Embiid, LeB",
+      "link": "",
+      "pubDate": "2026-10-06T07:00:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Tuesday Morning Fly By: Another brutal loss",
+      "description": "*Well, the Philadelphia Flyers once again lost a hockey game. And once again they lost one where they were heavily outplayed in just about every single category. The Tampa Bay Lightning hosted our Flyers to start this road trip and proceeded to beat ",
+      "link": "https://www.broadstreethockey.com/post/tuesday-morning-fly-by-another-brutal-loss/",
+      "pubDate": "Tue, 06 Oct 2026 10:14:00 +0000",
+      "author": "Thomas Williams",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Report: Sixers center Ariel Hukporti out for season with torn Achilles",
@@ -513,26 +483,6 @@
       "source": "Bleeding Green Nation"
     },
     {
-      "title": "You Can Appreciate Nick Sirianni and Simultaneously Understand It\u2019s His Time To Go",
-      "description": "The Eagles look horrible. They started two-and-oh, and we convinced ourselves that a win is a win. Yes, stacking wins [] The post You Can Appreciate Nick Sirianni and Simultaneously Understand Its His Time To Go appeared first on Philadelphia Sports ",
-      "link": "https://phlsportsnation.com/2026/10/05/you-can-appreciate-nick-sirianni-and-simultaneously-understand-its-his-time-to-go/",
-      "pubDate": "Mon, 05 Oct 2026 21:31:12 +0000",
-      "author": "Jonah Casel",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Something Alex Cora should consider before becoming Phillies manager",
-      "description": "After rejecting the job in late April, Alex Cora could very well be the next manager of the Phillies. Cora will likely get everything he is looking for from the Phillies: a big contract, the chance to work again with his mentor Dave Dombrowski and po",
-      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-alex-cora-dave-dombrowski-manager-boston-red-sox-mlb-october-5-2026/",
-      "pubDate": "Mon, 05 Oct 2026 21:26:17 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
       "title": "Jonathan Greenard reportedly avoided major injury",
       "description": "As the list of injured Eagles players continues to grow, the team did get some good news about Jonathan Greenard, who left Sunday\u2019s game against the Rams with an ankle injury. The edge rusher is considered day-to-day, and isn\u2019t expected to miss long-",
       "link": "",
@@ -643,26 +593,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "RECAP: Depleted and Disappointed\u2014 Rams Beat Eagles in South Philly, 24\u201320",
-      "description": "The Eagles began the afternoon without Zach Baun, Landon Dickerson, DeVonta Smith, Lane Johnson, Fred Johnson, Hollywood Brown, Marcus Epps, [] The post RECAP: Depleted and Disappointed\u2014 Rams Beat Eagles in South Philly, 24\u201320 appeared first on Phila",
-      "link": "https://phlsportsnation.com/2026/10/05/recap-depleted-and-disappointed-the-rams-beat-eagles-24-20-in-south-philly/",
-      "pubDate": "Mon, 05 Oct 2026 12:19:52 +0000",
-      "author": "Michael Thomas Leibrandt",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
-    },
-    {
-      "title": "RECAP: Temple Gets Back in the Win Column Over South Florida, 17-13",
-      "description": "Temple Football can be relevant again. We saw it in the late 1970s, when they ranked in the top 20 [] The post RECAP: Temple Gets Back in the Win Column Over South Florida, 17-13 appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/10/05/recap-temple-gets-back-in-the-win-column-17-13-over-south-florida/",
-      "pubDate": "Mon, 05 Oct 2026 12:04:04 +0000",
-      "author": "Michael Thomas Leibrandt",
-      "thumbnail": null,
-      "team": "general",
-      "source": "PHL Sports Nation"
-    },
-    {
       "title": "Monday Morning Fly By: This time, with gusto",
       "description": "*The Flyers have found themselves off to a pretty brutal start to the season, and everyone is kind of looking around for answers. [BSH] *Truly, there&#x2019;s no shortage of theories for why this is all going so wrong for them so far. [PHLY] *They&#x",
       "link": "https://www.broadstreethockey.com/post/monday-morning-fly-by-this-time-with-gusto/",
@@ -671,16 +601,6 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Eagles vs. Rams: 9 winners, 9 losers, and 4 IDKs",
-      "description": "The Philadelphia Eagles didn\u2019t really deserve to beat the Los Angeles Rams on Sunday afternoon. The Birds were outgained by 243 yards. That\u2019s typically not a recipe for success. Neither is failing to convert a single third down despite having 12 chan",
-      "link": "",
-      "pubDate": "2026-10-05T03:31:52-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "What\u2019s working and what isn\u2019t for the Flyers so far",
@@ -813,16 +733,6 @@
       "source": "Philly Sports Wire"
     },
     {
-      "title": "Takeaways: Third time is not the charm as Flyers lose to Hurricanes 3-2 in overtime",
-      "description": "The Flyers are still looking for their first win of the season after losing 3-2 in overtime to Carolina Saturday night at Xfinity Mobile Arena. The Canes outshot the Flyers badly, while Philadelphia remains without a power play goal in eight chances ",
-      "link": "https://www.broadstreethockey.com/post/takeaways-third-time-is-not-the-charm-as-flyers-lose-to-carolina-3-2-in-overtime/",
-      "pubDate": "Sun, 04 Oct 2026 01:59:10 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "Takeaways: Third time is not the charm as Flyers lose to Carolina 3-2 in overtime",
       "description": "The Flyers are still looking for their first win of the season after losing 3-2 in overtime to Carolina Saturday night at Xfinity Mobile Arena. The Canes outshot the Flyers badly, while...",
       "link": "https://www.broadstreethockey.com/post/takeaways-third-time-is-not-the-charm-as-flyers-lose-to-carolina-3-2-in-overtime/",
@@ -901,16 +811,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/092826_SixersMediaDay_ColleenClaggett-5433.jpg",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Plenty of encouraging signs from Sixers\u2019 Blue x White scrimmage",
-      "description": "The Philadelphia 76ers\u2019 annual Blue x White scrimmage was held at Xfinity Mobile Arena on Saturday afternoon and the event did not disappoint. In addition to clearing the obvious \u201cno one got hurt in a meaningless scrimmage\u201d bar, we witnessed a ton to",
-      "link": "",
-      "pubDate": "2026-10-03T15:13:06-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "LeBron James reveals excitement for the 76ers' first step to success in the 2026-27 season",
@@ -1043,16 +943,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Eagles Global Community: From Philadelphia to the World",
-      "description": "The Eagles are expanding far beyond Philadelphia, using international markets, local events and fan engagement to build a stronger global community. The post Eagles Global Community: From Philadelphia to the World appeared first on Philadelphia Sport",
-      "link": "https://phlsportsnation.com/2026/10/02/philadelphia-eagles-global-community/",
-      "pubDate": "Fri, 02 Oct 2026 13:16:58 +0000",
-      "author": "Fede Carballo",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
-    },
-    {
       "title": "Eagles-Rams preview: 5 things to watch",
       "description": "The Philadelphia Eagles are 2-1, with a pair of wins over lesser opponents in the Washington Commanders and Tennessee Titans, and an embarrassing performance Week 3 against the Case Keenum-led Chicago Bears. In Week 4, they're facing the talented and",
       "link": "https://www.phillyvoice.com/eagles-rams-preview-5-things-watch-2026-saquon-barkley-davante-adams-puka-nacua-kyren-williams/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -1071,26 +961,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-09-25T043029Z_318261596_MT1USATODAY27161888_RTRMADP_3_NFL-LOS-ANGELES.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "We could all use a really long break from the Phillies",
-      "description": "ATLANTA \u2013 Zack Wheeler emerged from a back door in the visiting bullpen at Truist Park with his full uniform on, getting ready to throw. It was already too late. Aaron Nola could not find the strike zone. With two runners on and Nola down in the coun",
-      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-wild-card-loss-mlb-bryce-harper-don-mattingly-dave-dombrowski/",
-      "pubDate": "Fri, 02 Oct 2026 06:22:32 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
-      "title": "Don Mattingly\u2019s job just one of the potential changes the Phillies must now consider following another postseason disappointment",
-      "description": "ATLANTA Don Mattingly entered the interview room on the floor level at Truist Park and sat down in front of a microphone. He placed a water bottle with the label of his brand of choice taped over on the table. Then, he began to answer questions, with",
-      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-news-national-league-wild-card-series-don-mattingly-interim-manager-dave-dombrowski-alex-cora-offseason/",
-      "pubDate": "Fri, 02 Oct 2026 06:17:25 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
     },
     {
       "title": "Instant observations: Phillies pitching staff a total mess in season-ending Game 3 loss",
@@ -1113,46 +983,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "The 76ers Have All the Talent; Now They Need to Find Their Identity",
-      "description": "The Philadelphia 76ers spent the offseason building one of the most talented rosters in basketball. Now comes the more complicated [] The post The 76ers Have All the Talent; Now They Need to Find Their Identity appeared first on Philadelphia Sports N",
-      "link": "https://phlsportsnation.com/2026/10/01/the-76ers-have-all-the-talent-now-they-need-to-find-their-identity/",
-      "pubDate": "Thu, 01 Oct 2026 16:10:50 +0000",
-      "author": "Cooper Hubbard",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Fantasy football start/sit advice: For now, Jalen Hurts isn't a great option",
-      "description": "Looking at each fantasy football position and a player you should either start or sit.",
-      "link": "https://www.phillyvoice.com/fantasy-football-start-sit-week-4-injuries-jalen-hurts-bucky-irving-bo-nix-jameson-williams-tips-help-advice/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Thu, 01 Oct 2026 14:28:00 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-22T092251Z_143910475_MT1USATODAY29885135_RTRMADP_3_NFL-PHILADELPHI.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "RECAP \u2013 Week 3: Three Thoughts After a Demeaning Defeat to Case Keenum-Led Bears, 27-7",
-      "description": "It was always going to end this way. On Sunday night, the Philadelphia Phillies stamped their ticket to the MLB [] The post RECAP Week 3: Three Thoughts After a Demeaning Defeat to Case Keenum-Led Bears, 27-7 appeared first on Philadelphia Sports Nat",
-      "link": "https://phlsportsnation.com/2026/10/01/thoughts-after-a-demeaning-defeat-to-case-keenum-led-bears/",
-      "pubDate": "Thu, 01 Oct 2026 13:00:00 +0000",
-      "author": "Dane Dillard",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Bryce Harper reflects after misplay, game-tying home run: \u2018A world of emotion there\u2019",
-      "description": "ATLANTA \u2013 Cristopher S\u00e1nchez and Bryce Harper met after the seventh inning. The television cameras showed an incensed S\u00e1nchez moments after he was lifted from the game, screaming and throwing his glove into the tunnel. In the face of immense pressure",
-      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-atlanta-braves-mlb-postseason-bryce-harper-misplay-home-run-cristopher-sanchez-october-1-2026/",
-      "pubDate": "Thu, 01 Oct 2026 10:49:18 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
       "title": "Flyers blown out by Penguins in dud of a season opener",
       "description": "With the most hype behind the Flyers in years, they fell completely flat to open the new season in a 7-0 pummeling from the rival Pens.",
       "link": "https://www.phillyvoice.com/flyers-season-opener-dud-penguins-trevor-zegras-noel-acciari-score-highlights-nhl/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -1161,16 +991,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-01T012613Z_1303580887_MT1USATODAY29962783_RTRMADP_3_NHL-PITTSBURGH.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Rookie Andrew Painter takes full control in \u2018career-altering\u2019 Game 2 bullpen outing: \u2018Just giving it everything I had\u2019",
-      "description": "ATLANTA Bryce Harper watched from first base as the rookie starting pitcher, suddenly thrust into the biggest appearance of his fledgling career, took a step back and tossed a baseball toward the third-base dugout. After a flare into left field by Mi",
-      "link": "https://www.philliesnation.com/2026/09/philadelphia-phillies-mlb-postseason-andrew-painter-nl-wild-card-series-game-2-atlanta-braves-relief-outing/",
-      "pubDate": "Thu, 01 Oct 2026 00:56:27 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
     },
     {
       "title": "'Everything's zeroes again' for the Flyers as new season begins",
@@ -1191,46 +1011,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/092826_SixersMediaDay_ColleenClaggett-5769.jpg",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Which Phillies pitchers will be available out of bullpen for must-win Game 2 in Atlanta?",
-      "description": "ATLANTA Phillies closer Jhoan Duran did not give a firm answer regarding his status for Game 2 after he paid the price on a mislocated fastball and surrendered a three-run, go-ahead home run to Austin Riley on Tuesday afternoon at Truist Park. The cl",
-      "link": "https://www.philliesnation.com/2026/09/which-phillies-pitchers-will-be-available-out-of-bullpen-for-must-win-game-2-in-atlanta/",
-      "pubDate": "Wed, 30 Sep 2026 16:51:40 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
-      "title": "A look at the biggest issue the Eagles must resolve",
-      "description": "The Eagles can simply play better than they have through three weeks, but to be great they have a big issue they need to resolve.",
-      "link": "https://www.phillyvoice.com/eagles-biggest-issues-resolve-offense-nick-sirianni-sean-mannion-saquon-barkley/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 30 Sep 2026 16:18:24 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-09T183331Z_1605465128_MT1USATODAY29159186_RTRMADP_3_NFL-PHILADELPH.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Jes\u00fas Luzardo left it all out on the mound in first start back from injury",
-      "description": "ATLANTA \u2013 The Phillies could not capitalize on yet another heroic effort from Jes\u00fas Luzardo. He came out firing out of the bullpen in extra innings in his last playoff appearance in Game 4 of the 2025 National League Division Series against the Los A",
-      "link": "https://www.philliesnation.com/2026/09/philadelphia-phillies-atlanta-braves-mlb-wild-card-round-jesus-luzardo-start-jt-realmuto-jhoan-duran-don-mattingly-trea-turner/",
-      "pubDate": "Tue, 29 Sep 2026 23:37:19 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
-      "title": "RECAP \u2013 Week 3: Eagles 7, Bears 27; What Went Wrong?",
-      "description": "The Eagles lost in brutal fashion to the Bears, 27-7. Turns out that Ben Johnson busted out the anarchist\u2019s cookbook [] The post RECAP Week 3: Eagles 7, Bears 27; What Went Wrong? appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/09/29/week-3-recap-eagles-7-bears-27-what-went-wrong/",
-      "pubDate": "Tue, 29 Sep 2026 21:45:31 +0000",
-      "author": "Kyle Lavin",
-      "thumbnail": "https://phlsportsnation.com/wp-content/uploads/2026/09/IMG_1902.mov",
-      "team": "eagles",
-      "source": "PHL Sports Nation"
     },
     {
       "title": "Instant observations: Mismanaged Phillies blow late lead to start playoff campaign",
@@ -1303,16 +1083,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Zach Ertz: Real Value, Not Name Value",
-      "description": "Zach Ertz is back. And if he can still perform at an NFL level, he\u2019s back at the perfect time. [] The post Zach Ertz: Real Value, Not Name Value appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/09/28/zach-ertz-real-value-not-name-value/",
-      "pubDate": "Mon, 28 Sep 2026 20:30:53 +0000",
-      "author": "Jonah Casel",
-      "thumbnail": null,
-      "team": "general",
-      "source": "PHL Sports Nation"
-    },
-    {
       "title": "5 Sixers thoughts: Star-studded starting lineup unveiled at Media Day",
       "description": "At Sixers Media Day, each of the team's starters \u2013 Tyrese Maxey, VJ Edgecombe, Jaylen Brown, LeBron James and Joel Embiid \u2013 discussed the sacrifices necessary for the Sixers to win it all.",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-media-day-full-highlights-joel-embiid-lebron-james-jaylen-brown-tyrese-maxey-vj-edgecombe/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -1371,26 +1141,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2024-08-10T224209Z_1577098989_MT1USATODAY23968717_RTRMADP_3_OLYMPICS-BASKE.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Philly Native Hits $1 Million Barefoot Kick on College GameDay",
-      "description": "Don\u2019t worry\u2014you didn\u2019t miss a big game-ending kick this past month\u2014but you may have missed a big kick. Several Philly [] The post Philly Native Hits $1 Million Barefoot Kick on College GameDay appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/09/28/a-big-kick-from-the-philly-area/",
-      "pubDate": "Mon, 28 Sep 2026 10:05:03 +0000",
-      "author": "Michael Thomas Leibrandt",
-      "thumbnail": null,
-      "team": "general",
-      "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Eagles vs. Bears: A Gridiron Rivalry Written in NFL History",
-      "description": "More often than not, when Chicago and Philadelphia meet on the NFL gridiron, it becomes significant for both teams. The [] The post Eagles vs. Bears: A Gridiron Rivalry Written in NFL History appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/09/27/eagles-vs-bears-historically-when-the-stakes-couldnt-be-higher/",
-      "pubDate": "Mon, 28 Sep 2026 01:55:01 +0000",
-      "author": "Michael Thomas Leibrandt",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
     },
     {
       "title": "Could Sunday rain save Phillies season?",
@@ -1491,16 +1241,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-17T021205Z_92305414_MT1USATODAY29836777_RTRMADP_3_MLB-PHILADELPHIA.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "5 Sixers thoughts: From defense to health, biggest worries for 2026-27",
-      "description": "How much will Joel Embiid be available? How can the Sixers establish a strong defense? Tackling some of the biggest fears heading into the season ahead.",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-roster-depth-chart-stats-nba-joel-embiid-lebron-james-nick-nurse-adem-bona-ariel-hukporti/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 21 Sep 2026 12:28:26 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/020225_SixersCeltics_ColleenClaggett-5586_iSIiBMY.jpg",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
     },
     {
       "title": "10 awards for the Phillies as they continue to fall backwards into October",
