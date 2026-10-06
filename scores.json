@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T18:53:53.123319+00:00",
+  "updated": "2026-10-06T00:25:07.748141+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -85,18 +85,6 @@
     "sixers": {
       "recent": [],
       "upcoming": [
-        {
-          "date": "10/5",
-          "home": "PHI",
-          "away": "NY",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NBA",
-          "name": "New York Knicks at Philadelphia 76ers",
-          "shortName": "NY @ PHI",
-          "time": "7:00 PM ET",
-          "status": "scheduled"
-        },
         {
           "date": "10/8",
           "home": "BKN",
