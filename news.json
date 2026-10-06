@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-06T00:25:07.748141+00:00",
-  "count": 175,
+  "updated": "2026-10-06T06:56:43.905122+00:00",
+  "count": 176,
   "articles": [
     {
       "title": "Don\u2019t forget about Labaron Philon",
@@ -81,16 +81,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-04T205103Z_42919394_MT1USATODAY29999755_RTRMADP_3_NFL-LOS-ANGELES-.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Jalen Hurts cited \u201cpoor execution\u201d for the Eagles\u2019 offensive struggles",
-      "description": "The Eagles offense was able to get some things going against the Rams, at least enough to go up by almost three scores, but ultimately, they stalled in the second half (again) and ended up losing. Quarterback Jalen Hurts spoke after the game and didn",
-      "link": "",
-      "pubDate": "2026-10-04T23:05:57-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Oilers could be the perfect trade partner for the Flyers right now",
@@ -373,20 +363,130 @@
       "source": "SportsTalk Philly"
     },
     {
-      "title": "Sixers-Knicks, Preseason: Second Half Thread",
-      "description": "Game Details When: Monday, October 5, 7 p.m. ETWhere: Xfinity Mobile Arena, Philadelphia, PAWatch: NBCSP+/NBATVRadio: 97.5 The FanaticFollow: @LibertyBallers",
+      "title": "Report: Sixers center Ariel Hukporti out for season with torn Achilles",
+      "description": "Not even five minutes into the preseason \u2013 playing for his new team and against his old team \u2013 Ariel Hukporti suffered an ominous injury.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-nba-rumors-preseason-depth-chart-stats-roster-ariel-hukporti-injury-video-full-highlights/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 06 Oct 2026 03:31:05 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/092826_SixersMediaDay_ColleenClaggett-6081.jpg",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Sixers Bell Ringer: Jaylen Brown begins preseason scorching",
+      "description": "The wait has concluded, and the new-look Sixers look as strong as imagined through the first preseason game. They defeated the Knicks 120-97 without the services of Joel Embiid, Tyrese Maxey, Anfernee Simons, Dominick Barlow, Adem Bona and, oh yeah, ",
       "link": "",
-      "pubDate": "2026-10-05T20:10:00-04:00",
+      "pubDate": "2026-10-05T23:08:44-04:00",
       "author": "",
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
     },
     {
+      "title": "Takeaways: Flyers fall to Lightning as season-opening skid continues",
+      "description": "The Philadelphia Flyers start to the 2026-27 season hasnt exactly inspired much confidence. Not only did they lose their first three games of the campaign, but they also looked completely lifeless in the process, being outscored 13-4 and outshot 122-",
+      "link": "https://www.broadstreethockey.com/post/takeaways-flyers-fall-to-lightning-as-season-opening-skid-continues/",
+      "pubDate": "Tue, 06 Oct 2026 02:21:20 +0000",
+      "author": "Ryan Quigley",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
       "title": "Ariel Hukporti leaves game vs. Knicks with apparent leg injury",
       "description": "The vibes were high entering the Sixers\u2019 preseason opener Monday vs. the New York Knicks, but the excitement was quickly dampened. Ariel Hukporti, starting while Joel Embiid sits out, appeared to hurt his leg early in the first quarter while attempti",
       "link": "",
-      "pubDate": "2026-10-05T19:35:35-04:00",
+      "pubDate": "2026-10-05T21:38:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Instant observations: Jaylen Brown stars, Ariel Hukporti suffers ominous injury in Sixers' preseason opener",
+      "description": "Jaylen Brown scored 22 points on 13 shots in his first preseason game with his new team, but the Sixers may have already lost a key reserve due to injury.",
+      "link": "https://www.phillyvoice.com/sixers-knicks-preseason-box-score-nba-stats-full-highlights-lebron-james-joel-embiid-jaylen-brown-vj-edgecombe/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 06 Oct 2026 01:28:30 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-06T002132Z_352977598_MT1USATODAY30007909_RTRMADP_3_NBA-PRESEASON-N.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Brown, Edgecombe dominant, but Hukporti injury looms over Sixers\u2019 preseason win vs. Knicks",
+      "description": "We are so back. The Sixers tipped off their preseason with a 120-97 win over the defending champion New York Knicks Monday night. In his first game as a Sixer, Jaylen Brown put up 22 points, shooting 8-of-13 from the floor along with two rebounds and",
+      "link": "",
+      "pubDate": "2026-10-05T21:27:17-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Report: Eagles iOL Cam Jurgens is in the concussion protocol",
+      "description": "Injuries keep piling up for the Philadelphia Eagles, as C/G Cam Jurgens reported concussion symptoms, and has been placed in the concussion protocol, according to a report from NFL Network.",
+      "link": "https://www.phillyvoice.com/report-eagles-iol-cam-jurgens-concussion-protocol/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 06 Oct 2026 01:19:38 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-10T185723Z_1127895306_MT1USATODAY29167730_RTRMADP_3_NFL-PHILADELPH.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles Injury Tracker: List of players grows after Week 4 loss",
+      "description": "We are just about a quarter of the way through the 2026 NFL season already, and while the Eagles seemed to avoid injury issues in the first two weeks, they\u2019ve really stacked up in their last two games. Heading into the Week 4 matchup against the Rams",
+      "link": "",
+      "pubDate": "2026-10-05T21:11:41-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Report: Eagles RB Saquon Barkley 'week to week' with hamstring injury",
+      "description": "During the Philadelphia Eagles' loss to the Los Angeles Rams on Sunday, running back Saquon Barkley suffered a hamstring injury on his fourth snap of the game, and did not return. According to a report from NFL Network, Barkley is considered \"week-to",
+      "link": "https://www.phillyvoice.com/report-eagles-rb-saquon-barkley-week-week-hamstring-injury/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 06 Oct 2026 01:05:15 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-04T175222Z_1832673237_MT1USATODAY29997112_RTRMADP_3_NFL-LOS-ANGELE.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Report: Eagles RB Tank Bigsby headed to injured reserve",
+      "description": "Bigsby needs core muscle surgery, and the Eagles suddenly have a major issue at running back.",
+      "link": "https://www.phillyvoice.com/report-eagles-rb-tank-bigsby-headed-injured-reserve/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 06 Oct 2026 01:00:44 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-05T152103Z_1909890454_MT1USATODAY30004934_RTRMADP_3_NFL-LOS-ANGELE.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Saquon Barkley injury: Eagles running back is week-to-week with hamstring",
+      "description": "Injuries are quickly becoming a problem, and the Eagles could be without more than a handful of offensive starters for their Week 5 game in London. One player they might not have with them is running back Saquon Barkley, who is reportedly week-to-wee",
+      "link": "",
+      "pubDate": "2026-10-05T20:50:31-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Eagles injury list grows: Cam Jurgens enters concussion protocol",
+      "description": "The list of injured Eagles players continues to grow, and things are getting particularly dicey up front with the offensive line. It was reported Monday night that former center turned left guard Cam Jurgens self-reported concussion symptoms earlier ",
+      "link": "",
+      "pubDate": "2026-10-05T20:49:30-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Sixers-Knicks, Preseason: Second Half Thread",
+      "description": "Game Details When: Monday, October 5, 7 p.m. ETWhere: Xfinity Mobile Arena, Philadelphia, PAWatch: NBCSP+/NBATVRadio: 97.5 The FanaticFollow: @LibertyBallers",
+      "link": "",
+      "pubDate": "2026-10-05T20:10:00-04:00",
       "author": "",
       "thumbnail": null,
       "team": "sixers",
@@ -411,16 +511,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Report: Eagles RB Tank Bigsby headed to injured reserve",
-      "description": "Bigsby needs core muscle surgery, and the Eagles suddenly have a major issue at running back.",
-      "link": "https://www.phillyvoice.com/report-eagles-rb-tank-bigsby-headed-injured-reserve/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 05 Oct 2026 21:46:16 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-05T152103Z_1909890454_MT1USATODAY30004934_RTRMADP_3_NFL-LOS-ANGELE.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "You Can Appreciate Nick Sirianni and Simultaneously Understand It\u2019s His Time To Go",
@@ -587,26 +677,6 @@
       "description": "The Philadelphia Eagles didn\u2019t really deserve to beat the Los Angeles Rams on Sunday afternoon. The Birds were outgained by 243 yards. That\u2019s typically not a recipe for success. Neither is failing to convert a single third down despite having 12 chan",
       "link": "",
       "pubDate": "2026-10-05T03:31:52-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Eagles vs. Jaguars odds: Opening lines for Week 5 matchup",
-      "description": "The Philadelphia Eagles have lost two games in a row and their schedule isn\u2019t getting any easier. The Birds are set to take on the 3-1 Jacksonville Jaguars in London this coming weekend. In order to avoid dropping below .500 with a third straight los",
-      "link": "",
-      "pubDate": "2026-10-05T00:09:46-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Nick Sirianni says Eagles\u2019 third-down failures are on everybody",
-      "description": "The Eagles lost another ugly game on Sunday against the Rams, and will move forward 2-2 with a growing number of injured players adding to the issues. Head coach Nick Sirianni spoke to reporters after the game and talked about the offense\u2019s inability",
-      "link": "",
-      "pubDate": "2026-10-04T22:19:10-04:00",
       "author": "",
       "thumbnail": null,
       "team": "eagles",
@@ -804,13 +874,13 @@
     },
     {
       "title": "Flyers vs. Hurricanes: How to watch, lineups, and gamethread",
-      "description": "With the first little road trip of the season out of the way, the Flyers are returning home again tonight for perhaps their biggest matchup of this young season. The Flyers are set to face off against their rival Hurricanes, for the first time since ",
+      "description": "With the first little road trip of the season out of the way, the Flyers are returning home again tonight for perhaps their biggest matchup of this young season. The Flyers are set to face off...",
       "link": "https://www.broadstreethockey.com/post/flyers-vs-hurricanes-how-to-watch-lineups-and-gamethread-3/",
       "pubDate": "Sat, 03 Oct 2026 20:00:00 +0000",
-      "author": "Madeline Campbell",
+      "author": "Broad Street Hockey",
       "thumbnail": null,
       "team": "flyers",
-      "source": "Broad Street Hockey"
+      "source": "Philly Sports Wire"
     },
     {
       "title": "LeBron James gets brutally honest about Joel Embiid's health today compared to 2024",
@@ -864,13 +934,13 @@
     },
     {
       "title": "Roundtable: The biggest concern about the Flyers\u2019 terrible start",
-      "description": "The Philadelphia Flyers have had a miserable start to their season. A 7-0 loss in their season opener against the hated Penguins at home, followed by a 3-2 overtime loss to the Devils where the only reason they werent blown out once again was Joseph ",
+      "description": "The Philadelphia Flyers have had a miserable start to their season. A 7-0 loss in their season opener against the hated Penguins at home, followed by a 3-2 overtime loss to the Devils where the...",
       "link": "https://www.broadstreethockey.com/post/roundtable-the-biggest-concern-about-the-flyers-terrible-season-start/",
       "pubDate": "Sat, 03 Oct 2026 17:49:10 +0000",
-      "author": "BSH Staff",
+      "author": "Broad Street Hockey",
       "thumbnail": null,
       "team": "flyers",
-      "source": "Broad Street Hockey"
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Eagles WR Devonta Smith To Miss Multiple Games",
@@ -953,16 +1023,6 @@
       "source": "PhillyVoice Flyers"
     },
     {
-      "title": "Do the Sixers have enough depth?",
-      "description": "With the 2026-2027 NBA season just right around the corner, the Sixers are at the forefront of conversation and intrigue for the upcoming campaign. Most of the focus is centered around the acquisitions of LeBron James and Jaylen Brown and how they wi",
-      "link": "",
-      "pubDate": "2026-10-02T10:53:55-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Know your enemy: Can this version of the Eagles' o-line stop Aaron Donald?",
       "description": "The Eagles have always had a good plan to keep Aaron Donald from wrecking their offense. Are they equipped to do it again?",
       "link": "https://www.phillyvoice.com/know-your-enemy-eagles-rams-aaron-donald-offensive-line-analysis-all-22/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -1041,16 +1101,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-02T004741Z_124123100_MT1USATODAY29969126_RTRMADP_3_MLB-WILDCARD-PH.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "\u2018Sacrifice\u2019 is a good thing, actually",
-      "description": "Jabari Walker is unlikely to be in the Sixers\u2019 rotation to start the 2026-27 season. As a guy who had to work his way up from a two-way spot to a standard deal last season, he understands his role is simply to be ready, no matter what the team asks o",
-      "link": "",
-      "pubDate": "2026-10-01T16:38:46-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Sixers training camp: Jaylen Brown leaning on Tyrese Maxey; LeBron James' role coming into focus",
@@ -1159,26 +1209,6 @@
       "pubDate": "Wed, 30 Sep 2026 16:18:24 +0000",
       "author": "Geoff Mosher",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-09T183331Z_1605465128_MT1USATODAY29159186_RTRMADP_3_NFL-PHILADELPH.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Eagles-Rams Week 4 odds preview: The Birds have no break after Monday's wakeup call",
-      "description": "The Rams are favored in Philly after the Eagles got crushed in Chicago on Monday night.",
-      "link": "https://www.phillyvoice.com/eagles-rams-week-4-betting-odds-money-lines-points-spread-jalen-hurts-matthew-stafford-aaron-donald/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 30 Sep 2026 12:52:22 +0000",
-      "author": "Nick Tricome",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-09-25T043055Z_728041030_MT1USATODAY27161899_RTRMADP_3_NFL-LOS-ANGELES.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Eagles power ranking roundup: Week 4",
-      "description": "Are power rankings completely dumb and meaningless? Yes. Yes, they are. However, personally speaking, whenever I see them, I click. And now that I've sucked you in with promises of many power rankings, you'll read it and like it. Here's where people ",
-      "link": "https://www.phillyvoice.com/eagles-power-ranking-roundup-week-4-2026/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 30 Sep 2026 12:43:05 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-29T020009Z_2137999730_MT1USATODAY29946954_RTRMADP_3_NFL-PHILADEL_hhAb1Ko.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
     },
@@ -1481,26 +1511,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-18T013254Z_1800315666_MT1USATODAY29844156_RTRMADP_3_MLB-PHILADELPH.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Sixers player preview: How many quality minutes does Kentavious Caldwell-Pope have left in the tank?",
-      "description": "Kentavious Caldwell-Pope has won a championship as a starter on two different teams. Can he serve as a valuable bench piece for a title-winning Sixers team?",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-kentavious-caldwell-pope-kcp-stats-contract-interview-highlights-career-nba-rumors-roster-press-conference/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sun, 20 Sep 2026 14:28:47 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-01-11T215418Z_921303390_MT1USATODAY27985335_RTRMADP_3_NBA-BROOKLYN-NE.JPG",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Sixers player preview: What kind of player is Ariel Hukporti going to be?",
-      "description": "Can Ariel Hukporti emerge as the Sixers' primary backup center and pay off their investment in him? There is much unknown about a player with only 715 minutes of NBA experience.",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-ariel-hukporti-stats-contract-interview-highlights-career-nba-rumors-roster-press-conference/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sat, 19 Sep 2026 12:00:11 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-14T051147Z_250443949_MT1USATODAY29195441_RTRMADP_3_NBA-FINALS-NEW-.JPG",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
     },
     {
       "title": "Danny Bri\u00e8re, Flyers do have another big swing in them, but they're waiting for the right turn again",
