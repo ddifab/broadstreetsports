@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T17:04:30.673468+00:00",
-  "count": 175,
+  "updated": "2026-10-07T22:20:25.788203+00:00",
+  "count": 177,
   "articles": [
     {
       "title": "3 panic trades Danny Briere could make after Flyers\u2019 frightening start",
@@ -23,14 +23,84 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "How long with the Sixers honeymoon last?",
-      "description": "What a difference one week makes. On Monday, Sept. 28, Philadelphia sports fans woke up with the Phillies in the playoffs for the fifth consecutive season. While there was skepticism as to if they could produce a long playoff run after early exits in",
+      "title": "Eagles bring back wide receiver on the practice squad",
+      "description": "In addition to the Cam Jurgens trade, the Philadelphia Eagles officially announced three transactions on Wednesday. Here\u2019s an overview: We already touched on the Eagles calling up Pierce and the Eagles signing Brockermeyer. Those moves are now offici",
       "link": "",
-      "pubDate": "2026-10-07T11:19:56-04:00",
+      "pubDate": "2026-10-07T17:59:33-04:00",
       "author": "",
       "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "The Eagles just closed their window",
+      "description": "Howie Roseman and the Eagles are never going to say it out loud, but the Cam Jurgens trade said enough. It's over.",
+      "link": "https://www.phillyvoice.com/eagles-super-bowl-window-closed-lane-johnson-retires-cam-jurgens-trade-nick-sirianni-job-security/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 07 Oct 2026 21:00:03 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-04T205337Z_1676175876_MT1USATODAY29999666_RTRMADP_3_NFL-LOS-ANGELE.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Did Sixers head coach Nick Nurse hint toward LeBron James' debut?",
+      "description": "Sixers head coach Nick Nurse said he \"should be able to get a majority of the guys out there\" for Thursday's preseason game. Is LeBron James one?",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-lebron-james-joel-embiid-tyrese-maxey-anfernee-simons-dominick-barlow-adem-bona-nba-update/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 07 Oct 2026 18:53:35 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-23T001105Z_8167734_MT1USATODAY28787280_RTRMADP_3_NBA-PLAYOFFS-HOUS.JPG",
       "team": "sixers",
-      "source": "Liberty Ballers"
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Cam Jurgens trade reactions",
+      "description": "Well, that escalated quickly! Two key members of the Eagles offensive line that won a Super Bowl just two years ago are leaving Philadelphia within a day of each other. Less than 24 hours after Lane Johnson announced his retirement from the NFL, the ",
+      "link": "",
+      "pubDate": "2026-10-07T14:29:28-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Could the Phillies lose top executive with Dave Dombrowski extension looming?",
+      "description": "In need of a new head of baseball operations, the Athletics have identified Phillies president of business operations Sam Fuld as a top target, per The Athletics Ken Rosenthal. Fuld, 44, became the head of business operations for the Phillies after g",
+      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-front-office-mlb-athletics-sam-fuld-dave-dombrowski-october-7-2026/",
+      "pubDate": "Wed, 07 Oct 2026 17:56:36 +0000",
+      "author": "Destiny Lugardo",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
+    },
+    {
+      "title": "Eagles trade C/G Cam Jurgens to the Ravens",
+      "description": "The Philadelphia Eagles have traded C/G Cam Jurgens and a 2027 seventh-round pick to the Baltimore Ravens for a 2027 fifth-round pick and a 2028 second-round pick.",
+      "link": "https://www.phillyvoice.com/eagles-trade-c-g-cam-jurgens-ravens/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 07 Oct 2026 17:35:01 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-10T185723Z_1127895306_MT1USATODAY29167730_RTRMADP_3_NFL-PHILADELPH.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Cam Jurgens trade: Eagles send center to Ravens for draft picks",
+      "description": "Well, here\u2019s a massive Eagles offensive line development for the second day in a row: Philadelphia is trading Cam Jurgens to the Baltimore Ravens in exchange for multiple draft picks. The full terms of the deal, as first reported by NFL insider Adam ",
+      "link": "",
+      "pubDate": "2026-10-07T13:31:30-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Eagles News: Reflecting on Lane Johnson\u2019s legendary career",
+      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! Lane is a legend. While I do think he\u2019s properly getting his flowers following his retirement announcement, I do wish the damper of \u201cHow do the Eagles replace ",
+      "link": "",
+      "pubDate": "2026-10-07T11:59:20-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Flyers send Alex Bump down to the Phantoms after disappointing start",
@@ -73,16 +143,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Lane Johnson retires: Eagles right tackle announces decision to leave team",
-      "description": "Philadelphia Eagles legendary right tackle Lane Johnson is retiring, according to an official announcement from the two-time Super Bowl champion himself. Things have been complicated with Johnson for the better part of the last year. He was sidelined",
-      "link": "",
-      "pubDate": "2026-10-06T16:09:27-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Flyers sign depth forward Michael Bunting amid winless start",
       "description": "Bunting is a low-risk, bottom-six signing for a Flyers team that badly needs something to light a fire under them right now.",
       "link": "https://www.phillyvoice.com/flyers-michael-bunting-signing-forward-depth-chart-spark-report/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -111,16 +171,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Eagles-Rams Film Review: Nick Sirianni and Sean Mannion need to change something substantial",
-      "description": "I\u2019ve gotta be honest with everyone: I\u2019m angry this week. I try to stay calm and see the bigger picture, but I\u2019m struggling. Mostly because I feel like I\u2019m writing the same article again. Last week, I wrote that the Eagles couldn\u2019t keep running an und",
-      "link": "",
-      "pubDate": "2026-10-06T08:52:40-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Sixers mailbag: Will Labaron Philon Jr. be traded before deadline?",
@@ -323,16 +373,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "Sixers player preview: Can Justin Edwards break through?",
-      "description": "Justin Edwards has done enough in two seasons for the Sixers to remain invested in him, but not enough to establish himself as a surefire rotation wing.",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-justin-edwards-stats-contract-interview-highlights-career-nba-rumors-roster-press-conference/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Thu, 24 Sep 2026 12:16:23 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/1Z1A0395_5X6dZTO.jpg",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
       "title": "Which team offers best matchup for Phillies in Wild Card round?",
       "description": "There's still some work to do. You can be sure, at least officially, the Phillies have two focuses and two focuses only right now \u2014 locking up a playoff berth and getting their rotation and bullpen ready for a best of three-game Wild Card series.",
       "link": "https://www.phillyvoice.com/mlb-playoff-postseason-standings-oddsbest-matchup-phillies-wild-card-round-padres-cubs-braves/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -393,6 +433,86 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Is the Nick Sirianni era already over?",
+      "description": "\u201cHow did you go bankrupt?\u201d\u201cGradually, then suddenly.\u201d Ernest Hemingway\u2019s iconic line can be applied to many lines of work. When you look at the final seasons of the head coaches under Jeffery Lurie, this feels like it could be it for Nick Sirianni. A",
+      "link": "",
+      "pubDate": "2026-10-07T16:38:34-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Eagles-Rams Film Review: Good, not great defense",
+      "description": "I thought the Eagles\u2019 defense was similar against the Rams as it was against the Bears. For a long time, this looked like a performance that should have been enough to win. Then the last two meaningful Rams possessions happened, and it all fell apart",
+      "link": "",
+      "pubDate": "2026-10-07T16:28:13-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "One way the Flyers can get by without having a No. 1 center",
+      "description": "The Philadelphia Flyers are on a desperate hunt to find a bona fide first-line center. But in the meantime, what is one way they could get by?",
+      "link": "https://www.broadstreethockey.com/post/one-way-the-flyers-can-get-by-without-having-a-no-1-center/",
+      "pubDate": "Wed, 07 Oct 2026 19:00:00 +0000",
+      "author": "Jacob Russell",
+      "thumbnail": "https://www.broadstreethockey.com/wp-content/uploads/sites/12/2026/10/IMG_5368-300x200.jpeg",
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Why Michael Bunting could be exactly what the Flyers need",
+      "description": "The Philadelphia Flyers are in a world of hurt right now so they reached out into the shining light of peeling a player off the pile of remaining free agents, shrugged, and signed him with a hope that maybe he can do some cool stuff. Michael Bunting ",
+      "link": "https://www.broadstreethockey.com/post/why-michael-bunting-could-be-exactly-what-the-flyers-need/",
+      "pubDate": "Wed, 07 Oct 2026 17:35:07 +0000",
+      "author": "Thomas Williams",
+      "thumbnail": "https://www.broadstreethockey.com/wp-content/uploads/sites/12/2026/10/image-1-891x1024.jpg",
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Lane Johnson retirement reactions",
+      "description": "There had been speculation for a couple days, but Lane Johnson made his retirement official on Tuesday, announcing that he was stepping away from the NFL and the Philadelphia Eagles. The reactions were full of surprise and also filled with a lot of a",
+      "link": "",
+      "pubDate": "2026-10-07T13:31:24-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Philly's longest-tenured athletes following Lane Johnson's retirement",
+      "description": "The Flyers' Sean Couturier still has the longest-active stay in Philadelphia, but Lane Johnson's retirement does shake up the picture for the city's longest-tenured athletes.",
+      "link": "https://www.phillyvoice.com/longest-tenured-philly-athletes-2026-sean-couturier-aaron-nola-joel-embiid-lane-johnson-retirement/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 07 Oct 2026 17:28:25 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-09-05T045256Z_1991364392_MT1USATODAY27003488_RTRMADP_3_NFL-DALLAS-COW.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles reportedly calling up Dameon Pierce to the roster",
+      "description": "The Philadelphia Eagles are calling practice squad running back Dameon Pierce up to the active roster, according to a report from NFL insider Jeremy Fowler. The Eagles are currently short-handed in the backfield. Saquon Barkley is expected to miss at",
+      "link": "",
+      "pubDate": "2026-10-07T12:39:45-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Vic Fangio says it\u2019s possible the Eagles are playing Jalen Carter too much",
+      "description": "The Eagles are having a rough week, and as they prepare for the Jaguars in London, defensive coordinator Vic Fangio spoke to reporters about their late-game struggles against the Rams, what he thinks of the secondary, and about Jalen Carter\u2019s work lo",
+      "link": "",
+      "pubDate": "2026-10-07T11:25:12-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
       "title": "Phillies stay or go: 1B/3B Alec Bohm",
       "description": "Here's a look at why\u2014 and why not \u2014 the Phillies should bring back the 30-year-old with the floppy curly hair. You can vote on whether you want him back at the bottom of this post.",
       "link": "https://www.phillyvoice.com/phillies-stay-or-go-first-base-third-base-alec-bohm-stats-analysis-free-agency-bo-bichette-infield-options/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -451,16 +571,6 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Taking stock of the Eagles\u2019 offensive line after Lane Johnson\u2019s retirement",
-      "description": "With Lane Johnson announcing his retirement, let\u2019s take stock of the Philadelphia Eagles\u2019 current offensive line situation. THE PLAYERS Here are the current projected starters entering Week 5: Here are the current backups on the active roster: Here a",
-      "link": "",
-      "pubDate": "2026-10-06T17:06:29-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "The Eagles\u2019 October Outlook: A Month That Could Shape the Season",
@@ -613,16 +723,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Eagles News: Ben Solak says Philadelphia\u2019s offense is \u201cunrecoverable\u201d",
-      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! Do you have hope the Eagles can turn things around on offense? Or do you think they might just be bad? Getting healthy down the line will help. But it seems li",
-      "link": "",
-      "pubDate": "2026-10-06T08:37:03-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Brown, Edgecombe, Walker shine in highlights from the Sixers\u2019 preseason opener",
       "description": "The new-look Philadelphia 76ers kicked off their preseason Monday night hosting the New York Knicks. Well\u2026 sort of the new-look Sixers. As there tends to be for preseason, there were a number of absences, some more major than others. Joel Embiid, LeB",
       "link": "",
@@ -661,16 +761,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Takeaways: Flyers fall to Lightning as season-opening skid continues",
-      "description": "The Philadelphia Flyers start to the 2026-27 season hasnt exactly inspired much confidence. Not only did they lose their first three games of the campaign, but they also looked completely lifeless in the process, being outscored 13-4 and outshot 122-",
-      "link": "https://www.broadstreethockey.com/post/takeaways-flyers-fall-to-lightning-as-season-opening-skid-continues/",
-      "pubDate": "Tue, 06 Oct 2026 02:21:20 +0000",
-      "author": "Ryan Quigley",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Ariel Hukporti leaves game vs. Knicks with apparent leg injury",
@@ -713,16 +803,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Eagles Injury Tracker: List of players grows after Week 4 loss",
-      "description": "We are just about a quarter of the way through the 2026 NFL season already, and while the Eagles seemed to avoid injury issues in the first two weeks, they\u2019ve really stacked up in their last two games. Heading into the Week 4 matchup against the Rams",
-      "link": "",
-      "pubDate": "2026-10-05T21:11:41-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Report: Eagles RB Saquon Barkley 'week to week' with hamstring injury",
       "description": "During the Philadelphia Eagles' loss to the Los Angeles Rams on Sunday, running back Saquon Barkley suffered a hamstring injury on his fourth snap of the game, and did not return. According to a report from NFL Network, Barkley is considered \"week-to",
       "link": "https://www.phillyvoice.com/report-eagles-rb-saquon-barkley-week-week-hamstring-injury/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -743,26 +823,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Saquon Barkley injury: Eagles running back is week-to-week with hamstring",
-      "description": "Injuries are quickly becoming a problem, and the Eagles could be without more than a handful of offensive starters for their Week 5 game in London. One player they might not have with them is running back Saquon Barkley, who is reportedly week-to-wee",
-      "link": "",
-      "pubDate": "2026-10-05T20:50:31-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Eagles injury list grows: Cam Jurgens enters concussion protocol",
-      "description": "The list of injured Eagles players continues to grow, and things are getting particularly dicey up front with the offensive line. It was reported Monday night that former center turned left guard Cam Jurgens self-reported concussion symptoms earlier ",
-      "link": "",
-      "pubDate": "2026-10-05T20:49:30-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Sixers-Knicks, Preseason: Second Half Thread",
       "description": "Game Details When: Monday, October 5, 7 p.m. ETWhere: Xfinity Mobile Arena, Philadelphia, PAWatch: NBCSP+/NBATVRadio: 97.5 The FanaticFollow: @LibertyBallers",
       "link": "",
@@ -773,14 +833,14 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "Tank Bigsby injury: Eagles running back to injured reserve",
-      "description": "The Philadelphia Eagles are placing No. 2 running back Tank Bigsby on injured reserve, according to a report from NFL insider Ian Rapoport. Bigsby is set to core muscle surgery with the hope that he\u2019ll be able to return in \u201csix weeks or shorter.\u201d He ",
+      "title": "Sixers-Knicks, Preseason: First Half Thread",
+      "description": "Game Details When: Monday, October 5, 7 p.m. ETWhere: Xfinity Mobile Arena, Philadelphia, PAWatch: NBCSP+/NBATVRadio: 97.5 The FanaticFollow: @LibertyBallers",
       "link": "",
-      "pubDate": "2026-10-05T18:09:55-04:00",
+      "pubDate": "2026-10-05T18:30:00-04:00",
       "author": "",
       "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "You Can Appreciate Nick Sirianni and Simultaneously Understand It\u2019s His Time To Go",
@@ -943,16 +1003,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Week 4 non-Eagles rooting guide",
-      "description": "The Philadelphia Eagles got embarrassed by the Chicago Bears Week 3, and will be looking to bounce back against another hard opponent in the Los Angeles Rams Week 4. The Birds' game aside, we'll lay out a rooting guide for non-Eagles games on the NFL",
-      "link": "https://www.phillyvoice.com/week-4-non-eagles-rooting-guide-2026-cowboys-giants-commanders/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sun, 04 Oct 2026 11:40:51 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2022-12-18T160450Z_41180099_MT1USATODAY19645753_RTRMADP_3_NFL-HOUSTON-TEXA.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
       "title": "Where to watch Eagles vs. Rams today: Channel, live stream, time, TV schedule for Week 4 NFL game",
       "description": "Here is everything you need to know about Eagles vs. Rams, including TV and streaming options for the game.",
       "link": "https://www.sportingnews.com/us/nfl/news/watch-eagles-rams-channel-stream-time-schedule/2e018b0404969e3da0906c32",
@@ -1103,16 +1153,6 @@
       "source": "Philly Sports Wire"
     },
     {
-      "title": "Five college prospects who could interest the Eagles in the 2027 NFL Draft",
-      "description": "During the college football season each year, as long as you're watching the games, we point out five players each week to keep an eye on who make logical sense for the Philadelphia Eagles in the following year's NFL Draft.",
-      "link": "https://www.phillyvoice.com/five-college-prospects-eagles-2027-nfl-draft-kade-pieper-tae-johnson-duke-scott-kenyatta-jackson-ashton-hampton/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sat, 03 Oct 2026 12:42:53 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-18T012446Z_1581910328_MT1USATODAY29844064_RTRMADP_3_OHIO-STATE-BUC.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
       "title": "This era of the Phillies feels like it's over",
       "description": "Sometimes the end stares you straight in the face. In 2011, it was Ryan Howard crumpled over. In 2026, it was Bryce Harper never even noticing a dropped third strike.",
       "link": "https://www.phillyvoice.com/phillies-nl-wild-card-loss-braves-bryce-harper-ryan-howard-eras-ending-2011-2026/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -1141,16 +1181,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-02T010115Z_163878833_MT1USATODAY29969288_RTRMADP_3_NHL-PHILADELPHI.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Report: Eagles WR DeVonta Smith unlikely to play vs. Rams",
-      "description": "Against the Rams, the Eagles could be without one of their most irreplaceable players.",
-      "link": "https://www.phillyvoice.com/report-eagles-wr-devonta-smith-unlikely-play-vs-rams/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Fri, 02 Oct 2026 13:17:42 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-28T230416Z_1555090210_MT1USATODAY29944821_RTRMADP_3_NFL-PHILADELPH.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Eagles Global Community: From Philadelphia to the World",
@@ -1278,16 +1308,6 @@
       "link": "https://www.philliesnation.com/2026/09/which-phillies-pitchers-will-be-available-out-of-bullpen-for-must-win-game-2-in-atlanta/",
       "pubDate": "Wed, 30 Sep 2026 16:51:40 +0000",
       "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
-      "title": "Jes\u00fas Luzardo left it all out on the mound in first start back from injury",
-      "description": "ATLANTA \u2013 The Phillies could not capitalize on yet another heroic effort from Jes\u00fas Luzardo. He came out firing out of the bullpen in extra innings in his last playoff appearance in Game 4 of the 2025 National League Division Series against the Los A",
-      "link": "https://www.philliesnation.com/2026/09/philadelphia-phillies-atlanta-braves-mlb-wild-card-round-jesus-luzardo-start-jt-realmuto-jhoan-duran-don-mattingly-trea-turner/",
-      "pubDate": "Tue, 29 Sep 2026 23:37:19 +0000",
-      "author": "Destiny Lugardo",
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
