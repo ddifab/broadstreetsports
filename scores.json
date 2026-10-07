@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T23:23:10.011569+00:00",
+  "updated": "2026-10-07T02:56:14.191763+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -127,18 +127,6 @@
       "recent": [],
       "upcoming": [
         {
-          "date": "10/7",
-          "home": "CHI",
-          "away": "STL",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NHL",
-          "name": "St. Louis Blues at Chicago Blackhawks",
-          "shortName": "STL @ CHI",
-          "time": "8:00 PM ET",
-          "status": "scheduled"
-        },
-        {
           "date": "10/8",
           "home": "NYI",
           "away": "CHI",
@@ -196,6 +184,18 @@
           "name": "Dallas Stars at Chicago Blackhawks",
           "shortName": "DAL @ CHI",
           "time": "7:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/24",
+          "home": "CHI",
+          "away": "MTL",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NHL",
+          "name": "Montreal Canadiens at Chicago Blackhawks",
+          "shortName": "MTL @ CHI",
+          "time": "8:00 PM ET",
           "status": "scheduled"
         }
       ]
