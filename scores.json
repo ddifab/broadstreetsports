@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T22:32:50.789273+00:00",
+  "updated": "2026-10-09T02:36:37.802634+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -86,18 +86,6 @@
       "recent": [],
       "upcoming": [
         {
-          "date": "10/8",
-          "home": "BKN",
-          "away": "PHI",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NBA",
-          "name": "Philadelphia 76ers at Brooklyn Nets",
-          "shortName": "PHI @ BKN",
-          "time": "7:30 PM ET",
-          "status": "scheduled"
-        },
-        {
           "date": "10/11",
           "home": "BOS",
           "away": "PHI",
@@ -126,18 +114,6 @@
     "flyers": {
       "recent": [],
       "upcoming": [
-        {
-          "date": "10/8",
-          "home": "NYI",
-          "away": "CHI",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NHL",
-          "name": "Chicago Blackhawks at New York Islanders",
-          "shortName": "CHI @ NYI",
-          "time": "7:30 PM ET",
-          "status": "scheduled"
-        },
         {
           "date": "10/10",
           "home": "CHI",
@@ -196,6 +172,18 @@
           "name": "Montreal Canadiens at Chicago Blackhawks",
           "shortName": "MTL @ CHI",
           "time": "8:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/25",
+          "home": "CHI",
+          "away": "FLA",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NHL",
+          "name": "Florida Panthers at Chicago Blackhawks",
+          "shortName": "FLA @ CHI",
+          "time": "3:00 PM ET",
           "status": "scheduled"
         }
       ]
