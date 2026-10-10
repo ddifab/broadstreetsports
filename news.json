@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-09T21:21:30.958868+00:00",
+  "updated": "2026-10-10T01:20:48.205525+00:00",
   "count": 174,
   "articles": [
+    {
+      "title": "Andy Dalton released: Eagles reportedly cut veteran quarterback",
+      "description": "The Philadelphia Eagles have several roster moves to make after an interesting week, and one of those moves is reportedly releasing quarterback Andy Dalton just days ahead of the London game. Although, NFL insider Mike Garafolo reports that the move ",
+      "link": "",
+      "pubDate": "2026-10-09T14:53:08-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
     {
       "title": "Why the Eagles Should Still Trust Nick Sirianni",
       "description": "Nick Sirianni led the Philadelphia Eagles to two Super Bowls and five consecutive playoff appearances. Despite a 2-2 start in 2026 and offensive struggles, his track record of leadership, adaptability and winning gives Philadelphia five reasons to ke",
@@ -51,26 +61,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-04T204554Z_513659775_MT1USATODAY29999496_RTRMADP_3_NFL-LOS-ANGELES.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Eagles News: Cam Jurgens trade grades",
-      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! The Ravens clearly have confidence that Cam Jurgens is going to be a good player for them, or else they wouldn\u2019t have traded a 2028 second-round pick to acquir",
-      "link": "",
-      "pubDate": "2026-10-08T11:17:23-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Eagles bring back wide receiver on the practice squad",
-      "description": "In addition to the Cam Jurgens trade, the Philadelphia Eagles officially announced three transactions on Wednesday. Here\u2019s an overview: We already touched on the Eagles calling up Pierce and the Eagles signing Brockermeyer. Those moves are now offici",
-      "link": "",
-      "pubDate": "2026-10-07T17:59:33-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "The Eagles just closed their window",
@@ -396,11 +386,41 @@
       "title": "Eagles-Jaguars Week 5 injury report, with analysis",
       "description": "Jalen Hurts is a late addition to the injury report.",
       "link": "https://www.phillyvoice.com/eagles-jaguars-week-5-injury-report-analysis-devonta-smith-saquon-barkley-quinyon-mitchell/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Fri, 09 Oct 2026 21:18:28 +0000",
+      "pubDate": "Fri, 09 Oct 2026 21:22:35 +0000",
       "author": "Jimmy Kempski",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/IMG_5377.jpeg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles roster news: Carson Steele and Jake Majors promoted from the practice squad",
+      "description": "The Philadelphia Eagles officially announced four transactions on Friday afternoon. Here\u2019s an overview: Let\u2019s sort through this news on a player-by-player basis. JAKE MAJORS Of the two practice squad promotions, Majors is the more significant one bec",
+      "link": "",
+      "pubDate": "2026-10-09T16:49:32-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Eagles-Jaguars Final Injury Report: Saquon Barkley, DeVonta Smith among players ruled out",
+      "description": "The Philadelphia Eagles issued their third and final official injury report of the week on Friday in advance of their Week 5 game against the Jacksonville Jaguars in London. The Eagles ruled five players OUT: Saquon Barkley, DeVonta Smith, Drew Kenda",
+      "link": "",
+      "pubDate": "2026-10-09T16:32:12-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Lane Johnson\u2019s championship roots began in Groveton, Texas, carving an all-time Eagles\u2019 great",
+      "description": "Lane Johnson had a way of making everyone around him feel welcome. He has always been that way. Piled under a mountain of pads, the hulking, 6-foot-6, 335-pound perennial Eagles\u2019 All-Pro right tackle was an anomaly since high school, part superhero, ",
+      "link": "",
+      "pubDate": "2026-10-09T15:29:45-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Report: Eagles are releasing QB Andy Dalton",
@@ -411,6 +431,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-08-29T015537Z_1032886381_MT1USATODAY29684575_RTRMADP_3_PHILADELPHIA-E.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Jabari Walker appears ready to play his role",
+      "description": "Much of the conversation around the Philadelphia 76ers this past offseason rightfully surrounded the pair of high-profile additions entering the starting lineup. However, the depth of the roster will also play a critical role in the Sixers achieving ",
+      "link": "",
+      "pubDate": "2026-10-09T14:57:37-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Flyers Prospect Report: Gaucher delivers, Murtagh gets rolling",
@@ -743,16 +773,6 @@
       "source": "PHL Sports Nation"
     },
     {
-      "title": "Eagles Injury Report: Saquon Barkley, DeVonta Smith among 7 players who did not practice",
-      "description": "The Philadelphia Eagles issued their first official injury report of the week on Wednesday in advance of their Week 5 game against the Jacksonville Jaguars in London. The Eagles listed seven players under DID NOT PARTICIPATE: Saquon Barkley, DeVonta ",
-      "link": "",
-      "pubDate": "2026-10-07T18:45:46-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Lane Johnson Retires, Ending an Eagles Era Earlier Than Expected",
       "description": "Lane Johnson\u2019s unexpected retirement ends a remarkable 14-year career with the Philadelphia Eagles. As the franchise says goodbye to a two-time Super Bowl champion, a new challenge begins at right tackle. The post Lane Johnson Retires, Ending an Eagl",
       "link": "https://phlsportsnation.com/2026/10/07/lane-johnson-retirement-2026-eagles/",
@@ -771,16 +791,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Is the Nick Sirianni era already over?",
-      "description": "\u201cHow did you go bankrupt?\u201d\u201cGradually, then suddenly.\u201d Ernest Hemingway\u2019s iconic line can be applied to many lines of work. When you look at the final seasons of the head coaches under Jeffery Lurie, this feels like it could be it for Nick Sirianni. A",
-      "link": "",
-      "pubDate": "2026-10-07T16:38:34-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Sixers provide more injury updates on Adem Bona, Dominick Barlow, Anfernee Simons",
@@ -841,16 +851,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "PHL Sports Nation"
-    },
-    {
-      "title": "How the Sixers can add another backup center after Ariel Hukportis Achilles injury",
-      "description": "The Sixers preseason opener was the textbook definition of a glass-half-full, glass-half-empty night. The glass-half-full: Jaylen Brown scored 22 points in 15 minutes. VJ Edgecombe couldnt buy a bucket from deep, but he chipped in a well-rounded 12 p",
-      "link": "",
-      "pubDate": "2026-10-06T16:15:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "RECAP \u2013 Week 4: A Loss to the Rams Has Eagles Fans Questioning This Team\u2019s Future, 24-20",
