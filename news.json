@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-11T19:14:38.845809+00:00",
-  "count": 179,
+  "updated": "2026-10-11T23:15:55.865163+00:00",
+  "count": 178,
   "articles": [
+    {
+      "title": "Flyers vs. Hurricanes: How to watch, lineups, and gamethread",
+      "description": "Its a quick turnaround here, and after quite a disappointing loss on the road in Boston yesterday afternoon (their sixth of the season, for those keeping track at home), the Flyers are right back at it again tonight, looking to get things moving in t",
+      "link": "https://www.broadstreethockey.com/post/flyers-vs-hurricanes-how-to-watch-lineups-and-gamethread-4/",
+      "pubDate": "Sun, 11 Oct 2026 20:30:00 +0000",
+      "author": "Madeline Campbell",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
     {
       "title": "Why the Eagles Should Still Trust Nick Sirianni",
       "description": "Nick Sirianni led the Philadelphia Eagles to two Super Bowls and five consecutive playoff appearances. Despite a 2-2 start in 2026 and offensive struggles, his track record of leadership, adaptability and winning gives Philadelphia five reasons to ke",
@@ -71,16 +81,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/092826_SixersMediaDay_ColleenClaggett-5800.jpg",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Why Alex Cora snubbing Phillies should be a relief",
-      "description": "In the first disappointment of the offseason, the Phillies' top choice for the vacant manager role, Alex Cora, declined to skipper the team in 2027. However, that should be greeted by fans as a...",
-      "link": "https://thatballsouttahere.com/why-alex-cora-snubbing-phillies-should-be-a-relief?utm_source=RSS",
-      "pubDate": "Thu, 08 Oct 2026 21:00:00 +0000",
-      "author": "That Ball's Outta Here",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Philly Sports Wire"
     },
     {
       "title": "Eagles-Jaguars Week 5 odds update: The Birds are even steeper underdogs now",
@@ -191,6 +191,16 @@
       "thumbnail": null,
       "team": "general",
       "source": "PHL Sports Nation"
+    },
+    {
+      "title": "Phillies legend Brad Lidge says obvious problem Philadelphia now faces",
+      "description": "Do the Phillies have an obvious fix?",
+      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-legend-brad-lidge-obvious-problem-now-faces/12706b0abbcd3fecc887c66b",
+      "pubDate": "Sat, 03 Oct 2026 17:54:50 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "There\u2019s \u2018no question\u2019 that Phillies\u2019 late-season struggles hurt their chances in Wild Card Series",
@@ -373,6 +383,36 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Handing out 10 awards from the Eagles-Jaguars game",
+      "description": "Nick Sirianni made a late mistake in Sunday's loss to the Jaguars that he cannot afford to make.",
+      "link": "https://www.phillyvoice.com/eagles-jaguars-10-awards-week-5-nick-sirianni-bad-decisions-jalen-hurts/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sun, 11 Oct 2026 20:27:22 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-11T162941Z_47849920_MT1USATODAY30057138_RTRMADP_3_NFL-PHILADELPHIA.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "The 3 Flyers who could possibly turn this season around",
+      "description": "For the Philadelphia Flyers, things currently look as bleak as the eight-goalie season under Dave Hakstol. Or the end of the John Tortorella era. Or Peter Laviolettes coda. The 1-6-1 start before Ken Hitchcock was canned also wasnt pleasant. However,",
+      "link": "https://www.broadstreethockey.com/post/the-3-flyers-who-could-possibly-turn-this-season-around/",
+      "pubDate": "Sun, 11 Oct 2026 20:14:53 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Eagles Week 5 stock watch: Some key third down plays, but absolutely no run game",
+      "description": "Just when you thought you could mentally check out \u2014 let your Eagles anxiety go and lower your expectations \u2014 the Eagles break your heart again.",
+      "link": "https://www.phillyvoice.com/eagles-week-5-stock-watch-jaguars-london-jalen-hurts-third-down-defense-injuries-news-latest/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sun, 11 Oct 2026 19:47:22 +0000",
+      "author": "Evan Macy",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-11T153351Z_1493170034_MT1USATODAY30056978_RTRMADP_3_NFL-PHILADELPH.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
       "title": "The Eagles can't outlast reality",
       "description": "The Eagles don't have the skill to outlast anymore, and now luck is catching up to them, too.",
       "link": "https://www.phillyvoice.com/eagles-jaguars-london-reactions-analysis-willie-lampkin-jalen-hurts-luck/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -391,16 +431,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Eagles Week 5 stock watch: Some key third down plays, but absolutely no run game",
-      "description": "Just when you thought you could mentally check out \u2014 let your Eagles anxiety go and lower your expectations \u2014 the Eagles break your heart again.",
-      "link": "https://www.phillyvoice.com/eagles-week-5-stock-watch-jaguars-london-jalen-hurts-third-down-defense-injuries-news-latest/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sun, 11 Oct 2026 17:34:56 +0000",
-      "author": "Evan Macy",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-11T153351Z_1493170034_MT1USATODAY30056978_RTRMADP_3_NFL-PHILADELPH.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Eagles-Jaguars final score: Philadelphia loses on last-second field goal make",
@@ -683,16 +713,6 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "3 reasons Owen Tippett could finally break out for the Flyers",
-      "description": "As they are in the early stages of a new season, theres a bit more hope for the Philadelphia Flyers this year than at any point in the last decade. Unless you count the pandemic-era playoffs which had them win a playoff round. Other than that, the Fl",
-      "link": "https://www.broadstreethockey.com/post/3-reasons-owen-tippett-could-finally-break-out-for-the-flyers/",
-      "pubDate": "Fri, 09 Oct 2026 17:20:32 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "How would MLB\u2019s 154-game proposal have affected Phillies in recent years?",
       "description": "On Sept. 18, the Phillies ran a bullpen game in a losing effort against the Mets at Citi Field. Left-hander Tim Mayza allowed three runs as the opener, and Orion Kerkering gave up three more in the sixth inning. The Phillies could not come out victor",
       "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-news-analysis-rule-change-proposals-154-game-season-162-playoff-postseason-changes/",
@@ -783,76 +803,6 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "The Flyers finally have something to build on after their brutal start",
-      "description": "The Philadelphia Flyers put up their best effort of the young season on Thursday night in Ottawa, but it still wasnt enough as they fell 2-1 in the Senators home opener. While saying it was their best effort may not mean much given how poorly the fir",
-      "link": "https://www.broadstreethockey.com/post/the-flyers-finally-have-something-to-build-on-after-their-brutal-start/",
-      "pubDate": "Fri, 09 Oct 2026 11:30:00 +0000",
-      "author": "Ryan Gilbert",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "LeBron James admits that he is finding his stride with the 76ers after preseason debut",
-      "description": "LeBron James seems to be settling in nicely with the 76ers after making his debut.",
-      "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/lebron-james-admits-finding-his-stride-76ers-preseason-debut/abec3a081cedbe7ecbd8ce3c",
-      "pubDate": "Fri, 09 Oct 2026 05:48:05 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Embiid calls himself 'easy target' in wake of 'not true' LeBron report",
-      "description": "Joel Embiid said a recent report about LeBron James getting on him about being late to practice \"never happened\" and caused him to wonder why he was targeted.",
-      "link": "https://www.espn.com/nba/story/_/id/50137826/76ers-embiid-calls-not-true-lebron-report-unfortunate",
-      "pubDate": "Fri, 09 Oct 2026 05:34:37 +0000",
-      "author": "ESPN",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "LeBron still adjusting but logs strong start in 1st game with 76ers",
-      "description": "LeBron James, who joined the 76ers this summer, had 10 points, five assists and four rebounds in the first half of his debut with Philadelphia.",
-      "link": "https://www.espn.com/nba/story/_/id/50137673/lebron-james-scores-10-points-18-minutes-76ers-debut",
-      "pubDate": "Fri, 09 Oct 2026 05:10:05 +0000",
-      "author": "ESPN",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Take two: Dante Nori hopes this Fall League stint leads him to Philly",
-      "description": "",
-      "link": "https://www.mlb.com/phillies/news/healthy-phillies-prospect-dante-nori-in-2026-arizona-fall-league",
-      "pubDate": "Fri, 09 Oct 2026 04:08:46 +0000",
-      "author": "MLB.com",
-      "thumbnail": null,
-      "team": "general",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "David Jiricek showed more of what he could be for the Flyers",
-      "description": "As we are quickly learning during the first five games of the 2026-27 Philadelphia Flyers, it was never going to be perfect. Whether we want to attribute that little notion to the team now owning...",
-      "link": "https://www.broadstreethockey.com/post/david-jiricek-showed-more-of-what-he-could-be-for-the-flyers/",
-      "pubDate": "Fri, 09 Oct 2026 04:00:56 +0000",
-      "author": "Broad Street Hockey",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "LeBron James' unselfishness stands out in the promising preview for the 76ers' season",
-      "description": "LeBron James has always had an eye for the right play, and it seems that will stick with him as he plays for the 76ers.",
-      "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/lebron-james-unselfishness-stands-out-promising-76ers-season/647bd9cdb6b8144d83fbcc0a",
-      "pubDate": "Fri, 09 Oct 2026 03:07:25 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
       "title": "Sixers Bell Ringer: Starting five flashes dominance vs. Nets",
       "description": "Preseason Bell Ringer rankings: Jaylen Brown 1 It was the first game the starting five of LeBron James, Tyrese Maxey, Jaylen Brown, VJ Edgecombe and Joel Embiid all played together, and there is a ton to be excited about. Jaylen Brown continued his s",
       "link": "",
@@ -861,16 +811,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Three takeaways from LeBron James' preseason 76ers debut",
-      "description": "James produced 10 points, five assists and four rebounds across 18 minutes.",
-      "link": "https://www.sportingnews.com/us/nba/news/three-takeaways-lebron-james-preseason-76ers-debut/33fa3e47027fdf2ec344e038",
-      "pubDate": "Fri, 09 Oct 2026 02:57:01 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
     },
     {
       "title": "Sixers\u2019 starters dazzle at times, play sloppy at others in preseason loss to Nets",
@@ -893,16 +833,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Takeaways: Flyers look better, but not good enough in tough 2-1 loss to Ottawa",
-      "description": "The Flyers upped their compete level, scored a power play goal, and still ended up on the wrong side of the scoreboard Thursday night, losing a tough one 2-1 to the Ottawa Senators. Despite their...",
-      "link": "https://www.broadstreethockey.com/post/takeaways-flyers-look-better-but-not-good-enough-in-tough-2-1-loss-to-ottawa/",
-      "pubDate": "Fri, 09 Oct 2026 01:59:45 +0000",
-      "author": "Broad Street Hockey",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Philly Sports Wire"
-    },
-    {
       "title": "Sixers-Nets preseason: Game Discussion Thread",
       "description": "Game Details When: Thursday, October 8, 7:30 p.m. ETWhere: Barclays Center, Brooklyn, NYWatch: NBC Sports Philadelphia+Radio: 97.5 The FanaticFollow: @LibertyBallers",
       "link": "",
@@ -911,16 +841,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Eagles wide receiver faces injury setback during practice",
-      "description": "The Eagles were given some worrying news on Wednesday afternoon.",
-      "link": "https://www.sportingnews.com/us/nfl/philadelphia-eagles/news/eagles-wide-receiver-faces-injury-setback-during-practice/d681d58ca6c5b77213854d19",
-      "pubDate": "Thu, 08 Oct 2026 22:17:22 +0000",
-      "author": "Sporting News",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Philly Sports Wire"
     },
     {
       "title": "LeBron James will make Sixers preseason debut vs. Nets",
@@ -933,26 +853,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "'Where's LeBron?': Sixers trio makes 'Abbott Elementary' cameo",
-      "description": "\"Abbott Elementary\" continues to embrace Philadelphia sports culture with its latest instance starring the 76ers.",
-      "link": "https://www.espn.com/nba/story/_/id/50134809/abbott-elementary-season-six-premiere-sixers-cameo",
-      "pubDate": "Thu, 08 Oct 2026 21:51:42 +0000",
-      "author": "ESPN",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Sources: Sixers plan to unveil new-look starting 5 vs. Nets in preseason",
-      "description": "The 76ers plan to play their starters Thursday against the Nets, sources told ESPN.",
-      "link": "https://www.espn.com/nba/story/_/id/50134832/sources-76ers-plan-play-starters-preseason-game-vs-nets",
-      "pubDate": "Thu, 08 Oct 2026 21:05:31 +0000",
-      "author": "ESPN",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
       "title": "Week 5 non-Eagles rooting guide",
       "description": "The Eagles have shown evidence of packing it in for the season, but for those still holding out hope, these are the other games to keep an eye on.",
       "link": "https://www.phillyvoice.com/week-5-non-eagles-rooting-guide-2026/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -961,46 +861,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-09-07T204547Z_1734378307_MT1USATODAY27029075_RTRMADP_3_NFL-NEW-YORK-G.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Flyers @ Senators: How to watch, lineups, and gamethread",
-      "description": "The Flyers are hitting the next stop on their road trip tonight, arriving in Ottawa for their first matchup of the season against some familiar faces on this Senators squad. They\u2019ve made some more...",
-      "link": "https://www.broadstreethockey.com/post/flyers-senators-how-to-watch-lineups-and-gamethread-2/",
-      "pubDate": "Thu, 08 Oct 2026 20:30:00 +0000",
-      "author": "Broad Street Hockey",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "By the Numbers: Eagles at Jaguars",
-      "description": "The Eagles have never lost outside of the United States, while the Jaguars are the NFL's winningest team in London.",
-      "link": "https://www.philadelphiaeagles.com/news/by-the-numbers-eagles-at-jaguars-2026-nfl-week-5-london-international-game-devonta-smith-trevor-lawrence",
-      "pubDate": "Thu, 08 Oct 2026 20:00:00 +0000",
-      "author": "Eagles.com",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Could LeBron James help solve the 76ers' depth problem at center? Here's what the numbers say",
-      "description": "LeBron at the 5? The 76ers might need to try it after their backup center was hurt in their preseason opener",
-      "link": "https://www.cbssports.com/nba/news/lebron-james-76ers-depth-problem-at-center/",
-      "pubDate": "Thu, 08 Oct 2026 19:21:47 +0000",
-      "author": "CBS Sports",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Michael Bunting eager to make Flyers debut against Senators",
-      "description": "Michael Bunting wasn\u2019t expecting it would take this long to be back with a National Hockey League club this season. But tonight he suits up for the Philadelphia Flyers after signing a one-year...",
-      "link": "https://www.broadstreethockey.com/post/michael-bunting-eager-to-make-flyers-debut-against-senators/",
-      "pubDate": "Thu, 08 Oct 2026 19:12:42 +0000",
-      "author": "Broad Street Hockey",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Philly Sports Wire"
     },
     {
       "title": "Labaron Philon is ready to learn in transition to NBA",
@@ -1293,6 +1153,86 @@
       "source": "PhillyVoice Sixers"
     },
     {
+      "title": "Where to watch Eagles vs. Rams today: Channel, live stream, time, TV schedule for Week 4 NFL game",
+      "description": "Here is everything you need to know about Eagles vs. Rams, including TV and streaming options for the game.",
+      "link": "https://www.sportingnews.com/us/nfl/news/watch-eagles-rams-channel-stream-time-schedule/2e018b0404969e3da0906c32",
+      "pubDate": "Sun, 04 Oct 2026 05:30:02 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "3 Takeaways From Struggling Flyers\u2019 3-2 OT Loss to Hurricanes",
+      "description": "Just under ten years ago, Shayne Gostisbehere scored an overtime winner in Philadelphia in a game between the Flyers and the Carolina Hurricanes. Then, about a month later, he did\u2026",
+      "link": "https://thehockeywriters.com/3-takeaways-from-struggling-flyers-3-2-ot-loss-to-hurricanes/",
+      "pubDate": "Sun, 04 Oct 2026 02:25:00 +0000",
+      "author": "Hockey Writers",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Flyers\u2019 Rasmus Ristolainen leaves game with undisclosed injury",
+      "description": "Ristolainen left after taking a shot to his left hand late in the second period of the Flyers\u2019 overtime loss to the Hurricanes.",
+      "link": "https://www.dailyfaceoff.com/news/rasmus-ristolainen-philadelphia-flyers-undisclosed-injury-leaves-game-hurricanes-left-hand",
+      "pubDate": "Sun, 04 Oct 2026 02:15:01 +0000",
+      "author": "Daily Faceoff",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Takeaways: Third time is not the charm as Flyers lose to Carolina 3-2 in overtime",
+      "description": "The Flyers are still looking for their first win of the season after losing 3-2 in overtime to Carolina Saturday night at Xfinity Mobile Arena. The Canes outshot the Flyers badly, while...",
+      "link": "https://www.broadstreethockey.com/post/takeaways-third-time-is-not-the-charm-as-flyers-lose-to-carolina-3-2-in-overtime/",
+      "pubDate": "Sun, 04 Oct 2026 01:59:10 +0000",
+      "author": "Broad Street Hockey",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Bears LT Braxton Jones on IR; Benedet to start vs. Eagles",
+      "description": "Bears left tackle Braxton Jones has been placed on injured reserve after sustaining an injury to his right knee against the Eagles in Week 3.",
+      "link": "https://www.espn.com/nfl/story/_/id/50092744/bears-lt-braxton-jones-ir-theo-benedet-start-vs-eagles",
+      "pubDate": "Sat, 03 Oct 2026 21:19:15 +0000",
+      "author": "ESPN",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Eagles elevate Josiah Deguara, Zach Ertz for Sunday's game",
+      "description": "Ertz is eligible to play in his first home game since rejoining the Eagles.",
+      "link": "https://www.philadelphiaeagles.com/news/eagles-elevate-josiah-deguara-zach-ertz-for-rams-2026-nfl-week-4",
+      "pubDate": "Sat, 03 Oct 2026 21:00:00 +0000",
+      "author": "Eagles.com",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "LeBron, Brown scrimmage for 76ers as fans flock for first look",
+      "description": "Throngs of fans waited in lines more than 10-deep to watch LeBron James, Jaylen Brown and the rest of the 76ers take part in Saturday's scrimmage.",
+      "link": "https://www.espn.com/nba/story/_/id/50092448/lebron-james-calls-scrimmage-great-first-step-new-look-76ers",
+      "pubDate": "Sat, 03 Oct 2026 20:58:06 +0000",
+      "author": "ESPN",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "LeBron James gets brutally honest about Joel Embiid's health today compared to 2024",
+      "description": "LeBron James seems pleased with Joel Embiid's health lately.",
+      "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/lebron-james-honest-joel-embiid-health-today-compared-2024/107f9ee0f2b9dda6185a0d29",
+      "pubDate": "Sat, 03 Oct 2026 19:58:51 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Philly Sports Wire"
+    },
+    {
       "title": "After 'great first week,' LeBron James 'just trying to build' with Joel Embiid, Sixers teammates",
       "description": "After the Sixers held their annual Blue x White Scrimmage, LeBron James and Joel Embiid both met with reporters to discussing the ongoing acclimation process for a new-look team.",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-blue-white-scrimmage-video-highlights-full-lebron-james-joel-embiid-jaylen-brown-tyrese-maxey-vj-edgecombe/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -1301,6 +1241,56 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/092826_SixersMediaDay_ColleenClaggett-5433.jpg",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "LeBron James reveals excitement for the 76ers' first step to success in the 2026-27 season",
+      "description": "LeBron James and his teammates look pumped for the 2026-27 NBA season.",
+      "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/lebron-james-hyped-76ers-first-step-success-26-27-season/aee01bc448dbf85c4a96fe12",
+      "pubDate": "Sat, 03 Oct 2026 19:06:38 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Phillies\u2019 Kyle Schwarber rightfully gives vote of confidence to Don Mattingly amid rumors about Alex Cora",
+      "description": "It's clear who Schwarber wants.",
+      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/kyle-schwarber-confidence-don-mattingly-rumors-alex-cora/16dd721073bec643a2a1cbb9",
+      "pubDate": "Sat, 03 Oct 2026 18:20:36 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Roundtable: The biggest concern about the Flyers\u2019 terrible start",
+      "description": "The Philadelphia Flyers have had a miserable start to their season. A 7-0 loss in their season opener against the hated Penguins at home, followed by a 3-2 overtime loss to the Devils where the...",
+      "link": "https://www.broadstreethockey.com/post/roundtable-the-biggest-concern-about-the-flyers-terrible-season-start/",
+      "pubDate": "Sat, 03 Oct 2026 17:49:10 +0000",
+      "author": "Broad Street Hockey",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Eagles WR Devonta Smith To Miss Multiple Games",
+      "description": "Eagles wide receiver DeVonta Smith is expected to be sidelined for multiple games with a \u201clingering right hamstring injury that initially caused him to miss time during camp,\u201d per Olivia Reiner of...",
+      "link": "https://www.profootballrumors.com/2026/10/eagles-wr-devonta-smith-to-miss-multiple-games",
+      "pubDate": "Sat, 03 Oct 2026 17:45:17 +0000",
+      "author": "Pro Football Rumors",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
+    },
+    {
+      "title": "Eagles get concerning multi-week DeVonta Smith injury update",
+      "description": "This injury update for the Eagles' WR is not good news at all.",
+      "link": "https://www.sportingnews.com/us/nfl/philadelphia-eagles/news/eagles-get-concerning-multi-week-devonta-smith-injury-update/f33a53302bd42e4d7714e135",
+      "pubDate": "Sat, 03 Oct 2026 15:45:08 +0000",
+      "author": "Sporting News",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Philly Sports Wire"
     },
     {
       "title": "This era of the Phillies feels like it's over",
