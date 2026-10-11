@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T22:14:41.341996+00:00",
+  "updated": "2026-10-11T01:22:21.182894+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -86,18 +86,6 @@
       "recent": [],
       "upcoming": [
         {
-          "date": "10/11",
-          "home": "BOS",
-          "away": "PHI",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NBA",
-          "name": "Philadelphia 76ers at Boston Celtics",
-          "shortName": "PHI @ BOS",
-          "time": "8:00 PM ET",
-          "status": "scheduled"
-        },
-        {
           "date": "10/16",
           "home": "PHI",
           "away": "BOS",
@@ -114,18 +102,6 @@
     "flyers": {
       "recent": [],
       "upcoming": [
-        {
-          "date": "10/10",
-          "home": "CHI",
-          "away": "CAR",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NHL",
-          "name": "Carolina Hurricanes at Chicago Blackhawks",
-          "shortName": "CAR @ CHI",
-          "time": "7:00 PM ET",
-          "status": "scheduled"
-        },
         {
           "date": "10/14",
           "home": "CHI",
@@ -184,6 +160,18 @@
           "name": "Florida Panthers at Chicago Blackhawks",
           "shortName": "FLA @ CHI",
           "time": "3:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/28",
+          "home": "CHI",
+          "away": "LA",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NHL",
+          "name": "Los Angeles Kings at Chicago Blackhawks",
+          "shortName": "LA @ CHI",
+          "time": "8:00 PM ET",
           "status": "scheduled"
         }
       ]
