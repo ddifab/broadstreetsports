@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T08:36:14.700217+00:00",
-  "count": 180,
+  "updated": "2026-10-13T16:31:43.229425+00:00",
+  "count": 177,
   "articles": [
     {
       "title": "You Can Hope All You Want, But Nick Sirianni Won\u2019t Be Fired Midseason",
@@ -13,16 +13,6 @@
       "source": "PHL Sports Nation"
     },
     {
-      "title": "Flyers vs. Hurricanes: How to watch, lineups, and gamethread",
-      "description": "Its a quick turnaround here, and after quite a disappointing loss on the road in Boston yesterday afternoon (their sixth of the season, for those keeping track at home), the Flyers are right back at it again tonight, looking to get things moving in t",
-      "link": "https://www.broadstreethockey.com/post/flyers-vs-hurricanes-how-to-watch-lineups-and-gamethread-4/",
-      "pubDate": "Sun, 11 Oct 2026 20:30:00 +0000",
-      "author": "Madeline Campbell",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "Why the Eagles Should Still Trust Nick Sirianni",
       "description": "Nick Sirianni led the Philadelphia Eagles to two Super Bowls and five consecutive playoff appearances. Despite a 2-2 start in 2026 and offensive struggles, his track record of leadership, adaptability and winning gives Philadelphia five reasons to ke",
       "link": "https://phlsportsnation.com/2026/10/09/why-eagles-should-trust-nick-sirianni/",
@@ -31,6 +21,56 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "PHL Sports Nation"
+    },
+    {
+      "title": "Vic Fangio confirms Eagles will rotate Jeremiah Trotter Jr. and Jihaad Campbell moving forward",
+      "description": "The Philadelphia Eagles entered Week 5 planning to make a change at off-ball linebacker. That plan went out of the window after Jeremiah Trotter Jr. was questionably ejected for an on-field fracas that took place during the game\u2019s opening kickoff. As",
+      "link": "",
+      "pubDate": "2026-10-13T12:02:35-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Reports: Sixers hire Brad Jones as general manager of Delaware Blue Coats",
+      "description": "Brad Jones, formerly of the Orlando Magic and NBA G League, will replace Ariana Andonian leading the Delaware Blue Coats.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-nba-g-league-brad-jones-front-office-directory/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 13 Oct 2026 14:15:11 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_25333443.jpg",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Phillies stay or go: 2B/3B Bryson Stott",
+      "description": "Bryson Stott's contract can easily be moved. If they want to open up a starting infield spot, and maybe replenish their lowly rated farm system, a trade of Stott could be on the table.",
+      "link": "https://www.phillyvoice.com/phillies-stay-or-go-2b-3b-ss-infielder-bryson-stott-mlb-trade-rumors-news-analysis/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 13 Oct 2026 13:20:48 +0000",
+      "author": "Evan Macy",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/0098_09132023_Phillies_Braves_Frese.jpg",
+      "team": "phillies",
+      "source": "PhillyVoice"
+    },
+    {
+      "title": "Sixers mailbag: Can improved transition offense lead to defensive improvement?",
+      "description": "If the Sixers can build an elite transition offense, defending will become much easier. This week's Sixers mailbag explores the potential ripple effect.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-roster-depth-chart-nick-nurse-lebron-james-highlights-tyrese-maxey-stats-nba-interview/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 13 Oct 2026 12:43:03 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/111725_SixersvCeltics_ColleenClaggett-1713.jpg",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "The Flyers are already running out of time",
+      "description": "Sunday night's loss to Carolina brought on the worst start in franchise history, with no clear way out of it. The Flyers' season is already in danger.",
+      "link": "https://www.phillyvoice.com/flyers-already-out-of-time-worst-start-record-rick-tocchet-hot-seat-trevor-zegras-matvei-michkov-nhl/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 13 Oct 2026 12:10:05 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-12T020121Z_789272288_MT1USATODAY30062832_RTRMADP_3_NHL-CAROLINA-HU.JPG",
+      "team": "flyers",
+      "source": "PhillyVoice Flyers"
     },
     {
       "title": "Flyers reportedly not firing Rick Tocchet anytime soon",
@@ -151,16 +191,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
-    },
-    {
-      "title": "Eagles trade C/G Cam Jurgens to the Ravens",
-      "description": "The Philadelphia Eagles have traded C/G Cam Jurgens and a 2027 seventh-round pick to the Baltimore Ravens for a 2027 fifth-round pick and a 2028 second-round pick.",
-      "link": "https://www.phillyvoice.com/eagles-trade-c-g-cam-jurgens-ravens/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 07 Oct 2026 17:35:01 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-10T185723Z_1127895306_MT1USATODAY29167730_RTRMADP_3_NFL-PHILADELPH.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Flyers sign depth forward Michael Bunting amid winless start",
@@ -323,16 +353,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "5 Phillies thoughts: The state of the Wild Card race, some postseason bullpen ideas",
-      "description": "A lot is up in the air and this week the final six games of the regular season offer a ton for the Phillies to play for.",
-      "link": "https://www.phillyvoice.com/5-phillies-thoughts-bullpen-starters-andrew-painter-jesus-luzardo-nl-wild-card-standings-odds-clinch-magic-number/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 21 Sep 2026 16:39:54 +0000",
-      "author": "Evan Macy",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-20T205329Z_180756922_MT1USATODAY29875240_RTRMADP_3_MLB-PHILADELPHI.JPG",
-      "team": "phillies",
-      "source": "PhillyVoice"
-    },
-    {
       "title": "How Does George Suspension Impact 76ers for Rest of 2025-26 Season?",
       "description": "The Paul George suspension will impact everything the 76ers do from on-court play to influencing their potential moves at the upcoming trade deadline. The post How Does George Suspension Impact 76ers for Rest of 2025-26 Season? appeared first on Phil",
       "link": "https://www.sportstalkphilly.com/news/how-does-george-suspension-impact-76ers-for-rest-of-2025-26-season/",
@@ -361,6 +381,86 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "SportsTalk Philly"
+    },
+    {
+      "title": "Sixers reveal court for 2026 NBA Cup",
+      "description": "The Sixers have tried and failed to advance beyond Group Play in the NBA Cup's first three seasons.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-reveal-court-2026-nba-cup-courts/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 13 Oct 2026 16:13:06 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/Screenshot_2026-10-13_at_12.03.43PM.png",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Rick Tocchet shakes up Flyers lineup, puts Martone and Michkov together",
+      "description": "The Philadelphia Flyers are playing miserable hockey. Miserable for the players as they cant connect on any passes and have scored just eight goals in seven games. Miserable for management and the coaching staff as they continue to search for answers",
+      "link": "https://www.broadstreethockey.com/post/rick-tocchet-shakes-up-flyers-lineup-puts-martone-and-michkov-together/",
+      "pubDate": "Tue, 13 Oct 2026 15:40:47 +0000",
+      "author": "Thomas Williams",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Christian Parker seems to be getting Sean Desai\u2019d by the Cowboys",
+      "description": "You may have noticed that former Philadelphia Eagles passing game coordinator/defensive backs coach Christian Parker is off to a rough start as the Dallas Cowboys\u2019 defensive coordinator. Here\u2019s how the Cowboys\u2019 defense ranks in a number of metrics ex",
+      "link": "",
+      "pubDate": "2026-10-13T11:36:19-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Eagles News: The case for punting on the 2026 season",
+      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! I happen to agree with BGN alumnus Jimmy Kempski\u2019s assessment of the 2026 Eagles. This team is probably cooked. Sure, they\u2019re not far off from being 4-1. And m",
+      "link": "",
+      "pubDate": "2026-10-13T10:21:54-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Kentavious Caldwell-Pope could be the Sixers secret weapon this season",
+      "description": "LeBron James and Jaylen Brown arent the only former NBA champions whom the Sixers added to their roster this offseason. Shortly after landing LeBron, they also signed Kentavious Caldwell-Pope to a one-year, veteran-minimum contract. KCP has largely g",
+      "link": "",
+      "pubDate": "2026-10-13T09:36:05-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Flyers are one loss away from making NHL history",
+      "description": "On Sunday night the Philadelphia Flyers made history. For all the wrong reasons. After keeping Carolina scoreless for roughly half of regulation, the defending Stanley Cup champions broke the game open, and cruised rather easily to a 4-1 victory on t",
+      "link": "https://www.broadstreethockey.com/post/flyers-are-one-loss-away-from-making-nhl-history/",
+      "pubDate": "Tue, 13 Oct 2026 12:00:00 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Phillies stay or go: RP Jos\u00e9 Alvarado, Tim Mayza, Brooks Raley",
+      "description": "The Phillies only have three relief pitchers (or four depending how you count) slated to become free agents in a few weeks.",
+      "link": "https://www.phillyvoice.com/phillies-stay-or-go-relief-pitchers-bullpen-free-agent-news-offseason-jose-alvarado-tim-mayza-brooks-raley/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 13 Oct 2026 11:50:23 +0000",
+      "author": "Evan Macy",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_26076453.jpg",
+      "team": "phillies",
+      "source": "PhillyVoice"
+    },
+    {
+      "title": "Tuesday Morning Fly By: How about this time?",
+      "description": "*The Philadelphia Flyers are back in action tonight but over the weekend, we got to see the season debut of top prospect Oliver Bonk. He was thrown to the wolves on the top pairing next to Travis Sanheim and torn apart by the Carolina Hurricanes, but",
+      "link": "https://www.broadstreethockey.com/post/tuesday-morning-fly-by-how-about-this-time/",
+      "pubDate": "Tue, 13 Oct 2026 10:00:00 +0000",
+      "author": "Thomas Williams",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Recap: The One That Got Away \u2014 An October Game Meant for Halloween. Jaguars Beat Eagles 19\u201317",
@@ -533,36 +633,6 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "Phillies stay or go: RP Jos\u00e9 Alvarado, Tim Mayza, Brooks Raley",
-      "description": "The Phillies only have three relief pitchers (or four depending how you count) slated to become free agents in a few weeks.",
-      "link": "https://www.phillyvoice.com/phillies-stay-or-go-relief-pitchers-bullpen-free-agent-news-offseason-jose-alvarado-tim-mayza-brooks-raley/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 12 Oct 2026 12:47:15 +0000",
-      "author": "Evan Macy",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_26076453.jpg",
-      "team": "phillies",
-      "source": "PhillyVoice"
-    },
-    {
-      "title": "Eagles-Jaguars snap counts: Darius Cooper played the most of any wide receiver",
-      "description": "The official snap counts from the Philadelphia Eagles\u2019 Week 5 loss to the Jacksonville Jaguars are in. Let\u2019s take a look and run through some analysis. OFFENSE DEFENSE SPECIAL TEAMS DID NOT PLAY ACTIVE: Tanner McKee, John Ojukwu INACTIVE: Hollywood B",
-      "link": "",
-      "pubDate": "2026-10-12T07:26:26-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Eagles News: \u201cIt really hasn\u2019t been a good year for Nick Sirianni\u201d",
-      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! The Eagles need more from their head coach. He\u2019s not providing answers on offense and the game management just hasn\u2019t been good. Let\u2019s get to the Philadelphia ",
-      "link": "",
-      "pubDate": "2026-10-12T06:22:39-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Monday Morning Fly By: History in the making",
       "description": "*Folks, things are not going well around here. The Flyers really needed to make some headway in this weekends back-to-back, but they pretty well squandered that opportunity. It was another tough loss to the Bruins to kick things off. [BSH] *And then ",
       "link": "https://www.broadstreethockey.com/post/monday-morning-fly-by-history-in-the-making/",
@@ -583,26 +653,6 @@
       "source": "PHL Sports Nation"
     },
     {
-      "title": "Takeaways: Flyers make franchise history, lose their seventh in a row to Carolina 4-1",
-      "description": "The Philadelphia Flyers set a franchise low Sunday night, losing their seventh straight game to start the season. Carolina defeated the Flyers 4-1, extending the misery for at least another two days. The basics First period: No scoringSecond period: ",
-      "link": "https://www.broadstreethockey.com/post/takeaways-flyers-make-franchise-history-lose-their-seventh-in-a-row-to-carolina-4-1/",
-      "pubDate": "Mon, 12 Oct 2026 01:54:55 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Nick Sirianni: \u201cI lost us that game\u201d",
-      "description": "The Eagles struggled throughout Sunday\u2019s game against the Jaguars, but it was their end-of-game management that drew the most criticism. During his post-game press conference, head coach Nick Sirianni took full accountability for the decision-making ",
-      "link": "",
-      "pubDate": "2026-10-11T21:19:41-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Handing out 10 awards from the Eagles-Jaguars game",
       "description": "Nick Sirianni made a late mistake in Sunday's loss to the Jaguars that he cannot afford to make.",
       "link": "https://www.phillyvoice.com/eagles-jaguars-10-awards-week-5-nick-sirianni-bad-decisions-jalen-hurts/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -611,16 +661,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-11T162941Z_47849920_MT1USATODAY30057138_RTRMADP_3_NFL-PHILADELPHIA.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "The 3 Flyers who could possibly turn this season around",
-      "description": "For the Philadelphia Flyers, things currently look as bleak as the eight-goalie season under Dave Hakstol. Or the end of the John Tortorella era. Or Peter Laviolettes coda. The 1-6-1 start before Ken Hitchcock was canned also wasnt pleasant. However,",
-      "link": "https://www.broadstreethockey.com/post/the-3-flyers-who-could-possibly-turn-this-season-around/",
-      "pubDate": "Sun, 11 Oct 2026 20:14:53 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Eagles Week 5 stock watch: Some key third down plays, but absolutely no run game",
@@ -933,16 +973,6 @@
       "source": "Philly Sports Wire"
     },
     {
-      "title": "Sixers Bell Ringer: Starting five flashes dominance vs. Nets",
-      "description": "Preseason Bell Ringer rankings: Jaylen Brown 1 It was the first game the starting five of LeBron James, Tyrese Maxey, Jaylen Brown, VJ Edgecombe and Joel Embiid all played together, and there is a ton to be excited about. Jaylen Brown continued his s",
-      "link": "",
-      "pubDate": "2026-10-08T23:00:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Three takeaways from LeBron James' preseason 76ers debut",
       "description": "James produced 10 points, five assists and four rebounds across 18 minutes.",
       "link": "https://www.sportingnews.com/us/nba/news/three-takeaways-lebron-james-preseason-76ers-debut/33fa3e47027fdf2ec344e038",
@@ -951,16 +981,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Philly Sports Wire"
-    },
-    {
-      "title": "Sixers\u2019 starters dazzle at times, play sloppy at others in preseason loss to Nets",
-      "description": "It\u2019s understandable if it\u2019s still hard to believe, but the Sixers\u2019 starting lineup of Tyrese Maxey, VJ Edgecombe, Jaylen Brown, LeBron James and Joel Embiid made its debut Thursday night in Brooklyn. It was just a preseason game, but it gave us a fun",
-      "link": "",
-      "pubDate": "2026-10-08T22:07:08-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "LeBron James, Sixers' starters show massive upside, with a lot of work still to do",
@@ -1131,16 +1151,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Philly's longest-tenured athletes following Lane Johnson's retirement",
-      "description": "The Flyers' Sean Couturier still has the longest-active stay in Philadelphia, but Lane Johnson's retirement does shake up the picture for the city's longest-tenured athletes.",
-      "link": "https://www.phillyvoice.com/longest-tenured-philly-athletes-2026-sean-couturier-aaron-nola-joel-embiid-lane-johnson-retirement/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 07 Oct 2026 17:28:25 +0000",
-      "author": "Nick Tricome",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-09-05T045256Z_1991364392_MT1USATODAY27003488_RTRMADP_3_NFL-DALLAS-COW.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Phillies stay or go: 1B/3B Alec Bohm",
@@ -1463,16 +1473,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "Sixers training camp: VJ Edgecombe is expecting fun, not pressure; details of LeBron James' first practice",
-      "description": "LeBron James and Jaylen Brown partook in their first Sixers practice on Tuesday morning. Head coach Nick Nurse and his players acknowledged how much work is ahead of them.",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-training-camp-practice-video-full-interview-nick-nurse-vj-edgecombe-anfernee-simons-lebron-james-nba/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 29 Sep 2026 20:53:34 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/092826_SixersMediaDay_ColleenClaggett-5932.jpg",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
       "title": "Flyers projected lineup 2.0: Opening Night edition",
       "description": "A breakdown of how the 2026-27 Philadelphia Flyers are expected to line up for their season opener against the Penguins.",
       "link": "https://www.phillyvoice.com/flyers-lineup-projection-2026-27-opening-night-trevor-zegras-porter-martone-nhl/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -1481,16 +1481,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-25T005450Z_763624589_MT1USATODAY29904276_RTRMADP_3_NHL-PRESEASON-B.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Sixers mailbag: Welcome to the 2026-27 season!",
-      "description": "The first mailbag of the 2026-27 Sixers season unpacks the lack of consensus around a new-look roster's place within the NBA and more.",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-media-day-full-video-depth-chart-lebron-james-joel-embiid-nick-nurse-justin-edwards-kcp/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 29 Sep 2026 13:07:20 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/092826_SixersMediaDay_ColleenClaggett-5942.jpg",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
     },
     {
       "title": "The crucial storylines for the 2026-27 Flyers",
@@ -1511,16 +1501,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-25T015448Z_1449322755_MT1USATODAY29904751_RTRMADP_3_NHL-PRESEASON-.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "On first day with Sixers, LeBron James says he envisioned signing with New York Knicks before their championship",
-      "description": "LeBron James will be a central figure in the Sixers' rivalry with the defending champions. But the NBA's all-time leading scorer nearly joined the New York Knicks.",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-lebron-james-media-day-knicks-nba-interview-full-video/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 28 Sep 2026 21:01:08 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/092826_SixersMediaDay_ColleenClaggett-5367.jpg",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
     },
     {
       "title": "Can the Phillies really beat the Braves?",
@@ -1709,16 +1689,6 @@
       "pubDate": "Thu, 23 Jul 2026 20:25:44 +0000",
       "author": "Nick Tricome",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-19T005237Z_952258215_MT1USATODAY28763057_RTRMADP_3_NHL-STANLEY-CUP.JPG",
-      "team": "flyers",
-      "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "The Flyers have built to a healthy cap situation, but now they have to work to keep it that way",
-      "description": "The Trevor Zegras and Jamie Drysdale extensions are reasonable, and the Flyers have a lot of future money still to spend, but now it starts to get tricky for GM Danny Bri\u00e8re.",
-      "link": "https://www.phillyvoice.com/flyers-salary-cap-breakdown-trevor-zegras-jamie-drysdale-extensions-nhl-rumors/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 21 Jul 2026 20:10:04 +0000",
-      "author": "Nick Tricome",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-02-04T050314Z_1121718488_MT1USATODAY28150622_RTRMADP_3_NHL-WASHINGTON.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
     },
