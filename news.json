@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T15:35:06.024240+00:00",
+  "updated": "2026-10-14T19:46:53.953328+00:00",
   "count": 178,
   "articles": [
     {
@@ -21,6 +21,26 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "PHL Sports Nation"
+    },
+    {
+      "title": "How past Flyers GMs responded to historic winless streaks",
+      "description": "As the Flyers are now eight games into the 2026-27 season still looking for a win, and now winless in their last 12 regular season and playoff games combined, the rumor mill is a bit louder than it was just two weeks ago. Remember two weeks ago? Phil",
+      "link": "https://www.broadstreethockey.com/post/how-past-flyers-gms-responded-to-historic-winless-streaks/",
+      "pubDate": "Wed, 14 Oct 2026 17:58:27 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Eagles News: NFL insider senses \u201cthe concern is quite high\u201d in Philadelphia",
+      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! I don\u2019t think the Eagles are sitting back and saying \u201cHey, we\u2019re almost 4-1! We\u2019re going to be fine.\u201d Which is good. You don\u2019t want them to be delusional about",
+      "link": "",
+      "pubDate": "2026-10-14T10:27:21-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Phillies stay or go: OF Brandon Marsh",
@@ -83,6 +103,16 @@
       "source": "PHL Sports Nation"
     },
     {
+      "title": "Eagles practice squad news: 2 players signed, 2 players cut",
+      "description": "The Philadelphia Eagles officially announced four practice squad transactions on Tuesday afternoon. Here\u2019s an overview: Let\u2019s sort through this news on a player-by-player basis. XAVIER TRUSS The 25-year-old Truss is a newcomer to the Eagles. He playe",
+      "link": "",
+      "pubDate": "2026-10-13T16:41:28-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
       "title": "Flyers vs. Kraken: How to watch, lineups, and gamethread",
       "description": "The Philadelphia Flyers are playing hockey again (derogatory). Theyre facing what many would consider their easiest matchup of the season so far, but the Seattle Kraken are certainly no slouches with a 4-2-0 record. Maybe it was just the schedule we ",
       "link": "https://www.broadstreethockey.com/post/flyers-vs-kraken-how-to-watch-lineups-and-gamethread-2/",
@@ -101,6 +131,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-11T185516Z_53047468_MT1USATODAY30057559_RTRMADP_3_NFL-PHILADELPHIA.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "NFL Trade Rumors: Howie Roseman shopping for starting caliber offensive lineman",
+      "description": "The Philadelphia Eagles are in the market for a starting-caliber offensive lineman. This much should already be apparent from the team\u2019s offensive line situation. This was the configuration they had to use in Week 5 due to Lane Johnson retiring and t",
+      "link": "",
+      "pubDate": "2026-10-13T13:16:04-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Reports: Sixers hire Brad Jones as general manager of Delaware Blue Coats",
@@ -153,16 +193,6 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "Eagles-Jaguars Takeaway: Nick Sirianni isn\u2019t helping",
-      "description": "It\u2019s a good thing there are more important things in life than the Philadelphia Eagles. If that wasn\u2019t the case, Sunday\u2019s stunning 19-17 loss in London to the Jacksonville Jaguars might have plunged you into a deep, dark depression. The Eagles had so",
-      "link": "",
-      "pubDate": "2026-10-12T10:33:50-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "The Eagles should punt on the 2026 season, trade still-valuable players for future assets",
       "description": "We're only five weeks into the 2026 NFL season, but it is already crystal clear that it is not going to be a special one for the Philadelphia Eagles. More bluntly, if you're a Birds fan, this season sucks. And, spoiler, it is only going to continue t",
       "link": "https://www.phillyvoice.com/eagles-should-punt-2026-season-trade-still-valuable-players-future-assets-tank-howie-roseman/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -171,16 +201,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2021-10-24T194647Z_1678788227_MT1USATODAY17021334_RTRMADP_3_NFL-PHILADELPH.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Eagles Injury Tracker: List of players sidelined after Week 5 loss",
-      "description": "The Eagles had another ugly loss this week, although this time the collapse happened across the ocean in London. The list of injuries heading into the international matchup against the Jaguars was already incredible, but the number of players sidelin",
-      "link": "",
-      "pubDate": "2026-10-11T18:16:01-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Eagles-Jaguars Week 5 report card: Fourth quarter meltdowns continue in London",
@@ -313,16 +333,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "Phillies\u2019 Game 3 in Atlanta flexed to nighttime as standalone Wild Card Series matchup",
-      "description": "ATLANTA Game 3 of the National League Wild Card Series between the Phillies and Braves will take place under the lights at Truist Park. The do-or-die matchup, which had been tentatively scheduled for 2 p.m., will be flexed to 8 p.m. Eastern on Thursd",
-      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-wild-card-game-3-schedule-atlanta-braves-8-pm-night-time-first-pitch-schedule-news-mlb-postseason-playoffs/",
-      "pubDate": "Thu, 01 Oct 2026 05:04:35 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
       "title": "Instant observations: Trio of late solo shots revive Phillies season, force Game 3 vs. Braves",
       "description": "After what looked like another managerial screw up of epic proportions, the Phillies clawed back to a win, 4-3, over the Braves in Atlanta Wednesday afternoon \u2014 keeping them alive and setting up a winner-take-all Game 3 Thursday in the NL Wild Card S",
       "link": "https://www.phillyvoice.com/instant-observations-phillies-braves-game-2-wild-card-cris-sanchez-news-analysis-game-3-bryce-harper/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -413,6 +423,86 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Rick Tocchet says Flyers defensemen are \u2018too horny\u2019 on the ice",
+      "description": "One of the biggest differences in Tuesday nights 3-2 shootout loss to Seattle for Philadelphia was seeing the defense jump up in the rush. Oliver Bonk, paired with Travis Sanheim on the first pairing, was a force to be reckoned with at some points, a",
+      "link": "https://www.broadstreethockey.com/post/rick-tocchet-says-flyers-defensemen-are-too-horny-on-the-ice/",
+      "pubDate": "Wed, 14 Oct 2026 19:28:06 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Eagles open practice windows for 4 players to return from injured reserve",
+      "description": "The Philadelphia Eagles officially announced some roster news on Wednesday afternoon. Here\u2019s an overview: Let\u2019s sort through this news on a player-by-player basis. LANDON DICKERSON Dickerson became eligible to return from IR after the Eagles\u2019 Week 5 ",
+      "link": "",
+      "pubDate": "2026-10-14T15:03:50-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Phillies reportedly had \u2018strong interest\u2019 in hiring Ra\u00fal Iba\u00f1ez as manager",
+      "description": "Teams have been trying, albeit unsuccessfully, to get former Phillies outfielder Ra\u00fal Iba\u00f1ez to manage for years. The Phillies, per a report from USA Todays Bob Nightengale, recently spoke with Iba\u00f1ez about becoming the teams manager. The Phillies, p",
+      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-raul-ibanez-manager-report-news-rumors-october-14-2026/",
+      "pubDate": "Wed, 14 Oct 2026 19:01:00 +0000",
+      "author": "Destiny Lugardo",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
+    },
+    {
+      "title": "Sean Mannion is still having a blast despite Eagles\u2019 struggles",
+      "description": "The Eagles offense took steps in the right direction on Sunday in London, but with injuries and depth issues, the group still has room to grow. Offensive coordinator Sean Mannion spoke to reporters this week about their second-half struggles, what he",
+      "link": "",
+      "pubDate": "2026-10-14T14:29:31-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Tyrese Maxey is built for this",
+      "description": "The way the Sixers\u2019 practice facility in Camden is designed, the media only gets to interact with players on the practice floor \u2014 by design, of course. The players have their own parking lot (with a roof for their super nice cars) and entrance on the",
+      "link": "",
+      "pubDate": "2026-10-14T13:17:39-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "5 Eagles thoughts: Third down isn't their biggest problem",
+      "description": "Looking deeper into the Eagles' offensive issues, and what could be in store for the defense.",
+      "link": "https://www.phillyvoice.com/5-eagles-thoughts-third-down-sean-mannion-vic-fangio-scheme-personnel-formations/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 14 Oct 2026 16:21:37 +0000",
+      "author": "Geoff Mosher",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-10T185305Z_2107597310_MT1USATODAY29167707_RTRMADP_3_NFL-PHILADELPH.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "5 Eagles thoughts after 5 games",
+      "description": "The Philadelphia Eagles have played five games. These are five thoughts on the team. 1) The Eagles\u2019 vibes are bad but the season is not over. This Eagles season is off to a dreadful start. The offense feels out of sorts. Lane Johnson retired. Cam Jur",
+      "link": "",
+      "pubDate": "2026-10-14T12:03:04-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "London belonged to Eagles fans; Also, a Tottenham stadium food review",
+      "description": "Tottenham Hotspur Stadium \u2014 and London in general \u2014 was crawling with Eagles fans.",
+      "link": "https://www.phillyvoice.com/london-belonged-to-eagles-fans-also-tottenham-stadium-food-review/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 14 Oct 2026 15:47:02 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/IMG_5576.jpeg",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
       "title": "Phillies running it back with Don Mattingly as manager",
       "description": "Donnie Baseball will be back with the Phillies next year as manager. The club on Wednesday announced a two-year contract for Mattingly that runs through the 2028 season. Mattingly and president of baseball operations Dave Dombrowski will address the ",
       "link": "https://www.philliesnation.com/2026/10/phillies-running-it-back-with-don-mattingly-as-manager/",
@@ -431,16 +521,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-02T201309Z_683694365_MT1USATODAY29721416_RTRMADP_3_MLB-PHILADELPHI.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "London belonged to Eagles fans; Also, a Tottenham stadium food review",
-      "description": "Tottenham Hotspur Stadium \u2014 and London in general \u2014 was crawling with Eagles fans.",
-      "link": "https://www.phillyvoice.com/london-belonged-to-eagles-fans-also-tottenham-stadium-food-review/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 14 Oct 2026 13:24:19 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/IMG_5576.jpeg",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Can Adem Bona make the most of increased opportunity with the Sixers?",
@@ -473,6 +553,16 @@
       "source": "PhillyVoice Flyers"
     },
     {
+      "title": "Eagles host familiar running back on free agent visit [UPDATE]",
+      "description": "The Philadelphia Eagles hosted running back Ja\u2019Quinden Jackson on a free agent visit at the Jefferson Health Training Complex, according to today\u2019s official NFL personnel notice. The Eagles signed Jackson to their 90-man roster on August 10 when the ",
+      "link": "",
+      "pubDate": "2026-10-13T18:00:21-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
       "title": "Editor-in-chief mailbag: It\u2019s almost time",
       "description": "The Sixers will play their final preseason game this Friday against the Boston Celtics at Xfinity Mobile Arena. After that, they count. We\u2019re exactly one week away from the season opener where LeBron James, Jaylen Brown and the Sixers will be at Madi",
       "link": "",
@@ -491,6 +581,26 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-11T193110Z_431644998_MT1USATODAY30058401_RTRMADP_3_NFL-PHILADELPHI.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles-Jaguars Film Review: This team isn\u2019t going anywhere unless they fix the run game",
+      "description": "Ugh. Another week, another game where the Eagles offense found a way to make everything feel painfully difficult. There were some signs of life on the rewatch. I promise. But it was rough in places. Before getting into all of that, I was at the game,",
+      "link": "",
+      "pubDate": "2026-10-13T12:55:47-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Jalyx Hunt injury update: Eagles pass rusher not expected to play in Week 6",
+      "description": "While the Philadelphia Eagles are potentially expecting some key players to return from injury this week, it sounds like they\u2019ll be without at least one of their regular defensive starters against the Carolina Panthers. Jalyx Hunt is not expected to ",
+      "link": "",
+      "pubDate": "2026-10-13T12:25:33-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Eagles-Panthers Week 6 odds preview: Birds are favored, but pressure is mounting",
@@ -573,26 +683,6 @@
       "source": "PHL Sports Nation"
     },
     {
-      "title": "Flyers recall forward Jack Studnicka, loan Carl Grundstrom to Phantoms",
-      "description": "The Philadelphia Flyers have to do something to shake things up after a horrendous start, and perhaps a few depth moves can be the start of that. The team placed Helge Grans on waivers on Monday afternoon a good sign for, at the very least, Cam Yorks",
-      "link": "https://www.broadstreethockey.com/post/flyers-recall-forward-jack-studnicka-loan-carl-grundstrom-to-phantoms/",
-      "pubDate": "Mon, 12 Oct 2026 22:14:37 +0000",
-      "author": "Ryan Gilbert",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Flyers place Helge Grans on waivers \u2014 what it could mean for others",
-      "description": "The Philadelphia Flyers on Monday placed defenseman Helge Grans on waivers, according to multiple reports. If Grans, who played in Philadelphias 5-1 loss to Boston on Saturday afternoon, isnt claimed by another team on Tuesday, the defenseman will mo",
-      "link": "https://www.broadstreethockey.com/post/flyers-place-helge-grans-on-waivers-what-it-could-mean-for-others/",
-      "pubDate": "Mon, 12 Oct 2026 18:50:12 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "Nick Sirianni can't afford to cost the Eagles",
       "description": "Sirianni made the wrong call at the end of Sunday's loss to the Jaguars. He owned it, but this isn't the first time, and chances might be running low.",
       "link": "https://www.phillyvoice.com/nick-sirianni-costing-the-eagles-hot-seat-jaguars-loss-ending/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -601,16 +691,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-11T204948Z_1577751562_MT1USATODAY30057494_RTRMADP_3_NFL-PHILADELPH.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Eagles reportedly bring back defensive tackle on the practice squad",
-      "description": "Back from London, the Eagles will need to make several roster moves this week to account for injuries and significant depth issues. One of the first spots to be filled is on the practice squad, with the team re-signing interior defensive lineman Zion",
-      "link": "",
-      "pubDate": "2026-10-12T13:47:12-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "5 Sixers thoughts: Does Jaylen Brown have a new home in the dunker spot?",
@@ -631,16 +711,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-11T125503Z_1008792276_MT1USATODAY30056461_RTRMADP_3_NFL-PHILADELPH.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Will Shipley injury: Eagles running back could miss multiple games",
-      "description": "Philadelphia Eagles running back Will Shipley suffered \u201ca partial tear of his plantar fascia\u201d and could miss multiple games as a result, according to a report from NFL insider Adam Schefter. Shipley\u2019s injury occurred relatively early during the Eagle",
-      "link": "",
-      "pubDate": "2026-10-12T11:29:26-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "How will Paul George be remembered in Philadelphia?",
@@ -683,26 +753,6 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "Eagles-Jaguars snap counts: Darius Cooper played the most of any wide receiver",
-      "description": "The official snap counts from the Philadelphia Eagles\u2019 Week 5 loss to the Jacksonville Jaguars are in. Let\u2019s take a look and run through some analysis. OFFENSE DEFENSE SPECIAL TEAMS DID NOT PLAY ACTIVE: Tanner McKee, John Ojukwu INACTIVE: Hollywood B",
-      "link": "",
-      "pubDate": "2026-10-12T07:26:26-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Eagles News: \u201cIt really hasn\u2019t been a good year for Nick Sirianni\u201d",
-      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! The Eagles need more from their head coach. He\u2019s not providing answers on offense and the game management just hasn\u2019t been good. Let\u2019s get to the Philadelphia ",
-      "link": "",
-      "pubDate": "2026-10-12T06:22:39-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "The Aspiration of Every Philadelphia Football Runner",
       "description": "It\u2019s the dream of every young Philadelphia regional running back who has ever suited up on a high school field [] The post The Aspiration of Every Philadelphia Football Runner appeared first on Philadelphia Sports Nation.",
       "link": "https://phlsportsnation.com/2026/10/11/the-aspiration-of-every-philadelphia-football-runner/",
@@ -711,36 +761,6 @@
       "thumbnail": null,
       "team": "general",
       "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Nick Sirianni: \u201cI lost us that game\u201d",
-      "description": "The Eagles struggled throughout Sunday\u2019s game against the Jaguars, but it was their end-of-game management that drew the most criticism. During his post-game press conference, head coach Nick Sirianni took full accountability for the decision-making ",
-      "link": "",
-      "pubDate": "2026-10-11T21:19:41-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Eagles vs. Panthers odds: Opening lines for Week 6 matchup",
-      "description": "After losing in London on Sunday, the Philadelphia Eagles must shift their focus to hosting the Carolina Panthers in Week 6. The Birds are 1.5-point home favorites, according to FanDuel. Home teams are normally listed as 2.5-point or three-point favo",
-      "link": "",
-      "pubDate": "2026-10-11T20:04:12-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "The NFC East went winless in Week 5",
-      "description": "Looking for a silver lining after the Philadelphia Eagles lost their third straight game? They\u2019re not the only team in the NFC East that didn\u2019t win this week. None of them did! The Dallas Cowboys lost to the Tampa Bay Buccaneers on Thursday night des",
-      "link": "",
-      "pubDate": "2026-10-11T17:48:28-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Handing out 10 awards from the Eagles-Jaguars game",
@@ -863,16 +883,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Sixers head to Boston for penultimate preseason game",
-      "description": "The Philadelphia 76ers split their first two preseason games, and will now head to Boston for their penultimate preseason contest against the Celtics. Before the preseason began, head coach Nick Nurse said the plan was for the teams key players to ap",
-      "link": "",
-      "pubDate": "2026-10-10T10:22:34-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Five college prospects who could interest the Eagles in the 2027 NFL Draft",
       "description": "During the college football season each year, as long as you're watching the games, we point out five players each week to keep an eye on who make logical sense for the Philadelphia Eagles in the following year's NFL Draft.",
       "link": "https://www.phillyvoice.com/five-college-prospects-eagles-2027-nfl-draft-charlie-becker-brandon-baker-kemari-copeland-kj-bolden-devan-thompkins/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -971,16 +981,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-09T023519Z_1572743682_MT1USATODAY30033818_RTRMADP_3_NBA-PRESEASON-.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Eagles-Jaguars preview: 5 things to watch",
-      "description": "After a pair of bad losses to the Chicago Bears and Los Angeles Rams, the Philadelphia Eagles are 2-2 and two of the Super Bowl winning offensive linemen are gone. They have another hard opponent Week 5 in the Jacksonville Jaguars, in London. Here ar",
-      "link": "https://www.phillyvoice.com/eagles-jaguars-preview-5-things-watch-jalen-hurts-trevor-lawrence/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Fri, 09 Oct 2026 12:13:30 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2024-11-06T033703Z_1491354635_MT1USATODAY24688003_RTRMADP_3_NFL-JACKSONVIL.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "LeBron James admits that he is finding his stride with the 76ers after preseason debut",
