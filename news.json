@@ -1,17 +1,7 @@
 {
-  "updated": "2026-10-15T17:25:11.347686+00:00",
-  "count": 179,
+  "updated": "2026-10-15T20:36:21.338745+00:00",
+  "count": 152,
   "articles": [
-    {
-      "title": "Hope All You Want, but Nick Sirianni Won\u2019t Be Fired Midseason",
-      "description": "For the first time in five years, the Eagles coached by Nick Sirianni have a losing record. They\u2019ve faced injuries, [] The post Hope All You Want, but Nick Sirianni Won\u2019t Be Fired Midseason appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/10/12/you-can-hope-all-you-want-but-nick-sirianni-wont-be-fired-midseason/",
-      "pubDate": "Mon, 12 Oct 2026 20:25:48 +0000",
-      "author": "Jonah Casel",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
-    },
     {
       "title": "Elliotte Friedman weighs in on Travis Konecny drama and Flyers trade rumors",
       "description": "Things are spiraling out of control for the Philadelphia Flyers, and when that happens, trade rumors start to spin up. The Flyers have yet to make any real impactful moves, instead opting to sign veteran free agent Michael Bunting and swapping depth ",
@@ -23,14 +13,24 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "Why the Eagles Should Still Trust Nick Sirianni",
-      "description": "Nick Sirianni led the Philadelphia Eagles to two Super Bowls and five consecutive playoff appearances. Despite a 2-2 start in 2026 and offensive struggles, his track record of leadership, adaptability and winning gives Philadelphia five reasons to ke",
-      "link": "https://phlsportsnation.com/2026/10/09/why-eagles-should-trust-nick-sirianni/",
-      "pubDate": "Fri, 09 Oct 2026 13:31:55 +0000",
-      "author": "Fede Carballo",
+      "title": "Jalen Hurts is \u201cout indefinitely\u201d \u2026 now what for the Eagles?",
+      "description": "The Philadelphia Eagles are going to be without Jalen Hurts for at least one game and quite possibly more while the team\u2019s starting quarterback is treated for a \u201csmall blood clot.\u201d NFL insider Ian Rapoport said Hurts is \u201cout indefinitely.\u201d We\u2019re all ",
+      "link": "",
+      "pubDate": "2026-10-15T14:21:52-04:00",
+      "author": "",
       "thumbnail": null,
       "team": "eagles",
-      "source": "PHL Sports Nation"
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Trea Turner will be the Phillies' shortstop in 2027 \u2013 until he's not",
+      "description": "Dave Dombrowski said Trea Turner will get the opportunity \"to show\" he should be the shortstop, but the Phillies will have \"fallback\" options.",
+      "link": "https://www.phillyvoice.com/trea-turner-phillies-shortstop-dave-dombrowski-outfield-move/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Thu, 15 Oct 2026 17:14:35 +0000",
+      "author": "Geoff Mosher",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-07-23T031621Z_640219179_MT1USATODAY29434539_RTRMADP_3_MLB-LOS-ANGELES.JPG",
+      "team": "phillies",
+      "source": "PhillyVoice"
     },
     {
       "title": "NBA executives discuss 2026-27 Sixers in annual GM Survey",
@@ -51,16 +51,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "USWNT second half comeback earn them a draw against reigning World Cup champions Spain",
-      "description": "USWNT battle reigning World Cup champions Spain to a 2-2 draw in Chester, Pa at Subaru Park The post USWNT second half comeback earn them a draw against reigning World Cup champions Spain appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/10/15/uswnt-second-half-comeback-earn-them-a-draw-against-reigning-world-cup-champions-spain/",
-      "pubDate": "Thu, 15 Oct 2026 14:09:15 +0000",
-      "author": "Skyler Hoffner",
-      "thumbnail": null,
-      "team": "general",
-      "source": "PHL Sports Nation"
     },
     {
       "title": "Analyzing trade values of potential Eagles sell candidates",
@@ -93,16 +83,6 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "Eagles News: NFL insider senses \u201cthe concern is quite high\u201d in Philadelphia",
-      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! I don\u2019t think the Eagles are sitting back and saying \u201cHey, we\u2019re almost 4-1! We\u2019re going to be fine.\u201d Which is good. You don\u2019t want them to be delusional about",
-      "link": "",
-      "pubDate": "2026-10-14T10:27:21-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Phillies stay or go: OF Brandon Marsh",
       "description": "With one year remaining in Philadelphia, the Phillies would need to actively trade Marsh to keep him from playing in the city in 2027. There are some pretty convincing arguments for them doing so.",
       "link": "https://www.phillyvoice.com/phillies-stay-go-brandon-marsh-outfield-free-agent-news-rumors-latest-contract-analysis/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -123,16 +103,6 @@
       "source": "PhillyVoice Flyers"
     },
     {
-      "title": "Stay or Go: Should the Phillies bring back Luis Arraez?",
-      "description": "Luis Arraez was the Phillies big trade deadline acquisition in 2026. Unfortunately, his two-month tenure with club is filled with what ifs. Arraez, a three-time batting champion, suffered an ankle injury during the final week of the season that kept ",
-      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-luis-arraez-stay-or-go-2026-mlb-update/",
-      "pubDate": "Wed, 14 Oct 2026 10:09:00 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
       "title": "Takeaways: Losing streak reaches 8 after Flyers\u2019 3-2 shootout loss to the Kraken",
       "description": "Tonight, the Flyers got real close to breaking the losing streak to start the season, but the comeback effort fell just short in a 3-2 shootout loss to Seattle. Despite late goals from Trevor Zegras and Christian Dvorak, the Flyers are still playing ",
       "link": "https://www.broadstreethockey.com/post/takeaways-losing-streak-reaches-8-after-flyers-3-2-shootout-loss-to-the-kraken/",
@@ -151,16 +121,6 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Week 5 Recap: Eagles Lose in Heartbreaking Fashion Again",
-      "description": "Well it\u2019s finally settled in. I woke up early to watch our Philadelphia Eagles play football in London against the [] The post Week 5 Recap: Eagles Lose in Heartbreaking Fashion Again appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/10/13/week-5-recap-eagles-lose-in-heartbreaking-fashion-again/",
-      "pubDate": "Tue, 13 Oct 2026 21:15:18 +0000",
-      "author": "Kyle Lavin",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
     },
     {
       "title": "Flyers vs. Kraken: How to watch, lineups, and gamethread",
@@ -243,16 +203,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Executive Sam Fuld to stay with Phillies, reportedly declines job offer to lead baseball operations for another organization",
-      "description": "Sam Fuld, one of the highest-ranking executives in the Phillies organization, will stay in Philadelphia after turning down a job offer to lead an American League clubs baseball operations, according to a Saturday afternoon report. Fuld declined the o",
-      "link": "https://www.philliesnation.com/2026/10/executive-sam-fuld-to-stay-with-phillies-reportedly-declines-job-offer-to-lead-baseball-operations-for-another-organization/",
-      "pubDate": "Sat, 10 Oct 2026 19:03:29 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
       "title": "Before he was traded, Jaylen Brown went to Morocco with two soon-to-be Sixers teammates",
       "description": "Jaylen Brown went to Morocco in June. He spent time with two players he now sits in the middle of in the Sixers' locker room.",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-jaylen-brown-interview-highlights-tacko-fall-height-jabari-walker-stats-nba-roster-rumors-ny/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -283,16 +233,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Could the Phillies lose top executive with Dave Dombrowski extension looming?",
-      "description": "In need of a new head of baseball operations, the Athletics have identified Phillies president of business operations Sam Fuld as a top target, per The Athletics Ken Rosenthal. Fuld, 44, became the head of business operations for the Phillies after g",
-      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-front-office-mlb-athletics-sam-fuld-dave-dombrowski-october-7-2026/",
-      "pubDate": "Wed, 07 Oct 2026 17:56:36 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
       "title": "Flyers sign depth forward Michael Bunting amid winless start",
       "description": "Bunting is a low-risk, bottom-six signing for a Flyers team that badly needs something to light a fire under them right now.",
       "link": "https://www.phillyvoice.com/flyers-michael-bunting-signing-forward-depth-chart-spark-report/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -311,46 +251,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/092826_SixersMediaDay_ColleenClaggett-6222.jpg",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "There\u2019s \u2018no question\u2019 that Phillies\u2019 late-season struggles hurt their chances in Wild Card Series",
-      "description": "ATLANTA Four days before Zack Wheeler trotted out of the left-field bullpen at Truist Park, he toed the rubber on a rainy Sunday afternoon at Citizens Bank Park. The Phillies, struggling late, had lost four straight. Somehow, they had not yet sealed ",
-      "link": "https://www.philliesnation.com/2026/10/theres-no-question-that-phillies-late-season-struggles-hurt-their-chances-in-wild-card-series/",
-      "pubDate": "Sat, 03 Oct 2026 10:30:00 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
-      "title": "Phillies eliminated in Wild Card Game 3 whimper",
-      "description": "For about 27 hours, the Phillies magical Game 2 win over the Braves in the National League Wild Card Series, forcing a decisive Game 3, seemed like a spark. And then that decisive game got under way. The Phillies, who tabbed Aaron Nola as the starter",
-      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-mlb-postseason-nl-wild-card-series-atlanta-braves-game-3-2026-aaron-nola-zack-wheeler-michael-harris-ii/",
-      "pubDate": "Fri, 02 Oct 2026 03:02:43 +0000",
-      "author": "Nathan Ackerman",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
-      "title": "Who could pitch for the Phillies in Game 3?",
-      "description": "ATLANTA \u2013 In a winner-take-all Game 3 of the National League wild card series against the Atlanta Braves, the Phillies have announced Aaron Nola as their starting pitcher. After that, it\u2019s \u201call hands on deck,\u201d per interim manager Don Mattingly. You c",
-      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-zack-wheeler-aaron-nola-game-3-pitching-bullpen-jesus-luzardo-october-1-2026/",
-      "pubDate": "Thu, 01 Oct 2026 22:35:06 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
-      "title": "Edmundo Sosa returns to Phillies lineup for must-win Game 3 following injury scare: \u2018It means a lot to us\u2019",
-      "description": "ATLANTA Phillies infielder Edmundo Sosa will be back in the lineup for a must-win Game 3 of the National League Wild Card Series on Thursday night at Truist Park following an injury scare in Game 2. The right-handed hitter, who tweaked his thigh in t",
-      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-injury-news-edmundo-sosa-update-returns-to-lineup-scare-thigh-third-base-wild-card-series-game-3-atlanta-braves-mlb-postseason/",
-      "pubDate": "Thu, 01 Oct 2026 22:30:59 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
     },
     {
       "title": "5 thoughts about the Phillies: Aaron Nola's start, Alec Bohm's bomb and making history",
@@ -403,16 +303,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "Phillies drop two of three to Brewers, can't punch their own Wild Card ticket",
-      "description": "The Phillies had their Wild Card hopes put on pause, and maybe also lost their best hitter to an injury.",
-      "link": "https://www.phillyvoice.com/phillies-brewers-recap/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Fri, 25 Sep 2026 01:27:28 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-25T000117Z_1098691957_MT1USATODAY29903729_RTRMADP_3_MLB-MILWAUKEE-.JPG",
-      "team": "phillies",
-      "source": "PhillyVoice"
-    },
-    {
       "title": "How Does George Suspension Impact 76ers for Rest of 2025-26 Season?",
       "description": "The Paul George suspension will impact everything the 76ers do from on-court play to influencing their potential moves at the upcoming trade deadline. The post How Does George Suspension Impact 76ers for Rest of 2025-26 Season? appeared first on Phil",
       "link": "https://www.sportstalkphilly.com/news/how-does-george-suspension-impact-76ers-for-rest-of-2025-26-season/",
@@ -443,10 +333,60 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Tension is building about Landon Dickerson\u2019s future with the Eagles",
+      "description": "The Eagles offensive line has undergone significant changes since the 2025 iteration, from coaches to starters, things look entirely different for the group heading into Week 6 of the 2026 season. While many of the moves were out of the Eagles contro",
+      "link": "",
+      "pubDate": "2026-10-15T16:09:52-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Looking back at the Sixers and their backup center problems",
+      "description": "Stop me if you\u2019ve heard this before \u2014 the Sixers may have problems this season in the front court when Joel Embiid doesn\u2019t play. In this case, it wasn\u2019t for a lack of trying. One of Mike Gansey\u2019s ancillary moves this summer was to bring in Ariel Hukp",
+      "link": "",
+      "pubDate": "2026-10-15T15:34:39-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Porter Martone is struggling, but the Flyers aren\u2019t helping him",
+      "description": "Matvei Michkov just missed the Calder trophy a couple seasons ago. Martone could see the same fate.",
+      "link": "https://www.broadstreethockey.com/post/porter-martone-is-struggling-but-the-flyers-arent-helping-him/",
+      "pubDate": "Thu, 15 Oct 2026 18:15:45 +0000",
+      "author": "Evan Watson",
+      "thumbnail": "https://www.broadstreethockey.com/wp-content/uploads/sites/12/2026/04/A59A1360-300x199.jpg",
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Eagles QB Jalen Hurts ruled out against the Panthers with a 'superficial blood clot'",
+      "description": "The Philadelphia Eagles announced on Thursday that Jalen Hurts has a \"superficial blood clot\" in his calf, and will not play Week 6 against the Carolina Panthers.",
+      "link": "https://www.phillyvoice.com/eagles-qb-jalen-hurts-ruled-out-against-panthers-with-superficial-blood-clot/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Thu, 15 Oct 2026 17:36:16 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-12-14T180234Z_1431173674_MT1USATODAY27814565_RTRMADP_3_NFL-LAS-VEGAS-.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
       "title": "Jalen Hurts will miss Eagles-Panthers game due to \u201csuperficial blood clot\u201d",
       "description": "Here\u2019s a pretty massive and unexpected Philadelphia Eagles development: Jalen Hurts has been ruled OUT of the team\u2019s Week 6 game against the Carolina Panthers due to a \u201csuperficial blood clot.\u201d The following statement by the Eagles comes via NFL insi",
       "link": "",
       "pubDate": "2026-10-15T13:12:48-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Eagles sign running back to practice squad",
+      "description": "About one hour after the Philadelphia Eagles announced Jalen Hurts is going to miss Sunday\u2019s game due to a blood clot, the team made a transaction that has nothing to do with their quarterback situation. The Eagles signed free agent running back Ian ",
+      "link": "",
+      "pubDate": "2026-10-15T13:11:00-04:00",
       "author": "",
       "thumbnail": null,
       "team": "eagles",
@@ -461,16 +401,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Four Players Not Named Jalen Hurts That Can Save The Season",
-      "description": "External and possibly internal forces are attacking the 2026 Philadelphia Eagles season. With their 2026 season in peril, now more [] The post Four Players Not Named Jalen Hurts That Can Save The Season appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/10/15/four-players-not-named-jalen-hurts-that-can-save-the-season/",
-      "pubDate": "Thu, 15 Oct 2026 15:15:00 +0000",
-      "author": "Dane Dillard",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
     },
     {
       "title": "Vic Fangio talks \u201cdangerous\u201d Panthers offense",
@@ -491,16 +421,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Tyrese Maxey Is Becoming the Leader the 76ers Need",
-      "description": "More Than Just a Superstar The Philadelphia 76ers have one of the best rosters in the NBA and hopes to [] The post Tyrese Maxey Is Becoming the Leader the 76ers Need appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/10/15/tyrese-maxey-is-becoming-the-leader-the-76ers-need/",
-      "pubDate": "Thu, 15 Oct 2026 13:51:15 +0000",
-      "author": "Cooper Hubbard",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "PHL Sports Nation"
     },
     {
       "title": "Phillies stay or go: OF Adolis Garc\u00eda",
@@ -543,16 +463,6 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "Report: Phillies to part ways with hitting coach Kevin Long, infield coach Bobby Dickerson",
-      "description": "Don Mattingly is back, but there will be at least two changes to his coaching staff. The Phillies will not bring back hitting coach Kevin Long and infield coach Bobby Dickerson, NBC Sports Philadelphia Jim Salisbury reports. Long, who has two years r",
-      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-bobby-dickerson-kevin-long-coaching-staff-dave-dombrowski-mlb-don-mattingly-update/",
-      "pubDate": "Wed, 14 Oct 2026 23:49:33 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
       "title": "Eagles Injury Report: Jalen Hurts, Saquon Barkley, and DeVonta Smith among 24 players listed",
       "description": "The Philadelphia Eagles issued their first official injury report of the week on Wednesday in advance of their Week 6 game against the Carolina Panthers. There are 24 players listed. 24! Not all of them are on the 53-man roster, which is really a 52-",
       "link": "",
@@ -583,36 +493,6 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "Eagles open practice windows for 4 players to return from injured reserve",
-      "description": "The Philadelphia Eagles officially announced some roster news on Wednesday afternoon. Here\u2019s an overview: Let\u2019s sort through this news on a player-by-player basis. LANDON DICKERSON Dickerson became eligible to return from IR after the Eagles\u2019 Week 5 ",
-      "link": "",
-      "pubDate": "2026-10-14T15:03:50-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Phillies reportedly had \u2018strong interest\u2019 in hiring Ra\u00fal Iba\u00f1ez as manager",
-      "description": "Teams have been trying, albeit unsuccessfully, to get former Phillies outfielder Ra\u00fal Iba\u00f1ez to manage for years. The Phillies, per a report from USA Todays Bob Nightengale, recently spoke with Iba\u00f1ez about becoming the teams manager. The Phillies, p",
-      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-raul-ibanez-manager-report-news-rumors-october-14-2026/",
-      "pubDate": "Wed, 14 Oct 2026 19:01:00 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
-      "title": "Sean Mannion is still having a blast despite Eagles\u2019 struggles",
-      "description": "The Eagles offense took steps in the right direction on Sunday in London, but with injuries and depth issues, the group still has room to grow. Offensive coordinator Sean Mannion spoke to reporters this week about their second-half struggles, what he",
-      "link": "",
-      "pubDate": "2026-10-14T14:29:31-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Tyrese Maxey is built for this",
       "description": "The way the Sixers\u2019 practice facility in Camden is designed, the media only gets to interact with players on the practice floor \u2014 by design, of course. The players have their own parking lot (with a roof for their super nice cars) and entrance on the",
       "link": "",
@@ -633,16 +513,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "5 Eagles thoughts after 5 games",
-      "description": "The Philadelphia Eagles have played five games. These are five thoughts on the team. 1) The Eagles\u2019 vibes are bad but the season is not over. This Eagles season is off to a dreadful start. The offense feels out of sorts. Lane Johnson retired. Cam Jur",
-      "link": "",
-      "pubDate": "2026-10-14T12:03:04-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "London belonged to Eagles fans; Also, a Tottenham stadium food review",
       "description": "Tottenham Hotspur Stadium \u2014 and London in general \u2014 was crawling with Eagles fans.",
       "link": "https://www.phillyvoice.com/london-belonged-to-eagles-fans-also-tottenham-stadium-food-review/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -651,16 +521,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/IMG_5576.jpeg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Phillies running it back with Don Mattingly as manager",
-      "description": "Donnie Baseball will be back with the Phillies next year as manager. The club on Wednesday announced a two-year contract for Mattingly that runs through the 2028 season. Mattingly and president of baseball operations Dave Dombrowski will address the ",
-      "link": "https://www.philliesnation.com/2026/10/phillies-running-it-back-with-don-mattingly-as-manager/",
-      "pubDate": "Wed, 14 Oct 2026 14:09:37 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
     },
     {
       "title": "Phillies extend manager Don Mattingly for two years",
@@ -743,16 +603,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Rick Tocchet shakes up Flyers lineup, puts Martone and Michkov together",
-      "description": "The Philadelphia Flyers are playing miserable hockey. Miserable for the players as they cant connect on any passes and have scored just eight goals in seven games. Miserable for management and the coaching staff as they continue to search for answers",
-      "link": "https://www.broadstreethockey.com/post/rick-tocchet-shakes-up-flyers-lineup-puts-martone-and-michkov-together/",
-      "pubDate": "Tue, 13 Oct 2026 15:40:47 +0000",
-      "author": "Thomas Williams",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "Kentavious Caldwell-Pope could be the Sixers secret weapon this season",
       "description": "LeBron James and Jaylen Brown arent the only former NBA champions whom the Sixers added to their roster this offseason. Shortly after landing LeBron, they also signed Kentavious Caldwell-Pope to a one-year, veteran-minimum contract. KCP has largely g",
       "link": "",
@@ -771,16 +621,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_26076453.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "RECAP: The One That Got Away \u2014 An October Game Meant for Halloween as Jaguars Beat Eagles, 19\u201317",
-      "description": "The NFL continues to make waves on the global stage after an opening weekend in Sydney, Australia, with the 49ersRams [] The post RECAP: The One That Got Away \u2014 An October Game Meant for Halloween as Jaguars Beat Eagles, 19\u201317 appeared first on Phila",
-      "link": "https://phlsportsnation.com/2026/10/12/recap-the-one-that-got-away-an-october-game-meant-for-halloween-jaguars-beat-eagles-19-17/",
-      "pubDate": "Tue, 13 Oct 2026 03:14:38 +0000",
-      "author": "Michael Thomas Leibrandt",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
     },
     {
       "title": "Nick Sirianni can't afford to cost the Eagles",
@@ -853,16 +693,6 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "From Radnor to Sunday Rosters: Villanova\u2019s Next Generation of Backs",
-      "description": "It\u2019s the dream of every young Philadelphia regional running back who has ever suited up on a high school field [] The post From Radnor to Sunday Rosters: Villanovas Next Generation of Backs appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/10/11/the-aspiration-of-every-philadelphia-football-runner/",
-      "pubDate": "Mon, 12 Oct 2026 03:44:00 +0000",
-      "author": "Michael Thomas Leibrandt",
-      "thumbnail": null,
-      "team": "general",
-      "source": "PHL Sports Nation"
-    },
-    {
       "title": "Handing out 10 awards from the Eagles-Jaguars game",
       "description": "Nick Sirianni made a late mistake in Sunday's loss to the Jaguars that he cannot afford to make.",
       "link": "https://www.phillyvoice.com/eagles-jaguars-10-awards-week-5-nick-sirianni-bad-decisions-jalen-hurts/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -923,16 +753,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Sixers Bell Ringer: Edgecombe\u2019s growth, Walker\u2019s strong preseason continue",
-      "description": "Preseason Bell Ringer rankings: Jaylen Brown 1 LeBron James 1 The Sixers got off to a 10-2 start against the Celtics, but things looked bleak by halftime. The Sixers were without Joel Embiid, Jaylen Brown, LeBron James, Kentavious Caldwell-Pope due t",
-      "link": "",
-      "pubDate": "2026-10-10T22:59:57-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Jaylen Brown sits in Boston, but Sixers battle Paul George in preseason action",
       "description": "The Sixers were severely undermanned against a Boston Celtics team near full strength in Saturday's exhibition.",
       "link": "https://www.phillyvoice.com/sixers-vs-celtics-box-score-highlights-jaylen-brown-paul-george-trade-tyrese-maxey-vj-edgecombe-stats-nba/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -973,26 +793,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Report: Eagles are releasing QB Andy Dalton",
-      "description": "If Dalton never rejoins the team, his lone pass attempt with the Eagles will have been an INT.",
-      "link": "https://www.phillyvoice.com/report-eagles-are-releasing-qb-andy-dalton/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Fri, 09 Oct 2026 19:27:47 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-08-29T015537Z_1032886381_MT1USATODAY29684575_RTRMADP_3_PHILADELPHIA-E.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "How would MLB\u2019s 154-game proposal have affected Phillies in recent years?",
-      "description": "On Sept. 18, the Phillies ran a bullpen game in a losing effort against the Mets at Citi Field. Left-hander Tim Mayza allowed three runs as the opener, and Orion Kerkering gave up three more in the sixth inning. The Phillies could not come out victor",
-      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-news-analysis-rule-change-proposals-154-game-season-162-playoff-postseason-changes/",
-      "pubDate": "Fri, 09 Oct 2026 15:13:58 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
       "title": "LeBron James' playmaking, Joel Embiid's turnovers and more from Sixers' second preseason game",
       "description": "\"I'm extremely happy that he was out there with the group, and I thought he was playing very hard, which was great to see,\" Sixers head coach Nick Nurse said of Joel Embiid despite eight turnovers.",
       "link": "https://www.phillyvoice.com/sixers-vs-nets-nba-highlights-full-box-score-lebron-james-interview-joel-embiid-vj-edgecombe-ny/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -1001,16 +801,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-09T023513Z_1155919142_MT1USATODAY30033669_RTRMADP_3_NBA-PRESEASON-.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Know your enemy: How did this prospect with 'below average' explosion become one of the NFL's better WRs?",
-      "description": "The Eagles will need their DBs in lockdown mode Sunday against lesser-known but emerging Jags WR Parker Washington.",
-      "link": "https://www.phillyvoice.com/eagles-jaguars-parker-washington-penn-state-wide-receiver-know-your-enemy/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Fri, 09 Oct 2026 14:19:00 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-13T181738Z_1557092624_MT1USATODAY29811497_RTRMADP_3_NFL-CLEVELAND-.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "The Flyers need to be way more than better right now",
@@ -1233,26 +1023,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "The 76ers Already Have a Problem at Center",
-      "description": "With one of the NBAs most skilled teams and championship hopes, the Philadelphia 76ers started the 2026\u201327 preseason. But even [] The post The 76ers Already Have a Problem at Center appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/10/08/the-76ers-already-have-a-major-problem-at-center/",
-      "pubDate": "Thu, 08 Oct 2026 13:12:00 +0000",
-      "author": "Cooper Hubbard",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "PHL Sports Nation"
-    },
-    {
-      "title": "The Eagles Aren\u2019t Punting on the Season\u2026Yet",
-      "description": "In war movies, there\u2019s always that climactic scene where the battered and broken-spirited protagonist surveys the consequences of battle. Defeated [] The post The Eagles Aren\u2019t Punting on the SeasonYet appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/10/08/the-eagles-arent-punting-on-the-season-yet/",
-      "pubDate": "Thu, 08 Oct 2026 10:00:00 +0000",
-      "author": "Dane Dillard",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
-    },
-    {
       "title": "Phillies stay or go: 1B/3B Alec Bohm",
       "description": "Here's a look at why\u2014 and why not \u2014 the Phillies should bring back the 30-year-old with the floppy curly hair. You can vote on whether you want him back at the bottom of this post.",
       "link": "https://www.phillyvoice.com/phillies-stay-or-go-first-base-third-base-alec-bohm-stats-analysis-free-agency-bo-bichette-infield-options/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -1271,16 +1041,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_28315378.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Alex Cora reportedly won\u2019t manage the Phillies in 2027",
-      "description": "The next Phillies manager will not be Alex Cora. Cora turned down a second opportunity to manage the Phillies, per Bob Nightengale of USA Today. Dave Dombrowski reportedly reached out to Cora to gauge his interest in taking the job. Cora said he is t",
-      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-alex-cora-dave-dombrowski-phillies-manager-report-2027-usa-today-bob-nightengale-october-6-2026-mlb/",
-      "pubDate": "Wed, 07 Oct 2026 03:39:56 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
     },
     {
       "title": "Sixers center Ariel Hukporti out for season with ruptured right Achilles",
@@ -1363,16 +1123,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Something Alex Cora should consider before becoming Phillies manager",
-      "description": "After rejecting the job in late April, Alex Cora could very well be the next manager of the Phillies. Cora will likely get everything he is looking for from the Phillies: a big contract, the chance to work again with his mentor Dave Dombrowski and po",
-      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-alex-cora-dave-dombrowski-manager-boston-red-sox-mlb-october-5-2026/",
-      "pubDate": "Mon, 05 Oct 2026 21:26:17 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
       "title": "Phillies stay or go: President of baseball ops Dave Dombrowski",
       "description": "Dave Dombrowski is probably going to be back, and extended. Can he really fix the Phillies?",
       "link": "https://www.phillyvoice.com/phillies-stay-or-go-president-dave-dombrowski-2026-postseason-braves-analysis-news-poll-vote/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -1451,26 +1201,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-02T010115Z_163878833_MT1USATODAY29969288_RTRMADP_3_NHL-PHILADELPHI.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "We could all use a really long break from the Phillies",
-      "description": "ATLANTA \u2013 Zack Wheeler emerged from a back door in the visiting bullpen at Truist Park with his full uniform on, getting ready to throw. It was already too late. Aaron Nola could not find the strike zone. With two runners on and Nola down in the coun",
-      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-wild-card-loss-mlb-bryce-harper-don-mattingly-dave-dombrowski/",
-      "pubDate": "Fri, 02 Oct 2026 06:22:32 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
-      "title": "Don Mattingly\u2019s job just one of the potential changes the Phillies must now consider following another postseason disappointment",
-      "description": "ATLANTA Don Mattingly entered the interview room on the floor level at Truist Park and sat down in front of a microphone. He placed a water bottle with the label of his brand of choice taped over on the table. Then, he began to answer questions, with",
-      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-news-national-league-wild-card-series-don-mattingly-interim-manager-dave-dombrowski-alex-cora-offseason/",
-      "pubDate": "Fri, 02 Oct 2026 06:17:25 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
     },
     {
       "title": "Instant observations: Phillies pitching staff a total mess in season-ending Game 3 loss",
