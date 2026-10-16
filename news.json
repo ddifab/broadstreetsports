@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T19:09:31.888526+00:00",
-  "count": 177,
+  "updated": "2026-10-16T22:16:07.084960+00:00",
+  "count": 176,
   "articles": [
     {
       "title": "Hope All You Want, but Nick Sirianni Won\u2019t Be Fired Midseason",
@@ -31,6 +31,16 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "PHL Sports Nation"
+    },
+    {
+      "title": "Eagles-Panthers Week 6 injury report, with analysis",
+      "description": "Part of the reason the Philadelphia Eagles have had a very disappointing season so far is because they have suffered a lot of injuries. They listed 24 (!) players on their initial Wednesday injury report. The Panthers, meanwhile, have an extremely lo",
+      "link": "https://www.phillyvoice.com/eagles-panthers-week-6-injury-report-analysis-2026-saquon-barkley-devonta-smith-jalyx-hunt/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 16 Oct 2026 21:13:56 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-03-04T043817Z_775168322_MT1USATODAY25573108_RTRMADP_3_NFL-SUPER-BOWL-.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Don Mattingly wants to address Phillies run game that fell off in second half",
@@ -73,16 +83,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Eagles-Panthers Week 6 injury report, with analysis",
-      "description": "Part of the reason the Philadelphia Eagles have had a very disappointing season so far is because they have suffered a lot of injuries. They listed 24 (!) players on their initial Wednesday injury report. The Panthers, meanwhile, have an extremely lo",
-      "link": "https://www.phillyvoice.com/eagles-panthers-week-6-injury-report-analysis-2026-saquon-barkley-devonta-smith-jalyx-hunt/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Fri, 16 Oct 2026 12:01:05 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-03-04T043817Z_775168322_MT1USATODAY25573108_RTRMADP_3_NFL-SUPER-BOWL-.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
       "title": "New movie about Phillie Phanatic set to debut at Philadelphia Film Festival",
       "description": "A new movie about the Phillie Phanatic, one of the most iconic mascots in all of sports, is set to debut at the Philadelphia Film Festival this weekend. Big Phan, billed as a biopic capturing the magic and mayhem of a baseball legend, will be shown f",
       "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-phillie-phanatic-movie-big-phan-documentary-film-festival-debut-premiere-news/",
@@ -101,16 +101,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
-    },
-    {
-      "title": "Jalen Hurts is \u201cout indefinitely\u201d \u2026 now what for the Eagles?",
-      "description": "The Philadelphia Eagles are going to be without Jalen Hurts for at least one game and quite possibly more while the team\u2019s starting quarterback is treated for a \u201csmall blood clot.\u201d NFL insider Ian Rapoport said Hurts is \u201cout indefinitely.\u201d We\u2019re all ",
-      "link": "",
-      "pubDate": "2026-10-15T14:21:52-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Trea Turner will be the Phillies' shortstop in 2027 \u2013 until he's not",
@@ -423,6 +413,36 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Eagles-Panthers Final Injury Report: DeVonta Smith will play, Saquon Barkley out",
+      "description": "The Philadelphia Eagles issued their third and final official injury report of the week on Friday in advance of their Week 6 game against the Carolina Panthers. The Eagles ruled five players OUT: Jalen Hurts, Saquon Barkley, Will Shipley, Jalyx Hunt,",
+      "link": "",
+      "pubDate": "2026-10-16T17:13:15-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Eagles place Will Shipley on injured reserve",
+      "description": "The Philadelphia Eagles are placing Will Shipley on injured reserve, according to an official team announcement. Shipley, who started on Sunday, reportedly suffered \u201ca partial tear of his plantar fascia\u201d during the Eagles\u2019 Week 5 loss to the Jacksonv",
+      "link": "",
+      "pubDate": "2026-10-16T16:24:21-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Eagles opposing player to stop, Week 6 edition",
+      "description": "The Eagles are an explicit mess right now. They have had 24 players on the injury report this week. Stars Jalen Hurts, out with a serious, though treatable issue with a superficial blood clot, and Saquon Barkley will not play Sunday against the visit",
+      "link": "",
+      "pubDate": "2026-10-16T14:53:06-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
       "title": "The Flyers are failing Matvei Michkov and Porter Martone",
       "description": "Back in 2010, Flyers youngster Claude Giroux was playing his 126th National Hockey League game. And none were more important than this one. He was called upon in a shootout against the New York Rangers, with the season essentially hanging in the bala",
       "link": "https://www.broadstreethockey.com/post/the-flyers-are-failing-matvei-michkov-and-porter-martone/",
@@ -441,26 +461,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Sixers sign Cris Carroll, Taye Fields to Exhibit 10 contracts",
-      "description": "The Philadelphia 76ers made a series of moves on Thursday that will likely impact the Delaware Blue Coats\u2019 roster more than the main club. Saint Thomas and Duke Miles were both waived, with Cris Carroll and Taye Fields then signed to similar Exhibit ",
-      "link": "",
-      "pubDate": "2026-10-16T11:49:02-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
-      "title": "Sixers announce official Wawa partnership",
-      "description": "When it comes to Philadelphia, few things are as synonymous with the city as a Wawa hoagie. So it\u2019s no surprise that the company has a history of partnering with the area\u2019s major sports franchises. Wawa has been the official hoagie of the Eagles sinc",
-      "link": "",
-      "pubDate": "2026-10-16T11:39:58-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Eagles sign Cowboys practice squad quarterback",
@@ -683,26 +683,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Jalen Hurts will miss Eagles-Panthers game due to \u201csuperficial blood clot\u201d",
-      "description": "Here\u2019s a pretty massive and unexpected Philadelphia Eagles development: Jalen Hurts has been ruled OUT of the team\u2019s Week 6 game against the Carolina Panthers due to a \u201csuperficial blood clot.\u201d The following statement by the Eagles comes via NFL insi",
-      "link": "",
-      "pubDate": "2026-10-15T13:12:48-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Eagles sign running back to practice squad",
-      "description": "About one hour after the Philadelphia Eagles announced Jalen Hurts is going to miss Sunday\u2019s game due to a blood clot, the team made a transaction that has nothing to do with their quarterback situation. The Eagles signed free agent running back Ian ",
-      "link": "",
-      "pubDate": "2026-10-15T13:11:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Four Players Not Named Jalen Hurts That Can Save The Season",
       "description": "External and possibly internal forces are attacking the 2026 Philadelphia Eagles season. With their 2026 season in peril, now more [] The post Four Players Not Named Jalen Hurts That Can Save The Season appeared first on Philadelphia Sports Nation.",
       "link": "https://phlsportsnation.com/2026/10/15/four-players-not-named-jalen-hurts-that-can-save-the-season/",
@@ -901,6 +881,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/Screenshot_2026-10-13_at_12.03.43PM.png",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Kentavious Caldwell-Pope could be the Sixers secret weapon this season",
+      "description": "LeBron James and Jaylen Brown arent the only former NBA champions whom the Sixers added to their roster this offseason. Shortly after landing LeBron, they also signed Kentavious Caldwell-Pope to a one-year, veteran-minimum contract. KCP has largely g",
+      "link": "",
+      "pubDate": "2026-10-13T09:36:05-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Phillies stay or go: RP Jos\u00e9 Alvarado, Tim Mayza, Brooks Raley",
