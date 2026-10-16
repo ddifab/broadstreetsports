@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T06:29:52.807151+00:00",
+  "updated": "2026-10-16T11:57:49.292341+00:00",
   "count": 176,
   "articles": [
     {
@@ -31,6 +31,16 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "PHL Sports Nation"
+    },
+    {
+      "title": "New movie about Phillie Phanatic set to debut at Philadelphia Film Festival",
+      "description": "A new movie about the Phillie Phanatic, one of the most iconic mascots in all of sports, is set to debut at the Philadelphia Film Festival this weekend. Big Phan, billed as a biopic capturing the magic and mayhem of a baseball legend, will be shown f",
+      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-phillie-phanatic-movie-big-phan-documentary-film-festival-debut-premiere-news/",
+      "pubDate": "Fri, 16 Oct 2026 10:30:00 +0000",
+      "author": "Ty Daubert",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
     },
     {
       "title": "Eagles-Panthers Week 6 injury report, with analysis",
@@ -151,16 +161,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
-    },
-    {
-      "title": "Takeaways: Losing streak reaches 8 after Flyers\u2019 3-2 shootout loss to the Kraken",
-      "description": "Tonight, the Flyers got real close to breaking the losing streak to start the season, but the comeback effort fell just short in a 3-2 shootout loss to Seattle. Despite late goals from Trevor Zegras and Christian Dvorak, the Flyers are still playing ",
-      "link": "https://www.broadstreethockey.com/post/takeaways-losing-streak-reaches-8-after-flyers-3-2-shootout-loss-to-the-kraken/",
-      "pubDate": "Wed, 14 Oct 2026 03:15:00 +0000",
-      "author": "Cole Keller",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "RECAP \u2013 Week 5: Eagles Lose in Heartbreaking Fashion Again in London to Jacksonville, 19-17",
@@ -313,16 +313,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "There\u2019s \u2018no question\u2019 that Phillies\u2019 late-season struggles hurt their chances in Wild Card Series",
-      "description": "ATLANTA Four days before Zack Wheeler trotted out of the left-field bullpen at Truist Park, he toed the rubber on a rainy Sunday afternoon at Citizens Bank Park. The Phillies, struggling late, had lost four straight. Somehow, they had not yet sealed ",
-      "link": "https://www.philliesnation.com/2026/10/theres-no-question-that-phillies-late-season-struggles-hurt-their-chances-in-wild-card-series/",
-      "pubDate": "Sat, 03 Oct 2026 10:30:00 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
       "title": "5 thoughts about the Phillies: Aaron Nola's start, Alec Bohm's bomb and making history",
       "description": "It feels sort of unexpected, that the Phillies are not only alive, but have some momentum with the third and final game of the NL Wild Card Series in Atlanta set for Thursday night.",
       "link": "https://www.phillyvoice.com/5-thoughts-phillies-aaron-nola-alec-bohm-game-3-wild-card-braves-start-time-news-analysis/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -403,6 +393,36 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Eagles-Panthers: Staff picks, betting odds, and more for no easier Week 6 homecoming",
+      "description": "The Eagles are on a three-game losing streak, and only look like they're crumbling further approaching Sunday at the Linc.",
+      "link": "https://www.phillyvoice.com/eagles-panthers-week-6-staff-picks-betting-odds-predictions-jalen-hurts-tanner-mckee-bryce-young/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 16 Oct 2026 11:46:01 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-08-29T151501Z_50886326_MT1USATODAY29690576_RTRMADP_3_NFL-CINCINNATI-B.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Phillies want J.T. Realmuto to catch fewer games next year. Will they need a new backup catcher behind him?",
+      "description": "PHILADELPHIA With a veteran core that is not getting any younger, Phillies president of baseball operations Dave Dombrowski wants some key players to get some additional rest in 2027. Slugger Kyle Schwarber will play about 30 games at first base to a",
+      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-jt-realmuto-dave-dombrowski-catcher-fewer-games-backup-garrett-stubbs-rafael-marchan-first-base/",
+      "pubDate": "Fri, 16 Oct 2026 11:30:00 +0000",
+      "author": "Ty Daubert",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
+    },
+    {
+      "title": "Friday Morning Fly By: Something\u2019s gotta give",
+      "description": "*Folks. What else is there to say. The Flyers lost to the Red Wings last night. Its now nine losses for the Flyers to start the season. [BSH] *Its been uninspiring to watch, and also kind of boring, as the scoring has continued to look pretty anemic.",
+      "link": "https://www.broadstreethockey.com/post/friday-morning-fly-by-somethings-gotta-give/",
+      "pubDate": "Fri, 16 Oct 2026 10:00:00 +0000",
+      "author": "Madeline Campbell",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
       "title": "Takeaways: Flyers\u2019 streak stretches to 9 with 2-1 loss to Red Wings",
       "description": "Another Flyers gameday, another loss to dig into. Despite putting together a nice but of momentum in Tuesdays game against the Kraken, the Flyers once again showed an inability to build and capitalize on their positives pulled together meeting with a",
       "link": "https://www.broadstreethockey.com/post/takeaways-flyers-streak-stretches-to-9-with-2-1-loss-to-red-wings/",
@@ -451,6 +471,16 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
+    },
+    {
+      "title": "Eagles QB Jalen Hurts' 'superficial blood clot': A doctor weighs in",
+      "description": "The Philadelphia Eagles announced on Thursday Jalen Hurts will not play on Sunday against the Carolina Panthers, due to a superficial blood clot in his calf. What is a superficial blood clot, and what does that mean for Hurts the rest of this season ",
+      "link": "https://www.phillyvoice.com/eagles-qb-jalen-hurts-superficial-blood-clot-doctor-weighs-in/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Thu, 15 Oct 2026 20:25:36 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-03-02T071519Z_1042119161_MT1USATODAY25558216_RTRMADP_3_NFL-SUPER-BOWL.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Tension is building about Landon Dickerson\u2019s future with the Eagles",
@@ -963,26 +993,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Eagles owner Jeffrey Lurie still 'gung ho' about 2026 season",
-      "description": "In an interview with CNN, the chairman of the Eagles said he's still looking to \"win big\" this year.",
-      "link": "https://www.phillyvoice.com/eagles-owner-jeffrey-lurie-five-thoughts-jaguars-nfl-london-willie-lampkin/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sat, 10 Oct 2026 14:38:52 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_27284154.jpg",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Five college prospects who could interest the Eagles in the 2027 NFL Draft",
-      "description": "During the college football season each year, as long as you're watching the games, we point out five players each week to keep an eye on who make logical sense for the Philadelphia Eagles in the following year's NFL Draft.",
-      "link": "https://www.phillyvoice.com/five-college-prospects-eagles-2027-nfl-draft-charlie-becker-brandon-baker-kemari-copeland-kj-bolden-devan-thompkins/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sat, 10 Oct 2026 12:56:55 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-01-10T024446Z_1483840413_MT1USATODAY27970779_RTRMADP_3_INDIANA-HOOSIE.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
       "title": "How would MLB\u2019s 154-game proposal have affected Phillies in recent years?",
       "description": "On Sept. 18, the Phillies ran a bullpen game in a losing effort against the Mets at Citi Field. Left-hander Tim Mayza allowed three runs as the opener, and Orion Kerkering gave up three more in the sixth inning. The Phillies could not come out victor",
       "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-news-analysis-rule-change-proposals-154-game-season-162-playoff-postseason-changes/",
@@ -1441,16 +1451,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-02T010115Z_163878833_MT1USATODAY29969288_RTRMADP_3_NHL-PHILADELPHI.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "We could all use a really long break from the Phillies",
-      "description": "ATLANTA \u2013 Zack Wheeler emerged from a back door in the visiting bullpen at Truist Park with his full uniform on, getting ready to throw. It was already too late. Aaron Nola could not find the strike zone. With two runners on and Nola down in the coun",
-      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-wild-card-loss-mlb-bryce-harper-don-mattingly-dave-dombrowski/",
-      "pubDate": "Fri, 02 Oct 2026 06:22:32 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
     },
     {
       "title": "Instant observations: Phillies pitching staff a total mess in season-ending Game 3 loss",
