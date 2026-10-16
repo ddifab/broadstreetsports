@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T23:21:19.231204+00:00",
+  "updated": "2026-10-16T01:53:37.839298+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -103,18 +103,6 @@
       "recent": [],
       "upcoming": [
         {
-          "date": "10/16",
-          "home": "CHI",
-          "away": "WPG",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NHL",
-          "name": "Winnipeg Jets at Chicago Blackhawks",
-          "shortName": "WPG @ CHI",
-          "time": "8:00 PM ET",
-          "status": "scheduled"
-        },
-        {
           "date": "10/17",
           "home": "CHI",
           "away": "DAL",
@@ -172,6 +160,18 @@
           "name": "Chicago Blackhawks at Detroit Red Wings",
           "shortName": "CHI @ DET",
           "time": "7:30 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/31",
+          "home": "BOS",
+          "away": "CHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NHL",
+          "name": "Chicago Blackhawks at Boston Bruins",
+          "shortName": "CHI @ BOS",
+          "time": "1:00 PM ET",
           "status": "scheduled"
         }
       ]
