@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T21:05:39.222789+00:00",
+  "updated": "2026-10-17T23:33:33.458090+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -163,18 +163,6 @@
       "recent": [],
       "upcoming": [
         {
-          "date": "10/17",
-          "home": "CHI",
-          "away": "DAL",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NHL",
-          "name": "Dallas Stars at Chicago Blackhawks",
-          "shortName": "DAL @ CHI",
-          "time": "7:00 PM ET",
-          "status": "scheduled"
-        },
-        {
           "date": "10/24",
           "home": "CHI",
           "away": "MTL",
@@ -232,6 +220,18 @@
           "name": "Chicago Blackhawks at Boston Bruins",
           "shortName": "CHI @ BOS",
           "time": "1:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "11/3",
+          "home": "CHI",
+          "away": "COL",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NHL",
+          "name": "Colorado Avalanche at Chicago Blackhawks",
+          "shortName": "COL @ CHI",
+          "time": "9:00 PM ET",
           "status": "scheduled"
         }
       ]

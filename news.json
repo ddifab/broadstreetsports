@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T21:05:39.222789+00:00",
+  "updated": "2026-10-17T23:33:33.458090+00:00",
   "count": 179,
   "articles": [
     {
@@ -421,6 +421,16 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "SportsTalk Philly"
+    },
+    {
+      "title": "Eagles place QB Jalen Hurts on injured reserve",
+      "description": "Jalen Hurts will be out for at least the next four games.",
+      "link": "https://www.phillyvoice.com/eagles-qb-jalen-hurts-going-injured-reserve/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sat, 17 Oct 2026 20:35:57 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/080426_EaglesTrainingCamp_ColleenClaggett-5816.jpg",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Jalen Hurts to injured reserve among four Eagles roster moves",
@@ -1069,16 +1079,6 @@
       "pubDate": "Sun, 11 Oct 2026 19:47:22 +0000",
       "author": "Evan Macy",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-11T153351Z_1493170034_MT1USATODAY30056978_RTRMADP_3_NFL-PHILADELPH.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "The Eagles can't outlast reality",
-      "description": "The Eagles don't have the skill to outlast anymore, and now luck is catching up to them, too.",
-      "link": "https://www.phillyvoice.com/eagles-jaguars-london-reactions-analysis-willie-lampkin-jalen-hurts-luck/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sun, 11 Oct 2026 18:04:45 +0000",
-      "author": "Nick Tricome",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-11T152516Z_27265249_MT1USATODAY30056893_RTRMADP_3_NFL-PHILADELPHIA.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
     },
