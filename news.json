@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T09:47:46.039823+00:00",
+  "updated": "2026-10-17T13:18:42.692239+00:00",
   "count": 178,
   "articles": [
     {
@@ -31,6 +31,16 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "PHL Sports Nation"
+    },
+    {
+      "title": "The Flyers are full of complementary players without a player to complement",
+      "description": "As the Flyers continue to scuffle along throughout an early season stretch that has snowballed into their worst in over a decade, the struggles they&#x2019;ve had on offense have started to take center stage. Philadelphia&#x2019;s expected goals perc",
+      "link": "https://www.broadstreethockey.com/post/the-flyers-are-full-of-complementary-players-without-a-player-to-complement/",
+      "pubDate": "Sat, 17 Oct 2026 12:00:00 +0000",
+      "author": "Jacob Russell",
+      "thumbnail": "https://www.broadstreethockey.com/wp-content/uploads/sites/12/2026/10/image-3.png",
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Eagles-Panthers Week 6 injury report, with analysis",
@@ -416,11 +426,31 @@
       "title": "Sixers put finishing touches on their preseason preparation against Celtics",
       "description": "Friday's last exhibition featured 138,518 minutes of NBA experience in the Sixers' starting lineup, but all for something new.",
       "link": "https://www.phillyvoice.com/sixers-vs-celtics-highlights-box-score-jaylen-brown-lebron-james-joel-embiid-tyrese-maxey-nba-news-analysis/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sat, 17 Oct 2026 01:40:33 +0000",
+      "pubDate": "Sat, 17 Oct 2026 12:28:11 +0000",
       "author": "Adam Aaronson",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-16T234149Z_21153273_MT1USATODAY30101872_RTRMADP_3_NBA-PRESEASON-BO.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Sixers Bell Ringer: Starters look sharp in Sixers preseason finale",
+      "description": "Preseason Bell Ringer rankings:Jaylen Brown 1VJ Edgecombe 1LeBron James 1 The Sixers closed their 2026-27 preseason campaign on Friday with an 125-120 overtime loss to the Boston Celtics in South Philadelphia on Friday night. The big story was that t",
+      "link": "",
+      "pubDate": "2026-10-16T23:00:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Embiid, Maxey dazzle in third quarter as Sixers drop preseason finale to Celtics",
+      "description": "That\u2019s enough preseason \u2014 who is ready for the real thing? The Sixers coasted through the 2026 preseason finale, losing 125-120 in overtime against some form of the Boston Celtics Friday night. The starters once again weren\u2019t at their sharpest, but s",
+      "link": "",
+      "pubDate": "2026-10-16T21:39:52-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Eagles Film Preview: Scouting the Panthers\u2019 offense",
@@ -793,16 +823,6 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "Flyers should consider claiming Aatu Raty off waivers",
-      "description": "The Philadelphia Flyers have got to do something to turn around their 0-5-3 start. They signed veteran free agent Michael Bunting last week and called up Jack Studnicka to replace Carl Grundstrom over the weekend. Neither of those moves are really go",
-      "link": "https://www.broadstreethockey.com/post/flyers-should-consider-claiming-aatu-raty-off-waivers/",
-      "pubDate": "Thu, 15 Oct 2026 02:37:58 +0000",
-      "author": "Ryan Gilbert",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "Report: Phillies to part ways with hitting coach Kevin Long, infield coach Bobby Dickerson",
       "description": "Don Mattingly is back, but there will be at least two changes to his coaching staff. The Phillies will not bring back hitting coach Kevin Long and infield coach Bobby Dickerson, NBC Sports Philadelphia Jim Salisbury reports. Long, who has two years r",
       "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-bobby-dickerson-kevin-long-coaching-staff-dave-dombrowski-mlb-don-mattingly-update/",
@@ -821,16 +841,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
-    },
-    {
-      "title": "Tyrese Maxey is built for this",
-      "description": "The way the Sixers\u2019 practice facility in Camden is designed, the media only gets to interact with players on the practice floor \u2014 by design, of course. The players have their own parking lot (with a roof for their super nice cars) and entrance on the",
-      "link": "",
-      "pubDate": "2026-10-14T13:17:39-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "5 Eagles thoughts: Third down isn't their biggest problem",
@@ -871,16 +881,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-02T201309Z_683694365_MT1USATODAY29721416_RTRMADP_3_MLB-PHILADELPHI.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Can Adem Bona make the most of increased opportunity with the Sixers?",
-      "description": "Adem Bona\u2019s possible outlook for the 2026-27 season has changed before we\u2019ve even reached the start of the regular season. Just days after the Sixers held their media day and hype for the new year really started to ramp up, one of their few centers, ",
-      "link": "",
-      "pubDate": "2026-10-14T08:57:53-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "There might be no saving the Flyers now",
