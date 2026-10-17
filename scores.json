@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T13:18:42.692239+00:00",
+  "updated": "2026-10-17T16:42:26.207533+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -84,7 +84,80 @@
     },
     "sixers": {
       "recent": [],
-      "upcoming": []
+      "upcoming": [
+        {
+          "date": "10/20",
+          "home": "NY",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "Philadelphia 76ers at New York Knicks",
+          "shortName": "PHI @ NY",
+          "time": "7:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/22",
+          "home": "PHI",
+          "away": "CLE",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "Cleveland Cavaliers at Philadelphia 76ers",
+          "shortName": "CLE @ PHI",
+          "time": "7:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/24",
+          "home": "PHI",
+          "away": "MIL",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "Milwaukee Bucks at Philadelphia 76ers",
+          "shortName": "MIL @ PHI",
+          "time": "7:30 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/25",
+          "home": "PHI",
+          "away": "DET",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "Detroit Pistons at Philadelphia 76ers",
+          "shortName": "DET @ PHI",
+          "time": "7:30 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/28",
+          "home": "IND",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "Philadelphia 76ers at Indiana Pacers",
+          "shortName": "PHI @ IND",
+          "time": "7:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/30",
+          "home": "PHI",
+          "away": "NY",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "New York Knicks at Philadelphia 76ers",
+          "shortName": "NY @ PHI",
+          "time": "7:30 PM ET",
+          "status": "scheduled"
+        }
+      ]
     },
     "flyers": {
       "recent": [],
