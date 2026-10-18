@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T19:45:26.557173+00:00",
+  "updated": "2026-10-18T21:58:40.926777+00:00",
   "count": 178,
   "articles": [
     {
@@ -11,6 +11,16 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "PHL Sports Nation"
+    },
+    {
+      "title": "Eagles Week 6 stock watch: First down, worst down in pathetic loss to Panthers",
+      "description": "X",
+      "link": "https://www.phillyvoice.com/eagles-week-6-stock-watch-tanner-mckee-devonta-smith-panthers-first-down-worst-stats-analysis-news/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sun, 18 Oct 2026 20:25:09 +0000",
+      "author": "Evan Macy",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-18T174732Z_2070561670_MT1USATODAY30123628_RTRMADP_3_NFL-CAROLINA-P.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Eagles-Panthers Week 6 inactives, with analysis",
@@ -273,16 +283,6 @@
       "source": "PhillyVoice Flyers"
     },
     {
-      "title": "The Eagles should punt on the 2026 season, trade still-valuable players for future assets",
-      "description": "We're only five weeks into the 2026 NFL season, but it is already crystal clear that it is not going to be a special one for the Philadelphia Eagles. More bluntly, if you're a Birds fan, this season sucks. And, spoiler, it is only going to continue t",
-      "link": "https://www.phillyvoice.com/eagles-should-punt-2026-season-trade-still-valuable-players-future-assets-tank-howie-roseman/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 12 Oct 2026 14:06:26 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2021-10-24T194647Z_1678788227_MT1USATODAY17021334_RTRMADP_3_NFL-PHILADELPH.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
       "title": "Executive Sam Fuld to stay with Phillies, reportedly declines job offer to lead baseball operations for another organization",
       "description": "Sam Fuld, one of the highest-ranking executives in the Phillies organization, will stay in Philadelphia after turning down a job offer to lead an American League clubs baseball operations, according to a Saturday afternoon report. Fuld declined the o",
       "link": "https://www.philliesnation.com/2026/10/executive-sam-fuld-to-stay-with-phillies-reportedly-declines-job-offer-to-lead-baseball-operations-for-another-organization/",
@@ -423,24 +423,74 @@
       "source": "SportsTalk Philly"
     },
     {
-      "title": "Eagles vs. Panthers Week 6 live chat",
-      "description": "The Philadelphia Eagles are back home in Week 6 for a tough matchup against the Carolina Panthers. We\u2019re here. It\u2019s game day. Things feel weird. But, always, Go Birds! Tanner McKee will be back at the helm of the offense, but he will at least have De",
+      "title": "Eagles-Panthers final score: Philadelphia loses fourth straight game in very boring fashion",
+      "description": "The Philadelphia Eagles are 2-4 after losing to the Carolina Panthers at Lincoln Financial Field on Sunday. Final score: 25 to 14. Well, that game was very boring. It felt like a 2025 redux. The offense, led by Tanner McKee instead of Jalen Hurts, pr",
       "link": "",
-      "pubDate": "2026-10-18T15:08:36-04:00",
+      "pubDate": "2026-10-18T16:57:31-04:00",
       "author": "",
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
     },
     {
-      "title": "Eagles vs. Panthers, Week 6: Live updates and open thread",
-      "description": "Follow along and chat Eagles-Panthers as DeVonta Smith and Tanner McKee try to snap a three-game losing streak.",
-      "link": "https://www.phillyvoice.com/eagles-vs-panthers-week-6-live-updates-and-open-thread/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sun, 18 Oct 2026 19:07:21 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2024-12-08T193627Z_337916032_MT1USATODAY24942691_RTRMADP_3_NFL-CAROLINA-PA.JPG",
+      "title": "NFL Week 6 Late Games discussion",
+      "description": "Now that the Week 6 early games are over, it\u2019s time to take a look at your late-afternoon viewing options, including the Buffalo Bills on the road against the Las Vegas Raiders. You can [CLICK HERE] for a full Week 6 Eagles fan rooting guide. Here\u2019s ",
+      "link": "",
+      "pubDate": "2026-10-18T16:57:19-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "There's no more blind hope in the Eagles anymore",
+      "description": "If you were banking on a 'Tanner McKee Game' to save the Eagles' season, bad news: He's not that guy anymore, and the Birds aren't that team anymore either.",
+      "link": "https://www.phillyvoice.com/eagles-no-more-blind-hope-tanner-mckee-panthers-loss-reaction/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sun, 18 Oct 2026 20:43:17 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-18T172241Z_1754416306_MT1USATODAY30123341_RTRMADP_3_NFL-CAROLINA-P.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles injuries stack up late against the Panthers",
+      "description": "As if the Eagles haven\u2019t had big enough issues keeping their players healthy, things got measurably worse for the group near the end of Week 6\u2019s game against the Panthers. At the top of the fourth quarter, DeVonta Smith and Dontayvion Wicks were both",
+      "link": "",
+      "pubDate": "2026-10-18T16:36:03-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Flyers\u2019 Foerster, Couturier, Tippett to be game-time decisions vs. Avalanche",
+      "description": "Though the Flyers were able to bear down in a big way to collect their first win of the season Saturday night over the Senators, the high of that accomplishment may well have come with a significant cost. Already dealing with some injuries to pieces ",
+      "link": "https://www.broadstreethockey.com/post/flyers-foerster-couturier-tippett-to-be-game-time-decisions-vs-avalanche/",
+      "pubDate": "Sun, 18 Oct 2026 20:31:37 +0000",
+      "author": "Madeline Campbell",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Eagles-Panthers Week 6 report card: Defense can only carry Birds so far",
+      "description": "Grading the Eagles in their 25-14 loss to the Panthers at the Linc in Week 6.",
+      "link": "https://www.phillyvoice.com/eagles-panthers-week-6-report-card-tanner-mckee-devonta-smith/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sun, 18 Oct 2026 20:26:34 +0000",
+      "author": "Geoff Mosher",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-18T182628Z_700695038_MT1USATODAY30123903_RTRMADP_3_NFL-CAROLINA-PA.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles vs. Panthers Week 6 live chat",
+      "description": "The Philadelphia Eagles are back home in Week 6 for a tough matchup against the Carolina Panthers. We\u2019re here. It\u2019s game day. Things feel weird. But, always, Go Birds! Tanner McKee will be back at the helm of the offense, but he will at least have De",
+      "link": "",
+      "pubDate": "2026-10-18T16:25:25-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Carson Steele injury: Eagles RB ruled out against Panthers [UPDATE]",
@@ -471,16 +521,6 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Eagles vs. Panthers: Live score updates, highlights, injury news",
-      "description": "The Philadelphia Eagles are back at Lincoln Financial Field to take on the Carolina Panthers. The Birds are home underdogs to their Week 6 opponent as they look to break a three-game losing streak. With Jalen Hurts now on injured reserve, Tanner McKe",
-      "link": "",
-      "pubDate": "2026-10-18T12:28:42-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Two Eagles \u2014 One Who is Here in Philly and One Who Should Still Be\u2026",
@@ -547,26 +587,6 @@
       "description": "The sixth weekend of the 2026 NFL season is here! Let\u2019s run through a Philadelphia Eagles-focused rooting guide for all of the Week 6 games. Note that we\u2019re currently approaching this activity from the perspective of the Eagles being interested in ma",
       "link": "",
       "pubDate": "2026-10-18T07:53:51-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Eagles News: Panthers player admits to not knowing much about Tanner McKee",
-      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! Maybe the Panthers will totally underestimate the Eagles\u2019 backup quarterback?! Probably not. Multiple Panthers players had nice things to say about Tanner McKe",
-      "link": "",
-      "pubDate": "2026-10-18T07:26:45-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Eagles vs. Panthers Week 6 game information",
-      "description": "The Philadelphia Eagles are now 2-3 heading into their Week 6 matchup against the Carolina Panthers on Sunday afternoon. It\u2019s been a week filled with both good and bad news for the Eagles, who are expected to have DeVonta Smith and handful of other i",
-      "link": "",
-      "pubDate": "2026-10-18T06:29:55-04:00",
       "author": "",
       "thumbnail": null,
       "team": "eagles",
@@ -807,16 +827,6 @@
       "description": "*Folks. What else is there to say. The Flyers lost to the Red Wings last night. Its now nine losses for the Flyers to start the season. [BSH] *Its been uninspiring to watch, and also kind of boring, as the scoring has continued to look pretty anemic.",
       "link": "https://www.broadstreethockey.com/post/friday-morning-fly-by-somethings-gotta-give/",
       "pubDate": "Fri, 16 Oct 2026 10:00:00 +0000",
-      "author": "Madeline Campbell",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Takeaways: Flyers\u2019 streak stretches to 9 with 2-1 loss to Red Wings",
-      "description": "Another Flyers gameday, another loss to dig into. Despite putting together a nice but of momentum in Tuesdays game against the Kraken, the Flyers once again showed an inability to build and capitalize on their positives pulled together meeting with a",
-      "link": "https://www.broadstreethockey.com/post/takeaways-flyers-streak-stretches-to-9-with-2-1-loss-to-red-wings/",
-      "pubDate": "Fri, 16 Oct 2026 03:16:25 +0000",
       "author": "Madeline Campbell",
       "thumbnail": null,
       "team": "flyers",
@@ -1079,16 +1089,6 @@
       "pubDate": "Mon, 12 Oct 2026 14:59:19 +0000",
       "author": "Jimmy Kempski",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-11T211348Z_829714579_MT1USATODAY30057871_RTRMADP_3_NFL-PHILADELPHI.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Fantasy football injuries: Updates on TreVeyon Henderson, Michael Penix, Deebo Samuel and more",
-      "description": "Are the Falcons down a starting QB again? Will the Eagles be down to a fourth-string RB?",
-      "link": "https://www.phillyvoice.com/fantasy-football-injuries-updates-treveyon-henderson-michael-penix-will-shipley/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 12 Oct 2026 13:40:57 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/080426_EaglesTrainingCamp_ColleenClaggett-7512.jpg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
     },
