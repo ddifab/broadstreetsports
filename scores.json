@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T21:57:54.105760+00:00",
+  "updated": "2026-10-21T00:20:30.197185+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -86,18 +86,6 @@
       "recent": [],
       "upcoming": [
         {
-          "date": "10/20",
-          "home": "NY",
-          "away": "PHI",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NBA",
-          "name": "Philadelphia 76ers at New York Knicks",
-          "shortName": "PHI @ NY",
-          "time": "7:00 PM ET",
-          "status": "scheduled"
-        },
-        {
           "date": "10/22",
           "home": "PHI",
           "away": "CLE",
@@ -155,6 +143,18 @@
           "name": "New York Knicks at Philadelphia 76ers",
           "shortName": "NY @ PHI",
           "time": "7:30 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "10/31",
+          "home": "CHA",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "Philadelphia 76ers at Charlotte Hornets",
+          "shortName": "PHI @ CHA",
+          "time": "6:00 PM ET",
           "status": "scheduled"
         }
       ]
