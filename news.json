@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T00:20:30.197185+00:00",
-  "count": 179,
+  "updated": "2026-10-21T05:27:25.301100+00:00",
+  "count": 180,
   "articles": [
     {
       "title": "Former Phillies hitting coach Kevin Long could land another job in the division",
@@ -21,6 +21,36 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
+    },
+    {
+      "title": "Flyers\u2019 turnaround gives Danny Briere leverage in trade talks",
+      "description": "A lot can change in just a few days. Heading into the weekend, the Philadelphia Flyers were at the bottom of the league with a winless start through nine games. They were dealt a few more blows in the form of injuries, as well, with a pair of playoff",
+      "link": "https://www.broadstreethockey.com/post/flyers-turnaround-gives-danny-briere-leverage-in-trade-talks/",
+      "pubDate": "Wed, 21 Oct 2026 03:44:23 +0000",
+      "author": "Ryan Gilbert",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "NFLPA calls for \u201cfull investigation\u201d into Jalen Hurts situation",
+      "description": "Earlier on Tuesday, the NFL concluded that Jalen Hurts being cleared to play with a superficial blood clot was \u201chandled appropriately.\u201d On Tuesday evening, the NFL Players Association pushed back on that assertion with an official statement: The NFLP",
+      "link": "",
+      "pubDate": "2026-10-20T23:19:07-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "NFL Trade Rumors: Hollywood Brown expected to be available",
+      "description": "With the Philadelphia Eagles\u2019 2026 outlook not looking so bright at the moment, there\u2019s been a lot of talk about the team being active as sellers ahead of the NFL trade deadline. Much of that focus revolves around key names, such as Saquon Barkley. B",
+      "link": "",
+      "pubDate": "2026-10-20T17:15:09-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "This is the best chance Joel Embiid will ever have",
@@ -61,16 +91,6 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Jalen Hurts update: Eagles quarterback out for the season",
-      "description": "The Philadelphia Eagles will be without starting quarterback Jalen Hurts for the remainder of the 2026 NFL season. Multiple NFL insiders reported as much on Monday morning. Pretty crazy stuff. Wild that Hurts was even able to play in the Eagles\u2019 Week",
-      "link": "",
-      "pubDate": "2026-10-19T12:12:19-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Eagles Week 6 stock watch: First down, worst down in pathetic loss to Panthers",
@@ -373,6 +393,46 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Eagles-Commanders Week 8 game will NOT be flexed out of Sunday night",
+      "description": "The Philadelphia Eagles\u2019 Week 8 road game against the Washington Commanders will remain on Sunday Night Football despite previous reporting that it was in consideration to be flexed. The NFL gave thought to moving the 1:00 PM start between the Pittsb",
+      "link": "",
+      "pubDate": "2026-10-20T23:47:27-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Sixers Bell Ringer: Philly win portends great things to come in victory over defending champs",
+      "description": "Aside from potentially playing a role in a tiebreaker scenario at the end of the season, Tuesday night\u2019s game was just one of 82 on the schedule. But it felt much bigger than that, what with the New York Knicks raising the banner, and the Philadelphi",
+      "link": "",
+      "pubDate": "2026-10-20T23:30:05-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "In debuts of LeBron James, Jaylen Brown, Sixers spoil Knicks' ring night",
+      "description": "As every game between these two teams does, Tuesday's season opener between the Sixers and New York Knicks was an instant classic.",
+      "link": "https://www.phillyvoice.com/sixers-vs-knicks-highlights-lebron-james-jaylen-brown-joel-embiid-tyrese-maxey-vj-edgecombe-nba-nyc/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 21 Oct 2026 02:07:54 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-21T005007Z_1974290752_MT1USATODAY30140113_RTRMADP_3_NBA-PHILADELPH.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Banner night for new-look Sixers with win over defending champs at MSG",
+      "description": "NEW YORK \u2014 The defense comes through in the end, just like we all expected. The Sixers opened the 2026-27 season with a nail-biting 106-100 victory over the defending champion New York Knicks Tuesday night. Tyrese Maxey had a great night leading the ",
+      "link": "",
+      "pubDate": "2026-10-20T22:01:35-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
       "title": "WATCH: LeBron James plays bully ball to score first basket for Sixers",
       "description": "LeBron James' 24th NBA season \u2013 and his first as a member of the Sixers \u2013 is officially underway.",
       "link": "https://www.phillyvoice.com/watch-lebron-james-first-basket-sixers-vs-knicks-live-highlights-box-score-stats-ring-ceremony-nba-videos-news-nyc/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -393,6 +453,16 @@
       "source": "PhillyVoice Sixers"
     },
     {
+      "title": "Sixers-Knicks: Game Discussion Thread",
+      "description": "Game Details When:Monday, October 20, 7 p.m. ETWhere:Madison Square Garden, NY Watch:NBCRadio:97.5 The FanaticFollow:@LibertyBallers",
+      "link": "",
+      "pubDate": "2026-10-20T19:03:09-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
       "title": "Oliver Bonk\u2019s breakout is coming at the perfect time",
       "description": "With injuries to Rasmus Ristolainen and Cam York rapidly thinning out the Flyers defensive corps, the Flyers have been forced to tap into their depth and farm system to try and fill out three NHL-caliber pairs. Names like Helge Grans and the newly-ac",
       "link": "https://www.broadstreethockey.com/post/oliver-bonks-breakout-is-coming-at-the-perfect-time/",
@@ -401,6 +471,16 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Eagles roster moves include 4 running back transactions",
+      "description": "The Philadelphia Eagles officially announced five transactions on Tuesday evening. Here\u2019s an overview: Let\u2019s sort through this news on a player-by-player basis. CARSON STEELE Steele, a preseason fan favorite, recently got called up to the roster afte",
+      "link": "",
+      "pubDate": "2026-10-20T16:58:17-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "RECAP \u2013 Week 6: Eagles Exposed vs Carolina, 25-14; Where Does Team Go From Here?",
@@ -713,36 +793,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Eagles-Panthers snap counts",
-      "description": "The official snap counts from the Philadelphia Eagles\u2019 Week 6 loss to the Carolina Panthers are in. Let\u2019s take a look and run through some analysis. OFFENSE DEFENSE SPECIAL TEAMS DID NOT PLAY ACTIVE: Cole Payton, Jaydon Blue, Drew Kendall INACTIVE: M",
-      "link": "",
-      "pubDate": "2026-10-19T16:57:32-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Is there a trust issue between Jalen Hurts and the Eagles?",
-      "description": "Much has happened to the Eagles over the last 72 hours. They lost for the fourth-straight time for the first time in head coach Nick Sirianni\u2019s tenure on Sunday. And then at 10:10 a.m. on Monday, it was revealed they will be without franchise quarter",
-      "link": "",
-      "pubDate": "2026-10-19T15:00:52-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Matvei Michkov\u2019s first 10 games tell a different story than previous seasons",
-      "description": "The Philadelphia Flyers are 10 games into the season, and one of the few bright spots has been Matvei Michkov. The Russian forward is starting to look like his old self, and that's a very good omen after the club's terrible start.",
-      "link": "https://www.broadstreethockey.com/post/matvei-michkovs-first-10-games-tell-a-different-story-than-previous-seasons/",
-      "pubDate": "Mon, 19 Oct 2026 18:45:00 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": "https://www.broadstreethockey.com/wp-content/uploads/sites/12/2026/09/20251002_nyi_vs_phi-44-300x200.jpg",
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "Eagles 'season from hell' tracker",
       "description": "The Philadelphia Eagles' 2026 season is a train wreck in progress, so let's recap everything that has happened to date, and add to the tracker as this mess of a season continues to go off the rails.",
       "link": "https://www.phillyvoice.com/eagles-season-from-hell-tracker-2026-nick-sirianni-jalen-hurts-howie-roseman-jeffrey-lurie/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -751,16 +801,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-09-14T215746Z_1954631528_MT1USATODAY27085058_RTRMADP_3_NFL-PHILADEL_MR1XO5I.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Eagles-Panthers Film Review: Sean Mannion should probably be replaced",
-      "description": "Im completely done with this offense. I\u2019ve been mad in the past, but never completely out on the whole offense so early into a season. I always try to seek positives. Those of you who have read my work for a while will know that I rarely call for a p",
-      "link": "",
-      "pubDate": "2026-10-19T13:14:12-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Flyers thoughts: A speech, a breakthrough, and shades of 90s hockey",
@@ -803,16 +843,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "Report: Sixers \u2018would have strong interest\u2019 in center Moussa Cisse",
-      "description": "It\u2019s no secret that backup center is currently the biggest question mark for the Philadelphia 76ers\u2019 roster, a situation exacerbated by Ariel Hukporti\u2019s season-ending Achilles injury. As Mike Gansey surveys the NBA landscape for a solution, one name ",
-      "link": "",
-      "pubDate": "2026-10-19T10:53:56-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Jordan Mailata is trying to hold it together for the Eagles, but the ship is sinking",
       "description": "Like the leaders who came before him, Eagles captain Jordan Mailata remains stoic as the Birds are sliding. But he's running out of answers.",
       "link": "https://www.phillyvoice.com/eagles-left-tackle-jordan-mailata-trying-hold-it-together-losing-streak/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -821,16 +851,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-18T185428Z_949421089_MT1USATODAY30124285_RTRMADP_3_NFL-CAROLINA-PA.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "5 Sixers predictions for the 2026-27 regular season",
-      "description": "This upcoming regular season is the most exciting and anticipated one of this era of Sixers basketball and then some. Not only has Philadelphia loaded up their roster with aspirations of winning the conference and more, but over half the East has don",
-      "link": "",
-      "pubDate": "2026-10-19T09:24:04-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "5 Sixers thoughts: What did we learn during training camp and preseason?",
@@ -941,16 +961,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/080426_EaglesTrainingCamp_ColleenClaggett-5816.jpg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Sixers sign Tacko Fall to two-way contract",
-      "description": "The Philadelphia 76ers have officially filled all three of their two-way contract spots. Joining Caleb Love and Rayan Rupert, Tacko Fall will occupy the third and final slot. The 7-foot-6 center gives Philadelphia another option in a frontcourt that ",
-      "link": "",
-      "pubDate": "2026-10-17T15:07:12-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "LeBron James' passing wizardry, Joel Embiid finds his footing and more from Sixers' preseason finale",
@@ -1357,10 +1367,10 @@
       "description": "The Sixers' star-studded starting lineup made its preseason debut Thursday, displaying incredible highlights and reminders that they will need some time.",
       "link": "https://www.phillyvoice.com/sixers-vs-nets-box-score-lebron-james-debut-highlights-joel-embiid-tyrese-maxey-jaylen-brown-vj-edgecombe-nba-ny/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
       "pubDate": "Fri, 09 Oct 2026 02:06:32 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-09T010506Z_1177475625_MT1USATODAY30032781_RTRMADP_3_NBA-PRESEASON-.JPG",
+      "author": "PhillyVoice",
+      "thumbnail": null,
       "team": "sixers",
-      "source": "PhillyVoice Sixers"
+      "source": "Philly Sports Wire"
     },
     {
       "title": "Takeaways: Flyers look better, but not good enough in tough 2-1 loss to Ottawa",
