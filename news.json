@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T20:54:42.717480+00:00",
-  "count": 178,
+  "updated": "2026-10-22T23:43:11.321690+00:00",
+  "count": 177,
   "articles": [
     {
       "title": "Former Phillies hitting coach Kevin Long could land another job in the division",
@@ -53,13 +53,13 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "3 Players That Could Be Traded At The Deadline",
-      "description": "Well, that escalated quickly. Losing a winnable game to the Jags in the final seconds hurt. Losing the starting quarterback [] The post 3 Players That Could Be Traded At The Deadline appeared first on Philadelphia Sports Nation.",
+      "title": "Three Eagles That Could Be Traded At The Deadline, From Least to Most Likely",
+      "description": "Well, that escalated quickly. This was certainly not how Howie and Nick drew it up, but these are the cards [] The post Three Eagles That Could Be Traded At The Deadline, From Least to Most Likely appeared first on Philadelphia Sports Nation.",
       "link": "https://phlsportsnation.com/2026/10/22/3-players-that-could-be-traded-at-the-deadline/",
       "pubDate": "Thu, 22 Oct 2026 16:00:00 +0000",
       "author": "Dane Dillard",
       "thumbnail": null,
-      "team": "general",
+      "team": "eagles",
       "source": "PHL Sports Nation"
     },
     {
@@ -93,16 +93,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Eagles News: Saquon Barkley included among 3 ESPN trade proposals",
-      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! The Eagles should absolutely trade Saquon Barkley if they get a good offer. Getting at least one second-round pick is probably key to making that deal work. A ",
-      "link": "",
-      "pubDate": "2026-10-21T11:06:03-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "NFL Players Association calls for 'full investigation' of Jalen Hurts situation",
       "description": "Questions about the Eagles' handling of Jalen Hurts are not going away.",
       "link": "https://www.phillyvoice.com/nfl-players-association-calls-for-full-investigation-eagles-jalen-hurts-situation/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -121,16 +111,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Wednesday Morning Fly By: Going streaking?",
-      "description": "*The Flyers win over the Avalanche on Monday was so thrilling (and kind of shocking) that were still not ready to be done talking about it. [PHLY] *Joseph Woll continues to deliver for them, and he picked up his first win of the season at long, long ",
-      "link": "https://www.broadstreethockey.com/post/wednesday-morning-fly-by-going-streaking/",
-      "pubDate": "Wed, 21 Oct 2026 10:00:00 +0000",
-      "author": "Madeline Campbell",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "This is the best chance Joel Embiid will ever have",
@@ -393,6 +373,46 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Eagles Injury Report: Saquon Barkley limited while other key offensive starters miss practice",
+      "description": "The Philadelphia Eagles issued their first injury report of the week on Thursday in advance of their Week 7 Monday Night Football game against the Dallas Cowboys. The Eagles listed six players under DID NOT PARTICIPATE: DeVonta Smith, Dontayvion Wick",
+      "link": "",
+      "pubDate": "2026-10-22T19:32:12-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Rick Tocchet may have found 2 lineup combinations to build around",
+      "description": "The Philadelphia Flyers are making their way out of the 0-6-3 hole they dug themselves into, thanks to a few consistent combinations in recent games. For the first few weeks of the season, Rick Tocchet had his lines fully in the blender. The only con",
+      "link": "https://www.broadstreethockey.com/post/rick-tocchet-may-have-found-2-lineup-combinations-to-build-around/",
+      "pubDate": "Thu, 22 Oct 2026 23:21:46 +0000",
+      "author": "Ryan Gilbert",
+      "thumbnail": "https://www.broadstreethockey.com/wp-content/uploads/sites/12/2026/10/MCM-MP.png",
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Sixers-Cavaliers: Game Discussion Thread",
+      "description": "Game Details When: Thursday, October 22, 7:00 p.m. ETWhere: Xfinity Mobile Arena, Philadelphia, PAWatch: ESPNRadio: 97.5 The FanaticFollow: @LibertyBallers",
+      "link": "",
+      "pubDate": "2026-10-22T18:30:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Eagles sign former Giants draft pick to practice squad, re-sign two other players",
+      "description": "A day after bringing in former first-round draft pick Evan Neal for a tryout, the Eagles are signing the former New York Giants offensive lineman to the practice squad, according to multiple reports. The team also announced re-signing RB Jaydon Blue ",
+      "link": "",
+      "pubDate": "2026-10-22T16:33:01-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
       "title": "Cole Knuble brought a spark, and the Flyers caught momentum",
       "description": "Cole Knuble ate two big hits Monday night, then scored his first two goals on Wednesday as the Flyers won three straight. The team has a pulse again.",
       "link": "https://www.phillyvoice.com/flyers-cole-knuble-spark-momentum-win-streak-matvei-michkov-oliver-bonk-nhl/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -501,16 +521,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-27T031421Z_2135985193_MT1USATODAY29929391_RTRMADP_3_MLB-TAMPA-BAY-.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Ray Didinger provides light on the Philly sports scene with \u201cLook What the Kid Wrote Today\u201d",
-      "description": "Hall of Fame sportswriter Ray Didinger always had his fingers on the pulse of the Philadelphia sports scene, the good and the bad. Right now, it\u2019s bad with the sagging Eagles and Flyers, and the sad way the Phillies went out. But Didinger has provide",
-      "link": "",
-      "pubDate": "2026-10-22T09:11:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "LeBron James, Jaylen Brown set to make home debuts as Sixers host Cleveland Cavaliers",
@@ -631,16 +641,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-09-05T044938Z_1645847867_MT1USATODAY27003467_RTRMADP_3_NFL-DALLAS-COW.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Eagles-Panthers Film Review: This defense needs help. It also needs to play better.",
-      "description": "Writing about the Eagles\u2019 defense is becoming a slightly repetitive exercise. Once again, the offense made its job harder. Once again, the defense spent far too much time on the field. But even so, this defense isn\u2019t playing well enough right now, an",
-      "link": "",
-      "pubDate": "2026-10-21T11:51:19-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Sixers-Knicks takeaways: This crazy experiment might not be so crazy",
@@ -781,16 +781,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-18T182628Z_700695038_MT1USATODAY30123903_RTRMADP_3_NFL-CAROLINA-_UQY98ll.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Embrace the excitement, Sixers fans",
-      "description": "While we all know the mental health of every Philadelphia sports fan for at least the next 6-8 months is reliant on the Sixers having a good 2026-27 season, let\u2019s not turn that into a negative. The Sixers are about to open their season at Madison Squ",
-      "link": "",
-      "pubDate": "2026-10-20T12:29:44-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Sixers release hype video ahead of 2026-27 season opener",
