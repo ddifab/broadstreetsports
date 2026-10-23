@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T08:00:11.631137+00:00",
+  "updated": "2026-10-23T13:52:32.280146+00:00",
   "count": 176,
   "articles": [
     {
@@ -31,6 +31,46 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
+    },
+    {
+      "title": "The Flyers may have finally fixed their broken power play",
+      "description": "Heading into Thursdays slate of games, the Philadelphia Flyers find themselves needing to leapfrog over six teams to land the second wildcard spot. They still have 72 games left, and theres plenty of time to right the ship. The fly in the ointment is",
+      "link": "https://www.broadstreethockey.com/post/the-flyers-may-have-finally-fixed-their-broken-power-play/",
+      "pubDate": "Fri, 23 Oct 2026 13:40:05 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "How Jaylen Brown remedies a decade-long issue for Sixers",
+      "description": "The home debut for LeBron James and Jaylen Brown was always going to be a memorable one. The Sixers made sure of that with their biggest comeback in the play-by-play era. They stormed back from 29 points down to fend off the Cleveland Cavaliers on na",
+      "link": "",
+      "pubDate": "2026-10-23T09:03:39-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Eagles-Cowboys preview: 5 things to watch",
+      "description": "After four straight losses, the Philadelphia Eagles' season is spiraling. They'll face a similarly disappointing team on Monday Night Football in the Dallas Cowboys, who are obviously a major divisional rival. Normally, an Eagles-Cowboys matchup is a",
+      "link": "https://www.phillyvoice.com/eagles-cowboys-preview-5-things-watch-tanner-mckee-dak-prescott-saquon-barkley/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 23 Oct 2026 12:58:47 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-01-01T164324Z_174821754_MT1USATODAY25095030_RTRMADP_3_NFL-DALLAS-COWB.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "After 29-point comeback in home opener, Sixers praise crowd that 'almost blew the roof off'",
+      "description": "The Sixers' 29-point comeback in Thursday's home opener was one of the three best experiences of Joel Embiid's NBA career, the former MVP said.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-vs-cavs-comeback-highlights-stats-box-score-joel-embiid-lebron-james-tyrese-maxey-jaylen-brown-vj-edgecombe/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 23 Oct 2026 12:48:49 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-22T232018Z_1702668538_MT1USATODAY30156027_RTRMADP_3_NBA-CLEVELAND-.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
     },
     {
       "title": "With 29-point comeback, Sixers stage a home opener for the ages",
@@ -163,16 +203,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Eagles-Panthers Week 6 inactives, with analysis",
-      "description": "Part of the reason the Philadelphia Eagles have had a very disappointing season so far is because they have suffered a lot of injuries. They listed 24 (!) players on their initial Wednesday injury report, and then announced on Friday that Jalen Hurts",
-      "link": "https://www.phillyvoice.com/eagles-panthers-week-6-inactives-analysis-2026-jalen-hurts-saquon-barkley/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sun, 18 Oct 2026 15:43:40 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2024-12-08T171324Z_1863292054_MT1USATODAY24941660_RTRMADP_3_NFL-CAROLINA-P.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
       "title": "Stay or Go: What should the Phillies do with Bryce Harper?",
       "description": "Will the Phillies trade Bryce Harper this offseason? Its very unlikely. Harper, one of only two well above average hitters for the Phillies in 2026, has a full no-trade clause. He goes only if he wants to go. Harper had repeatedly said that But if th",
       "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-stay-or-go-offseaon-mlb-bryce-harper-2026/",
@@ -261,16 +291,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/0003_01132021_Flyers_Pens_Frese.jpg",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Reports: Sixers hire Brad Jones as general manager of Delaware Blue Coats",
-      "description": "Brad Jones, formerly of the Orlando Magic and NBA G League, will replace Ariana Andonian leading the Delaware Blue Coats.",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-nba-g-league-brad-jones-front-office-directory/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 13 Oct 2026 14:15:11 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_25333443.jpg",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
     },
     {
       "title": "Phillies stay or go: 2B/3B Bryson Stott",
@@ -383,6 +403,26 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Eagles-Cowboys: Staff picks, betting odds, and more for a listless Dallas week",
+      "description": "It's Dallas week, and on Monday Night Football. But with the Eagles falling apart, Week 7 is already feeling forgettable.",
+      "link": "https://www.phillyvoice.com/eagles-cowboys-week-7-staff-picks-betting-odds-predictions-tanner-mckee-dak-prescott/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 23 Oct 2026 12:55:00 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-09-06T150248Z_694734343_MT1USATODAY27016573_RTRMADP_3_NFL-DALLAS-COWB.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Friday Morning Fly By: Let\u2019s get going already",
+      "description": "*Folks! The Flyers won another game! They might never lose again! [Inquirer] *It was a nice little team win, but it was a particularly huge showing for both Cole Knuble and Dan Vladar. [PHLY] *And it&#x2019;s been a lot of fun to see the youth moveme",
+      "link": "https://www.broadstreethockey.com/post/friday-morning-fly-by-lets-get-going-already/",
+      "pubDate": "Fri, 23 Oct 2026 10:00:00 +0000",
+      "author": "Madeline Campbell",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
       "title": "Win or lose this season, this LeBron James thing is pretty cool, right?",
       "description": "It was early 2014 and I was a sports editor for the first time. That's when I covered my first Sixers game.",
       "link": "https://www.phillyvoice.com/sixers-76ers-the-process-lebron-james-joel-embiid-championship-draught-philadelphia-cavaliers-news-analysis/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -394,7 +434,7 @@
     },
     {
       "title": "Sixers storm back after lifeless first half to win in LeBron\u2019s home debut",
-      "description": "This team might just have some juice. The Sixers erased a 29-point deficit to win their home opener 114-106 over the Cleveland Cavaliers Thursday night. Tyrese Maxey put together the most complete game, leading the Sixers with 32 points with six assi",
+      "description": "This team might just have some juice. The Sixers erased a 29-point deficit to win their home opener 114-106 over the Cleveland Cavaliers Thursday night. Tyrese Maxey put together the most complete game, leading the Sixers with 32 points and six assis",
       "link": "",
       "pubDate": "2026-10-22T21:54:56-04:00",
       "author": "",
@@ -613,26 +653,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Flyers @ Sabres: How to watch, lineups, and gamethread",
-      "description": "The Philadelphia Flyers have an opportunity to have a real-life winning streak as they visit the Buffalo Sabres on Wednesday. It feels impossible to think after losing the first nine games of the season, but the Flyers seem to be rolling and confiden",
-      "link": "https://www.broadstreethockey.com/post/flyers-sabres-how-to-watch-lineups-and-gamethread-3/",
-      "pubDate": "Wed, 21 Oct 2026 20:00:00 +0000",
-      "author": "Thomas Williams",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Jiricek out, Benoit and McDonald in for Flyers against Sabres",
-      "description": "Although nothing has been confirmed in terms of forwards, it looks like the Philadelphia Flyers are tinkering somewhat with their defensive corps leading into Wednesday nights game against the host Buffalo Sabres. According to reports, defenseman Dav",
-      "link": "https://www.broadstreethockey.com/post/jiricek-out-benoit-and-mcdonald-in-for-flyers-against-sabres/",
-      "pubDate": "Wed, 21 Oct 2026 18:21:10 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "Stay or Go: Has longest-tenured Phillies reliever Jos\u00e9 Alvarado pitched his last game with team?",
       "description": "Following a rocky 2025 season, the Phillies picked up left-hander Jos\u00e9 Alvarados club option for 2026. He had started last year on a strong note, displaying rediscovered velocity and proving to be a reliable late-game reliever in a razor-thin bullpen",
       "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-stay-or-go-jose-alvarado-free-agent-reliever-offseason/",
@@ -731,16 +751,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-21T005007Z_1974290752_MT1USATODAY30140113_RTRMADP_3_NBA-PHILADELPH.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Banner night for new-look Sixers with win over defending champs at MSG",
-      "description": "NEW YORK \u2014 The defense comes through in the end, just like we all expected. The Sixers opened the 2026-27 season with a nail-biting 106-100 victory over the defending champion New York Knicks Tuesday night. Tyrese Maxey had a great night leading the ",
-      "link": "",
-      "pubDate": "2026-10-20T22:01:35-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "WATCH: LeBron James plays bully ball to score first basket for Sixers",
@@ -1061,16 +1071,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Eagles place QB Jalen Hurts on injured reserve",
-      "description": "Jalen Hurts will be out for at least the next four games.",
-      "link": "https://www.phillyvoice.com/eagles-qb-jalen-hurts-going-injured-reserve/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sat, 17 Oct 2026 20:35:57 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/080426_EaglesTrainingCamp_ColleenClaggett-5816.jpg",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "LeBron James' passing wizardry, Joel Embiid finds his footing and more from Sixers' preseason finale",
