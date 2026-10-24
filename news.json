@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T19:53:48.665758+00:00",
+  "updated": "2026-10-24T22:02:24.109101+00:00",
   "count": 177,
   "articles": [
     {
@@ -43,6 +43,16 @@
       "source": "Phillies Nation"
     },
     {
+      "title": "Eagles-Cowboys Week 7 injury report, with analysis",
+      "description": "The Philadelphia Eagles have been devastated by injuries this season, which has helped contribute to their extremely disappointing 2-4 start. They listed 24 players on their initial Thursday injury report. The Cowboys, conversely, are relatively heal",
+      "link": "https://www.phillyvoice.com/eagles-cowboys-week-7-injury-report-analysis-saquon-barkley-devonta-smith-dallas-goedert/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sat, 24 Oct 2026 21:03:21 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2022-11-04T034107Z_477249331_MT1USATODAY19354740_RTRMADP_3_NFL-PHILADELPHI.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
       "title": "LeBron James OUT for Sixers\u2019 first of a back-to-back vs Bucks",
       "description": "Update, 1:25 p.m.: LeBron James has officially been ruled out Saturday night vs. the Milwaukee Bucks. And now we get our first glimpse of how the Sixers will manage back-to-backs this season. Philadelphia released their injury report ahead of their m",
       "link": "",
@@ -51,16 +61,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Eagles-Cowboys Week 7 injury report, with analysis",
-      "description": "The Philadelphia Eagles have been devastated by injuries this season, which has helped contribute to their extremely disappointing 2-4 start. They listed 24 players on their initial Thursday injury report. The Cowboys, conversely, are relatively heal",
-      "link": "https://www.phillyvoice.com/eagles-cowboys-week-7-injury-report-analysis-saquon-barkley-devonta-smith-dallas-goedert/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sat, 24 Oct 2026 11:04:39 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2022-11-04T034107Z_477249331_MT1USATODAY19354740_RTRMADP_3_NFL-PHILADELPHI.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Sixers aim to secure perfect 3-0 start in matchup vs. Bucks",
@@ -201,16 +201,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
-    },
-    {
-      "title": "Flyers\u2019 youth movement is about to force some difficult roster decisions",
-      "description": "After starting the season with one of the worst stretches of hockey ever seen by humankind, the Philadelphia Flyers have started to turn it on. Despite trudging through a nine-game losing streak to begin the year that seemed like it would never end, ",
-      "link": "https://www.broadstreethockey.com/post/flyers-youth-movement-is-about-to-force-some-difficult-roster-decisions/",
-      "pubDate": "Thu, 22 Oct 2026 16:30:41 +0000",
-      "author": "Jacob Russell",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Three Eagles That Could Be Traded At The Deadline, From Least to Most Likely",
@@ -451,6 +441,26 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "SportsTalk Philly"
+    },
+    {
+      "title": "Matvei Michkov and the Flyers' youth are taking over, but still have a lot of climbing to do",
+      "description": "Matvei Michkov, Porter Martone, and other Flyers youngsters are on to something, but Saturday against the Ducks ultimately fell apart.",
+      "link": "https://www.phillyvoice.com/flyers-matvei-michkov-porter-martone-hunter-mcdonald-ducks-cutter-gauthier-leo-carlsson/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sat, 24 Oct 2026 20:57:03 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-24T173620Z_118775513_MT1USATODAY30172653_RTRMADP_3_NHL-ANAHEIM-DUC.JPG",
+      "team": "flyers",
+      "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "Takeaways: Joseph Woll with subpar performance as Ducks edge Flyers 5-4",
+      "description": "The Philadelphia Flyers had bad goaltending performance for the first time all season, and offer sheet dynamo Leo Carlsson had a multi-point game as Anaheim edged the Flyers 5-4 Saturday afternoon at Xfinity Mobile Arena. The loss ended Philadelphias",
+      "link": "https://www.broadstreethockey.com/post/takeaways-joseph-woll-with-subpar-performance-as-ducks-edge-flyers-5-4/",
+      "pubDate": "Sat, 24 Oct 2026 20:06:14 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Flyers activate Rasmus Ristolainen from IR, loan Garrett Wilson to Phantoms",
@@ -1689,16 +1699,6 @@
       "pubDate": "Wed, 16 Sep 2026 15:02:15 +0000",
       "author": "Nick Tricome",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/Gritty.jpeg",
-      "team": "flyers",
-      "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Danny Bri\u00e8re, Flyers have much bigger and better expectations for Tyson Foerster",
-      "description": "Tyson Foerster has the contract extension to keep him as a Flyer, and an increasingly important one, for a good while.",
-      "link": "https://www.phillyvoice.com/flyers-tyson-foerster-bigger-expectations-goals-stats-projections-contract-danny-briere/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 16 Sep 2026 13:00:05 +0000",
-      "author": "Nick Tricome",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-11-13T002043Z_1129597223_MT1USATODAY27572124_RTRMADP_3_NHL-EDMONTON-O.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
     },
