@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T14:37:34.554180+00:00",
+  "updated": "2026-10-25T17:55:14.709342+00:00",
   "count": 179,
   "articles": [
     {
@@ -11,16 +11,6 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Sixers Bell Ringer: Philadelphia completes historic comeback to top Cavaliers",
-      "description": "Regular Season Bell Ringer Standings:Tyrese Maxey 1 Following a first half that saw the Philadelphia 76ers turn the ball over 14 times and trail Cleveland by as many as 29 points, the Sixers team we dreamed about all summer re-emerged in the second h",
-      "link": "",
-      "pubDate": "2026-10-22T23:32:55-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Former Phillies hitting coach Kevin Long could land another job in the division",
@@ -41,6 +31,16 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
+    },
+    {
+      "title": "Flyers open up roster spot, loan Jacob Gaucher to Phantoms",
+      "description": "With a day off on the schedule after their disappointing loss to the Ducks on Saturday afternoon, the Flyers are still taking care of a bit of business, trimming down their roster a bit by sending forward Jacob Gaucher back down to the Phantoms. Tran",
+      "link": "https://www.broadstreethockey.com/post/flyers-open-up-roster-spot-loan-jacob-gaucher-to-phantoms/",
+      "pubDate": "Sun, 25 Oct 2026 15:23:14 +0000",
+      "author": "Madeline Campbell",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "The Sixers only have one ball. All of their stars are getting chances to play with it.",
@@ -141,16 +141,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
-    },
-    {
-      "title": "Eagles News: Patriots fans aren\u2019t feeling so great about the A.J. Brown trade",
-      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! I\u2019m not into clowning on the former Eagles wide receiver (and Super Bowl LIX champion) as much as others seem to be. But it\u2019s hard to ignore that Brown is off ",
-      "link": "",
-      "pubDate": "2026-10-23T11:50:50-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "The Clock Is Ticking for Howie Roseman: Will the Eagles Buy or Sell?",
@@ -463,6 +453,36 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Sixers face Pistons without Jalen Duren for chance to stay undefeated",
+      "description": "The Sixers are right back in action Sunday night hosting the Detroit Pistons with an opportunity to go 4-0 to start the young season. Philadelphia is coming into this one on zero days rest after taking down the Milwaukee Bucks on Saturday night in wh",
+      "link": "",
+      "pubDate": "2026-10-25T13:09:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "NFL Week 7 Early Games Information and Discussion",
+      "description": "Week 7 will continue Sunday at 1:00 PM, with a few interesting matchups including an AFC North matchup and one game with an NFC East team. The Philadelphia Eagles play on Monday night against the Dallas Cowboys, so Sunday can be mostly stress-free vi",
+      "link": "",
+      "pubDate": "2026-10-25T12:30:51-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Even after triple-double, Embiid believes he has more to give",
+      "description": "Through three games, Joel Embiid has been healthy and available. That wouldn\u2019t be notable for most players, but Embiid didn\u2019t play all three of the first three games of the 2024-25 or 2025-2026 seasons. While he\u2019s not likely to play Sunday in the Six",
+      "link": "",
+      "pubDate": "2026-10-25T11:17:12-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
       "title": "In Sixers' third win, VJ Edgecombe and role players mastered the little things",
       "description": "Joel Embiid's triple-double and scoring barrages from Tyrese Maxey and Jaylen Brown would not have been enough for the Sixers without three critical role-playing performances.",
       "link": "https://www.phillyvoice.com/sixers-bucks-highlights-stats-vj-edgecombe-kentavious-caldwell-pope-dean-wade-nick-nurse-nba/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -743,16 +763,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Sixers storm back after lifeless first half to win in LeBron\u2019s home debut",
-      "description": "This team might just have some juice. The Sixers erased a 29-point deficit to win their home opener 114-106 over the Cleveland Cavaliers Thursday night. Tyrese Maxey put together the most complete game, leading the Sixers with 32 points and six assis",
-      "link": "",
-      "pubDate": "2026-10-22T21:54:56-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Rick Tocchet may have found 2 lineup combinations to build around",
       "description": "The Philadelphia Flyers are making their way out of the 0-6-3 hole they dug themselves into, thanks to a few consistent combinations in recent games. For the first few weeks of the season, Rick Tocchet had his lines fully in the blender. The only con",
       "link": "https://www.broadstreethockey.com/post/rick-tocchet-may-have-found-2-lineup-combinations-to-build-around/",
@@ -771,16 +781,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-22T000524Z_947196173_MT1USATODAY30148273_RTRMADP_3_NHL-PHILADELPHI.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Flyers waive Garrett Wilson, hinting at other roster move",
-      "description": "The Philadelphia Flyers have placed forward Garrett Wilson on waivers and it could mean someone is coming back from injury. There was nothing else included in the teams announcement. Just that Wilson is heading to the waiver wire and we have to assum",
-      "link": "https://www.broadstreethockey.com/post/flyers-waive-garrett-wilson-hinting-at-other-roster-move/",
-      "pubDate": "Thu, 22 Oct 2026 18:29:12 +0000",
-      "author": "Thomas Williams",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "These Sixers know they're different, and just getting started",
