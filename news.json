@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-26T11:40:34.568968+00:00",
-  "count": 177,
+  "updated": "2026-10-26T17:44:32.499517+00:00",
+  "count": 175,
   "articles": [
+    {
+      "title": "'Other' potentially outgoing Eagles players who make sense as trade bait",
+      "description": "Should the Eagles become sellers, they should be willing to deal less valuable players on their roster in addition to their valuable players (duh).",
+      "link": "https://www.phillyvoice.com/other-potentially-outgoing-eagles-players-who-make-sense-trade-deadline-tyler-steen-hollywood-brown/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Mon, 26 Oct 2026 12:53:22 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-08-10T135629Z_1955649445_MT1USATODAY26819461_RTRMADP_3_NFL-CINCINNATI.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
     {
       "title": "Flyers vs. Ducks: How to watch, lineups, and gamethread",
       "description": "Were up bright and early this fine Saturday and looking forward to getting into some matinee action with the Flyers. Riding an honestly somewhat shocking three-game winning streak, the Flyers have seen the vibes around them shift pretty dramatically ",
@@ -31,6 +41,26 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
+    },
+    {
+      "title": "Eagles News: Saquon Barkley trade scenarios include \u2026 the Giants",
+      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! I don\u2019t think the Giants will be trading for Saquon Barkley. But the G-Men sure could be buyers as they currently approach the NFL trade deadline with an NFC E",
+      "link": "",
+      "pubDate": "2026-10-26T10:11:09-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Rebounding, rebounding, rebounding",
+      "description": "The Sixers knew they\u2019d have to be a better rebounding team than they have in recent seasons. After finishing in the bottom 10 for the past couple of seasons, it was something that Nick Nurse stressed quite a bit throughout training camp. They had ple",
+      "link": "",
+      "pubDate": "2026-10-26T09:57:48-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Almost Nothing Is Quite As Satisfying As Beating Dallas \u2014 In Any Season",
@@ -121,16 +151,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2022-11-04T034107Z_477249331_MT1USATODAY19354740_RTRMADP_3_NFL-PHILADELPHI.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "LeBron James OUT for Sixers\u2019 first of a back-to-back vs Bucks",
-      "description": "Update, 1:25 p.m.: LeBron James has officially been ruled out Saturday night vs. the Milwaukee Bucks. And now we get our first glimpse of how the Sixers will manage back-to-backs this season. Philadelphia released their injury report ahead of their m",
-      "link": "",
-      "pubDate": "2026-10-24T13:25:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Stay or Go: What should the Phillies do with Brandon Marsh?",
@@ -453,6 +473,66 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "A Home Opener That Was Worth the Wait",
+      "description": "If you were one of the thousands of area basketball fans who could hardly wait for the start of the [] The post A Home Opener That Was Worth the Wait appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/10/26/a-home-opener-that-was-worth-the-wait/",
+      "pubDate": "Mon, 26 Oct 2026 15:15:46 +0000",
+      "author": "Michael Thomas Leibrandt",
+      "thumbnail": null,
+      "team": "general",
+      "source": "PHL Sports Nation"
+    },
+    {
+      "title": "E.J. Jenkins reportedly not returning to the Eagles",
+      "description": "E.J. Jenkins is not returning to the Philadelphia Eagles after being waived by the team last week. Jenkins is instead signing with the Atlanta Falcons\u2019 practice squad, according to a report from Andrew DiCecco. It\u2019s currently unclear if the Eagles ha",
+      "link": "",
+      "pubDate": "2026-10-26T10:36:41-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "The Flyers\u2019 2023 NHL Draft is already looking like a franchise-altering success",
+      "description": "The Flyers 2023 NHL Draft class has already produced four NHL players. Thats tied with Chicago for the most players in this class, and they got to pick first. Several teams have gotten zero. All four of these players are in the top 11 in points on th",
+      "link": "https://www.broadstreethockey.com/post/the-flyers-2023-nhl-draft-is-already-looking-like-a-franchise-altering-success/",
+      "pubDate": "Mon, 26 Oct 2026 13:55:00 +0000",
+      "author": "Evan Watson",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Eagles vs. Cowboys Week 7 game information",
+      "description": "The Philadelphia Eagles are now 2-4 heading into their Week 7 matchup against the Dallas Cowboys on Monday Night Football, and both NFC East teams desperately need a win. Expectations have changed a lot for the Eagles, whose list of injured players i",
+      "link": "",
+      "pubDate": "2026-10-26T09:06:03-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Eagles 2027 first-round draft pick position tracker",
+      "description": "The Philadelphia Eagles' 2026 season is going poorly. Jalen Hurts' season is over, Lane Johnson retired, a whole lot of other players are injured, the offense stinks, and there's little evidence that fixes are on the horizon. BUT... one silver lining",
+      "link": "https://www.phillyvoice.com/eagles-2027-first-round-draft-pick-position-tracker/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Mon, 26 Oct 2026 12:50:51 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-05T025038Z_776059413_MT1USATODAY30002882_RTRMADP_3_NFL-LOS-ANGELES.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "5 Sixers thoughts: From Joel Embiid to his backups, takeaways from first week",
+      "description": "With four games in the books and two days off ahead, diving into early season Sixers observations.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-joel-embiid-jaylen-brown-anfernee-simons-adem-bona-lebron-james-jabari-walker-nba/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Mon, 26 Oct 2026 12:35:52 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-25T020024Z_180549148_MT1USATODAY30179366_RTRMADP_3_NBA-MILWAUKEE-B.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
       "title": "Monday Morning Fly By: Who\u2019s back next",
       "description": "*The Flyers had a big matchup against their big rival Ducks on Saturday, and even though they showed some spark in spurts, they ended up falling short of the win in the end. Whomp whomp. [BSH] *Checking in with the temperature of that rivalry here, w",
       "link": "https://www.broadstreethockey.com/post/monday-morning-fly-by-whos-back-next/",
@@ -481,16 +561,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-25T235106Z_589615512_MT1USATODAY30187642_RTRMADP_3_NBA-DETROIT-PIS.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Eagles 2027 first-round draft pick position tracker",
-      "description": "The Philadelphia Eagles' 2026 season is going poorly. Jalen Hurts' season is over, Lane Johnson retired, a whole lot of other players are injured, the offense stinks, and there's little evidence that fixes are on the horizon. BUT... one silver lining",
-      "link": "https://www.phillyvoice.com/eagles-2027-first-round-draft-pick-position-tracker/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 26 Oct 2026 02:04:03 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-05T025038Z_776059413_MT1USATODAY30002882_RTRMADP_3_NFL-LOS-ANGELES.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Sixers-Pistons: Game Discussion Thread",
@@ -673,16 +743,6 @@
       "source": "Bleeding Green Nation"
     },
     {
-      "title": "NFL Draft prospects to watch: Week 8 college football preview",
-      "description": "Given the Eagles\u2019 current disposition, it feels like we might already be looking ahead to the offseason. With the NFL Draft being a never-ending source of hope for the future, there is good reason to watch college football every weekend for the rest ",
-      "link": "",
-      "pubDate": "2026-10-24T09:33:02-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Five college prospects who could interest the Eagles in the 2027 NFL Draft",
       "description": "It would be na\u00efve to assume the Eagles aren't at least doing homework on the 2027 quarterback class.",
       "link": "https://www.phillyvoice.com/five-college-prospects-eagles-2027-nfl-draft-trinidad-chambliss-stephen-daley-nyck-harbor-greg-johnson-jett-jefferson/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -691,26 +751,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-13T085712Z_1285098366_MT1USATODAY30071180_RTRMADP_3_NCAA-FOOTBALL-.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Eagles Injury Report: DeVonta Smith, Dallas Goedert, and Tay Wicks miss practice again",
-      "description": "The Philadelphia Eagles issued their second injury report of the week on Friday in advance of their Week 7 Monday Night Football game against the Dallas Cowboys. The Eagles listed six players under DID NOT PARTICIPATE: DeVonta Smith, Dontayvion Wicks",
-      "link": "",
-      "pubDate": "2026-10-23T18:27:58-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "NFL Week 7 betting advice: Eagles-Cowboys pick and props",
-      "description": "Steve Maltepes, known as \u201cThe Philly Godfather,\u201d will impart his gambling wisdom on the Eagles and where the smart money is going on various pro football games each weekend this season. Maltepes is one of the nation\u2019s hottest sports betting experts w",
-      "link": "",
-      "pubDate": "2026-10-23T17:12:06-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Full injury report for Sixers-Bucks on Saturday",
@@ -771,16 +811,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-09-06T150248Z_694734343_MT1USATODAY27016573_RTRMADP_3_NFL-DALLAS-COWB.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Friday Morning Fly By: Let\u2019s get going already",
-      "description": "*Folks! The Flyers won another game! They might never lose again! [Inquirer] *It was a nice little team win, but it was a particularly huge showing for both Cole Knuble and Dan Vladar. [PHLY] *And it&#x2019;s been a lot of fun to see the youth moveme",
-      "link": "https://www.broadstreethockey.com/post/friday-morning-fly-by-lets-get-going-already/",
-      "pubDate": "Fri, 23 Oct 2026 10:00:00 +0000",
-      "author": "Madeline Campbell",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Win or lose this season, this LeBron James thing is pretty cool, right?",
@@ -1073,16 +1103,6 @@
       "source": "PHL Sports Nation"
     },
     {
-      "title": "Sixers exercise VJ Edgecombe's third-year team option for 2027-28 season",
-      "description": "VJ Edgecombe will make $12,219,840 in 2027-28.",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-vj-edgecombe-interview-highlights-stats-contract-team-option-nba-rumors-2025-nba-draft-class/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 19 Oct 2026 22:01:42 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/111725_SixersvCeltics_ColleenClaggett-8878.jpg",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
       "title": "Eagles 'season from hell' tracker",
       "description": "The Philadelphia Eagles' 2026 season is a train wreck in progress, so let's recap everything that has happened to date, and add to the tracker as this mess of a season continues to go off the rails.",
       "link": "https://www.phillyvoice.com/eagles-season-from-hell-tracker-2026-nick-sirianni-jalen-hurts-howie-roseman-jeffrey-lurie/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -1113,40 +1133,10 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "Jordan Mailata is trying to hold it together for the Eagles, but the ship is sinking",
-      "description": "Like the leaders who came before him, Eagles captain Jordan Mailata remains stoic as the Birds are sliding. But he's running out of answers.",
-      "link": "https://www.phillyvoice.com/eagles-left-tackle-jordan-mailata-trying-hold-it-together-losing-streak/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 19 Oct 2026 13:37:46 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-18T185428Z_949421089_MT1USATODAY30124285_RTRMADP_3_NFL-CAROLINA-PA.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Game ball, three stars, and snap count analysis: Week 6, Eagles vs. Panthers",
-      "description": "In their Week 6 loss to the Carolina Panthers the Philadelphia Eagles played 64 snaps on offense and 79 on defense. Let's just get right to the snap counts, some notes, and some special recognition.",
-      "link": "https://www.phillyvoice.com/game-ball-three-stars-and-snap-count-analysis-week-6-eagles-vs-panthers/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 19 Oct 2026 12:39:11 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-19T011359Z_2086223372_MT1USATODAY30127501_RTRMADP_3_NFL-CAROLINA-P.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
       "title": "RECAP: More Injuries and an October Offensive Debacle as Panthers Beat Eagles, 25\u201314",
       "description": "Between a wasted defensive performance early in the game, a putrid offensive outing, and a continuous line at the blue [] The post RECAP: More Injuries and an October Offensive Debacle as Panthers Beat Eagles, 25\u201314 appeared first on Philadelphia Spo",
       "link": "https://phlsportsnation.com/2026/10/18/recap-more-injuries-and-an-october-offensive-debacle-panthers-beat-the-eagles-25-14/",
       "pubDate": "Mon, 19 Oct 2026 03:07:32 +0000",
-      "author": "Michael Thomas Leibrandt",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Eagles Roster Analysis: Tanner McKee, Joe Milton, and Jaelan Phillips",
-      "description": "It\u2019s unclear whether Jalen Hurts will ever play another down this season for the Eagles after a superficial blood clot [] The post Eagles Roster Analysis: Tanner McKee, Joe Milton, and Jaelan Phillips appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/10/18/two-eagles-one-who-is-here-in-philly-and-one-who-should-still-be/",
-      "pubDate": "Sun, 18 Oct 2026 16:09:04 +0000",
       "author": "Michael Thomas Leibrandt",
       "thumbnail": null,
       "team": "eagles",
@@ -1207,16 +1197,6 @@
       "description": "PHILADELPHIA Phillies ace Zack Wheeler has stated that hell retire at the end of his current contract. Hes stated that his status for 2028 and beyond is still up in the air. So as the Phillies prepare for his final year under contract, do they also h",
       "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-zack-wheeler-retirement-decision-2027-final-season-cant-answer-that-yet/",
       "pubDate": "Thu, 15 Oct 2026 21:00:31 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
-      "title": "Phillies add former Mets manager to coaching staff, searching for new hitting coach after shakeup",
-      "description": "PHILADELPHIA The Phillies had two openings on their coaching staff with the firings of hitting coach Kevin Long and infield coach Bobby Dickerson. One of them has already been filled. Former Mets manager and Yankees bench coach Carlos Mendoza was hir",
-      "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-coaching-staff-changes-carlos-mendonza-hired-former-mets-manager-kevin-long-bobby-dickerson-fired-new-hitting-coach/",
-      "pubDate": "Thu, 15 Oct 2026 19:06:24 +0000",
       "author": "Ty Daubert",
       "thumbnail": null,
       "team": "phillies",
