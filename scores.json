@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T22:52:05.745727+00:00",
+  "updated": "2026-10-26T00:47:50.672668+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -86,18 +86,6 @@
       "recent": [],
       "upcoming": [
         {
-          "date": "10/25",
-          "home": "PHI",
-          "away": "DET",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NBA",
-          "name": "Detroit Pistons at Philadelphia 76ers",
-          "shortName": "DET @ PHI",
-          "time": "7:30 PM ET",
-          "status": "scheduled"
-        },
-        {
           "date": "10/28",
           "home": "IND",
           "away": "PHI",
@@ -155,6 +143,18 @@
           "name": "Philadelphia 76ers at Detroit Pistons",
           "shortName": "PHI @ DET",
           "time": "8:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "11/7",
+          "home": "CLE",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "Philadelphia 76ers at Cleveland Cavaliers",
+          "shortName": "PHI @ CLE",
+          "time": "8:30 PM ET",
           "status": "scheduled"
         }
       ]
