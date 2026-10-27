@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T21:58:45.511936+00:00",
+  "updated": "2026-10-27T01:06:13.752918+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -8,18 +8,6 @@
     "eagles": {
       "recent": [],
       "upcoming": [
-        {
-          "date": "10/27",
-          "home": "PHI",
-          "away": "DAL",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NFL",
-          "name": "Dallas Cowboys at Philadelphia Eagles",
-          "shortName": "DAL @ PHI",
-          "time": "8:15 PM ET",
-          "status": "scheduled"
-        },
         {
           "date": "11/2",
           "home": "WSH",
@@ -78,6 +66,18 @@
           "name": "Philadelphia Eagles at Arizona Cardinals",
           "shortName": "PHI @ ARI",
           "time": "4:05 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "12/13",
+          "home": "PHI",
+          "away": "IND",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NFL",
+          "name": "Indianapolis Colts at Philadelphia Eagles",
+          "shortName": "IND @ PHI",
+          "time": "1:00 PM ET",
           "status": "scheduled"
         }
       ]
