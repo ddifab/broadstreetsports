@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T22:42:08.136044+00:00",
+  "updated": "2026-10-28T01:51:12.312788+00:00",
   "count": 177,
   "articles": [
     {
@@ -511,6 +511,16 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "SportsTalk Philly"
+    },
+    {
+      "title": "Game ball, three stars, and snap count analysis: Week 7, Eagles vs. Cowboys",
+      "description": "In their Week 7 loss to the Dallas Cowboys the Philadelphia Eagles played 66 snaps on offense and 68 on defense. Let's just get right to the snap counts, some notes, and some special recognition.",
+      "link": "https://www.phillyvoice.com/game-ball-three-stars-and-snap-count-analysis-week-7-eagles-vs-cowboys/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 27 Oct 2026 22:20:36 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-27T002617Z_1275673852_MT1USATODAY30193282_RTRMADP_3_NFL-DALLAS-COW.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Eagles-Cowboys Film Review: Most annoying defensive performance of the Vic Fangio era",
@@ -1069,16 +1079,6 @@
       "pubDate": "Wed, 21 Oct 2026 15:56:10 +0000",
       "author": "Nick Tricome",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-09-05T044938Z_1645847867_MT1USATODAY27003467_RTRMADP_3_NFL-DALLAS-COW.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Checking in on recent former Eagles: A.J. Brown can't catch, Cam Jurgens can't get healthy",
-      "description": "Did the front office, led by Howie Roseman, make any logistical mistakes this past offseason? Or are most of their personnel issues simply bad luck?",
-      "link": "https://www.phillyvoice.com/checking-recent-former-eagles-aj-brown-cam-jurgens-concussion-reed-blankenship-nakobe-dean-news-analysis/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 21 Oct 2026 14:39:08 +0000",
-      "author": "Evan Macy",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-18T183912Z_1307634317_MT1USATODAY30123986_RTRMADP_3_NFL-NEW-YORK-J.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
     },
