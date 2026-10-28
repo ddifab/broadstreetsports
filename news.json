@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T01:51:12.312788+00:00",
+  "updated": "2026-10-28T07:37:03.893094+00:00",
   "count": 177,
   "articles": [
     {
@@ -8,6 +8,16 @@
       "link": "https://www.broadstreethockey.com/post/keith-jones-sure-is-scouting-a-lot-of-teams-does-it-mean-anything-for-the-flyers/",
       "pubDate": "Tue, 27 Oct 2026 14:48:46 +0000",
       "author": "Thomas Williams",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Takeaways: Flyers\u2019 horrid start negates strong comeback in 4-3 overtime loss to Blue Jackets",
+      "description": "The Flyers mounted a strong comeback in the dying minutes of regulation, but still lost to Columbus 4-3 in overtime on Tuesday night. The loss, leaving Philadelphia with a 3-7-4 record, was the result of a pathetic first 30 minutes of play from the h",
+      "link": "https://www.broadstreethockey.com/post/takeaways-flyers-horrid-start-negates-strong-comeback-in-4-3-overtime-loss-to-blue-jackets/",
+      "pubDate": "Wed, 28 Oct 2026 01:56:04 +0000",
+      "author": "Jason MacNeil",
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
@@ -51,6 +61,16 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
+    },
+    {
+      "title": "VJ Edgecombe not listed on injury report vs banged up Pacers",
+      "description": "As their two days of rest ends, the Sixers released a pretty clean injury report for their nationally televised bout against the Indiana Pacers. VJ Edgecombe, who was a late scratch from Philadelphia\u2019s previous game vs. Detroit with an abdominal cont",
+      "link": "",
+      "pubDate": "2026-10-27T19:13:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Eagles cut two practice squad players",
@@ -191,16 +211,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Flyers open up roster spot, loan Jacob Gaucher to Phantoms",
-      "description": "With a day off on the schedule after their disappointing loss to the Ducks on Saturday afternoon, the Flyers are still taking care of a bit of business, trimming down their roster a bit by sending forward Jacob Gaucher back down to the Phantoms. Tran",
-      "link": "https://www.broadstreethockey.com/post/flyers-open-up-roster-spot-loan-jacob-gaucher-to-phantoms/",
-      "pubDate": "Sun, 25 Oct 2026 15:23:14 +0000",
-      "author": "Madeline Campbell",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "The Sixers only have one ball. All of their stars are getting chances to play with it.",
@@ -511,6 +521,26 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "SportsTalk Philly"
+    },
+    {
+      "title": "The Flyers just lost in the most \u2018unacceptable\u2019 way possible",
+      "description": "The Philadelphia Flyers showed up late and left early on Tuesday night. They were outplayed in the first period, falling behind 3-0 to the Columbus Blue Jackets while mustering just two shots on goal in the opening frame. After that, things turned ar",
+      "link": "https://www.broadstreethockey.com/post/the-flyers-just-lost-in-the-most-unacceptable-way-possible/",
+      "pubDate": "Wed, 28 Oct 2026 03:57:40 +0000",
+      "author": "Ryan Gilbert",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Time is fickle. So are these Flyers.",
+      "description": "The Flyers had to scramble back for an overtime loss against Columbus after getting yet another wakeup call. But it's too far into the season for those now.",
+      "link": "https://www.phillyvoice.com/flyers-going-backwards-blue-jackets-loss-rick-tocchet-nhl-standings/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 28 Oct 2026 02:58:41 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-27T233128Z_1417855047_MT1USATODAY30200749_RTRMADP_3_NHL-COLUMBUS-B.JPG",
+      "team": "flyers",
+      "source": "PhillyVoice Flyers"
     },
     {
       "title": "Game ball, three stars, and snap count analysis: Week 7, Eagles vs. Cowboys",
@@ -853,16 +883,6 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "Sixers face Pistons without Jalen Duren for chance to stay undefeated",
-      "description": "Updates, 5:15 p.m.: VJ Edgecombe is the latest to pop up on the injury report with an abdominal contusion. Update, 1:09 p.m: Embiid has been officially ruled, the reason given is right plantar fasciitis management. Jabari Walker is also out with left",
-      "link": "",
-      "pubDate": "2026-10-25T17:15:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Full injury reports for Sixers-Pistons",
       "description": "After playing in the front end of the Sixers' weekend back-to-back, Joel Embiid jokingly asked reporters to \"start writing articles and put pressure on them so they\u2019ll let me play.\"",
       "link": "https://www.phillyvoice.com/sixers-vs-pistons-injury-report-news-analysis-lebron-james-joel-embiid-dean-wade-jalen-duren-ausar-thompson-nba/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -891,16 +911,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-18T211527Z_344936537_MT1USATODAY30125737_RTRMADP_3_NEW-YORK-GIANTS.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Flyers admit they got \u2018deflated\u2019 as Ducks stormed back",
-      "description": "Were not used to these kinds of losses yet this season. When the Philadelphia Flyers lose during this first month of the 2026-27 season, it usually means they were heavily outplayed and played extremely ugly hockey while generating absolutely no offe",
-      "link": "https://www.broadstreethockey.com/post/flyers-admit-they-got-deflated-as-ducks-stormed-back/",
-      "pubDate": "Sun, 25 Oct 2026 01:21:02 +0000",
-      "author": "Thomas Williams",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Matvei Michkov and the Flyers' youth are taking over, but still have a lot of climbing to do",
@@ -1689,16 +1699,6 @@
       "pubDate": "Thu, 17 Sep 2026 12:20:57 +0000",
       "author": "Nick Tricome",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-04-22T031706Z_785983591_MT1USATODAY28781990_RTRMADP_3_NHL-MONTREAL-_22WB44b.JPG",
-      "team": "flyers",
-      "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Flyers' 2026-27 promotional schedule hints at new 'Hometown Remix' jerseys",
-      "description": "The Flyers have been rumored to be getting a City Connect-like uniform for months, and now the team seems to be leaning into it.",
-      "link": "https://www.phillyvoice.com/flyers-nhl-hometown-remix-jersey-rumors-liberty-bell-rug-gritty-promotional-schedule/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 16 Sep 2026 15:02:15 +0000",
-      "author": "Nick Tricome",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/Gritty.jpeg",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
     },
