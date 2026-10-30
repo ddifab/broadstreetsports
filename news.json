@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T09:09:31.270796+00:00",
-  "count": 148,
+  "updated": "2026-10-30T16:18:30.027048+00:00",
+  "count": 160,
   "articles": [
     {
       "title": "Sixers' Jaylen Brown says he 'never demanded a trade,' refutes report from Celtics analyst Brian Scalabrine",
@@ -53,6 +53,36 @@
       "source": "PhillyVoice Eagles"
     },
     {
+      "title": "Flyers\u2019 concerning comments reveal a team growing increasingly fragile",
+      "description": "After yet another loss to the Capitals finally brought the Flyers&#x2019; record to a putrid 3-8-4 on the year, pressure is beginning to mount on the players along with the coaches, as the fan base remains stunned at how a roster not very dissimilar ",
+      "link": "https://www.broadstreethockey.com/post/flyers-concerning-comments-reveal-a-team-growing-increasingly-fragile/",
+      "pubDate": "Fri, 30 Oct 2026 16:06:40 +0000",
+      "author": "Jacob Russell",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Eagles News: Philadelphia has reportedly told teams that Moro Ojomo is not available for trade",
+      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! I don\u2019t buy that the Eagles won\u2019t trade Moro Ojomo and actually plan to re-sign him instead. This reporting reads to me like Howie Roseman outwardly maintainin",
+      "link": "",
+      "pubDate": "2026-10-30T09:45:38-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Jaylen Brown questionable, LeBron, Embiid not listed on injury report for Sixers-Knicks Cup matchup",
+      "description": "Forget the player participation policy, there\u2019s an NBA Cup to respect. The Sixers released their injury report for their first leg of their second back-to-back of the season, and the only starter listed on it is Jaylen Brown, who is questionable with",
+      "link": "",
+      "pubDate": "2026-10-29T17:38:11-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
       "title": "Flyers desperately need a center, but the trade market isn\u2019t cooperating",
       "description": "A week ago, a three-game winning streak had Philadelphia believing it had turned a corner. Three games later, the Flyers are 3-8-4, and captain Sean Couturier is admitting his team has been soft in battles at times. Expectations were sky-high after l",
       "link": "https://www.broadstreethockey.com/post/flyers-desperately-need-a-center-but-the-trade-market-isnt-cooperating/",
@@ -67,16 +97,6 @@
       "description": "The Eagles defense played their worst game of the season on Monday against the Cowboys, and defensive coordinator Vic Fangio spoke to reporters just a few days later. He answered questions about the issues stopping the run, he gave his thoughts on th",
       "link": "",
       "pubDate": "2026-10-29T10:20:08-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Commanders cornerback guarantees Washington will beat the Eagles in Week 8",
-      "description": "Well, if it\u2019s bulletin-board material that will help the Philadelphia Eagles win a football game to snap their five-game losing streak, the Washington Commanders just gave them some. Speaking after practice on Wednesday, Commanders cornerback Amik Ro",
-      "link": "",
-      "pubDate": "2026-10-28T17:48:52-04:00",
       "author": "",
       "thumbnail": null,
       "team": "eagles",
@@ -113,16 +133,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "VJ Edgecombe not listed on injury report vs banged up Pacers",
-      "description": "As their two days of rest ends, the Sixers released a pretty clean injury report for their nationally televised bout against the Indiana Pacers. VJ Edgecombe, who was a late scratch from Philadelphia\u2019s previous game vs. Detroit with an abdominal cont",
-      "link": "",
-      "pubDate": "2026-10-27T19:13:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Eagles-Cowboys Week 7 inactives, with analysis",
       "description": "The Philadelphia Eagles have been devastated by injuries this season, which has helped contribute to their extremely disappointing 2-4 start. This week, they listed 24 players on their initial Thursday injury report. The Cowboys, conversely, are rela",
       "link": "https://www.phillyvoice.com/eagles-cowboys-week-7-inactives-analysis-devonta-smith-dontayvion-wicks-saquon-barkley/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -133,6 +143,16 @@
       "source": "PhillyVoice Eagles"
     },
     {
+      "title": "The DeVonta Smith Dilemma and What It Means for Nick Sirianni",
+      "description": "Amid a disappointing Eagles season, fans are wondering whether theyll have to go without one of their most consistent star [] The post The DeVonta Smith Dilemma and What It Means for Nick Sirianni appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/10/26/what-does-devonta-smiths-injury-management-say-about-nick-siriannis-future/",
+      "pubDate": "Mon, 26 Oct 2026 22:54:22 +0000",
+      "author": "Jonah Casel",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "Eagles activate Landon Dickerson, others from injured reserve",
       "description": "LG Landon Dickerson, TE Eli Stowers, and TE Grant Calcaterra are all back on the 53-man roster.",
       "link": "https://www.phillyvoice.com/eagles-activate-landon-dickerson-eli-stowers-grant-calcaterra-from-ir-injured-reserve/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -141,6 +161,26 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-06-10T185613Z_1353028209_MT1USATODAY29167718_RTRMADP_3_NFL-PHILADELPH.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "PREVIEW \u2013 Week 7: Almost Nothing Is Quite as Satisfying as Beating Dallas \u2014 in Any Season",
+      "description": "Fifteen years ago, in the midst of a 2011 Eagles season dubbed and anticipated as \u201cthe Dream Team,\u201d the Eagles [] The post PREVIEW Week 7: Almost Nothing Is Quite as Satisfying as Beating Dallas \u2014 in Any Season appeared first on Philadelphia Sports N",
+      "link": "https://phlsportsnation.com/2026/10/26/nothing-is-quite-as-satisfying-as-beating-dallas-in-any-season/",
+      "pubDate": "Mon, 26 Oct 2026 11:37:05 +0000",
+      "author": "Michael Thomas Leibrandt",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
+    },
+    {
+      "title": "RECAP: Villanova Thrives in the 4th Quarter, Takes Down Lehigh, 24-18",
+      "description": "If you love the 4th quarter of sports, then you probably love the Villanova Wildcats. On the hardwood, who can [] The post RECAP: Villanova Thrives in the 4th Quarter, Takes Down Lehigh, 24-18 appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/10/25/villanova-wildcats-who-live-for-the-4th-quarter/",
+      "pubDate": "Mon, 26 Oct 2026 03:13:16 +0000",
+      "author": "Michael Thomas Leibrandt",
+      "thumbnail": null,
+      "team": "general",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "The Sixers only have one ball. All of their stars are getting chances to play with it.",
@@ -183,14 +223,14 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Eagles-Cowboys preview: 5 things to watch",
-      "description": "After four straight losses, the Philadelphia Eagles' season is spiraling. They'll face a similarly disappointing team on Monday Night Football in the Dallas Cowboys, who are obviously a major divisional rival. Normally, an Eagles-Cowboys matchup is a",
-      "link": "https://www.phillyvoice.com/eagles-cowboys-preview-5-things-watch-tanner-mckee-dak-prescott-saquon-barkley/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Fri, 23 Oct 2026 12:58:47 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-01-01T164324Z_174821754_MT1USATODAY25095030_RTRMADP_3_NFL-DALLAS-COWB.JPG",
+      "title": "The Clock Is Ticking for Howie Roseman: Will the Eagles Buy or Sell?",
+      "description": "With the Eagles at 2-4 and the November 10 NFL trade deadline approaching, Howie Roseman faces a crucial decision. Will Philadelphia trade veteran players, pursue reinforcements or find a balance between saving 2026 and building for the future? The p",
+      "link": "https://phlsportsnation.com/2026/10/23/eagles-trade-deadline-2026/",
+      "pubDate": "Fri, 23 Oct 2026 14:34:01 +0000",
+      "author": "Fede Carballo",
+      "thumbnail": null,
       "team": "eagles",
-      "source": "PhillyVoice Eagles"
+      "source": "PHL Sports Nation"
     },
     {
       "title": "After 29-point comeback in home opener, Sixers praise crowd that 'almost blew the roof off'",
@@ -323,14 +363,114 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Eagles Film Preview: Philadelphia\u2019s passing plan must punish the Commanders\u2019 blitz",
+      "description": "Each week, I\u2019ll publish two film-room previews: one focusing on the offense and one on the defense. These are primarily film-based, focusing on the schemes, tendencies, and matchups that could shape Sunday\u2019s game, with all statistics coming from the ",
+      "link": "",
+      "pubDate": "2026-10-30T11:11:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Eagles Film Preview: Commanders\u2019 offense gives Philadelphia\u2019s defense a chance to bounce back",
+      "description": "Each week, I\u2019ll publish two film-room previews: one focusing on the offense and one on the defense. These are primarily film-based, focusing on the schemes, tendencies, and matchups that could shape Sunday\u2019s game, with all statistics coming from the ",
+      "link": "",
+      "pubDate": "2026-10-30T10:17:31-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Know your enemy: Bigger threat for the Eagles \u2013 Commanders run game or Jayden Daniels scrambles?",
+      "description": "The Commanders' rushing offense being ranked top 10 is somewhat deceiving. It won't matter if the Eagles' defense doesn't show up Sunday night.",
+      "link": "https://www.phillyvoice.com/know-your-enemy-eagles-commanders-jayden-daniels-jalen-carter-nfl-matchup/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 30 Oct 2026 14:13:31 +0000",
+      "author": "Geoff Mosher",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-13T223544Z_1835593676_MT1USATODAY29815682_RTRMADP_3_NFL-WASHINGTON.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Under the Wings: The Technology Behind the Eagles\u2019 Helmets",
+      "description": "What lies beneath the Philadelphia Eagles' iconic silver wings? Explore the evolution of NFL helmets, the technology protecting players, and the behind-the-scenes work that keeps them game-ready. The post Under the Wings: The Technology Behind the Ea",
+      "link": "https://phlsportsnation.com/2026/10/30/philadelphia-eagles-helmets-technology-safety/",
+      "pubDate": "Fri, 30 Oct 2026 14:11:42 +0000",
+      "author": "Fede Carballo",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
+    },
+    {
+      "title": "Firing Rick Tocchet won\u2019t fix what\u2019s wrong with the Flyers",
+      "description": "One wonders if Flyers general manager Danny Briere or head coach Rick Tocchet dreams of Leo Carlsson wearing a Flyers jersey, the Flyers are 8-3-4, and everything looks peachy. Then they hear the alarm clock, open their eyes, and face reality, realiz",
+      "link": "https://www.broadstreethockey.com/post/firing-rick-tocchet-wont-fix-whats-wrong-with-the-flyers/",
+      "pubDate": "Fri, 30 Oct 2026 13:38:51 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Sixers 2026 NBA Cup primer: Rules, groups, format and prizes explained",
+      "description": "In three tries, the Sixers have never advanced past the NBA Cup's Group Play stage. Is this the year they reach the Knockout Rounds?",
+      "link": "https://www.phillyvoice.com/sixers-news-76ers-analysis-nba-cup-primer-rules-format-prizes-groups-nick-nurse-joel-embiid-lebron-james-indy/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 30 Oct 2026 12:41:01 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/Screenshot_2026-10-13_at_12.03.43PM.png",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Eagles-Commanders: Staff picks, betting odds, and more for a chance to stop a spiral",
+      "description": "The Eagles have lost five straight, and Jayden Daniels hasn't won a start since last October.",
+      "link": "https://www.phillyvoice.com/eagles-commanders-week-8-staff-picks-betting-odds-predictions-tanner-mckee-jayden-daniels/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 30 Oct 2026 12:36:04 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-14T003248Z_640344981_MT1USATODAY29816216_RTRMADP_3_NFL-WASHINGTO_0PcgHEE.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles-Commanders preview: 5 things to watch",
+      "description": "The Philadelphia Eagles are losers of five straight games, and they have been outgained by more than 800 yards during that streak. In Week 8, they'll face the trash 1-4-1 Washington Commanders, who are five-point favorites. Here are our five things t",
+      "link": "https://www.phillyvoice.com/eagles-commanders-preview-5-things-watch-2026-week-8-jayden-daniels/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 30 Oct 2026 12:25:46 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-13T221931Z_891126534_MT1USATODAY29815462_RTRMADP_3_NFL-WASHINGTO_uGxOcVM.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
       "title": "Eagles-Commanders Week 8 injury report, with analysis",
       "description": "The Philadelphia Eagles are getting healthier, as they \"only\" listed 20 players on their initial injury report this week. Their Week 8 opponent, the Washington Commanders, have their share of injuries as well, as a lot of key players are on injured r",
       "link": "https://www.phillyvoice.com/eagles-commanders-week-8-injury-report-analysis-2026/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Thu, 29 Oct 2026 23:09:41 +0000",
+      "pubDate": "Fri, 30 Oct 2026 11:58:42 +0000",
       "author": "Jimmy Kempski",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/IMG_5377.jpeg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Sixers kick off NBA Cup Tournament with matchup against Knicks",
+      "description": "The Philadelphia 76ers are 4-1, coming off a solid win against the shorthanded Indiana Pacers. They\u2019ll kick off a back-to-back against two strong teams in the deep Eastern Conference, hosting the New York Knicks before traveling to Charlotte for the ",
+      "link": "",
+      "pubDate": "2026-10-30T07:00:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Friday Morning Fly By: Boiling point",
+      "description": "*As we well know, things are not going well for the Flyers right now, and their uninspiring loss to the Capitals last time out really punctuated that. [BSH] *As did, you know, the fact that the captain called the team soft after all of that was said ",
+      "link": "https://www.broadstreethockey.com/post/friday-morning-fly-by-boiling-point/",
+      "pubDate": "Fri, 30 Oct 2026 10:00:00 +0000",
+      "author": "Madeline Campbell",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Eagles Injury Report: Saquon Barkley among key players missing from practice again",
@@ -363,6 +503,16 @@
       "source": "Broad Street Hockey"
     },
     {
+      "title": "Anfernee Simons offers a glimpse of what he can bring",
+      "description": "Anfernee Simons\u2019 Sixers tenure has gotten off to an odd start. He missed basically all of training camp and didn\u2019t play in any preseason games. His first game as a Sixer \u2014 and first time taking the court with a bunch of new teammates \u2014 came on openin",
+      "link": "",
+      "pubDate": "2026-10-29T16:24:32-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
       "title": "The Flyers\u2019 playoff hopes are officially beyond saving",
       "description": "Before the puck dropped on the 2026-27 season, there was hope for the Philadelphia Flyers. Coming off a gutsy playoff appearance where they squeaked in due to a hot streak, and where they managed to knock off their archrivals in embarrassing fashion,",
       "link": "https://www.broadstreethockey.com/post/the-flyers-playoff-hopes-are-officially-beyond-saving/",
@@ -393,6 +543,16 @@
       "source": "Liberty Ballers"
     },
     {
+      "title": "What\u2019s Going on With the Eagles Defense?",
+      "description": "I came across a viral video of a young girl in a grocery store struggling to pick up a shopping [] The post What\u2019s Going on With the Eagles Defense? appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/10/29/whats-going-on-with-the-defense/",
+      "pubDate": "Thu, 29 Oct 2026 16:00:00 +0000",
+      "author": "Dane Dillard",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "Eagles News: Jalen Carter says he\u2019s not playing \u201cto what the fans want, even though it don\u2019t really matter what they want\u201d",
       "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! Jalen Carter spoke to reporters on Wednesday after previously declining to answer questions after Monday night\u2019s loss to the Dallas Cowboys. Wasn\u2019t a great loo",
       "link": "",
@@ -401,6 +561,16 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "The 76ers Have Plenty of Star Power, but Offense Remains a Work in Progress",
+      "description": "After one of the most competitive offseasons in the teams history, the Philadelphia 76ers entered the 2026\u201327 NBA season with [] The post The 76ers Have Plenty of Star Power, but Offense Remains a Work in Progress appeared first on Philadelphia Sport",
+      "link": "https://phlsportsnation.com/2026/10/29/the-76ers-have-plenty-of-star-power-but-their-offense-remains-a-work-in-progress/",
+      "pubDate": "Thu, 29 Oct 2026 15:24:48 +0000",
+      "author": "Cooper Hubbard",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "Joel Embiid reflects on the 10th anniversary of his NBA debut: 'It was amazing... so much more fun back then'",
@@ -503,36 +673,6 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "Eagles roster news includes Dameon Pierce to injured reserve",
-      "description": "The Philadelphia Eagles officially announced five moves on Wednesday afternoon. Here\u2019s an overview: Let\u2019s sort through this news on a player-by-player basis. DAMEON PIERCE Pierce suffered an injury during the fourth quarter of the Eagles\u2019 loss to the",
-      "link": "",
-      "pubDate": "2026-10-28T17:37:27-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Flyers @ Capitals: How to watch, lineups, and gamethread",
-      "description": "Well, folks, were right back at it again tonight. The Flyers made things interesting on the way to picking up a loser point against the Blue Jackets last night, but the vibes are back to being pretty sour as we sit with the breakdowns that opened up ",
-      "link": "https://www.broadstreethockey.com/post/flyers-capitals-how-to-watch-lineups-and-gamethread-5/",
-      "pubDate": "Wed, 28 Oct 2026 20:30:00 +0000",
-      "author": "Madeline Campbell",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Konecny and Tippett\u2019s absences are finally catching up to the Flyers",
-      "description": "On Tuesday night, the Philadelphia Flyers put in a hellish opening 30 minutes. That game concluded with a frenetic closing 30 minutes and change, eventually losing to the Columbus Blue Jackets 4-3 in overtime. Goaltender Dan Vladar stopped the first ",
-      "link": "https://www.broadstreethockey.com/post/konecny-and-tippetts-absences-are-finally-catching-up-to-the-flyers/",
-      "pubDate": "Wed, 28 Oct 2026 19:00:00 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "With another lethargic start, and loss, maybe this is just who the Flyers are",
       "description": "The Flyers didn't start on time and lost to Columbus in OT. Rick Tocchet called it \"rollercoaster-ish.\" Whatever it is, though, just hasn't been good enough.",
       "link": "https://www.phillyvoice.com/flyers-thoughts-lazy-start-ot-loss-just-who-they-are-cam-york-rick-tocchet-trevor-zegras/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -541,26 +681,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-28T012740Z_1525144286_MT1USATODAY30202037_RTRMADP_3_NHL-COLUMBUS-B.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Spencer Carbery says Matvei Michkov\u2019s breakout was only a matter of time",
-      "description": "A whole lot was made up of Matvei Michkovs sophomore year and how much of a disappointment it was. The Philadelphia Flyers young star winger was poised for something great and for multiple reasons, he didnt build off of what was a really good rookie ",
-      "link": "https://www.broadstreethockey.com/post/spencer-carbery-says-matvei-michkovs-breakout-was-only-a-matter-of-time/",
-      "pubDate": "Wed, 28 Oct 2026 18:13:13 +0000",
-      "author": "Thomas Williams",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Eagles vs. Commanders odds: Opening lines for Week 8 matchup",
-      "description": "The Philadelphia Eagles are not trending in the right direction. They\u2019re 2-5 this season after losing five straight. Dating back to last year, they\u2019re 5-10 in their last 15 games. Was Monday night\u2019s defeat to the Dallas Cowboys rock bottom? Or are th",
-      "link": "",
-      "pubDate": "2026-10-28T13:27:26-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Are the Sixers ready for the gauntlet that is the Eastern Conference?",
@@ -653,14 +773,14 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Editor-in-chief mailbag: Encouraging early signs",
-      "description": "It\u2019s hard to know exactly what to make of the new-look Sixers through four games. There have been encouraging signs, especially when it comes to the starting group. Injury, rebounding and backup center concerns have all come up as well. All that said",
-      "link": "",
-      "pubDate": "2026-10-27T14:09:53-04:00",
-      "author": "",
+      "title": "RECAP \u2013 Week 7: No Sacks, No Turnovers, No Super Bowl: Eagles Grounded by Cowboys, 38-21",
+      "description": "Well, the Philadelphia Eagles lost 38-21 to the Dallas Cowboys, but luckily they didn\u2019t inspire any hope by finally playing [] The post RECAP Week 7: No Sacks, No Turnovers, No Super Bowl: Eagles Grounded by Cowboys, 38-21 appeared first on Philadelp",
+      "link": "https://phlsportsnation.com/2026/10/27/recap-eagles-lose-monday-night-im-starting-to-think-they-wont-win-the-super-bowl-this-year/",
+      "pubDate": "Tue, 27 Oct 2026 20:34:15 +0000",
+      "author": "Kyle Lavin",
       "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
+      "team": "eagles",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "The Eagles' D-line can't be this gutless",
@@ -691,6 +811,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-26T224946Z_478172578_MT1USATODAY30192345_RTRMADP_3_NFL-DALLAS-COWB.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "RECAP \u2013 Week 7: Completely Gashed; Cowboys Beat Eagles, 38\u201321",
+      "description": "It seems matchups between Philadelphia and Dallas come down to an incredible rushing performance. Thirty-three years ago, Emmitt Smith gashed [] The post RECAP Week 7: Completely Gashed; Cowboys Beat Eagles, 38\u201321 appeared first on Philadelphia Sport",
+      "link": "https://phlsportsnation.com/2026/10/27/recap-gashed-cowboys-beat-the-eagles-38-21/",
+      "pubDate": "Tue, 27 Oct 2026 15:24:47 +0000",
+      "author": "Michael Thomas Leibrandt",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "Handing out 10 awards from the Eagles-Cowboys game",
@@ -853,14 +983,14 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Know your enemy: Why hasn't Christian Parker saved the Cowboys' defense?",
-      "description": "The Cowboys were hoping to help themselves \u2013 and hurt the Eagles \u2013 by hiring a former Birds assistant. So far, the only wounds for Dallas have been self-inflicted.",
-      "link": "https://www.phillyvoice.com/know-your-enemy-eagles-cowboys-christian-parker-caleb-downs-nfc-east-nfl/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Fri, 23 Oct 2026 16:06:20 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-08-13T013518Z_981829337_MT1USATODAY29570497_RTRMADP_3_NFL-DALLAS-COWB.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
+      "title": "RECAP: A Sixers Home Opener That Was Worth the Wait, Take Down Cleveland, 114-106",
+      "description": "If you were one of the thousands of area basketball fans who could hardly wait for the 76ers season after [] The post RECAP: A Sixers Home Opener That Was Worth the Wait, Take Down Cleveland, 114-106 appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/10/23/a-home-opener-that-was-worth-the-wait/",
+      "pubDate": "Fri, 23 Oct 2026 14:00:00 +0000",
+      "author": "Michael Thomas Leibrandt",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "Win or lose this season, this LeBron James thing is pretty cool, right?",
@@ -881,16 +1011,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-22T000524Z_947196173_MT1USATODAY30148273_RTRMADP_3_NHL-PHILADELPHI.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "These Sixers know they're different, and just getting started",
-      "description": "When push came to shove, Joel Embiid and the Sixers held the line against a Knicks team that used to blow right past them.",
-      "link": "https://www.phillyvoice.com/sixers-knicks-reactions-jaylen-brown-joel-embiid-lebron-james-defense-different-nyc/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Thu, 22 Oct 2026 14:43:46 +0000",
-      "author": "Nick Tricome",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-21T003801Z_620521677_MT1USATODAY30139987_RTRMADP_3_NBA-PHILADELPHI.JPG",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
     },
     {
       "title": "Phillies stay or go results: Who do you want back for 2027?",
