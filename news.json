@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-31T13:56:50.717008+00:00",
-  "count": 172,
+  "updated": "2026-10-31T18:04:27.444863+00:00",
+  "count": 173,
   "articles": [
     {
       "title": "Sixers' Jaylen Brown says he 'never demanded a trade,' refutes report from Celtics analyst Brian Scalabrine",
@@ -53,6 +53,16 @@
       "source": "PhillyVoice Eagles"
     },
     {
+      "title": "Jaylen Brown, Tacko Fall questionable, Joel Embiid, LeBron James ruled OUT for Sixers-Hornets",
+      "description": "It\u2019s likely time for the first game driven by VJ Maxx of the season. The Sixers released their injury report ahead of their Halloween showdown in Charlotte and have unsurprisingly ruled out Joel Embiid and LeBron James. Jaylen Brown, Jabari Walker an",
+      "link": "",
+      "pubDate": "2026-10-31T13:18:28-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
       "title": "Defense, LeBron\u2019s power, Simons\u2019 heater off the bench lead Sixers to win vs. Knicks in Cup matchup",
       "description": "LeBron, LeBron, LeBrooooooooooooooooooooooon. The Sixers held off a second half comeback to beat the New York Knicks 98-93 Friday night, improving to 5-1 on the season and 1-0 in NBA Cup group play. Tyrese Maxey led the Sixers with 25 points going 10",
       "link": "",
@@ -91,16 +101,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
-    },
-    {
-      "title": "Flyers desperately need a center, but the trade market isn\u2019t cooperating",
-      "description": "A week ago, a three-game winning streak had Philadelphia believing it had turned a corner. Three games later, the Flyers are 3-8-4, and captain Sean Couturier is admitting his team has been soft in battles at times. Expectations were sky-high after l",
-      "link": "https://www.broadstreethockey.com/post/flyers-desperately-need-a-center-but-the-trade-market-isnt-cooperating/",
-      "pubDate": "Thu, 29 Oct 2026 14:53:29 +0000",
-      "author": "BSH Staff",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Phillies' Zack Wheeler voted NL Comeback Player of the Year among MLB players",
@@ -403,6 +403,76 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Full injury report for Sixers-Hornets on Saturday",
+      "description": "Will the Sixers be severely undermanned in the second leg of their latest back-to-back?",
+      "link": "https://www.phillyvoice.com/sixers-vs-hornets-injury-report-jaylen-brown-update-lebron-james-joel-embiid-nba-76ers-news-analysis/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sat, 31 Oct 2026 17:07:32 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-31T013839Z_1058185883_MT1USATODAY30230429_RTRMADP_3_NBA-NEW-YORK-K.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Roundtable: What should Danny Briere\u2019s first move be to fix the Flyers?",
+      "description": "The Philadelphia Flyers are not a good hockey team right now and for a variety of reasons. They sit at 3-8-4 through their first 15 games this season and while they can bank on key players returning from injury very soon as some sort of jolt to this ",
+      "link": "https://www.broadstreethockey.com/post/roundtable-what-should-danny-brieres-first-move-be-to-fix-the-flyers/",
+      "pubDate": "Sat, 31 Oct 2026 16:51:29 +0000",
+      "author": "BSH Staff",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "VJ Edgecombe was ready for the moment yet again",
+      "description": "One of the main schools of thought stemming from the \u201cthere\u2019s only one ball to go around\u201d critique of this year\u2019s Sixers team was that it would hinder the development of VJ Edgecombe, especially going into a crucial second season. Five games into his",
+      "link": "",
+      "pubDate": "2026-10-31T12:45:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "NFL Week 8 betting advice: Eagles-Commanders pick and props",
+      "description": "Steve Maltepes, known as \u201cThe Philly Godfather,\u201d will impart his gambling wisdom on the Eagles and where the smart money is going on various pro football games each weekend this season. Maltepes is one of the nation\u2019s hottest sports betting experts w",
+      "link": "",
+      "pubDate": "2026-10-31T12:34:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Eagles News: Commanders get bad news ahead of hosting Philadelphia",
+      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! With Daron Payne getting hurt and Javon Kinlaw already ruled out, the Commanders are set to be without their top two interior defensive linemen against the Eag",
+      "link": "",
+      "pubDate": "2026-10-31T11:01:59-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Sixers try to keep it rolling in Charlotte with both teams on short rest",
+      "description": "There is never any rest for the weary in the NBA. After a thrilling 98-93 win over New York, their second over the defending champions on this young season, the Sixers are back in action less than 24 hours later on the road against the Charlotte Horn",
+      "link": "",
+      "pubDate": "2026-10-31T10:53:02-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Eagles opposing player to stop, Week 8 edition",
+      "description": "The Eagles are a mess. They are the unproud owners of a five-game losing skid, the longest losing streak in the NFC and currently the second-longest streak in the NFL behind the winless Los Angeles Chargers. The Eagles sit in third place in the haple",
+      "link": "",
+      "pubDate": "2026-10-31T10:36:51-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
       "title": "How Tyrese Maxey's summer film session sparked LeBron James' best Sixers game",
       "description": "The Sixers have beaten the defending champions twice in 11 days to begin the season. Tyrese Maxey and LeBron James powered their second win over the New York Knicks.",
       "link": "https://www.phillyvoice.com/sixers-news-76ers-analysis-vs-knicks-lebron-james-highlights-tyrese-maxey-stats-nick-nurse-nba-rumors/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -421,6 +491,26 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-27T033700Z_454547688_MT1USATODAY29929669_RTRMADP_3_NCAA-FOOTBALL-O.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "LeBron James is happy to be a Sixer \u2014 and they\u2019re sure happy to have him",
+      "description": "LeBron James is 41 years old. He\u2019s in his 24th NBA season. He\u2019s also a Philadelphia 76er. These are facts that feel worth being reminded about on occasion. James was spectacular Friday night, guiding the Sixers to a 98-95 win over the defending champ",
+      "link": "",
+      "pubDate": "2026-10-31T06:00:00-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Sixers Bell Ringer: LeBron has his best game as a Sixer in win vs. Knicks",
+      "description": "Bell Ringer Standings:Tyrese Maxey 2.5Joel Embiid 1Anfernee Simons 1Jaylen Brown 0.5 The Sixers welcomed the New York Knicks to Xfinity Mobile Arena for their second matchup of the young season. The Sixers won the first meeting on opening night at Ma",
+      "link": "",
+      "pubDate": "2026-10-30T23:20:23-04:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "LeBron James plays with force, and defense locks down as Sixers make another statement vs. Knicks",
@@ -613,16 +703,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Sixers kick off NBA Cup Tournament with matchup against Knicks",
-      "description": "The Philadelphia 76ers are 4-1, coming off a solid win against the shorthanded Indiana Pacers. They\u2019ll kick off a back-to-back against two strong teams in the deep Eastern Conference, hosting the New York Knicks before traveling to Charlotte for the ",
-      "link": "",
-      "pubDate": "2026-10-30T07:00:00-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Friday Morning Fly By: Boiling point",
       "description": "*As we well know, things are not going well for the Flyers right now, and their uninspiring loss to the Capitals last time out really punctuated that. [BSH] *As did, you know, the fact that the captain called the team soft after all of that was said ",
       "link": "https://www.broadstreethockey.com/post/friday-morning-fly-by-boiling-point/",
@@ -631,16 +711,6 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Eagles Injury Report: Saquon Barkley among key players missing from practice again",
-      "description": "The Philadelphia Eagles issued their second official injury report of the week on Thursday in advance of their Week 8 game against the Washington Commanders. The Eagles listed six players under DID NOT PARTICIPATE: Saquon Barkley, DeVonta Smith, Dont",
-      "link": "",
-      "pubDate": "2026-10-29T18:05:26-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Full injury report for Sixers-Knicks on Friday",
@@ -663,16 +733,6 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "Anfernee Simons offers a glimpse of what he can bring",
-      "description": "Anfernee Simons\u2019 Sixers tenure has gotten off to an odd start. He missed basically all of training camp and didn\u2019t play in any preseason games. His first game as a Sixer \u2014 and first time taking the court with a bunch of new teammates \u2014 came on openin",
-      "link": "",
-      "pubDate": "2026-10-29T16:24:32-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "The Flyers\u2019 playoff hopes are officially beyond saving",
       "description": "Before the puck dropped on the 2026-27 season, there was hope for the Philadelphia Flyers. Coming off a gutsy playoff appearance where they squeaked in due to a hot streak, and where they managed to knock off their archrivals in embarrassing fashion,",
       "link": "https://www.broadstreethockey.com/post/the-flyers-playoff-hopes-are-officially-beyond-saving/",
@@ -693,16 +753,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "How the NBAs injury onslaught could help\u2014and hurt\u2014the Sixers",
-      "description": "Barely one week into the 2026-27 NBA season, a handful of teams are dealing with season-altering injuries. Thunder wing Jalen Williams (fibula/ankle) and guard Cason Wallace (shoulder) may already be out for the season. Raptors forward Kawhi Leonard ",
-      "link": "",
-      "pubDate": "2026-10-29T13:07:17-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Which Phillies players are free agents?",
       "description": "With the World Series over and the Milwaukee Brewers declared champions, the offseason is officially underway. Free agents hit the market the day after the World Series concludes at 5 p.m. ET. Alec Bohm, Luis Arraez, Edmundo Sosa, Jos\u00e9 Alvarado, Adol",
       "link": "https://www.philliesnation.com/2026/10/philadelphia-phillies-free-agents-offseason-mlb-october-29-2026/",
@@ -721,16 +771,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Eagles News: Jalen Carter says he\u2019s not playing \u201cto what the fans want, even though it don\u2019t really matter what they want\u201d",
-      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! Jalen Carter spoke to reporters on Wednesday after previously declining to answer questions after Monday night\u2019s loss to the Dallas Cowboys. Wasn\u2019t a great loo",
-      "link": "",
-      "pubDate": "2026-10-29T11:55:01-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "The 76ers Have Plenty of Star Power, but Offense Remains a Work in Progress",
@@ -771,26 +811,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-01T044139Z_215990110_MT1USATODAY29964084_RTRMADP_3_MLB-WILDCARD-CH.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Sixers Bell Ringer: James, Embiid, Brown post double-doubles, Maxey comes alive late",
-      "description": "Regular Season Bell Ringer Standings:Tyrese Maxey 2.5Joel Embiid 1Jaylen Brown 0.5 The Sixers made it interesting for awhile, but came back around to take down a shorthanded Indiana Pacers squad on Wednesday night. The Pacers were banged up for this ",
-      "link": "",
-      "pubDate": "2026-10-28T23:11:31-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
-      "title": "Sixers make it harder than it needed to be, but take care of business vs. depleted Pacers",
-      "description": "At least they\u2019re piling up wins while figuring out the offense. The Sixers slugged out a 114-109 win over the banged-up Indiana Pacers Wednesday night. Tyrese Maxey came alive in the fourth quarter to lead the Sixers with 27 points, adding five rebou",
-      "link": "",
-      "pubDate": "2026-10-28T21:57:22-04:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "With another lethargic start, and loss, maybe this is just who the Flyers are",
@@ -1111,16 +1131,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Win or lose this season, this LeBron James thing is pretty cool, right?",
-      "description": "It was early 2014 and I was a sports editor for the first time. That's when I covered my first Sixers game.",
-      "link": "https://www.phillyvoice.com/sixers-76ers-the-process-lebron-james-joel-embiid-championship-draught-philadelphia-cavaliers-news-analysis/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Fri, 23 Oct 2026 06:43:31 +0000",
-      "author": "Evan Macy",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-22T232031Z_1142508217_MT1USATODAY30156028_RTRMADP_3_NBA-CLEVELAND-.JPG",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
     },
     {
       "title": "Cole Knuble brought a spark, and the Flyers caught momentum",
