@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T22:29:39.405278+00:00",
+  "updated": "2026-11-02T01:56:16.920185+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -8,18 +8,6 @@
     "eagles": {
       "recent": [],
       "upcoming": [
-        {
-          "date": "11/2",
-          "home": "WSH",
-          "away": "PHI",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NFL",
-          "name": "Philadelphia Eagles at Washington Commanders",
-          "shortName": "PHI @ WSH",
-          "time": "9:20 PM ET",
-          "status": "scheduled"
-        },
         {
           "date": "11/8",
           "home": "PHI",
@@ -78,6 +66,18 @@
           "name": "Indianapolis Colts at Philadelphia Eagles",
           "shortName": "IND @ PHI",
           "time": "1:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "12/19",
+          "home": "PHI",
+          "away": "SEA",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NFL",
+          "name": "Seattle Seahawks at Philadelphia Eagles",
+          "shortName": "SEA @ PHI",
+          "time": "5:00 PM ET",
           "status": "scheduled"
         }
       ]
