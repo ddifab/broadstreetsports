@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T18:54:28.091458+00:00",
+  "updated": "2026-11-03T01:22:42.478518+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -86,18 +86,6 @@
       "recent": [],
       "upcoming": [
         {
-          "date": "11/3",
-          "home": "PHI",
-          "away": "CHI",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NBA",
-          "name": "Chicago Bulls at Philadelphia 76ers",
-          "shortName": "CHI @ PHI",
-          "time": "8:30 PM ET",
-          "status": "scheduled"
-        },
-        {
           "date": "11/5",
           "home": "DET",
           "away": "PHI",
@@ -156,24 +144,24 @@
           "shortName": "TOR @ PHI",
           "time": "8:00 PM ET",
           "status": "scheduled"
+        },
+        {
+          "date": "11/15",
+          "home": "PHI",
+          "away": "IND",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "Indiana Pacers at Philadelphia 76ers",
+          "shortName": "IND @ PHI",
+          "time": "2:00 PM ET",
+          "status": "scheduled"
         }
       ]
     },
     "flyers": {
       "recent": [],
       "upcoming": [
-        {
-          "date": "11/3",
-          "home": "CHI",
-          "away": "COL",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NHL",
-          "name": "Colorado Avalanche at Chicago Blackhawks",
-          "shortName": "COL @ CHI",
-          "time": "9:00 PM ET",
-          "status": "scheduled"
-        },
         {
           "date": "11/5",
           "home": "FLA",
@@ -232,6 +220,18 @@
           "name": "Winnipeg Jets at Chicago Blackhawks",
           "shortName": "WPG @ CHI",
           "time": "4:30 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "11/18",
+          "home": "CHI",
+          "away": "TOR",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NHL",
+          "name": "Toronto Maple Leafs at Chicago Blackhawks",
+          "shortName": "TOR @ CHI",
+          "time": "8:30 PM ET",
           "status": "scheduled"
         }
       ]
