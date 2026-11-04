@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T22:05:54.431420+00:00",
+  "updated": "2026-11-04T02:46:59.797439+00:00",
   "count": 151,
   "articles": [
     {
@@ -61,6 +61,26 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-28T235433Z_445227609_MT1USATODAY30210211_RTRMADP_3_NBA-PHILADELPHI.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Eagles waive player they traded for last year",
+      "description": "The Philadelphia Eagles are waiving Jakorian Bennett, as noted by the NFL\u2019s November 3 personnel notice. The Eagles previously opened Bennett\u2019s 21-day practice window to return from injured reserve on October 14. The team was coming up on the deadlin",
+      "link": "",
+      "pubDate": "2026-11-03T17:13:24-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "C.J. Gardner-Johnson released by Bills",
+      "description": "In some former Philadelphia Eagles player news, the Buffalo Bills are releasing Super Bowl LIX champion C.J. Gardner-Johnson. NFL insider Jordan Schultz first reported this development that has since been officially confirmed by the team. Here\u2019s the ",
+      "link": "",
+      "pubDate": "2026-11-03T16:41:47-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Flyers vs. Wild: How to watch, lineups, and gamethread",
@@ -273,32 +293,12 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "The DeVonta Smith Dilemma and What It Means for Nick Sirianni",
-      "description": "Amid a disappointing Eagles season, fans are wondering whether theyll have to go without one of their most consistent star [] The post The DeVonta Smith Dilemma and What It Means for Nick Sirianni appeared first on Philadelphia Sports Nation.",
-      "link": "https://phlsportsnation.com/2026/10/26/what-does-devonta-smiths-injury-management-say-about-nick-siriannis-future/",
-      "pubDate": "Mon, 26 Oct 2026 22:54:22 +0000",
-      "author": "Jonah Casel",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
-    },
-    {
       "title": "Sixers' Jaylen Brown says former Celtics teammate Jayson Tatum 'has a great PR team' and 'should stay ready at all times'",
       "description": "After Jayson Tatum said there is \"no beef\" between himself and former teammate Jaylen Brown, Brown offered a rather sarcastic agreement and took shots at Tatum.",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-jaylen-brown-former-celtics-teammate-jayson-tatum-interview-trade-nba-rumors/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
       "pubDate": "Sun, 25 Oct 2026 11:59:58 +0000",
       "author": "Adam Aaronson",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/092826_SixersMediaDay_ColleenClaggett-5805.jpg",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "No LeBron James, no problem for Sixers, improving to 3-0 with victory over Bucks",
-      "description": "Even without LeBron James, the Sixers had too much offensive firepower for the Milwaukee Bucks to overcome.",
-      "link": "https://www.phillyvoice.com/sixers-vs-bucks-box-score-news-analysis-stats-highlights-joel-embiid-jaylen-brown-tyrese-maxey-vj-edgecombe-lebron/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sun, 25 Oct 2026 05:07:23 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-25T002555Z_2087961625_MT1USATODAY30178069_RTRMADP_3_NBA-MILWAUKEE-.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
     },
@@ -393,8 +393,18 @@
       "source": "SportsTalk Philly"
     },
     {
-      "title": "Eagles Lose Six Straight. Things to Focus on During This Inevitable Ruin",
-      "description": "Well the Eagles lost again and depending on who you ask, this might be a good thing. For one, this [] The post Eagles Lose Six Straight. Things to Focus on During This Inevitable Ruin appeared first on Philadelphia Sports Nation.",
+      "title": "Full injury reports for Sixers-Pistons on Wednesday",
+      "description": "Joel Embiid played with a minutes restriction on Monday. \"It\u2019s painful,\" he said of his foot injury. \"Just got to manage it and when it flares up pretty bad, got to take a step back.\"",
+      "link": "https://www.phillyvoice.com/sixers-vs-pistons-injury-report-news-analysis-lebron-james-joel-embiid-dominick-barlow-jalen-duren-nba/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 03 Nov 2026 22:06:02 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-02T234544Z_257852266_MT1USATODAY30257908_RTRMADP_3_NBA-CHICAGO-BUL.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Eagles Lose Six Straight: 4 Things to Focus on During This Inevitable Ruin",
+      "description": "Well, the Eagles lost again, and depending on who you ask, this might be a good thing. For one, this [] The post Eagles Lose Six Straight: 4 Things to Focus on During This Inevitable Ruin appeared first on Philadelphia Sports Nation.",
       "link": "https://phlsportsnation.com/2026/11/03/eagles-lose-six-straight-things-to-focus-on-during-this-inevitable-ruin/",
       "pubDate": "Tue, 03 Nov 2026 21:43:34 +0000",
       "author": "Kyle Lavin",
@@ -593,6 +603,16 @@
       "source": "Bleeding Green Nation"
     },
     {
+      "title": "2026 NFL Playoff Picture: Teams, Divisions, and Matchups to Watch",
+      "description": "The 2026 NFL playoff race is gathering momentum, with several divisions already producing compelling storylines. Kansas City has emerged as [] The post 2026 NFL Playoff Picture: Teams, Divisions, and Matchups to Watch appeared first on Philadelphia S",
+      "link": "https://phlsportsnation.com/2026/11/02/2026-nfl-playoff-picture-teams-divisions-and-matchups-to-watch/",
+      "pubDate": "Mon, 02 Nov 2026 17:10:00 +0000",
+      "author": "PHLSportsNation",
+      "thumbnail": null,
+      "team": "general",
+      "source": "PHL Sports Nation"
+    },
+    {
       "title": "Eagles News: Nick Sirianni\u2019s seat is getting hotter",
       "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! The Eagles certainly have issues that go beyond their head coach. But if you\u2019re not part of the solution, you\u2019re part of the problem. And Nick Sirianni doesn\u2019t",
       "link": "",
@@ -701,26 +721,6 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
-    },
-    {
-      "title": "10 Eagles things I think I think from the loss to the Commanders",
-      "description": "The Eagles certainly put up a performance for the ages on Sunday Night Football. This was a game where the Eagles needed a win to salvage a season that was on the verge of cratering, and they certainly imploded. Philadelphia\u2019s offense barely mustered",
-      "link": "",
-      "pubDate": "2026-11-02T02:21:42-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Eagles vs. Giants odds: Opening lines for Week 9 matchup",
-      "description": "The Philadelphia Eagles have lost six games in a row and the losing streak might continue next weekend. The Birds are three-point home underdogs to the New York Giants, according to FanDuel. As a reminder, the Eagles have NEVER won as home underdogs ",
-      "link": "",
-      "pubDate": "2026-11-02T02:10:08-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Eagles-Commanders Week 8 report card: After promising start, Birds crash back to earth",
