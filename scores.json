@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T23:59:45.025674+00:00",
+  "updated": "2026-11-05T05:25:48.189307+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -86,18 +86,6 @@
       "recent": [],
       "upcoming": [
         {
-          "date": "11/5",
-          "home": "DET",
-          "away": "PHI",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NBA",
-          "name": "Philadelphia 76ers at Detroit Pistons",
-          "shortName": "PHI @ DET",
-          "time": "8:00 PM ET",
-          "status": "scheduled"
-        },
-        {
           "date": "11/7",
           "home": "CLE",
           "away": "PHI",
@@ -156,24 +144,24 @@
           "shortName": "IND @ PHI",
           "time": "2:00 PM ET",
           "status": "scheduled"
+        },
+        {
+          "date": "11/17",
+          "home": "BKN",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "Philadelphia 76ers at Brooklyn Nets",
+          "shortName": "PHI @ BKN",
+          "time": "8:30 PM ET",
+          "status": "scheduled"
         }
       ]
     },
     "flyers": {
       "recent": [],
       "upcoming": [
-        {
-          "date": "11/5",
-          "home": "FLA",
-          "away": "CHI",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NHL",
-          "name": "Chicago Blackhawks at Florida Panthers",
-          "shortName": "CHI @ FLA",
-          "time": "8:30 PM ET",
-          "status": "scheduled"
-        },
         {
           "date": "11/6",
           "home": "TB",
@@ -232,6 +220,18 @@
           "name": "Toronto Maple Leafs at Chicago Blackhawks",
           "shortName": "TOR @ CHI",
           "time": "8:30 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "11/20",
+          "home": "CHI",
+          "away": "CBJ",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NHL",
+          "name": "Columbus Blue Jackets at Chicago Blackhawks",
+          "shortName": "CBJ @ CHI",
+          "time": "9:00 PM ET",
           "status": "scheduled"
         }
       ]
