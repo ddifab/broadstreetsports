@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T01:13:36.757687+00:00",
+  "updated": "2026-11-06T08:38:27.148011+00:00",
   "count": 155,
   "articles": [
     {
@@ -21,16 +21,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-28T234232Z_1418894533_MT1USATODAY30211900_RTRMADP_3_NBA-PHILADELPH.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Eagles on pace for worst offense since 1998: How did it get to this point?",
-      "description": "There\u2019s no argument the Philadelphia Eagles offense is bad. The 2026 unit is historically bad. The Eagles are 29th in the NFL in points per game (17.1) and 30th in points per drive (1.61). They\u2019re 32nd in yards per game (265.3) and yards per play (4.",
-      "link": "",
-      "pubDate": "2026-11-04T11:11:00-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Eagles Will Not Trade RB Saquon Barkley Prior To Deadline",
@@ -61,6 +51,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-28T235433Z_445227609_MT1USATODAY30210211_RTRMADP_3_NBA-PHILADELPHI.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Jason Kelce refutes rumor that Eagles players wanted Jeff Stoutland out of Philly",
+      "description": "The Eagles run game and offensive line have struggled this season, and as we approach Week 9, and as Nick Sirianni begins to field questions about getting rid of legendary OL coach Jeff Stoutland, rumors about Stout\u2019s departure sprouted up online. Ac",
+      "link": "",
+      "pubDate": "2026-11-05T20:19:01-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Flyers\u2019 upcoming road trip could make or break their season",
@@ -168,16 +168,6 @@
       "link": "https://www.broadstreethockey.com/post/rick-tocchet-wasnt-happy-with-trevor-zegras-latest-costly-mistake/",
       "pubDate": "Wed, 04 Nov 2026 04:32:24 +0000",
       "author": "Ryan Gilbert",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Takeaways: Moral victory not enough in Flyers\u2019 4-2 loss to Wild",
-      "description": "The Philadelphia Flyers fell behind early, battled to make it a one-goal game, but ended up losing 4-2 to Minnesota at home on Tuesday night. The loss negated a strong last 40 minutes after a very shaky opening 10. The basics First period: 4:06 Matt ",
-      "link": "https://www.broadstreethockey.com/post/takeaways-moral-victory-not-enough-in-flyers-4-2-loss-to-minnesota/",
-      "pubDate": "Wed, 04 Nov 2026 02:56:48 +0000",
-      "author": "Jason MacNeil",
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
@@ -423,6 +413,36 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Flyers prospects: Checking in on Jett Luchanko and other key Phantoms",
+      "description": "It's a big year for Jett Luchanko's development, while Alex Bump and Hunter McDonald are trying to work their way back up to the NHL.",
+      "link": "https://www.phillyvoice.com/flyers-prospects-alex-bump-jett-luchanko-hunter-mcdonald-phantoms-ahl-progress/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 06 Nov 2026 04:24:34 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-10-18T024206Z_232442908_MT1USATODAY27349419_RTRMADP_3_NHL-WINNIPEG-JE.JPG",
+      "team": "flyers",
+      "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "Takeaways: Flyers embarrassingly blow third-period lead, fall 3-2 to Rangers",
+      "description": "This years iteration of the Philadelphia Flyers has a knack of discovering new and exciting ways to lose games. Theyve gotten blown out 7-0, battled back after being down 3-1 only to lose in a shootout, and theyve even played well against strong oppo",
+      "link": "https://www.broadstreethockey.com/post/takeaways-flyers-embarrassingly-blow-third-period-lead-fall-3-2-to-rangers/",
+      "pubDate": "Fri, 06 Nov 2026 03:14:45 +0000",
+      "author": "Ryan Quigley",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Eagles Injury Report: Saquon Barkley upgraded to limited",
+      "description": "The Philadelphia Eagles issued their second official injury report of the week on Thursday in advance of their Week 9 game against the New York Giants. The Eagles listed seven players under DID NOT PARTICIPATE: DeVonta Smith, Dontayvion Wicks, Jihaad",
+      "link": "",
+      "pubDate": "2026-11-05T21:05:28-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
       "title": "Week 9 NFL straight up, against the spread, and survivor pool picks",
       "description": "I won't be picking the Eagles to win a game anytime soon.",
       "link": "https://www.phillyvoice.com/week-9-nfl-straight-against-spread-and-survivor-pool-picks-2026/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -471,16 +491,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Flyers prospects: Checking in on Jett Luchanko and other key Phantoms",
-      "description": "It's a big year for Jett Luchanko's development, while Alex Bump and Hunter McDonald are trying to work their way back up to the NHL.",
-      "link": "https://www.phillyvoice.com/flyers-prospects-alex-bump-jett-luchanko-hunter-mcdonald-phantoms-ahl-progress/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Thu, 05 Nov 2026 18:14:54 +0000",
-      "author": "Nick Tricome",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-10-18T024206Z_232442908_MT1USATODAY27349419_RTRMADP_3_NHL-WINNIPEG-JE.JPG",
-      "team": "flyers",
-      "source": "PhillyVoice Flyers"
     },
     {
       "title": "Flyers hand Cole Knuble a massive opportunity in lineup shakeup",
@@ -671,16 +681,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/0109_09132023_Phillies_Braves_Frese.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "Film Review: Eagles need their best defenders to start playing like their best defenders",
-      "description": "I wanted to see a response from the Eagles\u2019 defense after last week. I don\u2019t think we got much. The Commanders finished with 339 yards and averaged 5.9 yards per play. I didn\u2019t come away from the film thinking this defense had improved significantly.",
-      "link": "",
-      "pubDate": "2026-11-04T12:34:00-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Eventually, the Flyers have to start helping themselves",
