@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T21:49:13.269725+00:00",
+  "updated": "2026-11-07T01:21:29.293671+00:00",
   "count": 155,
   "articles": [
     {
@@ -111,16 +111,6 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Eagles News: Kliff Kingsbury among potential head coach candidates",
-      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! Jeffrey Lurie\u2019s track record shows that he doesn\u2019t tolerate failure, especially on offense. Nick Sirianni could be in real trouble if things continue to go poo",
-      "link": "",
-      "pubDate": "2026-11-05T10:30:20-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Now 26 years old, Tyrese Maxey\u2019s career trajectory remains remarkable",
@@ -403,10 +393,30 @@
       "source": "SportsTalk Philly"
     },
     {
-      "title": "Eagles-Giants Final Injury Report: Tanner McKee questionable",
-      "description": "The Philadelphia Eagles issued their third and final injury report of the week on Friday in advance of their Week 9 game against the New York Giants. The Eagles ruled six players OUT: DeVonta Smith, Dontayvion Wicks, Jihaad Campbell, Michael Carter I",
+      "title": "Matvei Michkov is scoring like a first-line winger on third-line minutes",
+      "description": "Eighteen games into the season, the Flyers have exactly one forward who worries opposing goaltenders every night. Matvei Michkov has 10 goals, the most on the team by a wide margin, and he has scored them while six other Philadelphia forwards get mor",
+      "link": "https://www.broadstreethockey.com/post/matvei-michkov-is-scoring-like-a-first-line-winger-on-third-line-minutes/",
+      "pubDate": "Sat, 07 Nov 2026 00:55:31 +0000",
+      "author": "BSH Staff",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Adem Bona OUT for Sixers Cup matchup vs. Cavs",
+      "description": "Update: 11/6, 6:17 p.m.: Bona has officially been ruled out. Nick Nurse told reporters in Cleveland that Jabari Walker, Dean Wade, and perhaps LeBron James with play the five to back up Joel Embiid. The Sixers have another front court piece miss time",
       "link": "",
-      "pubDate": "2026-11-06T16:15:50-05:00",
+      "pubDate": "2026-11-06T18:17:00-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Eagles Film Review: Joe Milton is an easy player to get excited about",
+      "description": "This week got away from me. Life has been ridiculously busy, and I couldn\u2019t put together my usual weekly preview article. But with the Eagles turning to Joe Milton at quarterback, I still wanted to give you something. So, let\u2019s do this! Milton is an ",
+      "link": "",
+      "pubDate": "2026-11-06T17:34:46-05:00",
       "author": "",
       "thumbnail": null,
       "team": "eagles",
@@ -416,11 +426,31 @@
       "title": "Sixers' Dean Wade raves about LeBron James' 'otherworldly' basketball IQ: 'It doesn't feel real'",
       "description": "Before they both make their first returns to Cleveland since discarding the Cavaliers in free agency, Sixers reserve Dean Wade sung the praises of LeBron James' \"unbelievable\" basketball IQ.",
       "link": "https://www.phillyvoice.com/sixers-news-76ers-analysis-lebron-james-iq-highlights-dean-wade-interview-nba-scores-schedule-rumors-cle/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Fri, 06 Nov 2026 20:18:57 +0000",
+      "pubDate": "Fri, 06 Nov 2026 21:52:03 +0000",
       "author": "Adam Aaronson",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-05T095013Z_1102039263_MT1USATODAY30278957_RTRMADP_3_BASKETBALL-NBA.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Eagles-Giants Week 9 injury report, with analysis",
+      "description": "The Philadelphia Eagles have lost six straight games, partly because they have been ravaged by injuries and other losses, most notably Jalen Hurts' season being ended by blood clots and Lane Johnson's surprise retirement. The New York Giants have had",
+      "link": "https://www.phillyvoice.com/eagles-giants-week-9-injury-report-analysis-2026-jaxson-dart-brian-burns-saquon-barkley-devonta-smith/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 06 Nov 2026 21:31:31 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-10-26T201803Z_1342250284_MT1USATODAY27425809_RTRMADP_3_NFL-NEW-YORK-G.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles-Giants Final Injury Report: Tanner McKee questionable",
+      "description": "The Philadelphia Eagles issued their third and final injury report of the week on Friday in advance of their Week 9 game against the New York Giants. The Eagles ruled six players OUT: DeVonta Smith, Dontayvion Wicks, Jihaad Campbell, Michael Carter I",
+      "link": "",
+      "pubDate": "2026-11-06T16:15:50-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "The Flyers\u2019 discipline problem is getting out of control",
@@ -583,16 +613,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Adem Bona doubtful for Sixers Cup matchup vs. Cavs",
-      "description": "The Sixers have another front court piece miss time this early season, even if its one who\u2019s had struggles this season. Adem Bona is listed as doubtful for the Sixers\u2019 upcoming game in Cleveland with a cervical spine sprain. Bona took a couple of hit",
-      "link": "",
-      "pubDate": "2026-11-05T17:36:46-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Flyers @ Rangers: How to watch, lineups, and gamethread",
       "description": "The Philadelphia Flyers are starting their five-game road trip at Madison Square Garden against the New York Rangers in a battle between teams that have some players but arent projected to do much of anything at all. Puck drop: 7:00 p.m.How to watch/",
       "link": "https://www.broadstreethockey.com/post/flyers-rangers-how-to-watch-lineups-and-gamethread-3/",
@@ -643,16 +663,6 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "The Flyers may have underestimated Oliver Bonk\u2019s offensive ceiling",
-      "description": "When Oliver Bonk was taken 22nd overall in the 2023 NHL Entry Draft, it was thought to be a pretty safe selection. The Philadelphia Flyers had already made their sexy splash when they took Matvei Michkov seventh overall earlier in the first round, an",
-      "link": "https://www.broadstreethockey.com/post/the-flyers-may-have-underestimated-oliver-bonks-offensive-ceiling/",
-      "pubDate": "Thu, 05 Nov 2026 15:08:17 +0000",
-      "author": "Jacob Russell",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "Projected top 10 picks in the 2027 NFL Draft who make sense for the Eagles",
       "description": "The Eagles might have a top 5 pick in the 2027 NFL Draft. Will they go for a receiver like Jeremiah Smith?",
       "link": "https://www.phillyvoice.com/2027-nfl-draft-projected-top-10-picks-who-make-sense-eagles-jeremiah-smith-colin-simmons-dylan-stewart/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -701,16 +711,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Eagles-Giants Week 9 injury report, with analysis",
-      "description": "The Philadelphia Eagles have lost six straight games, partly because they have been ravaged by injuries and other losses, most notably Jalen Hurts' season being ended by blood clots and Lane Johnson's surprise retirement. The New York Giants have had",
-      "link": "https://www.phillyvoice.com/eagles-giants-week-9-injury-report-analysis-2026-jaxson-dart-brian-burns-saquon-barkley-devonta-smith/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 04 Nov 2026 23:52:03 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-10-26T201803Z_1342250284_MT1USATODAY27425809_RTRMADP_3_NFL-NEW-YORK-G.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Sixers-Pistons: Game Discussion Thread",
