@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T16:24:51.423453+00:00",
+  "updated": "2026-11-08T20:49:31.104069+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -8,18 +8,6 @@
     "eagles": {
       "recent": [],
       "upcoming": [
-        {
-          "date": "11/8",
-          "home": "PHI",
-          "away": "NYG",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NFL",
-          "name": "New York Giants at Philadelphia Eagles",
-          "shortName": "NYG @ PHI",
-          "time": "2:00 PM ET",
-          "status": "scheduled"
-        },
         {
           "date": "11/22",
           "home": "PHI",
@@ -79,24 +67,24 @@
           "shortName": "SEA @ PHI",
           "time": "5:00 PM ET",
           "status": "scheduled"
+        },
+        {
+          "date": "12/25",
+          "home": "PHI",
+          "away": "HOU",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NFL",
+          "name": "Houston Texans at Philadelphia Eagles",
+          "shortName": "HOU @ PHI",
+          "time": "8:15 PM ET",
+          "status": "scheduled"
         }
       ]
     },
     "sixers": {
       "recent": [],
       "upcoming": [
-        {
-          "date": "11/8",
-          "home": "CHI",
-          "away": "PHI",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NBA",
-          "name": "Philadelphia 76ers at Chicago Bulls",
-          "shortName": "PHI @ CHI",
-          "time": "4:30 PM ET",
-          "status": "scheduled"
-        },
         {
           "date": "11/11",
           "home": "PHI",
@@ -155,6 +143,18 @@
           "name": "Philadelphia 76ers at Orlando Magic",
           "shortName": "PHI @ ORL",
           "time": "8:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "11/21",
+          "home": "PHI",
+          "away": "MIL",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "Milwaukee Bucks at Philadelphia 76ers",
+          "shortName": "MIL @ PHI",
+          "time": "2:00 PM ET",
           "status": "scheduled"
         }
       ]
