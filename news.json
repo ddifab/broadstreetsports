@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T00:54:52.299222+00:00",
+  "updated": "2026-11-10T07:50:26.983773+00:00",
   "count": 172,
   "articles": [
     {
@@ -43,6 +43,26 @@
       "source": "PhillyVoice Flyers"
     },
     {
+      "title": "Matvei Michkov and Nick Seeler involved in nasty confrontation on Flyers bench",
+      "description": "The most action that happened during the Philadelphia Flyers visit to the Vancouver Canucks on Monday night didnt happen on the ice. Matvei Michkov took center stage as he got in a very heated argument with defenseman Nick Seeler on the Flyers bench ",
+      "link": "https://www.broadstreethockey.com/post/matvei-michkov-and-nick-seeler-involved-in-nasty-confrontation-on-flyers-bench/",
+      "pubDate": "Tue, 10 Nov 2026 06:11:02 +0000",
+      "author": "Thomas Williams",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Could the Jordan Davis trade suggest Eagles are preparing for a new defensive coordinator?",
+      "description": "The general consensus is that Howie Roseman won yet another trade, this time managing to get a first and second round pick from the Jaguars for Jordan Davis. As the team racks up draft capital over the next three years, another question is emerging f",
+      "link": "",
+      "pubDate": "2026-11-09T21:27:22-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
       "title": "Eagles are stockpiling draft picks through 2029",
       "description": "The Eagles surprised just about everyone when it was announced that they were trading Jordan Davis to the Jaguars ahead of the NFL trade deadline, but they got a huge return for their defensive tackle, including a first-round draft pick in 2027 and a",
       "link": "",
@@ -81,16 +101,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Adem Bona out, Joel Embiid not listed on injury report for Sixers\u2019 big tilt with Boston",
-      "description": "The Sixers released their injury report ahead of their highly anticipated matchup with the Boston Celtics Tuesday night, and it\u2019s most notable in its omissions. Joel Embiid is not listed at all on the injury report for plantar fasciitis management in",
-      "link": "",
-      "pubDate": "2026-11-09T17:15:57-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Jordan Davis trade: Eagles acquire Jaguars\u2019 first-round pick",
@@ -153,16 +163,6 @@
       "source": "Bleeding Green Nation"
     },
     {
-      "title": "Eagles players met with Nick Sirianni in his office after losing to the Giants",
-      "description": "The Eagles dropped their seventh game in a row on Sunday, losing to the Giants in a game that capped off a losing NFC East trifecta for the Birds in as many weeks. Reporters had to wait quite a while to talk to head coach Nick Sirianni after the game",
-      "link": "",
-      "pubDate": "2026-11-09T07:02:07-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Rick Tocchet may be coaching for his job against the team he quit on",
       "description": "Rick Tocchet has been here before. The Philadelphia Flyers head coach is no stranger to struggling early on in his tenure behind a teams bench. Prior to his job as bench boss for his former team, Tocchet went through a rollercoaster two-and-a-half se",
       "link": "https://www.broadstreethockey.com/post/rick-tocchet-may-be-coaching-for-his-job-against-the-team-he-quit-on/",
@@ -181,16 +181,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Dallas Goedert, Riq Woolen address Eagles trade rumors",
-      "description": "The Eagles lost their seventh game in a row on Sunday against the Giants, and with just a couple days until the NFL trade deadline, speculation continues to grow about moves that Howie Roseman and Co. might make. Two names among some of the rumors, i",
-      "link": "",
-      "pubDate": "2026-11-08T21:12:33-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "John Harbaugh gets a milestone moment in Giants' gritty Eagles win",
@@ -261,6 +251,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-01-01T164250Z_1457962278_MT1USATODAY25095015_RTRMADP_3_NFL-DALLAS-COW.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Sixers look to keep rolling for sixth-straight win vs. Cavaliers",
+      "description": "The Sixers just keep on rolling. After a 112-106 win on Wednesday against the Pistons, they\u2019re sitting comfortably at the top of the Eastern Conference with an 8-1 record. Next up on Friday, the Sixers are continuing on the road with their second mat",
+      "link": "",
+      "pubDate": "2026-11-06T07:30:00-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "The Phillies and Tarik Skubal: does it make any sense?",
@@ -463,6 +463,16 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Takeaways: Flyers hold on for 3-1 win over struggling Canucks",
+      "description": "The Flyers wrapped up their Western Canada back-to-back with a matchup against a mightily struggling Canucks team on Monday night. It was a meeting of two of the cellar dwellers of these league standings. A stoppable force meeting a moveable option. ",
+      "link": "https://www.broadstreethockey.com/post/takeaways-flyers-hold-on-for-3-1-win-over-struggling-canucks/",
+      "pubDate": "Tue, 10 Nov 2026 05:54:09 +0000",
+      "author": "Madeline Campbell",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
       "title": "Report: Phillies \u2018eyeing\u2019 bounce-back candidate Ha-Seong Kim",
       "description": "The Phillies are reportedly looking for a bounce-back candidate to fill a utility infield role. Per Jim Salisbury of NBC Sports Philadelphia, the Phillies are eying former San Diego Padres, Tampa Bay Rays and Atlanta Braves shortstop Ha-Seong Kim. Ki",
       "link": "https://www.philliesnation.com/2026/11/philadelphia-phillies-news-rumors-gm-meetings-mlb-dave-dombrowski-shortstop-edmundo-sosa-trea-turner-ha-seong-kim/",
@@ -481,16 +491,6 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
-    },
-    {
-      "title": "The NBAs anti-tanking rules might thwart the Sixers buyout dreams",
-      "description": "Set aside their ugly loss to the Cleveland Cavaliers in the NBA Cup on Friday, and the Sixers are otherwise having a largely dreamy start to the season. They still sit atop the Eastern Conference at 9-2, and theyve shown a far higher ceiling on defen",
-      "link": "",
-      "pubDate": "2026-11-09T13:21:03-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Eagles schedule change: Steelers start time moved up",
@@ -513,16 +513,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Doc Rivers calls Sixers NBAs best team",
-      "description": "The mere mention of Doc Rivers\u2019 name is bound to get some (maybe most) Sixers fans feeling some kind of way. Be that as it may, Rivers was on Bill Simmons\u2019 podcast last Friday, throwing flowers in the direction of the team he coached from 2020-23. Th",
-      "link": "",
-      "pubDate": "2026-11-09T11:35:55-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Joe Milton doesn\u2019t expect many Eagles players will leave town during the bye week",
       "description": "The Eagles lost to the Giants on Sunday, but it was quarterback Joe Milton\u2019s first NFL start, and he talked about the experience and his performance in his post-game press conference. The QB was asked is he would be staying in Philly during his exten",
       "link": "",
@@ -531,16 +521,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Can the Sixers keep it rolling against challenging opponents?",
-      "description": "For as bad as last Friday\u2019s game was in Cleveland, the Sixers probably deserve a mulligan. At 9-2 after Sunday\u2019s win in Chicago, Philly has not only looked the part of a championship contender, but they\u2019ve done it against lots of fellow contenders, S",
-      "link": "",
-      "pubDate": "2026-11-09T10:10:35-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Eagles-Giants snap counts",
@@ -643,16 +623,6 @@
       "source": "Philly Sports Wire"
     },
     {
-      "title": "Sixers Bell Ringer: Offense carries Sixers as they hang on vs. Bulls",
-      "description": "Bell Ringer Standings:Tyrese Maxey 3.5VJ Edgecombe 2Jaylen Brown 1.5Joel Embiid 1LeBron James 1Anfernee Simons 1 The bad news is the Sixers\u2019 defense looked like that of a veteran team closing a road trip with a Sunday afternoon game. The good news is",
-      "link": "",
-      "pubDate": "2026-11-08T19:05:43-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Eagles name SportsRadio 94WIP broadcast booth at Lincoln Financial Field after Merrill Reese",
       "description": "The Voice of the Eagles was honored at Sunday's game to commemorate his 50th season as the team's play-by-play announcer.",
       "link": "https://www.philadelphiaeagles.com/news/eagles-name-sportsradio-94wip-broadcast-booth-at-lincoln-financial-field-after-merrill-reese",
@@ -691,16 +661,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Philly Sports Wire"
-    },
-    {
-      "title": "It was a little close for comfort, but Sixers close road trip with narrow win vs. Bulls",
-      "description": "Sometimes in an afternoon road game you got to be happy just getting out of there with a win. The Sixers narrowly defeated the Chicago Bulls 127-121 Sunday afternoon. Jaylen Brown went for a team-high 29 points and seven rebounds on 11-of-22 shooting",
-      "link": "",
-      "pubDate": "2026-11-08T17:49:43-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Eagles 2027 first-round draft pick position tracker",
@@ -873,6 +833,26 @@
       "source": "Liberty Ballers"
     },
     {
+      "title": "Sixers-Cavaliers: Game Discussion Thread",
+      "description": "When: Friday, November 6, 7:30 p.m. ETWhere: Rocket Arena, Cleveland, OHWatch: Prime Video, NBC Sports PhiladelphiaRadio: 97.5 The FanaticFollow: @LibertyBallers",
+      "link": "",
+      "pubDate": "2026-11-06T19:00:00-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Adem Bona OUT for Sixers Cup matchup vs. Cavs",
+      "description": "Update: 11/6, 6:17 p.m.: Bona has officially been ruled out. Nick Nurse told reporters in Cleveland that Jabari Walker, Dean Wade, and perhaps LeBron James with play the five to back up Joel Embiid. The Sixers have another front court piece miss time",
+      "link": "",
+      "pubDate": "2026-11-06T18:17:00-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
       "title": "Sixers' Dean Wade raves about LeBron James' 'otherworldly' basketball IQ: 'It doesn't feel real'",
       "description": "Before they both make their first returns to Cleveland since discarding the Cavaliers in free agency, Sixers reserve Dean Wade sung the praises of LeBron James' \"unbelievable\" basketball IQ.",
       "link": "https://www.phillyvoice.com/sixers-news-76ers-analysis-lebron-james-iq-highlights-dean-wade-interview-nba-scores-schedule-rumors-cle/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -891,16 +871,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-10-26T201803Z_1342250284_MT1USATODAY27425809_RTRMADP_3_NFL-NEW-YORK-G.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "The Flyers\u2019 discipline problem is getting out of control",
-      "description": "It wasnt a huge, season-altering penalty. But it shouldve been one that, for most teams, wouldve resulted in the player having his backside glued to the bench the rest of the game. Early in the second period against Minnesota on Tuesday night, and al",
-      "link": "https://www.broadstreethockey.com/post/the-flyers-discipline-problem-is-getting-out-of-control/",
-      "pubDate": "Fri, 06 Nov 2026 19:20:30 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Key Phillies offseason dates",
@@ -1003,6 +973,16 @@
       "source": "PHL Sports Nation"
     },
     {
+      "title": "3 takeaways from Sixers\u2019 win over Pistons: This feels like a special group",
+      "description": "The Sixers avenged their only loss of the young season with a 112-106 win over the Pistons in Detroit Wednesday. It was essentially a wire-to-wire win, though it did get a bit dicey at the end. Still, the Sixers\u2019 resiliency in closing out close games",
+      "link": "",
+      "pubDate": "2026-11-05T11:26:25-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
       "title": "Phillies\u2019 Kyle Schwarber named finalist for Silver Slugger Award after another league-leading power season",
       "description": "After staking a claim for the big-league lead in home runs for the second year in a row, Phillies star designated hitter Kyle Schwarber has been named a finalist for the Silver Slugger Award. Schwarber, who was tied with Pete Crow-Armstrong for 45 ho",
       "link": "https://www.philliesnation.com/2026/11/phillies-kyle-schwarber-named-finalist-for-silver-slugger-award-after-another-league-leading-power-season/",
@@ -1033,6 +1013,16 @@
       "source": "PHL Sports Nation"
     },
     {
+      "title": "Sixers Bell Ringer: Brown 30-bomb, Embiid, LeBron double-doubles lead Sixers over Pistons",
+      "description": "Bell Ringer Standings:Tyrese Maxey 3.5VJ Edgecombe 1Joel Embiid 1LeBron James 1Anfernee Simons 1Jaylen Brown 0.5 The Philadelphia 76ers are 8-1 to start the season after defeating the Detroit Pistons on the road Wednesday night 112-106. The Sixers to",
+      "link": "",
+      "pubDate": "2026-11-04T23:27:06-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
       "title": "Jaylen Brown meets the moment vs. Pistons in another Sixers statement win",
       "description": "Tyrese Maxey had his first poor game of the season on Wednesday \u2013 his 26th birthday. Jaylen Brown, Joel Embiid and LeBron James made sure the Sixers could still gift him a birthday win.",
       "link": "https://www.phillyvoice.com/sixers-vs-pistons-box-score-76ers-highlights-stats-lebron-james-news-tyrese-maxey-jaylen-brown-joel-embiid-nba/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -1041,6 +1031,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-05T014148Z_1248230635_MT1USATODAY30278971_RTRMADP_3_NBA-PHILADELPH.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Brown puts up 30 as Sixers hang on to avenge lone loss with win over Pistons",
+      "description": "It could have been easier, but the Sixers have defeated the Detroit Pistons for the first time since November of 2024, knocking them off 112-106 Wednesday night. Jaylen Brown set a new season-high 30 points shooting 11-of-19 from the floor, and his b",
+      "link": "",
+      "pubDate": "2026-11-04T21:57:29-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Report: Eagles bench Tanner McKee; Joe Milton is the new starter",
