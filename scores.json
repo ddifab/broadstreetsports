@@ -1,9 +1,82 @@
 {
-  "updated": "2026-11-12T04:34:52.519742+00:00",
+  "updated": "2026-11-12T13:21:50.727608+00:00",
   "scores": {
     "phillies": {
       "recent": [],
-      "upcoming": []
+      "upcoming": [
+        {
+          "date": "3/25",
+          "home": "WSH",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "MLB",
+          "name": "Philadelphia Phillies at Washington Nationals",
+          "shortName": "PHI @ WSH",
+          "time": "4:05 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "3/27",
+          "home": "WSH",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "MLB",
+          "name": "Philadelphia Phillies at Washington Nationals",
+          "shortName": "PHI @ WSH",
+          "time": "4:05 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "3/28",
+          "home": "WSH",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "MLB",
+          "name": "Philadelphia Phillies at Washington Nationals",
+          "shortName": "PHI @ WSH",
+          "time": "1:35 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "3/29",
+          "home": "MIA",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "MLB",
+          "name": "Philadelphia Phillies at Miami Marlins",
+          "shortName": "PHI @ MIA",
+          "time": "12:00 AM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "3/30",
+          "home": "MIA",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "MLB",
+          "name": "Philadelphia Phillies at Miami Marlins",
+          "shortName": "PHI @ MIA",
+          "time": "12:00 AM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "3/31",
+          "home": "MIA",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "MLB",
+          "name": "Philadelphia Phillies at Miami Marlins",
+          "shortName": "PHI @ MIA",
+          "time": "12:00 AM ET",
+          "status": "scheduled"
+        }
+      ]
     },
     "eagles": {
       "recent": [],
