@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T02:11:58.446460+00:00",
+  "updated": "2026-11-13T10:11:31.437952+00:00",
   "count": 165,
   "articles": [
     {
@@ -31,6 +31,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-28T234042Z_487909328_MT1USATODAY30210071_RTRMADP_3_NHL-PHILADELPHI.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "Eagles reportedly releasing Hollywood Brown",
+      "description": "The Eagles aren\u2019t letting the trade deadline passing keep them from making moves to their roster, with the latest decision being to release veteran wide receiver Hollywood Brown, according to NFL Insider Jordan Schultz. Schultz claims that this was a",
+      "link": "",
+      "pubDate": "2026-11-12T21:52:52-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "The 76ers\u2019 Hot Start Has Exposed a Bigger Problem",
@@ -147,16 +157,6 @@
       "description": "The NFL trade deadline came and went for the Philadelphia Eagles, with the lone move in the days leading up to the deadline being the departure of Jordan Davis. Surprising? Not really, it\u2019s hard to sell players off in the NFL \u2014 even for a team with a",
       "link": "",
       "pubDate": "2026-11-11T10:43:12-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Eagles News: Howie Roseman among biggest winners from the NFL trade deadline",
-      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! Howie Roseman did not have a very good offseason. That much is hardly the only reason the 2026 Eagles are pretty bad. But it\u2019s certainly part of the equation. ",
-      "link": "",
-      "pubDate": "2026-11-11T10:22:13-05:00",
       "author": "",
       "thumbnail": null,
       "team": "eagles",
@@ -343,16 +343,6 @@
       "source": "Phillies Nation"
     },
     {
-      "title": "Tyrese Maxey carries Sixers to clutch win without LeBron James and Joel Embiid",
-      "description": "No Joel Embiid, no LeBron James, no problem for Tyrese Maxey and the Sixers in Charlotte on Saturday night.",
-      "link": "https://www.phillyvoice.com/sixers-vs-hornets-76ers-news-analysis-box-score-highlights-tyrese-maxey-vj-edgecombe-jaylen-brown-tacko-fall/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sun, 01 Nov 2026 00:49:32 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-31T221235Z_716885782_MT1USATODAY30239983_RTRMADP_3_NBA-PHILADELPHI.JPG",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
       "title": "Phillies' Zack Wheeler voted NL Comeback Player of the Year among MLB players",
       "description": "Zack Wheeler returned in 2026 from a blood clot and venous thoracic outlet syndrome to show that he isn't anywhere close to done.",
       "link": "https://www.phillyvoice.com/phillies-zack-wheeler-nl-comeback-player-of-the-year-2026-blood-clot-removed-rib/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -451,6 +441,56 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "SportsTalk Philly"
+    },
+    {
+      "title": "Rick Tocchet\u2019s response to Matvei Michkov report raised more questions than answers",
+      "description": "The Philadelphia Flyers did all the right things in response to the bombshell that Kevin Weekes dropped earlier this week. With the report that Matvei Michkov would likely want a fresh start away from the Flyers given the internal turmoil, Philadelph",
+      "link": "https://www.broadstreethockey.com/post/rick-tocchets-response-to-matvei-michkov-report-raised-more-questions-than-answers/",
+      "pubDate": "Fri, 13 Nov 2026 05:38:11 +0000",
+      "author": "Ryan Gilbert",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Sixers Bell Ringer: Six double-digit scorers lead Sixers over Raptors",
+      "description": "Bell Ringer Standings:Tyrese Maxey 3.5Jaylen Brown 2.5VJ Edgecombe 2Joel Embiid 1LeBron James 1Anfernee Simons 1Dean Wade 1 The Philadelphia 76ers started slow but roared back for a 123-112 win over the Toronto Raptors on Thursday night. LeBron James",
+      "link": "",
+      "pubDate": "2026-11-12T22:40:57-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "A PIAA Championship for the Pioneers",
+      "description": "A late Conestoga High School goal capped off an exciting Championship Game against the Abington Senior High School Boys Soccer [] The post A PIAA Championship for the Pioneers appeared first on Philadelphia Sports Nation.",
+      "link": "https://phlsportsnation.com/2026/11/12/a-piaa-championship-for-the-pioneers/",
+      "pubDate": "Fri, 13 Nov 2026 02:43:28 +0000",
+      "author": "Michael Thomas Leibrandt",
+      "thumbnail": null,
+      "team": "general",
+      "source": "PHL Sports Nation"
+    },
+    {
+      "title": "Tyrese Maxey, Sixers guards lead in bounce-back victory over Raptors",
+      "description": "With a depleted frontcourt \u2013 nearly worsened by a Joel Embiid injury scare \u2013 the Sixers got terrific showings from their guards in Thursday's win.",
+      "link": "https://www.phillyvoice.com/sixers-raptors-76ers-news-analysis-box-score-joel-embiid-tyrese-maxey-jaylen-brown-lebron-james-vj-edgecombe/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 13 Nov 2026 02:28:58 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-13T003900Z_2145165290_MT1USATODAY30346849_RTRMADP_3_NBA-TORONTO-RA.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Sixers take care of business without LeBron, secure 10th vs. Raptors",
+      "description": "Maybe not the blowout people are looking for, but still a pretty decent win. The Sixers erased a 17-point first half deficit to defeat the Toronto Raptors 123-112 Thursday night. Tyrese Maxey led the Sixers with 27 shooting 8-of-13 from the field alo",
+      "link": "",
+      "pubDate": "2026-11-12T21:28:01-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Sixers-Raptors: Game Discussion Thread",
@@ -603,16 +643,6 @@
       "source": "PhillyVoice Flyers"
     },
     {
-      "title": "The Flyers burned through all their goodwill in just one month",
-      "description": "After their unceremonious sweep at the hands of the eventual Stanley Cup champion Carolina Hurricanes in the second round of the 2026 playoffs, the Xfinity Mobile Arena erupted in chants of &#x201C;Let&#x2019;s Go Flyers&#x201D; in appreciation for t",
-      "link": "https://www.broadstreethockey.com/post/the-flyers-burned-through-all-their-goodwill-in-just-one-month/",
-      "pubDate": "Wed, 11 Nov 2026 20:30:00 +0000",
-      "author": "Jacob Russell",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "The Flyers let this Matvei Michkov situation fester. Now the whole franchise is at stake.",
       "description": "Danny Bri\u00e8re, Rick Tocchet, and the Flyers are walking on the thinnest of lines with the player who is supposed to be their star.",
       "link": "https://www.phillyvoice.com/flyers-thoughts-matvei-michkov-trade-rumors-franchise-future-at-stake-danny-briere-rick-tocchet-in-trouble/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -713,16 +743,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Sixers Bell Ringer: Rough night for all as Sixers crushed by barrage of Celtics triples",
-      "description": "Bell Ringer Standings:Tyrese Maxey 3.5Jaylen Brown 2.5VJ Edgecombe 2Joel Embiid 1LeBron James 1Anfernee Simons 1 Well, that could have gone better. The Philadelphia 76ers were absolutely buried by a barrage of three-pointers from the Boston Celtics a",
-      "link": "",
-      "pubDate": "2026-11-10T23:57:48-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Matvei Michkov's 'fresh start' report is a disaster for the Flyers, no matter how it turns out",
       "description": "That even the thought of Matvei Michkov wanting out of Philadelphia is out there is enough to put jobs, and the entire future of the franchise, at stake.",
       "link": "https://www.phillyvoice.com/flyers-matvei-michkov-trade-request-report-nhl-rumors-danny-briere-keith-jones-rick-tocchet/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -741,16 +761,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-11T011727Z_299487067_MT1USATODAY30329317_RTRMADP_3_NBA-BOSTON-CELT.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Celtics\u2019 red-hot shooting, PG\u2019s big night overshadow Brown-Tatum matchup in Sixers\u2019 loss",
-      "description": "The high-profile, max contract wing dropped 36 points to lead his new team to a win over his old team, just like everyone expected. The Sixers were demolished 123-101 by the Boston Celtics thanks to a Paul George masterclass Tuesday night. In his fir",
-      "link": "",
-      "pubDate": "2026-11-10T22:24:39-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "The Flyers are a bad team, that might be backing into monumental decisions",
@@ -1151,16 +1161,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2025-11-05T043134Z_1931417227_MT1USATODAY27507691_RTRMADP_3_NFL-NEW-YORK-G.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Inside the Eagles\u2019 Armor: What Protects Philadelphia\u2019s Players?",
-      "description": "What protects Eagles players beyond their helmets? From shoulder pads and rib protectors to RFID technology, discover the equipment behind Philadelphia's game-day preparation. The post Inside the Eagles\u2019 Armor: What Protects Philadelphia\u2019s Players? a",
-      "link": "https://phlsportsnation.com/2026/11/06/eagles-protective-gear/",
-      "pubDate": "Fri, 06 Nov 2026 14:45:36 +0000",
-      "author": "Fede Carballo",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "PHL Sports Nation"
     },
     {
       "title": "Flyers prospects: Checking in on Jett Luchanko and other key Phantoms",
