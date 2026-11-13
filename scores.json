@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T21:10:56.392383+00:00",
+  "updated": "2026-11-13T02:11:58.446460+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -159,18 +159,6 @@
       "recent": [],
       "upcoming": [
         {
-          "date": "11/13",
-          "home": "PHI",
-          "away": "TOR",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NBA",
-          "name": "Toronto Raptors at Philadelphia 76ers",
-          "shortName": "TOR @ PHI",
-          "time": "8:00 PM ET",
-          "status": "scheduled"
-        },
-        {
           "date": "11/15",
           "home": "PHI",
           "away": "IND",
@@ -229,24 +217,24 @@
           "shortName": "POR @ PHI",
           "time": "8:00 PM ET",
           "status": "scheduled"
+        },
+        {
+          "date": "11/25",
+          "home": "PHI",
+          "away": "MIA",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "Miami Heat at Philadelphia 76ers",
+          "shortName": "MIA @ PHI",
+          "time": "6:00 PM ET",
+          "status": "scheduled"
         }
       ]
     },
     "flyers": {
       "recent": [],
       "upcoming": [
-        {
-          "date": "11/13",
-          "home": "CHI",
-          "away": "BUF",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NHL",
-          "name": "Buffalo Sabres at Chicago Blackhawks",
-          "shortName": "BUF @ CHI",
-          "time": "9:00 PM ET",
-          "status": "scheduled"
-        },
         {
           "date": "11/14",
           "home": "CHI",
@@ -305,6 +293,18 @@
           "name": "Chicago Blackhawks at Vancouver Canucks",
           "shortName": "CHI @ VAN",
           "time": "9:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "11/26",
+          "home": "SEA",
+          "away": "CHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NHL",
+          "name": "Chicago Blackhawks at Seattle Kraken",
+          "shortName": "CHI @ SEA",
+          "time": "10:40 PM ET",
           "status": "scheduled"
         }
       ]
