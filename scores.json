@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T15:55:48.752771+00:00",
+  "updated": "2026-11-15T20:38:56.583885+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -159,18 +159,6 @@
       "recent": [],
       "upcoming": [
         {
-          "date": "11/15",
-          "home": "PHI",
-          "away": "IND",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NBA",
-          "name": "Indiana Pacers at Philadelphia 76ers",
-          "shortName": "IND @ PHI",
-          "time": "2:00 PM ET",
-          "status": "scheduled"
-        },
-        {
           "date": "11/17",
           "home": "BKN",
           "away": "PHI",
@@ -228,6 +216,18 @@
           "name": "Miami Heat at Philadelphia 76ers",
           "shortName": "MIA @ PHI",
           "time": "6:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "11/28",
+          "home": "IND",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "Philadelphia 76ers at Indiana Pacers",
+          "shortName": "PHI @ IND",
+          "time": "8:30 PM ET",
           "status": "scheduled"
         }
       ]

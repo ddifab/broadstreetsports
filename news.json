@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T15:55:48.752771+00:00",
-  "count": 164,
+  "updated": "2026-11-15T20:38:56.583885+00:00",
+  "count": 163,
   "articles": [
     {
       "title": "The Miracle Calculator: Can the Eagles Still Make the Playoffs?",
@@ -41,6 +41,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-28T234042Z_487909328_MT1USATODAY30210071_RTRMADP_3_NHL-PHILADELPHI.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "With non-tender deadline approaching, here\u2019s how much each arbitration-eligible Phillie is projected to make in 2027",
+      "description": "Here are MLB Trade Rumors' salary projections for the eight arbitration-eligible Phillies in 2027.",
+      "link": "https://www.philliesnation.com/2026/11/philadelphia-phillies-mlb-news-non-tender-deadline-arbitration-eligible-players-salary-projection-brandon-marsh-bryson-stott-orion-kerkering/",
+      "pubDate": "Sun, 15 Nov 2026 17:27:12 +0000",
+      "author": "Nathan Ackerman",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
     },
     {
       "title": "Takeaways: Barkey, Michkov lead Flyers to comeback win in Columbus",
@@ -293,16 +303,6 @@
       "source": "PhillyVoice Flyers"
     },
     {
-      "title": "Roundtable: Predicting Phillies offseason trade candidates",
-      "description": "Which Phillies player or prospect is most likely to get traded this offseason? Last years trade candidates were a bit more obvious. The organization made it clear that Nick Castellanos would not be back. After a few months of attempting to trade him,",
-      "link": "https://www.philliesnation.com/2026/11/philadelphia-phillies-mlb-offseason-trade-candidates/",
-      "pubDate": "Mon, 02 Nov 2026 12:11:00 +0000",
-      "author": "Destiny Lugardo",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
-    },
-    {
       "title": "Phillies' Zack Wheeler voted NL Comeback Player of the Year among MLB players",
       "description": "Zack Wheeler returned in 2026 from a blood clot and venous thoracic outlet syndrome to show that he isn't anywhere close to done.",
       "link": "https://www.phillyvoice.com/phillies-zack-wheeler-nl-comeback-player-of-the-year-2026-blood-clot-removed-rib/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
@@ -401,6 +401,56 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "SportsTalk Philly"
+    },
+    {
+      "title": "Sixers' stars take turns taking over, Tacko Fall cracks rotation in win vs. Pacers",
+      "description": "Jaylen Brown, Tyrese Maxey and LeBron James all took over pockets of Sunday's Sixers win \u2013 which might be remembered most for Tacko Fall's successful rotation debut.",
+      "link": "https://www.phillyvoice.com/sixers-vs-pacers-kelly-oubre-jr-76ers-news-analysis-lebron-james-tyrese-maxey-tacko-fall-jaylen-brown-nba/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sun, 15 Nov 2026 20:36:20 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-15T190615Z_534314030_MT1USATODAY30359069_RTRMADP_3_NBA-INDIANA-PAC.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Dr. Gary Dorshimer, longtime doctor to Flyers and Sixers, dies at 71",
+      "description": "Dr. Dorshimer worked with the Flyers, Sixers, Union, and for a time, the Eagles, while leading various sports medicine programs at Penn.",
+      "link": "https://www.phillyvoice.com/gary-dorshimer-dies-team-physician-doctor-flyers-sixers-eagles-union/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sun, 15 Nov 2026 18:32:11 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-30T224920Z_1156479282_MT1USATODAY29961878_RTRMADP_3_NHL-PITTSBURGH.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "NFL Week 10 Early Games Information and Discussion",
+      "description": "Week 10 will continue Sunday at 1:00 PM, with a few interesting matchups including Kirk Cousins making his return as the Vikings starting quarterback against the Packers. The Philadelphia Eagles are enjoying their bye week, so there\u2019s finally a full ",
+      "link": "",
+      "pubDate": "2026-11-15T12:34:00-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Sixers-Pacers: Game Discussion Thread",
+      "description": "Game Details When: Sunday, November 15, 1:00 p.m. ETWhere: Xfinity Mobile Arena, Philadelphia, PAWatch: NBC Sports PhiladelphiaRadio: 97.5 The FanaticFollow: @LibertyBallers",
+      "link": "",
+      "pubDate": "2026-11-15T12:30:00-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Pacers-Nets back-to-back could push Sixers frontcourt depth to its breaking point",
+      "description": "Heading into the season, frontcourt depth behind Joel Embiid looked like a legitimate concern for the Sixers. When Ariel Hukporti suffered a torn Achilles in the preseason opener, those questions ratcheted up tenfold. But not even the most glass-half",
+      "link": "",
+      "pubDate": "2026-11-15T12:26:36-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Phillies reportedly agree to deal with former Nats and Mets pitcher Max Kranick",
@@ -593,16 +643,6 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "Eagles News: Nick Sirianni\u2019s job security among top storylines to monitor the rest of this season",
-      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! How are you feeling about Nick Sirianni right now? Do you think he deserves a mulligan? I don\u2019t think it\u2019s accurate to frame it as one bad season when the losi",
-      "link": "",
-      "pubDate": "2026-11-13T10:18:28-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Joel Embiid\u2019s aggressiveness was a welcome sight for Sixers",
       "description": "The Sixers losing two out of three games wasn\u2019t necessarily cause for much concern, but the way they lost those games raised some alarm bells. Particularly with Joel Embiid, who has yet to find his shot this season. His defense also began to deterior",
       "link": "",
@@ -683,16 +723,6 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "LeBron James out, Joel Embiid available; Adem Bona seeing a specialist",
-      "description": "Update, 6:30 p.m.: Joel Embiid has been upgraded to available. Update, 1 p.m.: LeBron James has officially been ruled out with low back/sciatica management. The Toronto Raptors have ruled out Scottie Barnes (left groin strain) and Trayce Jackson-Davi",
-      "link": "",
-      "pubDate": "2026-11-12T18:30:00-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "LeBron James ruled out for Sixers-Raptors on Thursday",
       "description": "LeBron James ruled out for Sixers-Raptors on Thursday",
       "link": "https://www.phillyvoice.com/sixers-news-76ers-analysis-lebron-james-status-joel-embiid-update-scottie-barnes-adem-bona-dominick-barlow/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -701,16 +731,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-11T010716Z_78645294_MT1USATODAY30329314_RTRMADP_3_NBA-BOSTON-CELTI.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "The Sixers are about to face a different kind of early-season test",
-      "description": "No matter what their strength of schedule might suggest, the Sixers have started the season with a fairly brutal slate of games. Theyve already had two games each against the New York Knicks, Cleveland Cavaliers and Detroit Pistons, along with one ga",
-      "link": "",
-      "pubDate": "2026-11-12T12:07:02-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Way Too Early 2027 NFL Draft Talk: Three Positions (And Players) the Eagles Should Target",
@@ -1273,26 +1293,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "LeBron James does it all, VJ Edgecombe's sacrifice pays off in Sixers' win over Bulls",
-      "description": "The Sixers are 7-1 after handling their business against the Chicago Bulls on Monday night, courtesy a balanced offensive attack.",
-      "link": "https://www.phillyvoice.com/sixers-bulls-76ers-news-analysis-lebron-james-joel-embiid-update-jaylen-brown-vj-edgecombe-nba/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 03 Nov 2026 13:57:05 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/110226_BullsSixers_ColleenClaggett-4927.jpg",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Sixers mailbag: Why doesn't Labaron Philon Jr. have a consistent role yet?",
-      "description": "This week's Sixers mailbag dives into the usage of rookie Labaron Philon Jr. and two-way center Tacko Fall.",
-      "link": "https://www.phillyvoice.com/sixers-news-76ers-analysis-labaron-philon-jr-highlights-stats-nick-nurse-depth-chart-tacko-fall-nba-rumors/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 03 Nov 2026 10:00:00 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/092826_SixersMediaDay_ColleenClaggett-6219.jpg",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
       "title": "Phillies claim 2 players from San Francisco Giants",
       "description": "Death, taxes and the Phillies acquiring players from the San Francisco Giants. The team announced a slew of roster moves on Monday afternoon, including the claiming of infielders Brett Harris and Shay Whitcomb off waivers from the Giants. Garrett Stu",
       "link": "https://www.philliesnation.com/2026/11/philadelphia-phillies-roster-moves-news-november-2-2026-mlb/",
@@ -1561,16 +1561,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/0364_09132023_Phillies_Braves_Frese.jpg",
       "team": "phillies",
       "source": "PhillyVoice"
-    },
-    {
-      "title": "The Flyers are winless, and 'way too comfortable'",
-      "description": "Through their first four games, the Flyers have been drastically outshot and outplayed \u2013 and they have to snap out of it now.",
-      "link": "https://www.phillyvoice.com/flyers-way-too-comfortable-rick-tocchet-porter-martone-standings-shot-stats-winless/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 06 Oct 2026 17:41:59 +0000",
-      "author": "Nick Tricome",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-06T031355Z_1597648596_MT1USATODAY30009481_RTRMADP_3_NHL-PHILADELPH.JPG",
-      "team": "flyers",
-      "source": "PhillyVoice Flyers"
     },
     {
       "title": "Streak Snapped, Penn defeats Princeton in Nail bitter at the Palestra",
