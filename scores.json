@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T18:28:21.366868+00:00",
+  "updated": "2026-11-19T00:48:24.662724+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -159,18 +159,6 @@
       "recent": [],
       "upcoming": [
         {
-          "date": "11/19",
-          "home": "ORL",
-          "away": "PHI",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NBA",
-          "name": "Philadelphia 76ers at Orlando Magic",
-          "shortName": "PHI @ ORL",
-          "time": "8:00 PM ET",
-          "status": "scheduled"
-        },
-        {
           "date": "11/21",
           "home": "PHI",
           "away": "MIL",
@@ -228,6 +216,18 @@
           "name": "Philadelphia 76ers at Houston Rockets",
           "shortName": "PHI @ HOU",
           "time": "9:30 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "12/2",
+          "home": "PHI",
+          "away": "MEM",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "Memphis Grizzlies at Philadelphia 76ers",
+          "shortName": "MEM @ PHI",
+          "time": "7:00 PM ET",
           "status": "scheduled"
         }
       ]
