@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T00:48:24.662724+00:00",
+  "updated": "2026-11-19T08:04:08.560694+00:00",
   "count": 166,
   "articles": [
     {
@@ -51,6 +51,26 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-28T234042Z_487909328_MT1USATODAY30210071_RTRMADP_3_NHL-PHILADELPHI.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "Danny Briere says recent Cutter Gauthier report is \u2018total nonsense\u2019",
+      "description": "The pressure has been building around the Philadelphia Flyers, and last weeks report from Kevin Weekes about Matvei Michkov has broken the dam. The noise around Michkov has quieted down a bit, but now there are polarizing reports about Travis Konecny",
+      "link": "https://www.broadstreethockey.com/post/danny-briere-says-recent-cutter-gauthier-report-is-total-nonsense/",
+      "pubDate": "Thu, 19 Nov 2026 03:08:19 +0000",
+      "author": "Ryan Gilbert",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Sixers withstand several key injuries in character comeback win over Magic",
+      "description": "The Sixers were without a playoff-caliber starting lineup's worth of pieces on Wednesday. It created a euphoric win.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-76ers-vs-magic-joel-embiid-lebron-james-vj-edgecombe-labaron-philon-jr-nba-scores-tacko-fall/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Thu, 19 Nov 2026 02:47:08 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-19T010911Z_525648972_MT1USATODAY30369490_RTRMADP_3_NBA-PHILADELPHI.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
     },
     {
       "title": "Flyers create their own luck in resilient comeback win over Sabres",
@@ -138,16 +158,6 @@
       "link": "https://www.broadstreethockey.com/post/4-players-the-flyers-could-trade-in-the-coming-weeks/",
       "pubDate": "Tue, 17 Nov 2026 18:00:00 +0000",
       "author": "Ryan Gilbert",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "The Flyers\u2019 3 biggest surprises and 3 biggest disappointments so far",
-      "description": "Nobody predicted the Flyers would be in the position theyre in. With 61 games left, Philadelphia is going to have to earn roughly 78 to 80 of the remaining 122 points left on the table in order to eke into a wildcard spot. Considering theyve won six ",
-      "link": "https://www.broadstreethockey.com/post/the-flyers-3-biggest-surprises-and-3-biggest-disappointments-so-far/",
-      "pubDate": "Tue, 17 Nov 2026 12:30:00 +0000",
-      "author": "Jason MacNeil",
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
@@ -243,16 +253,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Report: Eagles trade of EDGE Arnold Ebiketie is off",
-      "description": "The reported trade between the Eagles and Bengals is now off, due to Cincinnati changing its mind and wanting to preserve a potential compensation pick.",
-      "link": "https://www.phillyvoice.com/report-eagles-trade-edge-arnold-ebiketie-bengals/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 10 Nov 2026 17:30:48 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/651A3268.jpg",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
       "title": "John Harbaugh gets a milestone moment in Giants' gritty Eagles win",
       "description": "New York Giants head coach John Harbaugh just notched a new milestone.",
       "link": "https://www.sportingnews.com/us/nfl/new-york-giants/news/john-harbaugh-gets-milestone-moment-giants-gritty-eagles-win/55fc1d7156c6b0cfab255214",
@@ -291,16 +291,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "Philly Sports Wire"
-    },
-    {
-      "title": "LeBron James: 'I know I damn sure wasn't good at all' in first Cleveland trip with Sixers",
-      "description": "LeBron James played his worst game as a member of the Sixers in Friday night's NBA Cup Group Play loss to the Cleveland Cavaliers, but did not project any concern.",
-      "link": "https://www.phillyvoice.com/sixers-news-76ers-analysis-vs-cavs-cavaliers-box-score-lebron-james-postgame-nick-nurse-nba-stats-cle/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sat, 07 Nov 2026 13:33:36 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-07T020902Z_289183337_MT1USATODAY30294846_RTRMADP_3_NBA-PHILADELPHI.JPG",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
     },
     {
       "title": "The Phillies and Tarik Skubal: does it make any sense?",
@@ -391,6 +381,76 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "SportsTalk Philly"
+    },
+    {
+      "title": "Eagles Injury Report: DeVonta Smith and Dontayvion Wicks return to practice",
+      "description": "The Philadelphia Eagles issued their first official injury report of the week on Wednesday in advance of their Week 11 game against the Pittsburgh Steelers. The Eagles listed one player under DID NOT PARTICIPATE: Zack Baun. Baun is dealing with a bac",
+      "link": "",
+      "pubDate": "2026-11-18T23:06:58-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Sixers Bell Ringer: Philly continues crunch-time magic with win over Orlando",
+      "description": "Sixers Bell Ringer Season Standings:Jaylen Brown \u2013 3.5Tyrese Maxey \u2013 3.5VJ Edgecombe \u2013 3Joel Embiid \u2013 2LeBron James \u2013 1Anfernee Simons \u2013 1Dean Wade \u2013 1 Playing without Tyrese Maxey, Jaylen Brown and Dean Wade, the Sixers looked to be on their way in ",
+      "link": "",
+      "pubDate": "2026-11-18T22:49:31-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Eagles-Steelers Week 11 injury report, with analysis",
+      "description": "The Philadelphia Eagles have lost seven straight games, partly because they have been ravaged by injuries and other losses, most notably Jalen Hurts' season being ended by blood clots and Lane Johnson's surprise retirement. They did have their bye We",
+      "link": "https://www.phillyvoice.com/eagles-steelers-week-11-injury-report-analysis/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Thu, 19 Nov 2026 02:52:50 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/091326_EaglesCommanders_ColleenClaggett-0408.jpg",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles claim Cowboys draft pick off waivers",
+      "description": "The Philadelphia Eagles claimed Ajani Cornelius off waivers from the Dallas Cowboys, according to an official team announcement. Cornelius, 24, is a 6-5, 318 pound offensive lineman who was selected with a sixth-round pick (No. 204 overall) in the 20",
+      "link": "",
+      "pubDate": "2026-11-18T21:50:41-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "With no Maxey, Brown, Sixers overcome putrid start to earn gritty win",
+      "description": "The Sixers overcame their leading scorer being scratched late and a 17-point deficit to defeat the Orlando Magic 121-116 Wednesday night. Joel Embiid led the Sixers with 26 points along with six rebounds and seven assists, shooting 7-of-18 from the f",
+      "link": "",
+      "pubDate": "2026-11-18T21:36:41-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Flyers inching closer to tapping into sustainable offense",
+      "description": "The Flyers closed out their brief home stand with a matchup against the Sabres on Tuesday night, and as much as the team was working to bring into that game a focused approach and work towards rebounding from a tough loss to the Oilers over the weeke",
+      "link": "https://www.broadstreethockey.com/post/flyers-inching-closer-to-tapping-into-sustainable-offense/",
+      "pubDate": "Thu, 19 Nov 2026 02:30:00 +0000",
+      "author": "Madeline Campbell",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Tyrese Maxey a late scratch vs. Magic",
+      "description": "Well, this isn\u2019t ideal. Tyrese Maxey, who warmed up before Wednesday night\u2019s game in Orlando, has officially been ruled out with right foot soreness. Maxey was not on the injury report so this is truly a late scratch. We\u2019ll wait to hear more from the",
+      "link": "",
+      "pubDate": "2026-11-18T18:33:52-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Sixers-Magic: Game Discussion Thread",
@@ -583,16 +643,6 @@
       "source": "Bleeding Green Nation"
     },
     {
-      "title": "Editor-in-chief mailbag: Sixers are 12-3 and haven\u2019t played their best ball yet",
-      "description": "With their win over the Brooklyn Nets Monday, the Sixers swept another back-to-back and moved to 12-3, their best start since the 2000-01 season. If you were told before the season started they\u2019d be 12-3 after 15 games, you would\u2019ve done cartwheels. ",
-      "link": "",
-      "pubDate": "2026-11-17T12:27:24-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Eagles power ranking roundup: Week 11",
       "description": "Are power rankings completely dumb and meaningless? Yes. Yes, they are. However, personally speaking, whenever I see them, I click. And now that I've sucked you in with promises of many power rankings, you'll read it and like it. Here's where people ",
       "link": "https://www.phillyvoice.com/eagles-power-ranking-roundup-week-11-2026/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -623,16 +673,6 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "Eagles News: The MVP of Philadelphia\u2019s season thus far",
-      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! You know you\u2019re not in a good place when the punter is the MVP. Do you agree with this pick of Braden Mann? Or would you go with another player? From an entert",
-      "link": "",
-      "pubDate": "2026-11-17T10:35:53-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "The Maple Leafs are gift-wrapping a lottery pick for the Flyers",
       "description": "The only exercise you can do to survive being a fan of the Philadelphia Flyers is to look around the league and see what teams you would not want to be a fan of at all. Some teams are in a brutal situation with no prospects to hope on, no playoffs in",
       "link": "https://www.broadstreethockey.com/post/the-maple-leafs-are-gift-wrapping-a-lottery-pick-for-the-flyers/",
@@ -641,16 +681,6 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Its becoming increasingly clear why LeBron James signed with the Sixers",
-      "description": "When LeBron James chose to sign with the Sixers this past offseason, jaws largely dropped around the league. He chose the Sixers over a final homecoming in Cleveland? Over a reunion in Miami where he could team up with Giannis Antetokounmpo, Bam Adeb",
-      "link": "",
-      "pubDate": "2026-11-17T09:56:03-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Applying \u2018more force,\u2019 Joel Embiid finally plays like old self, powers Sixers win",
@@ -683,16 +713,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Jaylen Brown experiencing hamstring tightness",
-      "description": "In many ways, Jaylen Brown had an outstanding Monday night in Brooklyn. He scored 31 points, grabbed a season-high 13 rebounds, and dished four assists in Philadelphia\u2019s 135-123 win over the Nets. However, it was also a tough night physically for the",
-      "link": "",
-      "pubDate": "2026-11-17T07:42:20-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Seven former Phillies included on 2027 Baseball Hall of Fame ballot",
       "description": "Seven former Phillies players have been listed on the 2027 Baseball Hall of Fame ballot, including three Wall of Famers and the 2008 World Series MVP. Bobby Abreu, Jimmy Rollins, Chase Utley and Cole Hamels are returning to the ballot for Baseball Wr",
       "link": "https://www.philliesnation.com/2026/11/philadelphia-phillies-baseball-hall-of-fame-ballot-news-bobby-abreu-jimmy-rolllins-chase-utley-cole-hamels-jake-arrieta-jay-bruce-asdrubal-cabrera-bill-white-hof-cooperstown/",
@@ -701,26 +721,6 @@
       "thumbnail": null,
       "team": "phillies",
       "source": "Phillies Nation"
-    },
-    {
-      "title": "Tuesday Morning Fly By: Another chance",
-      "description": "*The Philadelphia Flyers have a chance to fix the mess that last weeks report that Matvei Michkov wants out, has caused. Theyre doing as much damage control as possible right now and have made it clear that they are going to build their team around t",
-      "link": "https://www.broadstreethockey.com/post/tuesday-morning-fly-by-another-chance/",
-      "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
-      "author": "Thomas Williams",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "12 takeaways from NFL Week 10",
-      "description": "This Philadelphia Eagles season hasn\u2019t been a ton of fun. With the Birds on their bye, it was nice to get a break from them and watch other teams play instead. Here are some Eagles-related takeaways from the NFL Week 10 games. 1 The NFC East remains ",
-      "link": "",
-      "pubDate": "2026-11-16T23:44:41-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Finding the Perfect Bandwagon Team",
