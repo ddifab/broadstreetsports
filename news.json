@@ -1,7 +1,17 @@
 {
-  "updated": "2026-11-20T05:13:05.920542+00:00",
-  "count": 167,
+  "updated": "2026-11-20T14:28:31.877913+00:00",
+  "count": 169,
   "articles": [
+    {
+      "title": "Friday Morning Fly By: Drama, drama, and more drama",
+      "description": "*Another day, another installment of the Flyers getting themselves dragged into and by the rumor mill. Most recently, Travis Konency has found himself in the middle of another quite dramatic leak, but hes eager to set the record straight. [BSH] *Char",
+      "link": "https://www.broadstreethockey.com/post/friday-morning-fly-by-drama-drama-and-more-drama/",
+      "pubDate": "Fri, 20 Nov 2026 11:00:00 +0000",
+      "author": "Madeline Campbell",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
     {
       "title": "The Miracle Calculator: Can the Eagles Still Make the Playoffs?",
       "description": "The Eagles are 2\u20137 after seven straight losses, but their playoff hopes aren't dead yet. Explore the unlikely NFC East scenarios, Wild Card possibilities, and odds behind Philadelphia's potential postseason comeback. The post The Miracle Calculator: ",
@@ -213,16 +223,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "Biggest questions facing the Eagles in the second half",
-      "description": "Is Nick Sirianni coaching for his job? Should Landon Dickerson be benched? Some bye week questions for the Eagles.",
-      "link": "https://www.phillyvoice.com/biggest-questions-facing-eagles-second-half-nick-sirianni-job-security-joe-milton-starting-qb-rumors-news/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Thu, 12 Nov 2026 13:43:13 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-18T205850Z_1440868738_MT1USATODAY30125577_RTRMADP_3_NFL-CAROLINA_oQG0ruZ.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
       "title": "John Harbaugh gets a milestone moment in Giants' gritty Eagles win",
       "description": "New York Giants head coach John Harbaugh just notched a new milestone.",
       "link": "https://www.sportingnews.com/us/nfl/new-york-giants/news/john-harbaugh-gets-milestone-moment-giants-gritty-eagles-win/55fc1d7156c6b0cfab255214",
@@ -351,6 +351,36 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "SportsTalk Philly"
+    },
+    {
+      "title": "Eagles-Steelers preview: 5 things to watch",
+      "description": "The Steelers are exactly who the Eagles should not aspire to be.",
+      "link": "https://www.phillyvoice.com/eagles-steelers-preview-5-things-watch/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 20 Nov 2026 12:52:09 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-01-13T053226Z_1738451512_MT1USATODAY27993643_RTRMADP_3_PITTSBURGH-STE.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles-Steelers: Staff picks, betting odds, and more for the post-bye tank",
+      "description": "The Eagles have already punted on this season, but there are still games to play. This week it's the Steelers and Aaron Rodgers on his farewell tour.",
+      "link": "https://www.phillyvoice.com/eagles-steelers-staff-picks-betting-odds-week-11-aaron-rodgers-saquon-barkley/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Fri, 20 Nov 2026 12:49:17 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-08T205523Z_2051789932_MT1USATODAY30314197_RTRMADP_3_NFL-NEW-YORK-G.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "\ud83d\udfe2 Linc ON: Inside the Eagles\u2019 Game-Day Experience",
+      "description": "From tailgating and stadium food to fan traditions and premium experiences, discover everything Lincoln Financial Field offers on Eagles game day. The post \ud83d\udfe2 Linc ON: Inside the Eagles\u2019 Game-Day Experience appeared first on Philadelphia Sports Nation",
+      "link": "https://phlsportsnation.com/2026/11/20/eagles-game-day-experience/",
+      "pubDate": "Fri, 20 Nov 2026 12:32:52 +0000",
+      "author": "Fede Carballo",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "PHL Sports Nation"
     },
     {
       "title": "Eagles Injury Report: DeVonta Smith on track to play against Steelers",
@@ -561,16 +591,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Flyers inching closer to tapping into sustainable offense",
-      "description": "The Flyers closed out their brief home stand with a matchup against the Sabres on Tuesday night, and as much as the team was working to bring into that game a focused approach and work towards rebounding from a tough loss to the Oilers over the weeke",
-      "link": "https://www.broadstreethockey.com/post/flyers-inching-closer-to-tapping-into-sustainable-offense/",
-      "pubDate": "Thu, 19 Nov 2026 02:30:00 +0000",
-      "author": "Madeline Campbell",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Tyrese Maxey a late scratch vs. Magic",
