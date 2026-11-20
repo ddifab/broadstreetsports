@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T23:57:14.988889+00:00",
-  "count": 166,
+  "updated": "2026-11-20T05:13:05.920542+00:00",
+  "count": 167,
   "articles": [
     {
       "title": "The Miracle Calculator: Can the Eagles Still Make the Playoffs?",
@@ -63,6 +63,26 @@
       "source": "PhillyVoice Flyers"
     },
     {
+      "title": "Takeaways: Flyers bear down, pull off comeback and overtime win over Senators",
+      "description": "The Flyers hit the road for a quick trip up to Canada, and they kicked things off Thursday night with a big matchup against the Senators. It was a strange game which unfolded, with the Flyers riding some massive waves in momentum, but despite their s",
+      "link": "https://www.broadstreethockey.com/post/takeaways-flyers-bear-down-pull-off-comeback-and-overtime-win-over-senators/",
+      "pubDate": "Fri, 20 Nov 2026 03:29:33 +0000",
+      "author": "Madeline Campbell",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Takeaways from Sixers-Magic: The clutch kings do it again",
+      "description": "Things weren\u2019t looking so hot for your Sixers Wednesday night. Jaylen Brown tweaked his hamstring late in the win over Brooklyn Monday and had been ruled out Tuesday ahead of Wednesday\u2019s game. Dean Wade also had a hamstring issue, popping up on the i",
+      "link": "",
+      "pubDate": "2026-11-19T13:26:01-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
       "title": "Flyers trade rumors are heating up around several key players",
       "description": "The Philadelphia Flyers are at the front of everyones mind just because of what a potential disaster they are. The Matvei Michkov report-turned-crisis that has potentially caused general manager Danny Briere to shift his plans from a hybrid rebuild t",
       "link": "https://www.broadstreethockey.com/post/flyers-trade-rumors-are-heating-up-around-several-key-players/",
@@ -91,16 +111,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-19T010911Z_525648972_MT1USATODAY30369490_RTRMADP_3_NBA-PHILADELPHI.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Flyers create their own luck in resilient comeback win over Sabres",
-      "description": "The Philadelphia Flyers couldve went down easily on Tuesday night. They allowed a goal just 47 seconds into the game, and the Buffalo Sabres had a handful of high-danger chances in the following minutes. Joseph Woll stood tall, though, holding the Sa",
-      "link": "https://www.broadstreethockey.com/post/flyers-create-their-own-luck-in-resilient-comeback-win-over-sabres/",
-      "pubDate": "Wed, 18 Nov 2026 17:36:19 +0000",
-      "author": "Ryan Gilbert",
-      "thumbnail": "https://www.broadstreethockey.com/wp-content/uploads/sites/12/2026/11/DrysdaleGoalEDGE.mp4",
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Are the Eagles the NFL's worst team?",
@@ -137,16 +147,6 @@
       "description": "The Philadelphia Eagles signed free agent wide receiver Quentin Skinner to their practice squad, according to an official team announcement. Skinner previously signed to the Eagles\u2019 practice squad on October 28 before the team released him on Novembe",
       "link": "",
       "pubDate": "2026-11-18T05:50:00-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Fred Johnson finds new NFL home after being cut by the Eagles",
-      "description": "Former Philadelphia Eagles swing tackle and Super Bowl LIX champion Fred Johnson is signing with the Kansas City Chiefs\u2019 practice squad, as noted by our friends over at Arrowhead Pride. The Eagles notably waived Johnson and Hollywood Brown late last ",
-      "link": "",
-      "pubDate": "2026-11-17T20:34:54-05:00",
       "author": "",
       "thumbnail": null,
       "team": "eagles",
@@ -353,6 +353,26 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Eagles Injury Report: DeVonta Smith on track to play against Steelers",
+      "description": "The Philadelphia Eagles issued their second official injury report of the week on Thursday in advance of their Week 11 game against the Pittsburgh Steelers. The Eagles listed one player under DID NOT PARTICIPATE: Zack Baun and Smael Mondon. Baun miss",
+      "link": "",
+      "pubDate": "2026-11-19T21:51:45-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Thursday Night Football: Colts vs. Texans discussion",
+      "description": "Week 11 of the 2026 NFL season will get started with an AFC South matchup between a couple Philly alumni, Shane Steichen and the Indianapolis Colts (3-7) and DeMeco Ryans and the Houston Texans (3-6). Both teams are pretty much out of the postseason ",
+      "link": "",
+      "pubDate": "2026-11-19T19:45:00-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
       "title": "Eagles-Steelers Week 11 injury report, with analysis",
       "description": "The Philadelphia Eagles have lost seven straight games, partly because they have been ravaged by injuries and other losses, most notably Jalen Hurts' season being ended by blood clots and Lane Johnson's surprise retirement. They did have their bye We",
       "link": "https://www.phillyvoice.com/eagles-steelers-week-11-injury-report-analysis/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -393,6 +413,16 @@
       "source": "Broad Street Hockey"
     },
     {
+      "title": "Eagles-Steelers Game Preview: 5 questions and answers with the Week 11 enemy",
+      "description": "Can the Philadelphia Eagles make it two weeks in a row where they don\u2019t lose?! Their bye was the easy part of that equation. Now the Birds have to go out and beat the Pittsburgh Steelers to snap a seven-game losing streak. In order to preview this We",
+      "link": "",
+      "pubDate": "2026-11-19T15:21:39-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
       "title": "Rick Tocchet pushes back against claims of Flyers locker-room turmoil",
       "description": "Its been a tough start to the season for the Philadelphia Flyers, and particularly a trying last 10 days. The expectations heading into the year might have been high for a club that made the second round. But things have come back to earth with a thu",
       "link": "https://www.broadstreethockey.com/post/tocchet-takes-offense-to-flyers-and-mess-used-in-the-same-sentence/",
@@ -423,14 +453,34 @@
       "source": "PhillyVoice Flyers"
     },
     {
-      "title": "Reasons Why the Struggling Eagles Are Still Worth Watching",
-      "description": "Confession. I have never seen The Punisher series on Netflix. However, more times than I can count, I have seen [] The post Reasons Why the Struggling Eagles Are Still Worth Watching appeared first on Philadelphia Sports Nation.",
+      "title": "Three Reasons Why the Struggling Eagles Are Still Worth Watching",
+      "description": "Confession. I have never seen The Punisher series on Netflix. However, more times than I can count, I have seen [] The post Three Reasons Why the Struggling Eagles Are Still Worth Watching appeared first on Philadelphia Sports Nation.",
       "link": "https://phlsportsnation.com/2026/11/19/reasons-why-the-struggling-eagles-are-still-worth-watching/",
       "pubDate": "Thu, 19 Nov 2026 17:30:00 +0000",
       "author": "Dane Dillard",
       "thumbnail": null,
       "team": "eagles",
       "source": "PHL Sports Nation"
+    },
+    {
+      "title": "The Sixers performance in crunch-time games is Good, Actually",
+      "description": "At first, the Sixers appeared to be headed toward a blowout loss against the Orlando Magic on Wednesday. They were without all three of Tyrese Maxey, Jaylen Brown and Dean Wade (along with Dominick Barlow and Adem Bona), and they fell into a 27-12 ho",
+      "link": "",
+      "pubDate": "2026-11-19T12:08:02-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Eagles News: No major changes coming out of the bye",
+      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! The Eagles are sticking with Sean Mannion at offensive coordinator and Joe Milton at quarterback. Of course, it\u2019s always possible there are changes going on be",
+      "link": "",
+      "pubDate": "2026-11-19T10:52:04-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Checking in on recent former Eagles: Is Nakobe Dean a regretful loss?",
@@ -633,26 +683,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Eagles Film Review: What to make of Makai Lemon so far",
-      "description": "I wanted to use the bye week to get a better idea of what the Eagles have in Makai Lemon. So I went back through every target from the first nine games, hoping to see how his rookie season was developing. By the end, I was probably more frustrated wi",
-      "link": "",
-      "pubDate": "2026-11-17T16:38:49-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Eagles sign Jaydon Blue to the roster (once again), add practice squad DT",
-      "description": "The Philadelphia Eagles officially announced two roster moves on Tuesday afternoon. Here\u2019s an overview: Let\u2019s sort through this news on a player-by-player basis. JAYDON BLUE Here\u2019s a recap of Blue\u2019s transactions with the Eagles: The Eagles have been ",
-      "link": "",
-      "pubDate": "2026-11-17T16:21:37-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Phillies add Bryan Rincon to 40-man roster ahead of Rule 5 protection deadline",
       "description": "The Phillies have selected the contract of infielder Bryan Rincon, the team announced. The move protects him from being selected in the Rule 5 Draft. Teams have until 6 p.m. ET today to protect players from the draft. Rincon, 22, had his best offensi",
       "link": "https://www.philliesnation.com/2026/11/philadelphia-phillies-bryan-rincon-outfield-rule-5-draft-news/",
@@ -671,26 +701,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-24T182145Z_264226004_MT1USATODAY30173356_RTRMADP_3_NHL-ANAHEIM-DUC.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Joel Embiid has huge night, but Sixers still have plenty of work to do",
-      "description": "The Sixers\u2019 135-123 win over the Brooklyn Nets was powered by Joel Embiid\u2019s best game of the season. The big fella dropped 37 points, shooting 13-of-22 from the field while getting to the free throw line 10 times. That included knocking down a pair o",
-      "link": "",
-      "pubDate": "2026-11-17T14:05:28-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
-      "title": "2027 NFL Mock Draft: Eagles 7-round simulation, Version 1.0",
-      "description": "The 2026 Philadelphia Eagles season is all but over and the most exciting thing for the team is the future. Now rich with draft picks in the 2027 and 2028 drafts, the Birds are entering a rebuilding period after a four-year stretch of being one of th",
-      "link": "",
-      "pubDate": "2026-11-17T13:15:36-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Eagles power ranking roundup: Week 11",
