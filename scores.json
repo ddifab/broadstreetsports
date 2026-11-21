@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T11:51:44.324306+00:00",
+  "updated": "2026-11-21T18:20:27.192852+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -159,18 +159,6 @@
       "recent": [],
       "upcoming": [
         {
-          "date": "11/21",
-          "home": "PHI",
-          "away": "MIL",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NBA",
-          "name": "Milwaukee Bucks at Philadelphia 76ers",
-          "shortName": "MIL @ PHI",
-          "time": "2:00 PM ET",
-          "status": "scheduled"
-        },
-        {
           "date": "11/24",
           "home": "PHI",
           "away": "POR",
@@ -227,6 +215,18 @@
           "league": "NBA",
           "name": "Memphis Grizzlies at Philadelphia 76ers",
           "shortName": "MEM @ PHI",
+          "time": "7:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "12/3",
+          "home": "PHI",
+          "away": "DEN",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "Denver Nuggets at Philadelphia 76ers",
+          "shortName": "DEN @ PHI",
           "time": "7:00 PM ET",
           "status": "scheduled"
         }

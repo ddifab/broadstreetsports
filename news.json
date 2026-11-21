@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T11:51:44.324306+00:00",
-  "count": 171,
+  "updated": "2026-11-21T18:20:27.192852+00:00",
+  "count": 170,
   "articles": [
     {
       "title": "Friday Morning Fly By: Drama, drama, and more drama",
@@ -21,16 +21,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "PHL Sports Nation"
-    },
-    {
-      "title": "The Sixers need to be smart with Jaylen Browns hamstring injury",
-      "description": "The Sixers staved off a ferocious comeback from the Brooklyn Nets on Monday, but they didnt emerge unscathed. Jaylen Brown suffered a cut on his forehead after running into Julius Randle early in the fourth quarter, although he was eventually able to",
-      "link": "",
-      "pubDate": "2026-11-18T13:00:00-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Eagles 'soft tank' roadmap for the remainder of the 2026 season",
@@ -61,6 +51,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-28T234042Z_487909328_MT1USATODAY30210071_RTRMADP_3_NHL-PHILADELPHI.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "Sixers host Milwaukee Bucks for afternoon game",
+      "description": "The Philadelphia 76ers are coming off several strong performances, stringing together wins and most recently earning a comeback victory over the Orlando Magic despite missing several key players. Now, they\u2019ll return to Philly to host the Milwaukee Bu",
+      "link": "",
+      "pubDate": "2026-11-21T09:44:08-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Sixers injury notes: Jaylen Brown and Tyrese Maxey latest, Dominick Barlow nearing season debut and more",
@@ -343,6 +343,66 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Sixers-Bucks: Game Discussion Thread",
+      "description": "Game Details When: Saturday, November 21, 1 p.m. ETWhere: Xfinity Mobile Arena, Philadelphia, PAWatch: NBC Sports PhiladelphiaRadio: 97.5 The FanaticFollow: @LibertyBallers",
+      "link": "",
+      "pubDate": "2026-11-21T12:45:00-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Flyers make surprising lineup overhaul ahead of Canadiens game",
+      "description": "The old saying goes if it aint broke, dont fix it. But if the Philadelphia Flyers line combinations at Saturdays game-day skate in Montreal ahead of their matchup against the Canadiens are any indication, the Flyers have tossed almost everything into",
+      "link": "https://www.broadstreethockey.com/post/flyers-adjust-lineup-ahead-of-matchup-against-montreal/",
+      "pubDate": "Sat, 21 Nov 2026 17:38:36 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Jamie Drysdale is finally becoming the defenseman the Flyers envisioned",
+      "description": "Flyers defenseman Jamie Drysdale is having a stellar November so far. We take a look at how it compares to his first month, and if this current hot streak is sustainable the rest of the season.",
+      "link": "https://www.broadstreethockey.com/post/jamie-drysdale-is-finally-becoming-the-defenseman-the-flyers-envisioned/",
+      "pubDate": "Sat, 21 Nov 2026 17:25:57 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": "https://www.broadstreethockey.com/wp-content/uploads/sites/12/2026/07/4S1A0303-300x200.jpg",
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "NFL Week 11 betting advice: Eagles-Steelers pick and props",
+      "description": "Steve Maltepes, known as \u201cThe Philly Godfather,\u201d will impart his gambling wisdom on the Eagles and where the smart money is going on various pro football games each weekend this season. Maltepes is one of the nation\u2019s hottest sports betting experts w",
+      "link": "",
+      "pubDate": "2026-11-21T12:07:00-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Phillies, Tanner Banks avoid arbitration with one-year deal",
+      "description": "Lefty Tanner Banks will be back in the Phillies' bullpen, if and when there's baseball again \u2013 Derek Hill in the outfield and Rafael March\u00e1n as a backup catcher, too.",
+      "link": "https://www.phillyvoice.com/phillies-tanner-banks-one-year-deal-avoid-arbitration-2027-bullpen-mlb-lockout-rumors/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sat, 21 Nov 2026 16:55:00 +0000",
+      "author": "Nick Tricome",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-13T213302Z_1001981512_MT1USATODAY29814868_RTRMADP_3_MLB-PHILADELPH.JPG",
+      "team": "phillies",
+      "source": "PhillyVoice"
+    },
+    {
+      "title": "Five college prospects who could interest the Eagles in the 2027 NFL Draft",
+      "description": "The Eagles are likely to have three top 40 picks in the 2027 NFL Draft, so they better do their homework.",
+      "link": "https://www.phillyvoice.com/five-college-prospects-eagles-2027-nfl-draft-wayshawn-parker-luke-reynolds-trevor-lauck-princewill-umanmielen-elijah-paige/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Sat, 21 Nov 2026 14:31:29 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-07T172129Z_801144397_MT1USATODAY30300359_RTRMADP_3_NCAA-FOOTBALL-B.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
       "title": "Flyers prospect Maksim Sokolovskii returns and immediately gets his season back on track",
       "description": "There has been a whole lot of focus on the players who are actually on the Philadelphia Flyers for a variety of reasons so far this season. Well, mostly bad reasons. But there are some key prospects having big seasons and one of their most intriguing",
       "link": "https://www.broadstreethockey.com/post/flyers-prospect-maksim-sokolovskii-returns-and-immediately-gets-his-season-back-on-track/",
@@ -421,16 +481,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Phillies, Tanner Banks avoid arbitration with one-year deal",
-      "description": "Lefty Tanner Banks will be back in the Phillies' bullpen, if and when there's baseball again.",
-      "link": "https://www.phillyvoice.com/phillies-tanner-banks-one-year-deal-avoid-arbitration-2027-bullpen-mlb-lockout-rumors/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Fri, 20 Nov 2026 21:38:05 +0000",
-      "author": "Nick Tricome",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-13T213302Z_1001981512_MT1USATODAY29814868_RTRMADP_3_MLB-PHILADELPH.JPG",
-      "team": "phillies",
-      "source": "PhillyVoice"
     },
     {
       "title": "Report: Dominick Barlow trending towards season debut vs. Bucks",
@@ -583,16 +633,6 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "Flyers\u2019 power play showing signs of life",
-      "description": "It's been a rough 24 games for the Flyers, but one small bright spot might be how the power play is showing signs of life. We take a look at what's working, and if it could continue.",
-      "link": "https://www.broadstreethockey.com/post/flyers-power-play-showing-signs-of-life/",
-      "pubDate": "Thu, 19 Nov 2026 19:01:08 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": "https://www.broadstreethockey.com/wp-content/uploads/sites/12/2026/11/Recording-2026-11-19-131902.mp4",
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "Three Reasons Why the Struggling Eagles Are Still Worth Watching",
       "description": "Confession. I have never seen The Punisher series on Netflix. However, more times than I can count, I have seen [] The post Three Reasons Why the Struggling Eagles Are Still Worth Watching appeared first on Philadelphia Sports Nation.",
       "link": "https://phlsportsnation.com/2026/11/19/reasons-why-the-struggling-eagles-are-still-worth-watching/",
@@ -613,16 +653,6 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "Eagles News: No major changes coming out of the bye",
-      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! The Eagles are sticking with Sean Mannion at offensive coordinator and Joe Milton at quarterback. Of course, it\u2019s always possible there are changes going on be",
-      "link": "",
-      "pubDate": "2026-11-19T10:52:04-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Checking in on recent former Eagles: Is Nakobe Dean a regretful loss?",
       "description": "Nakobe Dean would sure look good in an Eagles uniform right now. Do the Birds miss anyone else?",
       "link": "https://www.phillyvoice.com/checking-former-eagles-around-nfl-analysis-nakobe-dean-aj-brown-jordan-davis-news/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -631,16 +661,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-25T195619Z_720315931_MT1USATODAY30187022_RTRMADP_3_NFL-LOS-ANGELES.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "The Flyers may finally be turning the corner in third periods",
-      "description": "For the majority of this 2026-27 season, the Flyers were just good enough to lose. Outside of the 7-0 loss to Pittsburgh, Philadelphia were in a lot of games, but just couldnt capitalize on the chances they created. On the other hand, it seemed that ",
-      "link": "https://www.broadstreethockey.com/post/the-flyers-may-finally-be-turning-the-corner-in-third-periods/",
-      "pubDate": "Thu, 19 Nov 2026 15:00:00 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "The 76ers Are Winning but Biggest Test Is Still Ahead",
@@ -661,16 +681,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/091326_EaglesCommanders_ColleenClaggett-2266.jpg",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Eagles Injury Report: DeVonta Smith and Dontayvion Wicks return to practice",
-      "description": "The Philadelphia Eagles issued their first official injury report of the week on Wednesday in advance of their Week 11 game against the Pittsburgh Steelers. The Eagles listed one player under DID NOT PARTICIPATE: Zack Baun. Baun is dealing with a bac",
-      "link": "",
-      "pubDate": "2026-11-18T23:06:58-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Sixers Bell Ringer: Philly continues crunch-time magic with win over Orlando",
@@ -721,16 +731,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-18T011405Z_724996657_MT1USATODAY30365872_RTRMADP_3_NHL-BUFFALO-SAB.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Are the Sixers destined to deal with irrational haters this entire season?",
-      "description": "People hating on the Philadelphia 76ers is nothing new. The Process rubbed some people the wrong way and Joel Embiid became a totem for that era of Sixers basketball. Embiid is a lightning rod for criticism, whether due to the perceived poor work eth",
-      "link": "",
-      "pubDate": "2026-11-18T11:46:47-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Three practice squad players around the NFL the Eagles should consider poaching",
@@ -1031,16 +1031,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-06T012140Z_564321184_MT1USATODAY30008570_RTRMADP_3_NHL-PITTSBURGH-.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Five college prospects who could interest the Eagles in the 2027 NFL Draft",
-      "description": "Arch Manning could now be an option for the Eagles to consider if they keep dropping and want to go for a QB.",
-      "link": "https://www.phillyvoice.com/five-college-prospects-eagles-2027-nfl-draft-arch-manning-zereoue-williams-lj-martin-matayo-uiagalelei-samson-okunlola/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Sat, 14 Nov 2026 16:06:36 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-25T013114Z_389847337_MT1USATODAY30180727_RTRMADP_3_NCAA-FOOTBALL-M.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Eagles waive OT Fred Johnson",
