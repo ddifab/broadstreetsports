@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T20:00:45.728993+00:00",
+  "updated": "2026-11-23T01:11:13.849178+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -236,18 +236,6 @@
       "recent": [],
       "upcoming": [
         {
-          "date": "11/23",
-          "home": "VAN",
-          "away": "CHI",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NHL",
-          "name": "Chicago Blackhawks at Vancouver Canucks",
-          "shortName": "CHI @ VAN",
-          "time": "9:00 PM ET",
-          "status": "scheduled"
-        },
-        {
           "date": "11/26",
           "home": "SEA",
           "away": "CHI",
@@ -304,6 +292,18 @@
           "league": "NHL",
           "name": "Chicago Blackhawks at Nashville Predators",
           "shortName": "CHI @ NSH",
+          "time": "8:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "12/5",
+          "home": "STL",
+          "away": "CHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NHL",
+          "name": "Chicago Blackhawks at St. Louis Blues",
+          "shortName": "CHI @ STL",
           "time": "8:00 PM ET",
           "status": "scheduled"
         }
