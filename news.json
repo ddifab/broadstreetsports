@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23T21:46:32.054936+00:00",
-  "count": 161,
+  "updated": "2026-11-24T05:38:29.335503+00:00",
+  "count": 159,
   "articles": [
     {
       "title": "Eagles 'soft tank' roadmap for the remainder of the 2026 season",
@@ -31,6 +31,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-28T234042Z_487909328_MT1USATODAY30210071_RTRMADP_3_NHL-PHILADELPHI.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "DK Metcalf \u201ccan\u2019t remember\u201d what happened with Cooper DeJean that led to his ejection",
+      "description": "The Eagles finally snapped a seven-game losing streak on Sunday against the Steelers, and it was a physical game from the start. Things escalated quickly between Philly DB Cooper DeJean and Pittsburgh WR DK Metcalf, with the latter eventually ejected",
+      "link": "",
+      "pubDate": "2026-11-23T16:04:24-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
     },
     {
       "title": "Eagles-Steelers snap counts: Riq Woolen benched",
@@ -113,26 +123,6 @@
       "source": "PhillyVoice Flyers"
     },
     {
-      "title": "Elliotte Friedman says no blockbuster will save Flyers as Ristolainen trade talk grows",
-      "description": "The Philadelphia Flyers have finally strung a few wins together and might be starting to turn the corner. Theyve been playing better hockey in recent weeks, and got an undeserved win in Ottawa on Thursday night. They were able to erase a 5-2 deficit ",
-      "link": "https://www.broadstreethockey.com/post/friedman-doesnt-see-big-trade-coming-for-flyers-who-must-make-decision-on-rasmus-ristolainen/",
-      "pubDate": "Fri, 20 Nov 2026 20:27:44 +0000",
-      "author": "Ryan Gilbert",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Takeaways from Sixers-Magic: The clutch kings do it again",
-      "description": "Things weren\u2019t looking so hot for your Sixers Wednesday night. Jaylen Brown tweaked his hamstring late in the win over Brooklyn Monday and had been ruled out Tuesday ahead of Wednesday\u2019s game. Dean Wade also had a hamstring issue, popping up on the i",
-      "link": "",
-      "pubDate": "2026-11-19T13:26:01-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "Sixers withstand several key injuries in character comeback win over Magic",
       "description": "The Sixers were without a playoff-caliber starting lineup's worth of pieces on Wednesday. It created a euphoric win.",
       "link": "https://www.phillyvoice.com/sixers-news-analysis-76ers-vs-magic-joel-embiid-lebron-james-vj-edgecombe-labaron-philon-jr-nba-scores-tacko-fall/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -171,16 +161,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-17T004438Z_1907245285_MT1USATODAY30363607_RTRMADP_3_NBA-PHILADELPH.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "The Eagles made a bunch of roster moves",
-      "description": "Zach Ertz is seven catches shy of the Eagles' all-time receptions record. He'll get his shot at it now.",
-      "link": "https://www.phillyvoice.com/eagles-made-bunch-roster-moves-zach-ertz-john-ojukwu-hayden-rucci-will-shipley/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Mon, 16 Nov 2026 19:02:13 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-04T191359Z_2090354701_MT1USATODAY29998250_RTRMADP_3_NFL-LOS-ANGELE.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "From Franklin Field to the NFL: Philly Area Football Is Still Stealing the Show",
@@ -333,6 +313,86 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Sixers Bell Ringer: Sixers undone by Portland\u2019s blazing hot shooting",
+      "description": "Sixers Bell Ringer Season Standings:VJ Edgecombe \u2013 4Jaylen Brown \u2013 3.5Tyrese Maxey \u2013 3.5Joel Embiid \u2013 3LeBron James \u2013 1Anfernee Simons \u2013 1Dean Wade \u2013 1 The Philadelphia 76ers simply could not stop the red hot hands of the Portland Trail Blazers in a ",
+      "link": "",
+      "pubDate": "2026-11-23T22:21:18-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Sixers start hot, finish cold, buried by Blazers' threes in fourth loss of season",
+      "description": "Playing without Joel Embiid proved too challenging in the Sixers' loss to the Portland Trail Blazers on Monday.",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-76ers-trailblazers-lebron-james-joel-embiid-jaylen-brown-jabari-walker-dominick-barlow-nba/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 24 Nov 2026 02:24:54 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-24T010513Z_645225306_MT1USATODAY30435471_RTRMADP_3_NBA-PORTLAND-TR.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Blazers shoot the lights out as Embiid-less Sixers fall to 14-4",
+      "description": "We haven\u2019t seen them yet this year \u2014 do all Western Conference teams just never miss their three-pointers? The Sixers were blown out by the Trail Blazers 128-111 Monday as Portland made 45% of their threes on the night. After missing his last two gam",
+      "link": "",
+      "pubDate": "2026-11-23T21:24:35-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Eagles-Cowboys Week 12 injury report, with analysis",
+      "description": "Here's the Eagles-Cowboys injury report, with analysis.",
+      "link": "https://www.phillyvoice.com/eagles-cowboys-week-12-injury-report-analysis-2026/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Tue, 24 Nov 2026 00:06:34 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-08T171950Z_2038975103_MT1USATODAY30311418_RTRMADP_3_NFL-NEW-YORK-G.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Sixers-Trail Blazers: Game Discussion Thread",
+      "description": "Game Details When: Monday, November 23, 7 p.m. ETWhere: Xfinity Mobile Arena, Philadelphia, PAWatch: NBC Sports PhiladelphiaRadio: 97.5 The FanaticFollow: @LibertyBallers",
+      "link": "",
+      "pubDate": "2026-11-23T18:59:34-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Joel Embiid OUT (illness) for Monday vs. Trail Blazers",
+      "description": "Update: 5:50 p.m.: The Sixers have ruled out Embiid. They\u2019ll have to wait at least another game before playing with the full roster available. We have a Philadelphia 76ers injury report update for you from late Monday morning. Joel Embiid, who was no",
+      "link": "",
+      "pubDate": "2026-11-23T17:50:00-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Eagles issue estimated injury report ahead of Cowboys Thanksgiving game",
+      "description": "The Philadelphia Eagles issued their first official injury report of the week on Monday in advance of their Week 12 game against the Dallas Cowboys on Thanksgiving. Note that this report is an estimation because the team held a walkthrough in lieu of",
+      "link": "",
+      "pubDate": "2026-11-23T17:11:13-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Eagles-Steelers Film Review: The new changes looked so much better than the old offense",
+      "description": "I know the numbers are bad. Joe Milton completed 11 of 21 passes for 141 yards, and Saquon Barkley\u2019s 38-yard touchdown run was the offense\u2019s only score. The unit scored 13 points on its first three possessions, then managed only two field goals the r",
+      "link": "",
+      "pubDate": "2026-11-23T16:32:35-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
       "title": "Rick Tocchet may have coached his way off the hot seat",
       "description": "At one point this season, it felt like we were all just waiting for the announcement that the Philadelphia Flyers have relieved head coach Rick Tocchet of his duties. Whether it was the nine-game losing streak to open the season, or after the many ot",
       "link": "https://www.broadstreethockey.com/post/rick-tocchet-may-have-coached-his-way-off-the-hot-seat/",
@@ -361,16 +421,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/020225_SixersCeltics_ColleenClaggett-5344.jpg",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Joel Embiid questionable (illness) for Monday vs. Trail Blazers",
-      "description": "We have a Philadelphia 76ers injury report update for you from late Monday morning. Joel Embiid, who was not on the report previously, has appeared on the list as of 11:45 AM as questionable due to illness. Obviously the hope here is that it\u2019s nothin",
-      "link": "",
-      "pubDate": "2026-11-23T12:03:31-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Eagles News: Jeremiah Trotter Jr. and Jihaad Campbell lead inspired defensive effort",
@@ -433,8 +483,8 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "Recap: At Last! Eagles Beat the Steelers 19\u201316 At the Linc",
-      "description": "It\u2019s been all the way back to week 2 when the Eagles last posted a win. They are now 6\u20132 [] The post Recap: At Last! Eagles Beat the Steelers 19\u201316 At the Linc appeared first on Philadelphia Sports Nation.",
+      "title": "RECAP: At Last! Eagles Beat Steelers, 19\u201316",
+      "description": "It\u2019s been all the way back to Week 2 since the Eagles last won. They are now 6\u20132 all-time after [] The post RECAP: At Last! Eagles Beat Steelers, 19\u201316 appeared first on Philadelphia Sports Nation.",
       "link": "https://phlsportsnation.com/2026/11/23/recap-at-last-eagles-beat-the-steelers-19-16-at-the-linc/",
       "pubDate": "Mon, 23 Nov 2026 11:16:28 +0000",
       "author": "Michael Thomas Leibrandt",
@@ -483,16 +533,6 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "10 Eagles things I think I think following the win over the Steelers",
-      "description": "The Philadelphia Eagles won a football game! The result may not be want some fans wanted, but the seven-game losing streak is over. The Eagles secured a victory for the first time since September 20, beating the Pittsburgh Steelers in an ugly 19-16 v",
-      "link": "",
-      "pubDate": "2026-11-22T19:29:06-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Handing out 10 awards from the Eagles-Steelers game",
       "description": "The Philadelphia Eagles and Pittsburgh Steelers played a football game on Sunday. It will not remembered as one of the NFL's classics. And oh hey, the Eagles finally won one, snapping a seven game losing streak. As always, win or lose, we hand out 10",
       "link": "https://www.phillyvoice.com/handing-out-10-awards-eagles-steelers-game-2026/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -501,16 +541,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-22T203434Z_1353834260_MT1USATODAY30426942_RTRMADP_3_NFL-PITTSBURGH.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Eagles vs. Steelers: The good, the bad, and the ugly",
-      "description": "It looks like Nick Sirianni has his job for another week. It looks like the Eagles are heading towards a threepeat as NFC East champions, and another playoff run in 2026. Well, one of those statements may have a drop of truth to it after the Eagles s",
-      "link": "",
-      "pubDate": "2026-11-22T17:43:33-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "As Joel Embiid surges, Sixers 'really happy with the rebounds.' Can they finally blow a team out?",
@@ -533,16 +563,6 @@
       "source": "PhillyVoice Sixers"
     },
     {
-      "title": "Eagles-Steelers final score: Philadelphia snaps 7-game losing streak",
-      "description": "The Philadelphia Eagles are 3-7 after beating the Pittsburgh Steelers at Lincoln Financial Field on Sunday! Final score: 19 to 16. The seven-game losing streak is over! And Nick Sirianni finally has his first career win with the Eagles as home underd",
-      "link": "",
-      "pubDate": "2026-11-22T16:16:01-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Eagles-Steelers Week 11 report card: Dominant run game makes brief cameo",
       "description": "Grading the Eagles in their 19-16 win over the Steelers at the Linc in Week 11, ending their seven-game losing streak.",
       "link": "https://www.phillyvoice.com/eagles-steelers-week-11-report-card-recap-saquon-barkley-stats-analysis-joe-milton/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -551,16 +571,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-22T183610Z_1712588034_MT1USATODAY30425013_RTRMADP_3_NFL-PITTSBURGH.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "NFL Week 11 Late Games information and discussion",
-      "description": "Now that the Week 11 early games are over, it\u2019s time to take a look at your late-afternoon viewing options, featuring the Jacksonville Jaguars on the road against the New York Giants. You can [CLICK HERE] for a full Week 11 Eagles fan rooting guide. ",
-      "link": "",
-      "pubDate": "2026-11-22T16:04:00-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Eagles-Steelers Week 11 inactives, with analysis",
@@ -583,8 +593,8 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "The Single-Finger Stretch Strikes Again",
-      "description": "We completely get it, Nick. It wasn\u2019t an intentional move while walking off of the field at Lincoln Financial towards [] The post The Single-Finger Stretch Strikes Again appeared first on Philadelphia Sports Nation.",
+      "title": "The Single-Finger Stretch Strikes Again: Nick Sirianni, the Fans, and the Breaking Point",
+      "description": "We completely get it, Nick. It wasn\u2019t an intentional move while walking off of the field at Lincoln Financial towards [] The post The Single-Finger Stretch Strikes Again: Nick Sirianni, the Fans, and the Breaking Point appeared first on Philadelphia ",
       "link": "https://phlsportsnation.com/2026/11/22/the-single-finger-stretch-strikes-again/",
       "pubDate": "Sun, 22 Nov 2026 12:50:11 +0000",
       "author": "Michael Thomas Leibrandt",
@@ -741,26 +751,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/092826_SixersMediaDay_ColleenClaggett-6123.jpg",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Dominick Barlow probable, Jaylen Brown out for Sixers vs. Bucks",
-      "description": "Reinforcements are finally on their way for the Sixers. Dominick Barlow appears ready to make his season debut, as hes listed as probable for Saturdays game against the Milwaukee Bucks. Tony Jones of The Athletic reported earlier Friday that Barlow w",
-      "link": "",
-      "pubDate": "2026-11-20T17:20:44-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
-      "title": "Report: Dominick Barlow trending towards season debut vs. Bucks",
-      "description": "More frontcourt reinforcements! Tony Jones of the Athletic has reported that Dominick Barlow is trending towards making his 2026-27 season debut for the Sixers this Saturday against the Milwaukee Bucks. Jones reported earlier in the week that Barlow ",
-      "link": "",
-      "pubDate": "2026-11-20T12:54:05-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "Eagles-Steelers preview: 5 things to watch",
@@ -1131,16 +1121,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-24T173620Z_118775513_MT1USATODAY30172653_RTRMADP_3_NHL-ANAHEIM-D_aIHHXNi.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Full injury reports for Sixers-Celtics on Tuesday",
-      "description": "Tuesday's clash between the Sixers and Boston Celtics in Philadelphia is sure to draw a lot of attention.",
-      "link": "https://www.phillyvoice.com/sixers-vs-celtics-76ers-injury-report-news-analysis-adem-bona-dominick-barlow-jaylen-brown-jayson-tatum-chi/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 11 Nov 2026 19:16:42 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/092826_SixersMediaDay_ColleenClaggett-6159.jpg",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
     },
     {
       "title": "Report: Yankees interested in former Phillies third baseman Alec Bohm",

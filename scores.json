@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T21:46:32.054936+00:00",
+  "updated": "2026-11-24T05:38:29.335503+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -159,18 +159,6 @@
       "recent": [],
       "upcoming": [
         {
-          "date": "11/24",
-          "home": "PHI",
-          "away": "POR",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NBA",
-          "name": "Portland Trail Blazers at Philadelphia 76ers",
-          "shortName": "POR @ PHI",
-          "time": "8:00 PM ET",
-          "status": "scheduled"
-        },
-        {
           "date": "11/25",
           "home": "PHI",
           "away": "MIA",
@@ -228,6 +216,18 @@
           "name": "Denver Nuggets at Philadelphia 76ers",
           "shortName": "DEN @ PHI",
           "time": "7:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "12/13",
+          "home": "PHI",
+          "away": "ORL",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "Orlando Magic at Philadelphia 76ers",
+          "shortName": "ORL @ PHI",
+          "time": "7:30 PM ET",
           "status": "scheduled"
         }
       ]
