@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T10:36:03.618804+00:00",
+  "updated": "2026-11-25T20:15:44.248622+00:00",
   "count": 170,
   "articles": [
     {
@@ -21,6 +21,26 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-28T234042Z_487909328_MT1USATODAY30210071_RTRMADP_3_NHL-PHILADELPHI.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "Eagles News: Philadelphia ended Aaron Rodgers\u2019 career",
+      "description": "Welcome to The Linc, the daily Philadelphia Eagles news and links roundup at Bleeding Green Nation! Days after losing to the Eagles in Philly, Aaron Rodgers has been benched. On one hand, give Vic Fangio and his defense credit for doing their part to",
+      "link": "",
+      "pubDate": "2026-11-25T09:56:41-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Cam York\u2019s resurgence gives the Flyers a fascinating decision to make",
+      "description": "Cam York has been one of the most disappointing Flyers this season. While others had started to turn their seasons around Tyson Foerster and Owen Tippett, for example York had yet to find a breakthrough. With the team struggling, the 25-year-old defe",
+      "link": "https://www.broadstreethockey.com/post/cam-yorks-resurgence-gives-the-flyers-a-fascinating-decision-to-make/",
+      "pubDate": "Wed, 25 Nov 2026 13:00:00 +0000",
+      "author": "Evan Watson",
+      "thumbnail": "https://www.broadstreethockey.com/wp-content/uploads/sites/12/2026/11/Screen-Shot-2026-11-24-at-3.11.41-PM.png",
+      "team": "flyers",
+      "source": "Broad Street Hockey"
     },
     {
       "title": "Editor-in-chief mailbag: The good, the bad and the ugly",
@@ -63,16 +83,6 @@
       "source": "PhillyVoice"
     },
     {
-      "title": "Eagles coaches reportedly got in a scuffle during the Steelers game",
-      "description": "It wasnt just the players fighting on the field Sunday when the Eagles beat the Steelers, with tempers flaring on the sideline, too. According to PHLY Sports E.J. Smith, he witnessed and confirmed that there was tense moment during the third quarter ",
-      "link": "",
-      "pubDate": "2026-11-24T09:56:47-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Sixers mailbag: One ideal trade deadline target and players most likely to be dealt",
       "description": "Which players are the Sixers most likely to trade for, and which pieces are they most likely to trade away?",
       "link": "https://www.phillyvoice.com/sixers-news-76ers-analysis-nba-trade-deadline-rumors-jalen-smith-ariel-hukporti-justin-edwards-labaron-philon-jr/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -113,16 +123,6 @@
       "source": "PHL Sports Nation"
     },
     {
-      "title": "Takeaways: Flyers stumble to drama-filled 4-3 win over the Canadiens",
-      "description": "The Philadelphia Flyers blew two leads, including a two-goal lead, but came up huge late to defeat the host Montreal Canadiens 4-3, putting Philadelphia at 9-11-6, and 9-5-3 since their slump to start the year. The basics First period: 10:09- Christi",
-      "link": "https://www.broadstreethockey.com/post/takeaways-flyers-stumble-to-drama-filled-4-3-win-over-the-canadiens/",
-      "pubDate": "Sun, 22 Nov 2026 02:56:10 +0000",
-      "author": "Jason MacNeil",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "Sixers injury notes: Jaylen Brown and Tyrese Maxey latest, Dominick Barlow nearing season debut and more",
       "description": "Despite a slew of injuries, the Sixers mounted a character comeback win in Orlando on Wednesday. What is the latest on the players they missed?",
       "link": "https://www.phillyvoice.com/sixers-news-76ers-analysis-injury-update-report-tyrese-maxey-jaylen-brown-dean-wade-dominick-barlow-adem-bona/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -161,16 +161,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-19T010911Z_525648972_MT1USATODAY30369490_RTRMADP_3_NBA-PHILADELPHI.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "Are the Eagles the NFL's worst team?",
-      "description": "With just two wins and riding seven straight losses, are the Eagles the NFL's worst team? We sized them up against others.",
-      "link": "https://www.phillyvoice.com/are-eagles-nfl-worst-team-dolphins-titans-chargers-jets-rankings-stats-analysis/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 18 Nov 2026 15:17:50 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-19T140209Z_1645433481_MT1USATODAY30128853_RTRMADP_3_NFL-CAROLINA-P.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Japanese slugger Teruaki Sato, Phillies' 'object of serious affection,' could sign before Thanksgiving",
@@ -343,6 +333,146 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "What do the Sixers need this week to reach the NBA Cup Knockout Rounds?",
+      "description": "The Sixers do not control their own destiny en route to the NBA Cup Knockout Rounds. How can they make it out of Group Play?",
+      "link": "https://www.phillyvoice.com/sixers-news-76ers-analysis-nba-cup-scenarios-standings-group-b-knicks-cavaliers-heat-pacers-schedule-rumors/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 25 Nov 2026 18:55:41 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-31T003202Z_1435442565_MT1USATODAY30228968_RTRMADP_3_NBA-NEW-YORK-K.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Eagles-Cowboys Final Injury Report: Quinyon Mitchell will play in Dallas",
+      "description": "The Philadelphia Eagles issued their third and final official injury report of the week on Wednesday in advance of their Week 12 game against the Dallas Cowboys on Thanksgiving. The big news is that Quinyon Mitchell is listed without a game status. H",
+      "link": "",
+      "pubDate": "2026-11-25T13:20:48-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Eagles-Cowboys Week 12 injury report, with analysis",
+      "description": "Here's the Eagles-Cowboys injury report, with analysis.",
+      "link": "https://www.phillyvoice.com/eagles-cowboys-week-12-injury-report-analysis-2026/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 25 Nov 2026 18:06:12 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-08T171950Z_2038975103_MT1USATODAY30311418_RTRMADP_3_NFL-NEW-YORK-G.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles-Cowboys: Staff picks, betting odds, and more for the Turkey Day showdown",
+      "description": "Fresh off their first win since Week 2, the Eagles are seeking Thanksgiving revenge against their rivals, who thrashed them by 18 points in Round 1.",
+      "link": "https://www.phillyvoice.com/eagles-cowboys-week-12-thanksgiving-nfc-east-rivalry-betting-odds-week-12-dak-prescott-saquon-barkley/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 25 Nov 2026 17:40:51 +0000",
+      "author": "Geoff Mosher",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-27T011632Z_311320550_MT1USATODAY30193633_RTRMADP_3_NFL-DALLAS-COWB.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Eagles vs. Cowboys Game Preview: 5 questions and answers with the Thanksgiving enemy",
+      "description": "The Philadelphia Eagles can avoid being some real turkeys by beating the Dallas Cowboys on Thanksgiving. Fans would be very thankful to see a Birds win on Thursday. In order to preview this Week 12 NFC East battle, I reached out to our enemies over a",
+      "link": "",
+      "pubDate": "2026-11-25T12:34:00-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "3 reasons Flyers fans should still be thankful this season",
+      "description": "With the hustle and bustle of people using planes, trains, and automobiles to get back to family and friends for Thanksgiving, its time to take a look back at roughly the first third of the 2026-27 Philadelphia Flyers season and look on the bright si",
+      "link": "https://www.broadstreethockey.com/post/3-reasons-flyers-fans-should-still-be-thankful-this-season/",
+      "pubDate": "Wed, 25 Nov 2026 17:26:48 +0000",
+      "author": "Jason MacNeil",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Report: Alec Bohm signs with Royals, leaving Phillies third base situation uncertain",
+      "description": "After seven sometimes-turbulent seasons with the Phillies, third baseman Alec Bohm has reportedly found a new home.",
+      "link": "https://www.phillyvoice.com/report-alec-bohm-phillies-signs-royals-mlb-free-agency-third-base-rumors-news-updates/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 25 Nov 2026 16:13:53 +0000",
+      "author": "Geoff Mosher",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-30T213339Z_1259586072_MT1USATODAY29961343_RTRMADP_3_MLB-WILDCARD-P.JPG",
+      "team": "phillies",
+      "source": "PhillyVoice"
+    },
+    {
+      "title": "Eagles\u2019 offensive changes produced less than encouraging results",
+      "description": "The more things change, the more they stay the same. The Philadelphia Eagles made notable changes to their offense in Sunday\u2019s win over the Pittsburgh Steelers. Less play-action, more pistol. They changed up the basis of Sean Mannion\u2019s offense, as 84",
+      "link": "",
+      "pubDate": "2026-11-25T11:11:00-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Alec Bohm set to sign with Royals after seven seasons with Phillies, report says",
+      "description": "Infielder Alec Bohm\u2019s time with the Phillies is up after seven seasons. The former All-Star has agreed to a deal with the Kansas City Royals, MLB Network\u2019s Jon Morosi reported on Wednesday. Bohm, 30, batted .273 with a .735 OPS since debuting for the",
+      "link": "https://www.philliesnation.com/2026/11/alec-bohm-set-to-sign-with-royals-after-seven-seasons-with-phillies-report-says/",
+      "pubDate": "Wed, 25 Nov 2026 15:53:11 +0000",
+      "author": "Ty Daubert",
+      "thumbnail": null,
+      "team": "phillies",
+      "source": "Phillies Nation"
+    },
+    {
+      "title": "Tracking 2026-27 Sixers' buzzer-beaters, with a leaderboard and videos",
+      "description": "Consider this your one-stop shop for videos and numbers detailing the Sixers' penchant for end-of-clock shot-making.",
+      "link": "https://www.phillyvoice.com/sixers-news-76ers-analysis-highlights-buzzer-beaters-nba-lebron-james-tyrese-maxey-joel-embiid-jaylen-brown-vj-edgecombe/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 25 Nov 2026 15:28:06 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/110226_BullsSixers_ColleenClaggett-8310.jpg",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "Did the Eagles just end Aaron Rodgers' career?",
+      "description": "An embarrassing loss to a two-win Eagles team is poised to be the final game of a Hall of Fame-bound QB's career. What a season for the Birds.",
+      "link": "https://www.phillyvoice.com/eagles-aaron-rodgers-benched-career-hall-of-fame-steelers-nfl-news-report/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 25 Nov 2026 15:12:14 +0000",
+      "author": "Geoff Mosher",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-22T211126Z_796845039_MT1USATODAY30426920_RTRMADP_3_NFL-PITTSBURGH-.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
+      "title": "Why the Flyers\u2019 slow starts have become a season-long problem",
+      "description": "Throughout the first 26 games of the season, the Flyers have struggled to gain traction all over the ice, especially when it comes to outscoring their opponents.&#xA0; It&#x2019;s no secret that Rick Tocchet prefers to have his team play a more rigid",
+      "link": "https://www.broadstreethockey.com/post/why-the-flyers-slow-starts-have-become-a-season-long-problem/",
+      "pubDate": "Wed, 25 Nov 2026 15:00:00 +0000",
+      "author": "Jacob Russell",
+      "thumbnail": "https://www.broadstreethockey.com/wp-content/uploads/sites/12/2026/11/image-7.png",
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Sixers look to get back on track as they resume NBA cup play vs. Miami",
+      "description": "It appears the Sixers\u2019 next test without Joel Embiid will be a challenging one. Philadelphia hosts the Miami Heat the Wednesday before Thanksgiving, tipping off at 5 p.m. to start an entire evening of NBA Cup action. Miami leads Eastern Conference Gr",
+      "link": "",
+      "pubDate": "2026-11-25T09:09:21-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Eagles-Cowboys preview: 5 things to watch",
+      "description": "After losing seven straight, the Philadelphia Eagles finally won a football game! They didn't have long to savor it, as they'll be right back on the field in Dallas on Thanksgiving. Here are our five things to watch.",
+      "link": "https://www.phillyvoice.com/eagles-cowboys-preview-5-things-watch-2026/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 25 Nov 2026 13:48:48 +0000",
+      "author": "Jimmy Kempski",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-27T024144Z_415854830_MT1USATODAY30194961_RTRMADP_3_NFL-DALLAS-COWB.JPG",
+      "team": "eagles",
+      "source": "PhillyVoice Eagles"
+    },
+    {
       "title": "Eagles-Cowboys Week 12 odds preview: Can the Birds pull off two straight upsets in a four-day span?",
       "description": "After upsetting the Steelers at home on Sunday, can the Eagles repeat the feat on Thanksgiving in their rematch against heavily favored Dallas?",
       "link": "https://www.phillyvoice.com/eagles-cowboys-week-12-odds-preview-spread-money-lines-dak-prescott-joe-milton-ceedee-lamb-saquon-barkley/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -433,16 +563,6 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "Tracking 2026-27 Sixers' buzzer-beaters, with a leaderboard and videos",
-      "description": "Consider this your one-stop shop for videos and numbers detailing the Sixers' penchant for end-of-clock shot-making.",
-      "link": "https://www.phillyvoice.com/sixers-news-76ers-analysis-highlights-buzzer-beaters-nba-lebron-james-tyrese-maxey-joel-embiid-jaylen-brown-vj-edgecombe/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 24 Nov 2026 19:58:52 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/110226_BullsSixers_ColleenClaggett-8310.jpg",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
       "title": "NFL Playoff Picture: Which team is going to win the NFC East?",
       "description": "If you\u2019re rooting for the Philadelphia Eagles to make the playoffs, the good news is that the Philadelphia Eagles did their part to keep extremely slim postseason hopes alive by beating the Pittsburgh Steelers. The bad news is that every other team i",
       "link": "",
@@ -503,16 +623,6 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "Eagles News: \u201cBehind the scenes, there\u2019s been excitement about Byron Young\u201d",
-      "description": "Welcome to The Linc, the daily Philadelphia Eagles links roundup at Bleeding Green Nation! Could be cool to see more of BY\u2019s Thanos Infinity Gauntlet celebration this season. Vic Fangio has been a believer in him and Young took advantage of increased",
-      "link": "",
-      "pubDate": "2026-11-24T09:27:54-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Tuesday Morning Fly By: Some new things",
       "description": "*The Philadelphia Flyers have been winning some hockey games lately and finally, they are generating some scoring chances and some actually lead to goals. The offense has been the major concern for this team dating back to last season, so whats going",
       "link": "https://www.broadstreethockey.com/post/tuesday-morning-fly-by-some-new-things/",
@@ -553,16 +663,6 @@
       "source": "Liberty Ballers"
     },
     {
-      "title": "Eagles-Cowboys Week 12 injury report, with analysis",
-      "description": "Here's the Eagles-Cowboys injury report, with analysis.",
-      "link": "https://www.phillyvoice.com/eagles-cowboys-week-12-injury-report-analysis-2026/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Tue, 24 Nov 2026 00:06:34 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-08T171950Z_2038975103_MT1USATODAY30311418_RTRMADP_3_NFL-NEW-YORK-G.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
-    },
-    {
       "title": "Sixers-Trail Blazers: Game Discussion Thread",
       "description": "Game Details When: Monday, November 23, 7 p.m. ETWhere: Xfinity Mobile Arena, Philadelphia, PAWatch: NBC Sports PhiladelphiaRadio: 97.5 The FanaticFollow: @LibertyBallers",
       "link": "",
@@ -581,26 +681,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Eagles issue estimated injury report ahead of Cowboys Thanksgiving game",
-      "description": "The Philadelphia Eagles issued their first official injury report of the week on Monday in advance of their Week 12 game against the Dallas Cowboys on Thanksgiving. Note that this report is an estimation because the team held a walkthrough in lieu of",
-      "link": "",
-      "pubDate": "2026-11-23T17:11:13-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Eagles-Steelers Film Review: The new changes looked so much better than the old offense",
-      "description": "I know the numbers are bad. Joe Milton completed 11 of 21 passes for 141 yards, and Saquon Barkley\u2019s 38-yard touchdown run was the offense\u2019s only score. The unit scored 13 points on its first three possessions, then managed only two field goals the r",
-      "link": "",
-      "pubDate": "2026-11-23T16:32:35-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Rick Tocchet may have coached his way off the hot seat",
@@ -673,16 +753,6 @@
       "source": "PHL Sports Nation"
     },
     {
-      "title": "Monday Morning Fly By: More of a challenge",
-      "description": "*The Flyers rolled into the weekend with some momentum, and there was perhaps no individual player carrying more of it on his own than Travis Konecny, who had himself a massive showing on Thursday against the Senators. [BSH] *If you were watching on ",
-      "link": "https://www.broadstreethockey.com/post/monday-morning-fly-by-more-of-a-challenge/",
-      "pubDate": "Mon, 23 Nov 2026 11:00:00 +0000",
-      "author": "Madeline Campbell",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "Eagles Week 11 stock watch: Defensive depth steps up as tank job stalls",
       "description": "Is it time to buy just a little bit in Eagles stock just in case this team gets hot? Here's our weekly look at something good, and something bad from Week 11.",
       "link": "https://www.phillyvoice.com/eagles-week-11-stock-steelers-tank-draft-positioning-nfc-east-defense-byron-young-joe-milton-saquon-barkley/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
@@ -691,16 +761,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-22T184539Z_1583367246_MT1USATODAY30425025_RTRMADP_3_NFL-PITTSBURGH.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Rick Tocchet refused to back Dan Vladar, and it nearly cost the Flyers",
-      "description": "Its rare that you can pinpoint a moment in a game where the coach has a significant impact on the outcome of the contest. Sure, there are always the decisions of who to play when, what strategies to use, and plenty of other things that have an impact",
-      "link": "https://www.broadstreethockey.com/post/rick-tocchet-refused-to-back-dan-vladar-and-it-nearly-cost-the-flyers/",
-      "pubDate": "Mon, 23 Nov 2026 00:40:10 +0000",
-      "author": "Ryan Gilbert",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Handing out 10 awards from the Eagles-Steelers game",
@@ -753,16 +813,6 @@
       "source": "PhillyVoice Eagles"
     },
     {
-      "title": "Dominick Barlow\u2019s impact was felt immediately in his season debut",
-      "description": "The Sixers\u2019 latest win was another nail-biter. They barely escaped by a one-win Milwaukee Bucks team 132-129, catching multiple breaks in the last minute of the game to squeak out a victory. While the starters are still looking to put together that f",
-      "link": "",
-      "pubDate": "2026-11-22T09:35:16-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
       "title": "The Single-Finger Stretch Strikes Again: Nick Sirianni, the Fans, and the Breaking Point",
       "description": "We completely get it, Nick. It wasn\u2019t an intentional move while walking off of the field at Lincoln Financial towards [] The post The Single-Finger Stretch Strikes Again: Nick Sirianni, the Fans, and the Breaking Point appeared first on Philadelphia ",
       "link": "https://phlsportsnation.com/2026/11/22/the-single-finger-stretch-strikes-again/",
@@ -771,16 +821,6 @@
       "thumbnail": null,
       "team": "eagles",
       "source": "PHL Sports Nation"
-    },
-    {
-      "title": "Flyers prospects are already having an incredibly violent weekend",
-      "description": "Philadelphia Flyers prospect Maksim Sokolovskii is making up for lost time. The London Knights defenseman was injured in the first game of his OHL season this year, and returned to action on Friday night against the Soo Greyhounds. This was his first",
-      "link": "https://www.broadstreethockey.com/post/maksim-sokolovskii-shows-off-fighting-prowess-in-heavyweight-bout/",
-      "pubDate": "Sun, 22 Nov 2026 00:07:16 +0000",
-      "author": "Ryan Gilbert",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Eagles 'season from hell' tracker",
@@ -971,16 +1011,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-18T011405Z_724996657_MT1USATODAY30365872_RTRMADP_3_NHL-BUFFALO-SAB.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Three practice squad players around the NFL the Eagles should consider poaching",
-      "description": "The Eagles have had past success poaching players off of other teams' practice squads, notably when they added K Jake Elliott and RB Boston Scott. Two players currently on their 53 man roster \u2014 QB Joe Milton and RB Jaydon Blue \u2014 were poached off of t",
-      "link": "https://www.phillyvoice.com/three-practice-squad-players-around-nfl-eagles-should-consider-poaching-michael-trigg-red-murdock-bishop-fitzgerald/?utm_source=eagles&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 18 Nov 2026 16:05:43 +0000",
-      "author": "Jimmy Kempski",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-05-01T222703Z_1136354876_MT1USATODAY28855894_RTRMADP_3_NFL-DALLAS-COW.JPG",
-      "team": "eagles",
-      "source": "PhillyVoice Eagles"
     },
     {
       "title": "Phillies DH Kyle Schwarber wins another Silver Slugger",
@@ -1213,16 +1243,6 @@
       "source": "PhillyVoice Flyers"
     },
     {
-      "title": "Full injury report for Sixers-Raptors on Thursday",
-      "description": "So far this season, the Sixers have had their full starting lineup available nine times in 12 games.",
-      "link": "https://www.phillyvoice.com/sixers-vs-raptors-76ers-injury-report-news-analysis-lebron-james-updatepjoel-embiid-status-kawhi-leonard-nba/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 11 Nov 2026 22:09:49 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-11T010717Z_2113060803_MT1USATODAY30329316_RTRMADP_3_NBA-BOSTON-CEL.JPG",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
       "title": "For now, Matvei Michkov and the Flyers are shrugging off rumors: 'it's outside noise'",
       "description": "The past 24 hours haven't been nothing for Matvei Michkov and the Flyers, but for now, they're all downplaying the \"fresh start\" rumors around their star.",
       "link": "https://www.phillyvoice.com/flyers-matvei-michkov-trade-rumor-reactions-nick-seeler-rick-tocchet-kevin-weekes-report-nhl/?utm_source=flyers&utm_medium=rss&utm_campaign=pv-site",
@@ -1281,16 +1301,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-10T004405Z_68977756_MT1USATODAY30322976_RTRMADP_3_NHL-PHILADELPHIA.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
-    },
-    {
-      "title": "Phillies\u2019 Don Mattingly finishes in third place for NL Manager of the Year Award",
-      "description": "Phillies manager Don Mattingly, a finalist for the National League Manager of the Year Award, landed in third place behind a three-time winner. Mattingly finished in third place for the award, the Baseball Writers Association of America announced Tue",
-      "link": "https://www.philliesnation.com/2026/11/phillies-don-mattingly-finishes-in-third-place-for-nl-manager-of-the-year-award/",
-      "pubDate": "Wed, 11 Nov 2026 01:02:54 +0000",
-      "author": "Ty Daubert",
-      "thumbnail": null,
-      "team": "phillies",
-      "source": "Phillies Nation"
     },
     {
       "title": "Bob Boone, the Phillies' first World Series-winning catcher, dies at 78",
@@ -1619,16 +1629,6 @@
       "pubDate": "Thu, 15 Oct 2026 13:28:50 +0000",
       "author": "Evan Macy",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/USATSI_28323812.jpg",
-      "team": "phillies",
-      "source": "PhillyVoice"
-    },
-    {
-      "title": "Phillies extend manager Don Mattingly for two years",
-      "description": "If you wanted wholesale change for the Phillies next season, you're probably not getting what you wished for.",
-      "link": "https://www.phillyvoice.com/report-phillies-will-retain-manager-don-mattingly-mlb-rumors-news-latest-alex-cora-dave-dombrowski/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 14 Oct 2026 14:04:01 +0000",
-      "author": "Evan Macy",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-02T201309Z_683694365_MT1USATODAY29721416_RTRMADP_3_MLB-PHILADELPHI.JPG",
       "team": "phillies",
       "source": "PhillyVoice"
     },
