@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T20:15:44.248622+00:00",
+  "updated": "2026-11-26T03:15:04.813136+00:00",
   "count": 170,
   "articles": [
     {
@@ -21,6 +21,16 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-10-28T234042Z_487909328_MT1USATODAY30210071_RTRMADP_3_NHL-PHILADELPHI.JPG",
       "team": "flyers",
       "source": "PhillyVoice Flyers"
+    },
+    {
+      "title": "Sixers Bell Ringer: Vintage LeBron, VJ-Maxx produce non-clutch win vs. Heat, keep Cup chances alive",
+      "description": "Sixers Bell Ringer Season Standings:VJ Edgecombe \u2013 4Jaylen Brown \u2013 3.5Tyrese Maxey \u2013 3.5Joel Embiid \u2013 3LeBron James \u2013 2Anfernee Simons \u2013 1Dean Wade \u2013 1 Only fitting for LeBron James to have his best game as a Sixer against the Miami Heat. The King lo",
+      "link": "",
+      "pubDate": "2026-11-25T20:34:22-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
     },
     {
       "title": "Eagles News: Philadelphia ended Aaron Rodgers\u2019 career",
@@ -61,16 +71,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "NFL Mock Draft 2027: Eagles 7-round simulation, Version 2.0",
-      "description": "The Eagles notched their first win in two months on Sunday. However, the game didn\u2019t give much hope to the prospect of actually turning the season around. Unless they beat Dallas on Thursday, Philly is a team that should be looking ahead to the 2027 ",
-      "link": "",
-      "pubDate": "2026-11-24T11:09:46-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "eagles",
-      "source": "Bleeding Green Nation"
     },
     {
       "title": "Is a Trea Turner trade looming for the Phillies?",
@@ -333,6 +333,76 @@
       "source": "SportsTalk Philly"
     },
     {
+      "title": "Takeaways: Flyers win streak snapped resoundingly in Washington",
+      "description": "The Flyers, looking for their longest win streak in the Rick Tocchet era, traveled to the nations capital to face a reeling Washington team who cant keep the puck out of their own net. Theyd lost five in a row, all in regulation, and had given up 30 ",
+      "link": "https://www.broadstreethockey.com/post/takeaways-flyers-win-streak-snapped-resoundingly-in-washington/",
+      "pubDate": "Thu, 26 Nov 2026 03:03:29 +0000",
+      "author": "Evan Watson",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "LeBron James posts first triple-double, Tyrese Maxey dominates in Sixers' win over surging Heat",
+      "description": "Joel Embiid was unavailable and Jaylen Brown went down, but spectacular nights from LeBron James and Tyrese Maxey helped the Sixers snap the Heat's seven-game winning streak.",
+      "link": "https://www.phillyvoice.com/sixers-vs-heat-76ers-news-analysis-lebron-james-joel-embiid-status-update-tyrese-maxey-jaylen-brown-vj-edgecombe/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Thu, 26 Nov 2026 00:42:52 +0000",
+      "author": "Adam Aaronson",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-25T224803Z_709028080_MT1USATODAY30447650_RTRMADP_3_NBA-MIAMI-HEAT-.JPG",
+      "team": "sixers",
+      "source": "PhillyVoice Sixers"
+    },
+    {
+      "title": "LeBron triple-double, Maxey 30-piece lead Sixers over Heat",
+      "description": "The Philadelphia 76ers got back in the win column on Wednesday evening, taking down the visiting Miami Heat 111-104 in NBA Cup group play. Joel Embiid was ruled out for this one after having been doubtful on the injury report since yesterday because ",
+      "link": "",
+      "pubDate": "2026-11-25T19:33:50-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Eagles-Steelers Film Review: A very good defensive performance",
+      "description": "I enjoyed watching the defense this week! The Eagles played with the speed and conviction that have been missing at times this season. They were without Jordan Davis (obviously) and Zack Baun, and they faced a Pittsburgh offense that had been excelle",
+      "link": "",
+      "pubDate": "2026-11-25T18:26:55-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "eagles",
+      "source": "Bleeding Green Nation"
+    },
+    {
+      "title": "Sixers-Heat: Game Discussion Thread",
+      "description": "Game Details When:Wednesday, November 25, 5:00 p.m. ETWhere:Xfinity Mobile Arena, Philadelphia, PAWatch:ESPN, NBCSP/PCK-PHIRadio:97.5 The FanaticFollow:@LibertyBallers",
+      "link": "",
+      "pubDate": "2026-11-25T16:30:00-05:00",
+      "author": "",
+      "thumbnail": null,
+      "team": "sixers",
+      "source": "Liberty Ballers"
+    },
+    {
+      "title": "Flyers @ Capitals: How to watch, lineups, and gamethread",
+      "description": "The Philadelphia Flyers are visiting the Washington Capitals and its oddly a fairly important game in the standings, if we want to pay attention to that. Puck drop: 7:00 p.m.How to watch/listen:&#x1F4FA;: NBCSP&#x1F4FB;: 97.5 The Fanatic Pregame read",
+      "link": "https://www.broadstreethockey.com/post/flyers-capitals-how-to-watch-lineups-and-gamethread-6/",
+      "pubDate": "Wed, 25 Nov 2026 21:00:00 +0000",
+      "author": "Thomas Williams",
+      "thumbnail": null,
+      "team": "flyers",
+      "source": "Broad Street Hockey"
+    },
+    {
+      "title": "Report: Alec Bohm signs with Royals, leaving Phillies third base situation uncertain",
+      "description": "After seven sometimes-turbulent seasons with the Phillies, third baseman Alec Bohm has reportedly found a new home.",
+      "link": "https://www.phillyvoice.com/report-alec-bohm-phillies-signs-royals-mlb-free-agency-third-base-rumors-news-updates/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
+      "pubDate": "Wed, 25 Nov 2026 20:25:11 +0000",
+      "author": "Geoff Mosher",
+      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-30T213339Z_1259586072_MT1USATODAY29961343_RTRMADP_3_MLB-WILDCARD-P.JPG",
+      "team": "phillies",
+      "source": "PhillyVoice"
+    },
+    {
       "title": "What do the Sixers need this week to reach the NBA Cup Knockout Rounds?",
       "description": "The Sixers do not control their own destiny en route to the NBA Cup Knockout Rounds. How can they make it out of Group Play?",
       "link": "https://www.phillyvoice.com/sixers-news-76ers-analysis-nba-cup-scenarios-standings-group-b-knicks-cavaliers-heat-pacers-schedule-rumors/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
@@ -391,16 +461,6 @@
       "thumbnail": null,
       "team": "flyers",
       "source": "Broad Street Hockey"
-    },
-    {
-      "title": "Report: Alec Bohm signs with Royals, leaving Phillies third base situation uncertain",
-      "description": "After seven sometimes-turbulent seasons with the Phillies, third baseman Alec Bohm has reportedly found a new home.",
-      "link": "https://www.phillyvoice.com/report-alec-bohm-phillies-signs-royals-mlb-free-agency-third-base-rumors-news-updates/?utm_source=phillies&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Wed, 25 Nov 2026 16:13:53 +0000",
-      "author": "Geoff Mosher",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-30T213339Z_1259586072_MT1USATODAY29961343_RTRMADP_3_MLB-WILDCARD-P.JPG",
-      "team": "phillies",
-      "source": "PhillyVoice"
     },
     {
       "title": "Eagles\u2019 offensive changes produced less than encouraging results",
@@ -623,16 +683,6 @@
       "source": "Broad Street Hockey"
     },
     {
-      "title": "Tuesday Morning Fly By: Some new things",
-      "description": "*The Philadelphia Flyers have been winning some hockey games lately and finally, they are generating some scoring chances and some actually lead to goals. The offense has been the major concern for this team dating back to last season, so whats going",
-      "link": "https://www.broadstreethockey.com/post/tuesday-morning-fly-by-some-new-things/",
-      "pubDate": "Tue, 24 Nov 2026 11:00:00 +0000",
-      "author": "Thomas Williams",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
-    },
-    {
       "title": "Sixers Bell Ringer: Sixers undone by Portland\u2019s blazing hot shooting",
       "description": "Sixers Bell Ringer Season Standings:VJ Edgecombe \u2013 4Jaylen Brown \u2013 3.5Tyrese Maxey \u2013 3.5Joel Embiid \u2013 3LeBron James \u2013 1Anfernee Simons \u2013 1Dean Wade \u2013 1 The Philadelphia 76ers simply could not stop the red hot hands of the Portland Trail Blazers in a ",
       "link": "",
@@ -661,36 +711,6 @@
       "thumbnail": null,
       "team": "sixers",
       "source": "Liberty Ballers"
-    },
-    {
-      "title": "Sixers-Trail Blazers: Game Discussion Thread",
-      "description": "Game Details When: Monday, November 23, 7 p.m. ETWhere: Xfinity Mobile Arena, Philadelphia, PAWatch: NBC Sports PhiladelphiaRadio: 97.5 The FanaticFollow: @LibertyBallers",
-      "link": "",
-      "pubDate": "2026-11-23T18:59:34-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
-      "title": "Joel Embiid OUT (illness) for Monday vs. Trail Blazers",
-      "description": "Update: 5:50 p.m.: The Sixers have ruled out Embiid. They\u2019ll have to wait at least another game before playing with the full roster available. We have a Philadelphia 76ers injury report update for you from late Monday morning. Joel Embiid, who was no",
-      "link": "",
-      "pubDate": "2026-11-23T17:50:00-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
-    },
-    {
-      "title": "Rick Tocchet may have coached his way off the hot seat",
-      "description": "At one point this season, it felt like we were all just waiting for the announcement that the Philadelphia Flyers have relieved head coach Rick Tocchet of his duties. Whether it was the nine-game losing streak to open the season, or after the many ot",
-      "link": "https://www.broadstreethockey.com/post/rick-tocchet-may-have-coached-his-way-off-the-hot-seat/",
-      "pubDate": "Mon, 23 Nov 2026 20:26:54 +0000",
-      "author": "Thomas Williams",
-      "thumbnail": null,
-      "team": "flyers",
-      "source": "Broad Street Hockey"
     },
     {
       "title": "Joel Embiid downgraded to questionable for Sixers-Trail Blazers on Monday",
@@ -731,16 +751,6 @@
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-09-13T171715Z_1290921478_MT1USATODAY29811037_RTRMADP_3_NFL-CHICAGO-BE.JPG",
       "team": "eagles",
       "source": "PhillyVoice Eagles"
-    },
-    {
-      "title": "Sixers aim to extend win streak to six vs. Trail Blazers",
-      "description": "The Sixers just keep winning. It was too close for comfort in Saturday\u2019s contest, as their matchup against the last-place Bucks came down to the wire, but the Sixers still managed to come away with a 132-129 win. After a sluggish start, losing their ",
-      "link": "",
-      "pubDate": "2026-11-23T07:45:03-05:00",
-      "author": "",
-      "thumbnail": null,
-      "team": "sixers",
-      "source": "Liberty Ballers"
     },
     {
       "title": "RECAP: At Last! Eagles Beat Steelers, 19\u201316",
@@ -1219,16 +1229,6 @@
       "pubDate": "Fri, 13 Nov 2026 02:28:58 +0000",
       "author": "Adam Aaronson",
       "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-13T003900Z_2145165290_MT1USATODAY30346849_RTRMADP_3_NBA-TORONTO-RA.JPG",
-      "team": "sixers",
-      "source": "PhillyVoice Sixers"
-    },
-    {
-      "title": "LeBron James ruled out for Sixers-Raptors on Thursday",
-      "description": "LeBron James ruled out for Sixers-Raptors on Thursday",
-      "link": "https://www.phillyvoice.com/sixers-news-76ers-analysis-lebron-james-status-joel-embiid-update-scottie-barnes-adem-bona-dominick-barlow/?utm_source=sixers&utm_medium=rss&utm_campaign=pv-site",
-      "pubDate": "Thu, 12 Nov 2026 18:42:22 +0000",
-      "author": "Adam Aaronson",
-      "thumbnail": "https://media.phillyvoice.com/media/original_images/2026-11-11T010716Z_78645294_MT1USATODAY30329314_RTRMADP_3_NBA-BOSTON-CELTI.JPG",
       "team": "sixers",
       "source": "PhillyVoice Sixers"
     },

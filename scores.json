@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T20:15:44.248622+00:00",
+  "updated": "2026-11-26T03:15:04.813136+00:00",
   "scores": {
     "phillies": {
       "recent": [],
@@ -159,18 +159,6 @@
       "recent": [],
       "upcoming": [
         {
-          "date": "11/25",
-          "home": "PHI",
-          "away": "MIA",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NBA",
-          "name": "Miami Heat at Philadelphia 76ers",
-          "shortName": "MIA @ PHI",
-          "time": "6:00 PM ET",
-          "status": "scheduled"
-        },
-        {
           "date": "11/28",
           "home": "IND",
           "away": "PHI",
@@ -229,24 +217,24 @@
           "shortName": "ORL @ PHI",
           "time": "7:30 PM ET",
           "status": "scheduled"
+        },
+        {
+          "date": "12/15",
+          "home": "ORL",
+          "away": "PHI",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NBA",
+          "name": "Philadelphia 76ers at Orlando Magic",
+          "shortName": "PHI @ ORL",
+          "time": "7:00 PM ET",
+          "status": "scheduled"
         }
       ]
     },
     "flyers": {
       "recent": [],
       "upcoming": [
-        {
-          "date": "11/26",
-          "home": "SEA",
-          "away": "CHI",
-          "homeLogo": "",
-          "awayLogo": "",
-          "league": "NHL",
-          "name": "Chicago Blackhawks at Seattle Kraken",
-          "shortName": "CHI @ SEA",
-          "time": "10:40 PM ET",
-          "status": "scheduled"
-        },
         {
           "date": "11/27",
           "home": "CHI",
@@ -305,6 +293,18 @@
           "name": "Chicago Blackhawks at St. Louis Blues",
           "shortName": "CHI @ STL",
           "time": "8:00 PM ET",
+          "status": "scheduled"
+        },
+        {
+          "date": "12/7",
+          "home": "CHI",
+          "away": "EDM",
+          "homeLogo": "",
+          "awayLogo": "",
+          "league": "NHL",
+          "name": "Edmonton Oilers at Chicago Blackhawks",
+          "shortName": "EDM @ CHI",
+          "time": "7:00 PM ET",
           "status": "scheduled"
         }
       ]
